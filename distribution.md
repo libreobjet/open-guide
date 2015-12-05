@@ -6,11 +6,12 @@ Distribution
 Statement
 ---------------
 
-**Distribution** is one of the key feature of open source design. This is the main reason we attach an open license to an object, to encourage its distribution. Distribution is not only bringing a manufactured object from its production place to the consumer, it is also a feature of the object, a communication process, a dialogue between the designers, the builders and the users.
+**Distribution** is one of the key feature of open source design. This is the main reason we attach an open license to an object, to encourage its distribution. Distribution is not only bringing a manufactured object from its production facility to the consumer, it is also a feature of the object, a communication process, a dialogue between the designers, the builders and the users. In open source product design, distribution is the second step a creator has to take after choosing a license.
 
-So **Distribution** has to be thought from 2 interacting point of views:
+**Distribution** has to be thought from 2 interacting point of views:
  - The physical 
  - The dialogue 
+
 
 Tools
 -------

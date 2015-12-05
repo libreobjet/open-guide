@@ -1,7 +1,10 @@
-Open Guide Open Objects
+Open Guide into Open Objects
+======================
+
+http://comunidad.medialab-prado.es/en/groups/open-guide-open-objects
 
 Links pad sections
-==============
+---------------------------
 
 - [Definitions]( https://mathieugabiot.titanpad.com/30 )
 - [Licenses]( https://mathieugabiot.titanpad.com/31 )
@@ -12,12 +15,15 @@ Links pad sections
 - [Meta/Links]( https://mathieugabiot.titanpad.com/39 )
 
 
-Title Book
-========
-Propositions for title of the book.
+Title of the book
+-----------------------
+
+Propositions for the title of the book.
 
 - Open Guide into Open Objects
 - Whers is your FUCKING Licence?
 - WHY a Licence for Object? or WHY a Licence for Open Object?
 - Step into Open Source Product Design
+
+
 

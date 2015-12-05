@@ -8,14 +8,17 @@ Statement
 ----------------
 
 **Copyright**: *Copyright is a legal right created by the law of a country that grants the creator of an original work exclusive rights for its use and distribution. This is usually only for a limited time. The exclusive rights are not absolute but limited by limitations and exceptions to copyright law, including fair use.
-Copyright is a form of intellectual property, applicable to certain forms of creative work. Under US copyright law, legal protection attaches only to fixed representations in a tangible medium. It is often shared among multiple authors, each of whom holds a set of  rights to use or license the work, and who are commonly referred to as rightsholders. These rights frequently include reproduction, control over derivative works, distribution, public performance, and "moral rights" such as attribution.
-Copyrights are considered territorial rights, which means that  they do not extend beyond the territory of a specific jurisdiction.  While many aspects of national copyright laws have been standardized  through international copyright agreements, copyright laws vary by country.*
+Copyright is a form of intellectual **property**, applicable to certain forms of **creative work**. Under US copyright law, legal protection attaches only to fixed representations in a tangible medium. It is often shared among multiple authors, each of whom holds a set of  rights to use or license the work, and who are commonly referred to as rightsholders. These rights frequently include reproduction, control over derivative works, distribution, public performance, and "moral rights" such as attribution.
+Copyrights are considered **territorial rights**, which means that  they do not extend beyond the territory of a specific jurisdiction.  While many aspects of national copyright laws have been standardized  through international copyright agreements, copyright laws vary by country.* 
+[URL Wikipedia](https://en.wikipedia.org/wiki/Copyright)
 
-**Copyleft**:
-
+**Copyleft**: *Copyleft (a play on the word copyright) is the practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in derivative works down the line.
+Copyleft is a form of licensing, and can be used to maintain copyright conditions for works ranging from computer software, to documents, to art.  In general, copyright law is used by an author to prohibit recipients  from reproducing, adapting, or distributing copies of their work. In  contrast, under copyleft, an author may give every person who receives a  copy of the work permission to reproduce, adapt,  or distribute it, with the accompanying requirement that any resulting  copies or adaptations are also bound by the same licensing agreement.
+Copyleft licenses for software **require that information necessary for  reproducing and modifying the work must be made available to recipients  of the binaries**. The source code files will usually contain a copy of the license terms and acknowledge the authors.*
+[URL Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
 **Open Hardware**:
 
-**Open Source**:
+**Open Source**: *In production and development, open source as a development model promotes universal access via a free license  to a product's design or blueprint, and universal redistribution of  that design or blueprint, including subsequent improvements to it by  anyone.* [URL Wikipedia](https://en.wikipedia.org/wiki/Open_source)
 
 **Licence**:  The noun license refers to that permission as well as to the document recording that permission. A license may be granted by a party ("licensor") to another party ("licensee") as an element of an agreement between those parties. A shorthand definition of a license is "an authorization (by the licensor) to use the licensed material (by the licensee)."
 [URL Wikipedia](https://en.wikipedia.org/wiki/License)
@@ -24,7 +27,7 @@ Copyrights are considered territorial rights, which means that  they do not exte
 
 **Property**: *In the abstract, property is that which belongs to or with  something, whether as an attribute or as a component of said thing. In  the context of this article, property is one or more components (rather  than attributes), whether physical or incorporeal, of a person's estate; or so belonging to, as in being owned by, a person or jointly a group of people or a legal entity like a corporation or even a society. (Given such meaning, the word property is uncountable,  and as such, is not described with an indefinite article or as plural.)  Depending on the nature of the property, an owner of property has the  right to consume, **alter**, **share**, **redefine**, rent, mortgage, pawn, sell, exchange, transfer, give away or destroy it, or to exclude others from doing these things, as well as to perhaps abandon it; whereas regardless of the nature of the property, the owner thereof has the right to properly use it (as a durable, mean or factor, or whatever), or at the very least exclusively keep it.*  [URL Wikipedia](https://en.wikipedia.org/wiki/Property)
 
-**Do it yourself**:
+**Do it yourself**: *The practice of doing home improvements and maintenance oneself rather than employing a professional* [URL Wiktionary](https://en.wiktionary.org/wiki/do_it_yourself)
 
 **Maker**:
 
