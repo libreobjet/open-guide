@@ -6,6 +6,54 @@ Motivation
 Statement
 ---------------
 
+Design for human.
+
+- What we learn at school, about protection of design: patent, Industrial design right (model and drawings deposit), a bit of author's rights, 
+ISSUE : time limit, cost, territory limit
+
+- Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order
+ISSUE : limited time of use, unreparability, waste, capitalism
+
+- Copy: The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such ascopyright law.
+ISSUE : illegal copy impossible to control (Grcic chair chinese's copy > http://www.alibaba.com/product-detail/replica-magis-chair-one-by-Konstantin_60139375703.html)
+
+Designer as a creator, artist, all about starting from scratch:
+inspiration, citation, some words to about references, kind of forking 
+designer inspired by another but a bit stress about the fact his design is new and different not a copy and infringe the authour's right. The limit of derivation in the classic copyrigth in design. 
+examples of allowed derivation > 
+Original: le corbusier LC2, edited by Cassina) http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 
+Doshi Levien, edited by Moroso
+(http://www.doshilevien.com/projects/chandigarh/
+examples of similar design > 
+Norman Foster vs Ikea
+http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
+
+related issue : http://www.ikeahackers.net/about
+"Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
+Long story short, after much negotiation between their agent and my lawyer, I am allowed to keep the domain name IKEAhackers.net only on the condition that it is non-commercial, meaning no advertising whatsoever.
+I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo reluctant to give it up. I love this site’s community and what we have accomplished in the last 8 years. Secondly, I don’t have deep enough pockets to fight a mammoth company in court."
+
+Read more at
+http://www.ikeahackers.net/2014/06/big-changes-coming-to-ikeahackers.html
+
+'Mental Image' of design :
+luxury, ellitist, cheap, 
+
+"Recuperation by collector" (I dont't if it's the right thing for that)
+Original social design initiatives in the past like furnitures of Gerrit Rietveld, Enzo Mari, Jean Prouvé, some product of Bauhaus, become now masterpiece because of the "rarity" of these objects. A Jean Prouvé's school desk is about 3000€ on the art market
+(https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/)
+
+Designed localy, fabricated far away
+branding about great design by famous designers, fabrication on the other planet side to limit cost for end user but mainly to keep an interessant and comfortable margin for the producer
+
+Exciting about technology
+third industry revolution, 3d printing at home , cnc, laser cutter and other tools availables close to your living place, share everything, 
+to print what? star wars stuff, Justin Bebber dildo (http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html),  a gun (http://www.extremetech.com/extreme/142265-the-first-open-source-3d-printed-gun)
+
+
+Back to the source, taking care of human
+learn more about tradition, existing design, not to rethink always the wheel, 
+
 keywords
 Obsolescence, waste, vernacular, adaptability, control, tactics, democratisation, unfinished, modifying, sharing, useful or not, ecology, forking, necessity, resilience, adapting, amatorism,  education, experimentation, starting from zero, appropriation, remixing, weapons, sextoys, remixing, upcycling...
 
@@ -63,6 +111,7 @@ http://www.cucula.org/en/enzo-mari/
 Fresh news:
 *Modernist designer Enzo Mari has given Berlin-based CUCULA the rights to redesign and sell his Autoprogettazione furniture to raise funds for its refugee support programme*
 http://www.dezeen.com/2015/11/16/enzo-mari-autoprogettazione-furniture-reproduction-berlin-refugee-organisation-cucula-humanitarian-design/
+This should be used in the economic section as an example
 
 **Gerrit Rietveld**
 was a Dutch furniture designer and architect. One of the principal members of the Dutch artistic movement called De Stijl, Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House
