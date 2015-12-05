@@ -6,6 +6,6 @@ wget -q https://mathieugabiot.titanpad.com/ep/pad/export/32/latest?format=txt -O
 wget -q https://mathieugabiot.titanpad.com/ep/pad/export/33/latest?format=txt -O distribution.md
 wget -q https://mathieugabiot.titanpad.com/ep/pad/export/34/latest?format=txt -O economics.md
 wget -q https://mathieugabiot.titanpad.com/ep/pad/export/35/latest?format=txt -O designing.md
-wget -q https://mathieugabiot.titanpad.com/ep/pad/export/39/latest?format=txt -O links.md
+wget -q https://mathieugabiot.titanpad.com/ep/pad/export/39/latest?format=txt -O README.md
 
 echo "Done."
