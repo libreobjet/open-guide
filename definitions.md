@@ -1,12 +1,15 @@
 Open Guide Open Objects
 
+
 Definitions
 ========
 
 Statement
 ----------------
 
-**Copyright**:
+**Copyright**: *Copyright is a legal right created by the law of a country that grants the creator of an original work exclusive rights for its use and distribution. This is usually only for a limited time. The exclusive rights are not absolute but limited by limitations and exceptions to copyright law, including fair use.
+Copyright is a form of intellectual property, applicable to certain forms of creative work. Under US copyright law, legal protection attaches only to fixed representations in a tangible medium. It is often shared among multiple authors, each of whom holds a set of  rights to use or license the work, and who are commonly referred to as rightsholders. These rights frequently include reproduction, control over derivative works, distribution, public performance, and "moral rights" such as attribution.
+Copyrights are considered territorial rights, which means that  they do not extend beyond the territory of a specific jurisdiction.  While many aspects of national copyright laws have been standardized  through international copyright agreements, copyright laws vary by country.*
 
 **Copyleft**:
 
@@ -14,25 +17,33 @@ Statement
 
 **Open Source**:
 
-**Licence**:  The noun license refers to that permission as well as to the document recording that permission.
+**Licence**:  The noun license refers to that permission as well as to the document recording that permission. A license may be granted by a party ("licensor") to another party ("licensee") as an element of an agreement between those parties. A shorthand definition of a license is "an authorization (by the licensor) to use the licensed material (by the licensee)."
+[URL Wikipedia](https://en.wikipedia.org/wiki/License)
 
 **Author**: *An author is broadly defined as "the person who originated or  gave existence to anything" and whose authorship determines **responsibility** for what was created.* [URL Wikipedia](https://en.wikipedia.org/wiki/Author)
 
-**Property**:
+**Property**: *In the abstract, property is that which belongs to or with  something, whether as an attribute or as a component of said thing. In  the context of this article, property is one or more components (rather  than attributes), whether physical or incorporeal, of a person's estate; or so belonging to, as in being owned by, a person or jointly a group of people or a legal entity like a corporation or even a society. (Given such meaning, the word property is uncountable,  and as such, is not described with an indefinite article or as plural.)  Depending on the nature of the property, an owner of property has the  right to consume, **alter**, **share**, **redefine**, rent, mortgage, pawn, sell, exchange, transfer, give away or destroy it, or to exclude others from doing these things, as well as to perhaps abandon it; whereas regardless of the nature of the property, the owner thereof has the right to properly use it (as a durable, mean or factor, or whatever), or at the very least exclusively keep it.*  [URL Wikipedia](https://en.wikipedia.org/wiki/Property)
 
 **Do it yourself**:
 
 **Maker**:
 
-**Hacker**: *1. A person who enjoys exploring the details of programmable systems    and how to stretch their capabilities, as opposed to most users, who prefer    to learn only the minimum necessary.  RFC1392, the Internet    Users' Glossary, usefully amplifies this as: A person who    delights in having an intimate understanding of the internal workings of a    system, computers and computer networks in particular.* [http://www.catb.org/jargon/html/H/hacker.html](URL The Jargon File)
+**Hacker**: *1. A person who enjoys exploring the details of programmable systems    and how to stretch their capabilities, as opposed to most http://www.collinsdictionary.com/dictionary/english/stealusers, who prefer    to learn only the minimum necessary.  RFC1392, the Internet    Users' Glossary, usefully amplifies this as: A person who    delights in having an intimate understanding of the internal workings of a    system, computers and computer networks in particular.* [URL The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
 
-*6. An expert or enthusiast of any kind.  One might be an astronomy    hacker, for example.* [http://www.catb.org/jargon/html/H/hacker.html](URL The Jargon File)
+*6. An expert or enthusiast of any kind.  One might be an astronomy    hacker, for example.* [URL The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
 
-*7. One who enjoys the intellectual challenge of creatively    overcoming or circumventing limitations.* [http://www.catb.org/jargon/html/H/hacker.html](URL The Jargon File)
+*7. One who enjoys the intellectual challenge of creatively    overcoming or circumventing limitations.* [URL The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
 
-Professional:
+**Steal**: *to take (something) from someone, etc without **permission** or unlawfully, esp in a secret manner* [URL Collins Dictionary] (http://www.collinsdictionary.com/dictionary/english/steal)
 
-Amateur:
+
+**Professional**: *A professional is a member of a profession  or any person who earns their living from a specified activity. The  term also describes the **standards** of education and training that prepare  members of the profession with the particular **knowledge** and **skills**  necessary to perform the role of that profession. In addition, most  professionals are subject to strict codes of conduct enshrining rigorous  ethical and moral obligations*  [URL Wikipedia](https://en.wikipedia.org/wiki/Professional)*
+
+**Amateur**: *An amateur (French amateur  "lover of", from Old French and ultimately from Latin amatorem nom.  amator, "lover") is generally considered a person attached to a  particular pursuit, study, or science in a non-professional or unpaid manner. Amateurs often have little or no formal training in their pursuits, and many are autodidacts (self-taught).* [URL Wikipedia](https://en.wikipedia.org/wiki/Amateur)
+
+**Product design**: *as a verb is the process of creating a new product to be sold by a business to its customers. A very broad concept, it is essentially the efficient and effective  generation and development of ideas through a process that leads to new  products* [URL Wikipedia](https://en.wikipedia.org/wiki/Product_design)
+
+
 
 
 Tools

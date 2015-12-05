@@ -12,6 +12,7 @@ Tools
 -------
 
 **Free Art License**
+[URL FAL page](http://artlibre.org/licence/lal/en/)
 **Creative Commoinmmons**
 **TAPR License**
 **CERN**
