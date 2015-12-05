@@ -24,10 +24,10 @@ Tools
 
 Objects
 -----------
-- [Modulus](http://mmodulus.com/) > 
+- [Modulus](http://mmodulus.com/ ) 
 - LibreObjet > worshops, talks...
 - Nonpareil > *autour du trait* 
-- [Opendesk](https://www.opendesk.cc/)
+- [Opendesk](https://www.opendesk.cc/ )
 
 References
 ----------------

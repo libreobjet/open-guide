@@ -8,11 +8,14 @@ Statement
 ----------------
 
 **Copyright**: *Copyright is a legal right created by the law of a country that grants the creator of an original work exclusive rights for its use and distribution. This is usually only for a limited time. The exclusive rights are not absolute but limited by limitations and exceptions to copyright law, including fair use.
+
 Copyright is a form of intellectual **property**, applicable to certain forms of **creative work**. Under US copyright law, legal protection attaches only to fixed representations in a tangible medium. It is often shared among multiple authors, each of whom holds a set of  rights to use or license the work, and who are commonly referred to as rightsholders. These rights frequently include reproduction, control over derivative works, distribution, public performance, and "moral rights" such as attribution.
+
 Copyrights are considered **territorial rights**, which means that  they do not extend beyond the territory of a specific jurisdiction.  While many aspects of national copyright laws have been standardized  through international copyright agreements, copyright laws vary by country.* 
 [URL Wikipedia](https://en.wikipedia.org/wiki/Copyright)
 
 **Copyleft**: *Copyleft (a play on the word copyright) is the practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in derivative works down the line.
+
 Copyleft is a form of licensing, and can be used to maintain copyright conditions for works ranging from computer software, to documents, to art.  In general, copyright law is used by an author to prohibit recipients  from reproducing, adapting, or distributing copies of their work. In  contrast, under copyleft, an author may give every person who receives a  copy of the work permission to reproduce, adapt,  or distribute it, with the accompanying requirement that any resulting  copies or adaptations are also bound by the same licensing agreement.
 Copyleft licenses for software **require that information necessary for  reproducing and modifying the work must be made available to recipients  of the binaries**. The source code files will usually contain a copy of the license terms and acknowledge the authors.*
 [URL Wikipedia](https://en.wikipedia.org/wiki/Copyleft)

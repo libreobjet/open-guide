@@ -11,6 +11,12 @@ Statement
 **Distribution** has to be thought from 2 interacting point of views:
  - The physical 
  - The dialogue 
+ 
+ ### Documentation
+ We are thinking that an open source object have to be documented to be really "Open".
+ It's not just apply a licennce one it.
+ So it's really important to design an instruction manual, 2d and 3d files, licences, photos... 
+ In other words, all the documents you need to copy and modify the product easily.
 
 
 Tools
@@ -20,19 +26,12 @@ Tools
  - Instruction manuals / schemas
  - Open standards
  - file sharing
- - upload / Download 2d, 3d
- We are thinking that an open source object have to be docuented to be really "Open".
- It's not just apply a licennce one it.
- So it's really important to design an instruction manual, 2d and 3d files, licences, photos... 
- In other words, all the documents you need to copy and modify the product easily.
- 
-
+ - upload / Download
  - wiki
  - Fablabs/Makerspaces
  - Local manufacturer
-  
 - distributed versioning
-- teaching / education
+- **Teaching / Education** is a good way to share projects and ideas.
 
 Objects
 -----------

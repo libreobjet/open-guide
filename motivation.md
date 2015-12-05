@@ -52,7 +52,13 @@ to print what? star wars stuff, Justin Bebber dildo (http://www.makerlove.com/Fr
 
 
 Back to the source, taking care of human
-learn more about tradition, existing design, not to rethink always the wheel, 
+Learn more about tradition, existing design, not to rethink always the wheel, don't focus your design about revenue but more about service. 
+Choosing opensource way/idea you can rely on a community for help, for co-working, to remix, aware with the copying, just think that a real copy does'nt really exist, because of the materials or the tools you use to remake an object.
+You can be more close to your final users and get a objective feedback on your design.
+Final user can also help you by providing positive returned experiences, because you allow him/her to improve the object. 
+You can keep control on your design regarding copyright, because with the copyleft attitude, the exclusive appropriation is not possible. For example, if you design a chair with an opensource license, Ikea can be interested to produce and sell your design, but only with the same conditions as defined by the license. That means, you or another compagny can also sell or distribute your design. A totally different way of the traditional exclusive distributing design. Compagny might be not interested by selling product also distributing by a competitor.
+Your design can be more spread around the world and give the opportunity to use or adapt it for people in developing countries for example. This is about democratisation.
+
 
 keywords
 Obsolescence, waste, vernacular, adaptability, control, tactics, democratisation, unfinished, modifying, sharing, useful or not, ecology, forking, necessity, resilience, adapting, amatorism,  education, experimentation, starting from zero, appropriation, remixing, weapons, sextoys, remixing, upcycling...

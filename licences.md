@@ -40,22 +40,23 @@ Tools
 -------
 
 - [Free Art License](http://artlibre.org/licence/lal/en/ ) This is the prefered license used by Libre Objet members and Nonpareil. This license has been written by Antoine Moreau and friends and has originated in France. The F.A.L. is very easy to read and simple to understand. It has been written especially for works of art regardless of their type or expression and is respectful of the roman version of the author's right (as opposed to the english copyright)
-- [Creative Commons](https://creativecommons.org/licenses/ ) Surprise, surprise! Creative Commons is not a license. **It's a set of licenses**. We often hear: "I publish my creations under Creative Commons." as this would instantly make you a nice person. It does not. Creative Commons proposes licenses that range from total freedom to no freedom at all. Fortunately, due to their popularity, you will find countless texts and studies that explain you the use of one or the other. Their widely use could be beneficial as more and more people understand them and their implications. If you care about restricting some right to your users, Creative Commons offer you those possibilities. Though remember, because of this, some of the Creative Commons licences are not open source. Here is the ones that are open source:  
+- [Creative Commons](https://creativecommons.org/licenses/ ) Surprise, surprise! Creative Commons is not a license. **It's a set of licenses**. We often hear: "I publish my creations under Creative Commons." as this would instantly make you a nice person. It does not. Creative Commons proposes licenses that range from total freedom to no freedom at all. Fortunately, due to their popularity, you will find countless texts and studies that explain you the use of one or the other. Their widely use could be beneficial as more and more people understand them and their implications. If you care about restricting some right to your users, Creative Commons offer you those possibilities. Though remember, because of this, some of the Creative Commons licences are not open source. Here is the only ones that you can use for open source designs:  
     - Attribution-Share Alike (CC-by-sa)
     - Attribution (CC-by)
     - Public Domain Dedication (CC0)
-- [TAPR License]()
-- [CERN]()
-- [GPL]()
-- [Peer Production License](http://p2pfoundation.net/Peer_Production_License ) by Dmytri Kleiner
-- [FabL](https://lite6.framapad.org/p/FABL-0.1-incub-COMMENTAIRES )
+- [TAPR License](http://www.tapr.org/ohl.html ) The Tapr Open Hardware License is a license dedicated to open hardware rnojects, usually electronics components involved in amateur radlio. This license could be applied to any objects and addresses the specificity of open sourcing physical object.
+- [CERN](http://www.ohwr.org/projects/cernohl/wiki )
+- [GPL](https://gnu.org/licenses/gpl.html ) The Gnu General Public License is the mother of all open source license. It was created by Richard Stallman and has been used and released as early as 1989. This license is certainly the most popular license for free/libre and open source software, but it can also apply to the designs of objects.
+- [WTFPL](http://www.wtfpl.net/ ) The "do What The Fuck you want Public License" is a very short and somewhat funny license that exists as a response to flame wars that often occur between partisans of one license or another.
+- [Peer Production License](http://p2pfoundation.net/Peer_Production_License ) by John Magyar, B.A., J.D. and Dmytri Kleiner is a very interesting take at the commercial / non-commercial debate that happens around open source product design. Basically, it can not be considered an open source license as it restricts freedoms on uses and distribution allowing only other commoners, cooperatives and nonprofits to share and re-use the material, but not commercial entities who intent on making profit through the commons without explicit reciprocity. To our knowledge so far, no designs have been released under this type of license.
+- [FabL](https://lite6.framapad.org/p/FABL-0.1-incub-COMMENTAIRES ) is a new license − in the making − especially dedicated to the cases brought by growing popularity of fablabs and open source design. This license is being developped around the same community that developped the Free Art License. 
 
 Objects
 -----------
 
-- Mmodulus (CERN license)
-- Bouctje (Free Art License)
-
+- Mmodulus  (CERN license)
+- Bouctje by Mathieu Gabiot (Free Art License)
+- [MicroHouse](http://opensourceecology.org/portfolio/microhouse/ ) by Open Source Ecology (GPL License)
 
 References
 ----------------
