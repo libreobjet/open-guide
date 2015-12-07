@@ -99,7 +99,7 @@ Skils / Knowledge
 *is a paradigm in design where the relationship between elements are used  to manipulate and inform the design of complex geometries and  structures.* https://en.wikipedia.org/wiki/Parametric_design
 
 image source : https://www.flickr.com/photos/eager/13614572614/in/photolist-qifQQT-qzwM1c-qihunx-pCWgpH-qi8Rrq-qxqnCu-qihu1k-qzCG61-qxqnzJ-qi9xM7-qihsNR-qi8R65-qihsXP-pCWhBc-pCGUk5-qihttZ-qzwN9K-qxqmRj-qi8S11-mK3tGM-mK3rER-mK3urF-mK3t42-mK5h2Y-mK3pQ8-mK5f7A-mK5dUL-mK5d4Y-mK3wpD-mK5iFu-mK3wmz-mK3yJ8-mK5hrq-dxzXMu-9UVoLE-aoH6tk-aoH6hV-aoH6nZ-aoKQrS-5AhkAm-ncuMtD-nUkGJM-5AhkA3-5AhkAd-5AhkzW-5AhkAj-pedNPo-6yUh2E-a1FL3k-7LyVWw
-![創盟國際-cc-by](Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
+![創盟國際-cc-by](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
 
 - Vector graphics:
 *is the use of geometrical primitives such as points, lines, curves, and shapes or polygons—all of which are based on mathematical expressions—to represent images in computer graphics.  Vector graphics are based on vectors (also called paths), which lead  through locations called control points or nodes. Each of these points  has a definite position on the x and y axes of the work plane and  determines the direction of the path; further, each path may be assigned  a stroke color, shape, thickness, and fill. These properties don't  increase the size of vector graphics files in a substantial manner, as  all information resides in the document's structure, which describes  solely how the vector should be drawn.* https://en.wikipedia.org/wiki/Vector_graphics#Standards
