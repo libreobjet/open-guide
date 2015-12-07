@@ -21,6 +21,14 @@
      id="defs4">
     <inkscape:path-effect
        effect="spiro"
+       id="path-effect4802"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4798"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
        id="path-effect4751"
        is_visible="true" />
     <inkscape:path-effect
@@ -375,9 +383,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="660.41874"
-     inkscape:cy="677.98739"
+     inkscape:zoom="0.35"
+     inkscape:cx="1758.7427"
+     inkscape:cy="695.83219"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false" />
@@ -982,7 +990,31 @@
            height="71.428574"
            x="-23.571428"
            y="158.07649" /></flowRegion><flowPara
-         id="flowPara4348-6-1">Gerrit Rietveld</flowPara></flowRoot>  </g>
+         id="flowPara4348-6-1">Gerrit Rietveld</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/mathieu/Dropbox/libre-objet/Medialab-Prado/images/shaker-bench.jpg"
+       id="image4789"
+       xlink:href="file:///home/mathieu/Dropbox/libre-objet/Medialab-Prado/images/shaker-bench.jpg"
+       preserveAspectRatio="none"
+       height="405"
+       width="540"
+       transform="translate(1071.0858,194.33778)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 665.69053,359.39756 11.11168,35.86041 486.38849,-0.50507 11.1116,-36.87057 -509.11685,-2.02031 0.50508,3.53554 z"
+       id="path4796"
+       inkscape:path-effect="#path-effect4798"
+       inkscape:original-d="m 665.69053,359.39756 11.11168,35.86041 486.38849,-0.50507 11.1116,-36.87057 -509.11685,-2.02031 z"
+       inkscape:connector-curvature="0"
+       transform="translate(422.85714,-134.28571)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 678.31743,509.40521 c 0.14149,6.16474 -2.74732,12.32753 -7.57614,16.16244 -3.75327,2.98074 -8.42609,4.51407 -12.60203,6.86639 -2.08797,1.17616 -4.07711,2.57955 -5.65315,4.38483 -1.57605,1.80528 -2.72314,4.04154 -2.95802,6.42645 -0.2077,2.10895 0.30857,4.25996 1.31403,6.12539 1.00547,1.86543 2.48469,3.45297 4.18234,4.72135 3.3953,2.53676 7.56491,3.78094 11.67622,4.81063 28.98922,7.26045 59.33183,6.37126 89.18945,5.10188 29.85762,-1.26938 59.72349,-2.39791 89.60755,-2.5765 l 253.54832,-1.51523 c 22.2627,-0.13304 44.4653,-1.92423 66.67,-3.53554 5.3678,-0.38952 10.9736,-0.77337 15.5941,-3.53324 2.3102,-1.37994 4.3081,-3.36295 5.4272,-5.8102 1.119,-2.44724 1.293,-5.37375 0.1919,-7.82915 -0.9625,-2.14645 -2.8089,-3.79841 -4.8593,-4.95141 -2.0505,-1.153 -4.3163,-1.85844 -6.5608,-2.56258 -2.2445,-0.70415 -4.5074,-1.42407 -6.5436,-2.60203 -2.0362,-1.17797 -3.8549,-2.86694 -4.7647,-5.03627 -0.5484,-1.30762 -0.7475,-2.73604 -0.82,-4.15214 -0.073,-1.4161 -0.024,-2.83646 -0.1014,-4.2523 -0.077,-1.41584 -0.2865,-2.84368 -0.8484,-4.14557 -0.5619,-1.30189 -1.5061,-2.47623 -2.7759,-3.10735 -0.6265,-0.31138 -1.321,-0.48501 -2.0203,-0.50508 l -479.31737,1.51523 z"
+       id="path4800"
+       inkscape:path-effect="#path-effect4802"
+       inkscape:original-d="m 678.31743,509.40521 c 0,0 3.53554,8.5863 -7.57614,16.16244 -11.11168,7.57615 -19.1929,10.6066 -21.2132,17.67767 -2.02031,7.07107 9.59645,15.65737 17.17259,15.65737 7.57614,0 178.797,2.52538 178.797,2.52538 l 253.54832,-1.51523 c 0,0 51.0127,-3.53554 66.67,-3.53554 15.6574,0 29.2945,-7.07106 21.2132,-17.17259 -8.0812,-10.10152 -20.7081,-10.10152 -22.7284,-15.15229 -2.0203,-5.05076 -2.0203,-14.14213 -4.5457,-15.65736 -2.5254,-1.51523 -2.0203,-0.50508 -2.0203,-0.50508 z"
+       inkscape:connector-curvature="0"
+       transform="translate(422.85714,-134.28571)" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
