@@ -1,7 +1,7 @@
 # Summary
 
 * [Definitions](definitions.md)
-* [Licenses](licenses.md)
+* [Licenses](licences.md)
 * [Design processes](designing.md)
 * [Economics](economics.md)
 * [Distributions](distribution.md)
