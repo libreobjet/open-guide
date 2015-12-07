@@ -1,5 +1,3 @@
-Open Guide Open Objects
-
 Designing
 =======
 
@@ -62,14 +60,14 @@ Some licences allows you to copy objects. This not only allows you to copy an ob
  ![Lison illustration LibreObjet - LAL](./images/Lison-illustration.jpg)
  
 #### Upcycling
- is the process of transforming by-products, waste materials, useless  and/or unwanted products into new materials or products of better quality or for better environmental value.
+Upcycling is the process of transforming by-products, waste materials, useless  and/or unwanted products into new materials or products of better quality or for better environmental value.
 Book
 [Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
  
-##### Examples of Palets, welcomemamy Martin?
+##### Examples of pallets, welcomemamy Martin?
 
 
-### conceptual / modelise (Drawing/Representation Tools?)
+### Concept / modelise (Drawing/Representation Tools?)
 
 There are multiple tools you can use for drawing or representing your designs, from analogical traditional tools like pencil, pens, watercolours or handmade models to digital tools like vectorial drawing applications or 3D digital enviroments for moddeling. Analogical tools, of course, are useful but in order to share design efectively and fabricate them in a fast and precise way we will use digital tools or software of drawing and representation.
 
@@ -79,11 +77,11 @@ But we recommend to be logical in your design process. (This digital software co
 In the following pages, we will talk about diferent digital tools that you can use for your designs. Do not forget that this are not all the options you can use, only a few ones.
 
 
-#### Propietary software
+#### Proprietary software
 
 - Adobe: The softwares developed by the american multinational Adobe Systems are one of the most used propietary softwares. You can find diferent kind of digital tools for doing diferent tasks of creative edition like vectorial drawing (Adobe Illustrator), music (Adobe Audition) and video editing (Adobe Premiere), photo editing (Adobe Photoshop)...
 
-- Autodesk: Autodesk is a software american multinational corporation that develops technical software. Autodesk's tools are usually used in field like architecture, manufacturing or engieniering. Probably the most known tool from Autodesk is AutoCad, a software for 2D and 3D CAD (Computer Aided Design) drawing.
+- Autodesk: Autodesk is an american multinational corporation that develops technical software. Autodesk's tools are usually used in field like architecture, manufacturing or engineering. Probably the most known tool from Autodesk is AutoCad, a software for 2D and 3D CAD (Computer Aided Design) drawing.
 
 #### Software Opensource for designing objects DAO/CAO
 - Librecad
@@ -92,13 +90,13 @@ In the following pages, we will talk about diferent digital tools that you can u
 - Blender
 - inskape
 
-Skils / Knowledge
+Skills / Knowledge
 
 - Geometric / mathematical
 - Parametric design: 
 *is a paradigm in design where the relationship between elements are used  to manipulate and inform the design of complex geometries and  structures.* https://en.wikipedia.org/wiki/Parametric_design
 
-image source : https://www.flickr.com/photos/eager/13614572614/in/photolist-qifQQT-qzwM1c-qihunx-pCWgpH-qi8Rrq-qxqnCu-qihu1k-qzCG61-qxqnzJ-qi9xM7-qihsNR-qi8R65-qihsXP-pCWhBc-pCGUk5-qihttZ-qzwN9K-qxqmRj-qi8S11-mK3tGM-mK3rER-mK3urF-mK3t42-mK5h2Y-mK3pQ8-mK5f7A-mK5dUL-mK5d4Y-mK3wpD-mK5iFu-mK3wmz-mK3yJ8-mK5hrq-dxzXMu-9UVoLE-aoH6tk-aoH6hV-aoH6nZ-aoKQrS-5AhkAm-ncuMtD-nUkGJM-5AhkA3-5AhkAd-5AhkzW-5AhkAj-pedNPo-6yUh2E-a1FL3k-7LyVWw
+[image source](https://www.flickr.com/photos/eager/13614572614/in/photolist-qifQQT-qzwM1c-qihunx-pCWgpH-qi8Rrq-qxqnCu-qihu1k-qzCG61-qxqnzJ-qi9xM7-qihsNR-qi8R65-qihsXP-pCWhBc-pCGUk5-qihttZ-qzwN9K-qxqmRj-qi8S11-mK3tGM-mK3rER-mK3urF-mK3t42-mK5h2Y-mK3pQ8-mK5f7A-mK5dUL-mK5d4Y-mK3wpD-mK5iFu-mK3wmz-mK3yJ8-mK5hrq-dxzXMu-9UVoLE-aoH6tk-aoH6hV-aoH6nZ-aoKQrS-5AhkAm-ncuMtD-nUkGJM-5AhkA3-5AhkAd-5AhkzW-5AhkAj-pedNPo-6yUh2E-a1FL3k-7LyVWw )
 ![創盟國際-cc-by](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
 
 - Vector graphics:

@@ -6,7 +6,7 @@ Motivation
 Statement
 ---------------
 
-Design for humanss.
+Design for humans.
 
 - What we learn at school, about protection of design: patent, Industrial design right (model and drawings deposit), a bit of author's rights, 
 ISSUE : time limit, cost, territory limit
@@ -58,10 +58,12 @@ http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
 
 
 
-Back to the source, taking care of human
-Learn more about tradition, existing design, not to rethink always the wheel, don't focus your design about revenue but more about service. 
-We are looking for a generous creative attitude where we know that an artwork is diverted by nature. Inspiration is everywhere. Allow copy is promote creativity, accelerate design process, not to rethink always the wheel...
+Back to the source, taking care of human, what open source can offer to you.
 
+
+Learn more about tradition, existing design, not to rethink always the wheel, don't focus your design about revenue but more about service. 
+
+We are looking for a generous creative attitude where we know that an artwork is diverted by nature. Inspiration is everywhere. Allow copy is promote creativity, accelerate design process, not to rethink always the wheel...
 
 Choosing opensource way/idea you can rely on a community for help, for co-working, to remix, aware with the copying, just think that a real copy does'nt really exist, because of the materials or the tools you use to remake an object might be not exactly the same.
 
@@ -71,6 +73,11 @@ Patent don't give you a pefrect protection against compagny doing "aggressive" c
 
 You can be more close to your final users and get a objective feedback on your design.
 Final user can also help you by providing positive returned experiences, because you allow him/her to improve the object. 
+
+End User:
+you can change the role of the final user
+/// Oui, le consommateur n'est plus juste un utilisateur passif et peut devenir lui même créateur, producteur, réparateur. Il a tous les outils pour le devenir. Les licences libres invitent à la curiosité, à l'apprentissage et au partage des connaissances. Encore faut-il que l'acheteur aie conscience du caractère « libre » de ce qu'il achète.
+Le consommateur peut s'approprier un objet, en faire un usage différent ou l'adapter à ses propres besoins. Cet acquis généralement admis pour tout ce qu'on achète n'est plus aussi vrai aujourd'hui.////
 
 You can keep control on your design regarding copyright, because with the copyleft attitude, the exclusive appropriation is not possible. For example, if you design a chair with an opensource license, Ikea can be interested to produce and sell your design, but only with the same conditions as defined by the license. That means, you or another compagny can also sell or distribute your design. A totally different way of the traditional exclusive distributing design. Compagny might be not interested by selling product also distributing by a competitor.
 
@@ -155,6 +162,9 @@ He was a designer and educator who became a strong advocate of the socially and 
 in french
 http://issuu.com/pierrebv/docs/victor_papanek_-_design_pour_un_monde_r_el
 
+[image source](https://en.wikipedia.org/wiki/File:Victor_Papanek.jpg)
+![Victor_Papanek-wiki](./images/Victor_Papanek.jpg)
+
 DIY book *Nomadic furniture vol.1*
 DIY book *Nomadic furniture vol.2*
 
@@ -199,4 +209,8 @@ talk about the figure of "amator"
 in french:[URL Ars Industrialis](http://arsindustrialis.org/node/1848)
 [URL youtube](https://www.youtube.com/watch?v=EIsDStewTwU)
 
+**Thomas Chippendale**
+was a London cabinet-maker and furniture designer in the mid-Georgian,English Rococo, and Neoclassical styles. In 1754 he published a book of his designs, titled The Gentleman and Cabinet Maker's Director. The designs are regarded as reflecting the current London fashion for furniture for that period[2] and were used by other cabinet makers outside London.
+*The Gentleman and Cabinet Maker's Director*
+[URL book](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab)
 

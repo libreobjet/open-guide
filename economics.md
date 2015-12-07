@@ -12,6 +12,12 @@ Since the industrialisation age and mass manufacture of objects, designers have 
 
 But a more traditional way for a designer to earn money is to directly sell his creations. He will then be at the same time designing the object, building it and delivering it to the buyer.
 
+Ok my design is under free open source license, that means every one can sell my work or making money with? 
+Don't be afraid, you can do the same if you want with another opensource project.
+If someone make a nice improvement of your design, he should be interested to get some return, money for his work. You can also benefit of this by sell it again on your side.
+**illustration BD**
+
+
 But pattents are very expensive and the copy is always done anyway...* **maybe in the intro ?
 yes, see motivation section**
 
@@ -26,14 +32,18 @@ Peering, which replaces hierarchical models with a more collaborative forum. Tap
 Sharing, which is a less proprietary approach to (among other  things) products, intellectual property, bandwidth, scientific knowledge
 Acting globally, which involves embracing globalization and ignoring  "physical and geographical boundaries" at both the corporate and  individual level."*-[Wikipedia](https://en.wikipedia.org/wiki/Wikinomics)
 
-some possible answers :
+**Some possible answers:**
 - education/teaching/workshop
 - focus on services, like in the opensource softwares > wordpress.com ( https://www.bluehost.com/wordpress )
-- created a viable economic system of business  like Nonpraeil
+- created a viable economic system of business  like Nonpareil
 sell the object at the different step of construction: plan / without finish / classic finish / custom made
 - sell your physical design on design market place plateform : 
    - adding webshop kit on your website
    - http://www.widehandside.com/ or similar plateform
+   - sell printing plans or poster in shops (library, design shop, maker space...)
+   - explain that open source is not free. You have the right to sell your drawing/documentation
+   or asking people for "donation".
+   - Crowdfunding?
 
 (We must talk about building things. What is the value of an object beeing built by a creator or by some other person > refer to motivation section about copy depends on emotional value)
 

@@ -44,6 +44,7 @@ Propositions for the title of the book.
 - I have no idea what I'm doing but I call it open source product design
 - Product design that does not suck
 - What The Fuck Product Design
+- Porno Open Design
 
 Authors
 -----------
