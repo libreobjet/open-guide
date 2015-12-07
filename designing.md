@@ -1,7 +1,10 @@
 Open Guide Open Objects
 
-designing
-========
+Designing
+=======
+
+Other possible titles for this section:
+ - Design processes
 
 Statement
 ---------------
@@ -10,57 +13,59 @@ Statement
 - Production physique / real
  
  
-###Designing Tactics:Not Starting From Scratch
+### Designing Tactics:Not Starting From Scratch
  
   "*If I have seen further than others, it is by standing upon the shoulders of giants.*" Isaac Newton
  
 Sometime when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be enabled to implement some designing tactics that allows you to begin working from the work of others designer, instead start from scratch. At the same time, if you licence your design you will allow another designers to use your design, by this way, your design can stay alive, constantly improving and changing. In the following pages we are going to tell you some of the designing tactics that open source tactics allows you.
 
-####Modifing
+#### Modifing
 *To make partial changes to.* [Wiktionary](https://en.wiktionary.org/wiki/open_source)
 
 When an object has been licenced by certain type of permisions its allows you to make changes in its design. There are many points of the object can be modified: color,  shape, texture, materials, form, functionality. Is also posible to add or remove elements.
 
-#####Color modification example
-#####Shape modification example
-#####Texture modification example
-#####Material modification example
-#####Form modification example
-#####Functionality modification example
-#####Addition modification example
-#####Removing modification example
+##### Color modification example
+##### Shape modification example
+##### Texture modification example
+##### Material modification example
+##### Form modification example
+##### Functionality modification example
+##### Addition modification example
+##### Removing modification example
 
-####Adapting
+#### Adapting
  *To make suitable; to make to correspond; to fit or suit; to proportion.* [Wiktionary](https://en.wiktionary.org/wiki/adapt)
  
 One of the advantages of the open source object is that you are able tu adapt them to your own necesities (or anyone else necesities). There could be diferent reasons for adapting an object. Sometimes the reasons for adapting a design could be personal (Size, proportion, taste...). Other times the reasons for implement an adaptation are related to the fisical context (Clima, scale, materials abailable), technological context (technical knowledge and context abailable) or social context (language, religion, tradition, icons..)
 
-#####Examples of adaptations
+##### Examples of adaptations
 
 
-####Mixing
+#### Mixing
  *To combine items from two or more sources normally kept separate.* [Wiktionary](https://en.wiktionary.org/wiki/mix)
  
 Another advantage of the open source objects is that they can be combined. You could take two (or more) open source elements and mix them in order to create a new object. This can be a way fast way of create usefull new object.
  
-#####Examples of mixing *Dildo + drill"
+##### Examples of mixing *Dildo + drill"
  
-####Coping
+#### Copying
  
 *To produce an object identical to a given object.*
  
 Some licences allows you to copy objects. This not only allows you to copy an object for its use or for distributing it, its also enables you to use the multiple copies of this object for reaching a bigger achievements. For example you can copy an open source single ball for playing with it, or you can copy it a million of times and make a ballpool.
  
-####Forking
+#### Forking
  The “fork” means an object having a common root with a second one.  Initially twins, these two objects will separate and follow their own developments.
  
-#####Examples of Workshop 2015 *divreved objetcs* by Libreobjet
+##### Examples of Workshop 2015 *divreved objetcs* by Libreobjet
  
  
-####Upcycling
+#### Upcycling
  is the process of transforming by-products, waste materials, useless  and/or unwanted products into new materials or products of better quality or for better environmental value.
+Book
+[Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
  
-#####Examples of Palets, welcomemamy Martin?
+##### Examples of Palets, welcomemamy Martin?
 
 
 ### conceptual / modelise (Drawing/Representation Tools?)
@@ -73,9 +78,11 @@ But we recommend to be logical in your design process. (This digital software co
 In the following pages, we will talk about diferent digital tools that you can use for your designs. Do not forget that this are not all the options you can use, only a few ones.
 
 
-#### Software classic...(Propietary software?)
-- Adobe
-- Autodesk...
+#### Propietary software
+
+- Adobe: The softwares developed by the american multinational Adobe Systems are one of the most used propietary softwares. You can find diferent kind of digital tools for doing diferent tasks of creative edition like vectorial drawing (Adobe Illustrator), music (Adobe Audition) and video editing (Adobe Premiere), photo editing (Adobe Photoshop)...
+
+- Autodesk: Autodesk is a software american multinational corporation that develops technical software. Autodesk's tools are usually used in field like architecture, manufacturing or engieniering. Probably the most known tool from Autodesk is AutoCad, a software for 2D and 3D CAD (Computer Aided Design) drawing.
 
 #### Software Opensource for designing objects DAO/CAO
 - Librecad
@@ -98,18 +105,27 @@ Since the very first industrial manufacture machine "the spinnig jenny" the huma
 
 Some of this tools has been reduced in size, dirtiness and noissiness, so has became, somehow, lets say, domestic. In other cases, the tools are still being  big, dirty and/or noisy, but there has appear a new kind of spaces in our cities that makes them accesible to the non professional people, like, for example, the fablabs. In the following lines we will explain you the diferent tools of digital fabrication that you can use for fabricating open source designs that has been defined digitally.
 
-Domestic
 
-- Cnc
-- lasercuting
-- 3d print
-- Basic tool
 
-Professional
--CNC
--Lasercuting
+-CNC router: 
+*"A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for computer numerical control. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine. They can also cut mortises and tenons.
+A CNC router is very similar in concept to a CNC milling machine. Instead of routing by hand, tool paths are controlled via computer numerical control. The CNC router is one of many kinds of tools that have CNC variants.
+A CNC router typically produces consistent and high-quality work and  improves factory productivity. Unlike a jig router, the CNC router can  produce a one-off as effectively as repeated identical production.  Automation and precision are the key benefits of cnc router tables."*
+
+*"CNC routers come in many configurations, from small home-style D.I.Y.  "desktop" like k2 cnc, to large industrialCNC routers used in sign  shops, cabinet making, aerospace and boat-making facilities"* 
+
+*"CNC routers are generally available in 3-axis and 5-axis CNC formats.  Many Manufacturers offer A and B Axis for full 5 Axis capabilities and  rotary 4th axis"*
+
+[Wikipedia](https://en.wikipedia.org/wiki/CNC_router)
+
+
 -3D printing
-- Basic tools
+
+*"3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source."*
+
+*"3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense."*
+
+[Wikipedia](https://en.wikipedia.org/wiki/3D_printing)
 
 
 #### Materials

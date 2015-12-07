@@ -6,7 +6,7 @@ Motivation
 Statement
 ---------------
 
-Design for human.
+Design for humanss.
 
 - What we learn at school, about protection of design: patent, Industrial design right (model and drawings deposit), a bit of author's rights, 
 ISSUE : time limit, cost, territory limit
@@ -15,7 +15,9 @@ ISSUE : time limit, cost, territory limit
 ISSUE : limited time of use, unreparability, waste, capitalism
 
 - Copy: The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such ascopyright law.
-ISSUE : illegal copy impossible to control (Grcic chair chinese's copy > http://www.alibaba.com/product-detail/replica-magis-chair-one-by-Konstantin_60139375703.html)
+ISSUE : illegal copy, impossible to control (Grcic chair chinese's copy > http://www.alibaba.com/product-detail/replica-magis-chair-one-by-Konstantin_60139375703.html)
+
+A chinese copy is only an opportunity to get a low cost famous designer chair, but this is not the same like an orginal or official copy/edition in term of the emotional value...
 
 Designer as a creator, artist, all about starting from scratch:
 inspiration, citation, some words to about references, kind of forking 
@@ -39,7 +41,7 @@ http://www.ikeahackers.net/2014/06/big-changes-coming-to-ikeahackers.html
 'Mental Image' of design :
 luxury, ellitist, cheap, 
 
-"Recuperation by collector" (I dont't if it's the right thing for that)
+"Recuperation by collector/Art market" (I dont't if it's the right thing for that)
 Original social design initiatives in the past like furnitures of Gerrit Rietveld, Enzo Mari, Jean Prouvé, some product of Bauhaus, become now masterpiece because of the "rarity" of these objects. A Jean Prouvé's school desk is about 3000€ on the art market
 (https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/)
 
@@ -47,17 +49,43 @@ Designed localy, fabricated far away
 branding about great design by famous designers, fabrication on the other planet side to limit cost for end user but mainly to keep an interessant and comfortable margin for the producer
 
 Exciting about technology
-third industry revolution, 3d printing at home , cnc, laser cutter and other tools availables close to your living place, share everything, 
-to print what? star wars stuff, Justin Bebber dildo (http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html),  a gun (http://www.extremetech.com/extreme/142265-the-first-open-source-3d-printed-gun)
+third industry revolution, 3d printing at home , cnc, laser cutter and other tools availables close to your living place, share everything, amazing time, but...
+to print what? star wars stuff( http://www.thingiverse.com/thing:391664 ), Justin Bebber dildo (http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html ),  a gun (http://www.extremetech.com/extreme/142265-the-first-open-source-3d-printed-gun )
+it can be also this :
+Tarek Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and  sometimes not so modern) medical devices to the population of Gaza,  consequently picking a Free and open model for hardware and software  development that facilitates autonomy and collaboration with other  disenfranchised populations in the developing and developed worlds.
+http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
+
 
 
 Back to the source, taking care of human
 Learn more about tradition, existing design, not to rethink always the wheel, don't focus your design about revenue but more about service. 
-Choosing opensource way/idea you can rely on a community for help, for co-working, to remix, aware with the copying, just think that a real copy does'nt really exist, because of the materials or the tools you use to remake an object.
+
+Choosing opensource way/idea you can rely on a community for help, for co-working, to remix, aware with the copying, just think that a real copy does'nt really exist, because of the materials or the tools you use to remake an object might be not exactly the same.
+
+
 You can be more close to your final users and get a objective feedback on your design.
 Final user can also help you by providing positive returned experiences, because you allow him/her to improve the object. 
+
 You can keep control on your design regarding copyright, because with the copyleft attitude, the exclusive appropriation is not possible. For example, if you design a chair with an opensource license, Ikea can be interested to produce and sell your design, but only with the same conditions as defined by the license. That means, you or another compagny can also sell or distribute your design. A totally different way of the traditional exclusive distributing design. Compagny might be not interested by selling product also distributing by a competitor.
+
 Your design can be more spread around the world and give the opportunity to use or adapt it for people in developing countries for example. This is about democratisation.
+
+I don't know if it's interesting or in the right place, maybe more in the economical part, but choosing opensource can be an alternative to this or another way to spread design 
+
+Classic Design Editors > it is about royalties revenues (3 to 5%)
+When you are young designer you might be interested to work for an editor, it is not easy.
+You need experiences, it take time, you need connections, network, visit fairs around the world...time, energy, money and the chance to work with is low.
+
+New kind of plateform for designers to consummers
+http://monoqi.com/en/bestseller-shop.html
+...
+article on it : http://www.domusweb.it/en/design/2012/12/17/d2c-generation.html
+
+Designers with their own webshop: 
+edited by many brand, but sell his design product on his side (may have a contract with)
+http://shop.sylvainwillenz.com/
+...
+
 
 
 keywords
@@ -83,6 +111,15 @@ Si un acheteur / modificateur souhaite partager son adaptation et en faire bén�
 Combien d'objets achetez vous aujourd'hui que vous pouvez modifier et revendre ?
 Cette approche des objets par les licences, n'est pas uniquement dans un but pratique, mais permet aussi à l'acheteur de prendre conscience des implications « sociales » de son geste et de pouvoir agir dessus.
 
+**Why did you chose open design? 
+> because is ecodesign?**
+Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its  whole lifecycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use, and disposal.https://en.wikipedia.org/wiki/Ecodesign
+When designer is preocupated by opensource, he is surly an humanist person. So environmental aspect is an important part of his work.
+- Procurement: most of the open design project's use local material
+- Manufacture: The product is construct on demande localy, you don't have to transport it fom china to europe for exemple.
+When a person chose an openproduct, she is not a lambda customer.
+She's more in a collaborative consumption and in a sharing economy.
+https://en.wikipedia.org/wiki/Sharing_economy
 
 
 
@@ -105,14 +142,28 @@ see also https://en.wikipedia.org/wiki/Shaker_furniture
 **Victor Papanek :**
 He was a designer and educator who became a strong advocate of the socially and ecologically responsible design of products, tools, and community infrastructures. He disapproved of manufactured products that were unsafe, showy, maladapted, or essentially useless. His products, writings, and lectures were collectively considered an example and spur by many designers. Papanek was a philosopher of design and as such he was an untiring, eloquent promoter of design aims and approaches that would be sensitive to social and ecological considerations. He wrote that "design has become the most powerful tool with which man shapes his tools and environments (and, by extension, society and himself).
 *Design for the Real World: Human Ecology and Social Change*
+DIY book *Nomadic furniture vol.1*
+DIY book *Nomadic furniture vol.2*
 
 **Jean Prouvé**
+Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art collective to which his father belonged. Its goals were to make art readily accessible, to forge links between art and industry, as well as between art and social consciousness.
+
+The metal furniture of Jean Prouvé was produced copiously in every studio and workshop. His work involved frequent collaboration, most famously with Charlotte Perriand and Pierre Jeanneret.[16] The style is set apart from the Bauhaus steel furniture of the time by his rejection of the steel tube technique. Prouvé had more faith in the durability and form of sheet metal, "bent, pressed, compressed than welded". His designs speak of a work philosophy that includes knowledge of the materials at hand, a commitment to collaboration between artists and craftsmen, an attention to evolving technical developments, and "the principle of never postponing decisions so as neither to lose the impetus nor indulge in unrealistic forecasts". Prouvé was influential in the development of the idea of nomadic architecture, likening a chair to a house, and designing both with portability in mind.
+
+/// A TRADUIRE ou pas///
+Ses réalisations en tôle pliée (à l'origine d'un coût inférieur et d'une résistance supérieure, à l'instar de la carrosserie des voitures) – bibliothèques, fauteuils, chaises, lits Antony, bureaux et tables Compas, tables de réfectoire4 – sont exemplaires et figurent aujourd’hui parmi les meubles les plus cotés du xxe siècle (une édition originale de la chaise Antony s'évalue autour de 40 000 € ; un fauteuil Kangourou s'est vendu 152 449 €, en mars 2001 ; une bibliothèque peut valoir jusqu’à 160 000 €).
+
+**Art and design**
+[Carpenters Workshop Gallery](http://carpentersworkshopgallery.com)
+"When we started out, less than a decade ago, there was little  connection between art and design. Since then, things have changed so  much. We are pleased to see that now there are designers who no longer  do industrial design; they are creating a new kind of discipline that is  closer to art", - says Julien Lombrail about the concept of the  gallery.
+It's the art market create that kind of design. The price of the pieces are very huge, just an elite can buy it. And the "Designer" now called "artist" became stars.
 
 **Enzo Mari**
 is a noted Italian modernist artist and furniture designer.
 about his Autoprogettazione manual:
-*The 19 ‘do-it-yourself’ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.*
+*The 19 ‘do-it-yourself’ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.* Also that project born in 1974 just after the first oil crisis in 1973. The poverty in Italy and all Europe was huge, Enzo Mari by this project, show that problem and give an social design answer.
 http://www.cucula.org/en/enzo-mari/
+[book ‘Autoprogettazione’pdf](http://www.matthewlangley.com/blog/Enzo-Mari-Autoprogettazione2.pdf)
 
 Fresh news:
 *Modernist designer Enzo Mari has given Berlin-based CUCULA the rights to redesign and sell his Autoprogettazione furniture to raise funds for its refugee support programme*
@@ -124,6 +175,8 @@ was a Dutch furniture designer and architect. One of the principal members of th
 About Crate series:
 The original “Krat” (Crate) furniture was produced using untreated red spruce normally reserved for packing cases. It was sold in a kit form, to be assembled at home by the purchaser. The Crate furniture was a response to the economic crisis of the 1930s. It offered useful, inexpensive seating with basic construction and cheap materials. Other items of 'Crate' furniture include a Crate easy chair, Crate table, Crate desk, Crate bookcase and a Crate stool, all from 1934.
 http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/
+How to construct Rietveld furniture documents the best known and most  typical furniture designs by Gerrit Rietveld down the smallest detail.  The book contains working plans, measurements, detail drawings, lists of  materials and instructions for the assembly of each piece, as well as  historical information about each one.
+[how to construct rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0)
 
 **Bernard Stiegler**
 *is a French philosopher. He is head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, pharmakon.fr*

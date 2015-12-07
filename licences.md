@@ -62,4 +62,10 @@ References
 ----------------
 
  - Ronen Kadushin about Open design
+ 
+Open questions
+----------------------
+- What is your prefered license and most importantly why?
+- Should Product designers write their own license?
+- What would be the physical representation of a license?
 
