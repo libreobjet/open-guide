@@ -17,6 +17,7 @@ ISSUE : limited time of use, unreparability, waste, capitalism
 - Copy: The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such ascopyright law.
 ISSUE : illegal copy, impossible to control (Grcic chair chinese's copy > http://www.alibaba.com/product-detail/replica-magis-chair-one-by-Konstantin_60139375703.html)
 
+
 A chinese copy is only an opportunity to get a low cost famous designer chair, but this is not the same like an orginal or official copy/edition in term of the emotional value...
 
 Designer as a creator, artist, all about starting from scratch:
@@ -59,8 +60,13 @@ http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
 
 Back to the source, taking care of human
 Learn more about tradition, existing design, not to rethink always the wheel, don't focus your design about revenue but more about service. 
+We are looking for a generous creative attitude where we know that an artwork is diverted by nature. Inspiration is everywhere. Allow copy is promote creativity, accelerate design process, not to rethink always the wheel...
+
 
 Choosing opensource way/idea you can rely on a community for help, for co-working, to remix, aware with the copying, just think that a real copy does'nt really exist, because of the materials or the tools you use to remake an object might be not exactly the same.
+
+Patent don't give you a pefrect protection against compagny doing "aggressive" copies (see example above). What can you do if you don't have enough "big shoulder" to fight against this (lawyer to pay...) So assume copy, is a way to abstract this constraint.
+
 
 
 You can be more close to your final users and get a objective feedback on your design.
@@ -69,6 +75,9 @@ Final user can also help you by providing positive returned experiences, because
 You can keep control on your design regarding copyright, because with the copyleft attitude, the exclusive appropriation is not possible. For example, if you design a chair with an opensource license, Ikea can be interested to produce and sell your design, but only with the same conditions as defined by the license. That means, you or another compagny can also sell or distribute your design. A totally different way of the traditional exclusive distributing design. Compagny might be not interested by selling product also distributing by a competitor.
 
 Your design can be more spread around the world and give the opportunity to use or adapt it for people in developing countries for example. This is about democratisation.
+
+You are speciliazed in custom made design, so why not sharing your design ?
+It can be reused, remixed in another place/country, in another context...You can democratized your work in that way. Why not ask for fees if people abroad need some help to adapt the design?
 
 I don't know if it's interesting or in the right place, maybe more in the economical part, but choosing opensource can be an alternative to this or another way to spread design 
 
@@ -118,7 +127,8 @@ When designer is preocupated by opensource, he is surly an humanist person. So e
 - Procurement: most of the open design project's use local material
 - Manufacture: The product is construct on demande localy, you don't have to transport it fom china to europe for exemple.
 When a person chose an openproduct, she is not a lambda customer.
-She's more in a collaborative consumption and in a sharing economy.
+She's more in a collaborative consumption and in a sharing economy than is less 
+polluting system than productive consumption.
 https://en.wikipedia.org/wiki/Sharing_economy
 
 
@@ -142,6 +152,9 @@ see also https://en.wikipedia.org/wiki/Shaker_furniture
 **Victor Papanek :**
 He was a designer and educator who became a strong advocate of the socially and ecologically responsible design of products, tools, and community infrastructures. He disapproved of manufactured products that were unsafe, showy, maladapted, or essentially useless. His products, writings, and lectures were collectively considered an example and spur by many designers. Papanek was a philosopher of design and as such he was an untiring, eloquent promoter of design aims and approaches that would be sensitive to social and ecological considerations. He wrote that "design has become the most powerful tool with which man shapes his tools and environments (and, by extension, society and himself).
 *Design for the Real World: Human Ecology and Social Change*
+in french
+http://issuu.com/pierrebv/docs/victor_papanek_-_design_pour_un_monde_r_el
+
 DIY book *Nomadic furniture vol.1*
 DIY book *Nomadic furniture vol.2*
 
