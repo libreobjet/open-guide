@@ -83,10 +83,20 @@ Objects
 -----------
 - Gun http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/regulating-the-liberator-prospects-for-the-regulation-of-3d-printing/
 
+
 - Dobsonian Telescope
 
+>"*John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.*"[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29)
+
+The dobsonian telescope is a design of telescope that is in amateur astronomy. It was designed by the amateur astronomer John Dobson and we could say that it is a open source object. It is easily buildable at home using cheap and common materials, and its construction does not requiere any special hability, and even if there are commercial models, they are moddified and customied by their users. This fact encourage the constant redefining of the design of this telescope every time it is built.
+
+This model of telescope has been distribute widely around the world  and nowadays is the most used by the amateur astronomist. Thank to the dobsonian telescope amateur there have done a lot of discoveries by amateur observers, like the Comet  Hale-Boop, discovered by Tom Boop on 1995.
+
+In the text "*The Pro-Am Revolution: How enthusiasts are changing our economy and society" Charles Leadbeater and Paul Miller explain how thanks to the dobsonian telescope nowadays exists a symbiodsis between professional astronomers and amateur astronomers. Thank to its openess the dobsonian telescope had been improved to a point that makes almost as powerfull as a professional telescopes an
 
 http://spontaneousgenerations.library.utoronto.ca/index.php/SpontaneousGenerations/article/viewFile/11947/11185
+
+http://www.demos.co.uk/files/proamrevolutionfinal.pdf
 
 
 - Duchamp Chess Set

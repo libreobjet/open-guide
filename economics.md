@@ -1,9 +1,6 @@
 Economics
 ========
 
-Statement
----------------
-
 Often when we speak about *Open Source Product Design*, people are concerned about how to earn money with their creations? And although these concerns are very understandable − every body has to eat −, these questions come from a very narrow point of view on how designers can make money.
 
 Since the industrialisation age and mass manufacture of objects, designers have mainly earned their living by licensing their designs and earning royalties over it. In these cases, exclusivity and popularity of the objects are key elements that influence how a designer will get paid.
@@ -30,13 +27,23 @@ Peering, which replaces hierarchical models with a more collaborative forum. Tap
 Sharing, which is a less proprietary approach to (among other  things) products, intellectual property, bandwidth, scientific knowledge
 Acting globally, which involves embracing globalization and ignoring  "physical and geographical boundaries" at both the corporate and  individual level."*-[Wikipedia](https://en.wikipedia.org/wiki/Wikinomics)
 
-**Some possible answers:**
-- education/teaching/workshop
-- focus on services, like in the opensource softwares > wordpress.com ( https://www.bluehost.com/wordpress )
+Opportunities to explore
+----------------------------------
+### Education
+Through the organisation of workshops, participation in lectures and any other form of knowledge transmission, a designer could get financial support for developping and grow his/her work.
+
+### Services
+This is a model that comes from the experiences of open source software economies. Developper of open source software don't earn money by selling teh software but by selling additional services related to the software. For example, [Automattic](https://automattic.com/ ), the company behind the Wordpress blogging plateform is offering paid hosting for people who don't want to set up and host Wordpress themselves. They also provide services like statistics, anti-spam, backups, etc.
+
+An interpretation of this could be Nonpareil selling tactics, for example. They sell their open source designs at different steps of constructions, from the a pdf download, to a rough build, a classic finish or a costomization of the object itself.
+
+### From producer to consumer
+
+
 - created a viable economic system of business  like Nonpareil
 sell the object at the different step of construction: plan / without finish / classic finish / custom made
 - sell your physical design on design market place plateform : 
-   - adding webshop kit on your website
+   - adding webshop kit on your website : magento, ecommerce wordpress plugins...
    - http://www.widehandside.com/ or similar plateform
    - sell printing plans or poster in shops (library, design shop, maker space...)
    - explain that open source is not free. You have the right to sell your drawing/documentation
@@ -55,9 +62,12 @@ Objects
 - LibreObjet > worshops, talks...
 - Nonpareil > *autour du trait* 
 - [Opendesk](https://www.opendesk.cc/ )
+- [Comingle](https://www.comingle.io/) Open source sex toy
 
 References
 ----------------
-Enzo Mari
+*Modernist designer Enzo Mari has given Berlin-based CUCULA the rights to redesign and sell his Autoprogettazione furniture to raise funds for its refugee support programme*
+http://www.dezeen.com/2015/11/16/enzo-mari-autoprogettazione-furniture-reproduction-berlin-refugee-organisation-cucula-humanitarian-design/
+
 
 

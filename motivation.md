@@ -1,20 +1,24 @@
 Motivation
 =======
 
-Design Today
+The state of design today
+-------------------------------------
 
-**Protect your work in the traditional way**
-- What we learn at school, about protection of design: patent, Industrial design right (model and drawings deposit), a bit of author's rights,  
+It seems like the the only thing that worries designers today is how to protect their work and their profits in the traditional way.
+
+### Protection
+What we learn in school is all about protection of the design using patents and industrial design related right (model and drawings deposit), plus a bit of author's rights.  
 **ISSUE** : time limit, cost, territory limit
 
-- Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order  
+### Obsolescence
+Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order  
 **ISSUE** : limited time of use, unreparability, waste, capitalism
 
-- Copy: The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such ascopyright law.  
+### Copy
+The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law.  
 **ISSUE** : illegal copy, impossible to control ( [Grcic chair chinese's copy](http://www.alibaba.com/product-detail/replica-magis-chair-one-by-Konstantin_60139375703.html ) )
 
-
-A chinese copy is only an opportunity to get a low cost famous designer chair, but this is not the same like an orginal or official copy/edition in term of the emotional value...
+A chinese copy is only an opportunity to get a low cost famous designer chair, but this is not the same as an orginal or official copy/edition in term of the emotional value...
 
 Designer as a creator, artist, all about starting from scratch:
 inspiration, citation, some words to about references, kind of forking 
@@ -28,14 +32,15 @@ Norman Foster vs Ikea
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
 
 related issue : http://www.ikeahackers.net/about
-"Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
-Long story short, after much negotiation between their agent and my lawyer, I am allowed to keep the domain name IKEAhackers.net only on the condition that it is non-commercial, meaning no advertising whatsoever.
-I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo reluctant to give it up. I love this site’s community and what we have accomplished in the last 8 years. Secondly, I don’t have deep enough pockets to fight a mammoth company in court."
+> Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
+> Long story short, after much negotiation between their agent and my lawyer, I am allowed to keep the domain name IKEAhackers.net only on the condition that it is non-commercial, meaning no advertising whatsoever.
+> I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo reluctant to give it up. I love this site’s community and what we have accomplished in the last 8 years. Secondly, I don’t have deep enough pockets to fight a mammoth company in court."
 
 Read more at
 http://www.ikeahackers.net/2014/06/big-changes-coming-to-ikeahackers.html
 
-'Mental Image' of design :
+'Mental Image' of design
+----------------------------------
 luxury, ellitist, cheap, 
 
 "Recuperation by collector/Art market" (I dont't if it's the right thing for that)
@@ -57,10 +62,7 @@ it can be also this :
 Tarek Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and  sometimes not so modern) medical devices to the population of Gaza,  consequently picking a Free and open model for hardware and software  development that facilitates autonomy and collaboration with other  disenfranchised populations in the developing and developed worlds.
 http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
 
-
-
 Back to the source, taking care of human, what open source can offer to you.
-
 
 Learn more about tradition, existing design, not to rethink always the wheel, don't focus your design about revenue but more about service. 
 
@@ -146,20 +148,26 @@ Tools
 
 Objects
 -----------
-- Open source stethoscope?
-- 
+### Open source stethoscope by Tarek Loubani
+Bypass Israel embargo on medical equipements in Gaza
+
+###  Reprap
+A self replicating machine
+
+### Prosthetic hands
+Cut down the cost of medical equipment production
 
 References
 ----------------
-**Shaker movement **
-is a religious sect that had guiding principles of simplicity, utility and honesty. Their beliefs were reflected in the well-made furniture of minimalist designs.
+### Shaker movement
+The shaker movement is a religious sect that had guiding principles of simplicity, utility and honesty. Their beliefs were reflected in the well-made furniture of minimalist designs.
 The Shakers' dedication to hard work and perfection has resulted in a unique range of architecture, furniture and handicraft styles. They designed their furniture with care, believing that making something well was in itself, "an act of prayer." Before the late 19th century, they rarely fashioned items with elaborate details or extra decoration, but only made things for their intended uses. [...]
 Early 19th-century Shaker interiors are characterized by an austerity and simplicity. The simple architecture of their homes, meeting houses, and barns have had a lasting influence on American architecture and design. 
 
 https://en.wikipedia.org/wiki/Shakers#Architecture_and_furnishings
 see also https://en.wikipedia.org/wiki/Shaker_furniture
 
-**Victor Papanek :**
+### Victor Papanek
 He was a designer and educator who became a strong advocate of the socially and ecologically responsible design of products, tools, and community infrastructures. He disapproved of manufactured products that were unsafe, showy, maladapted, or essentially useless. His products, writings, and lectures were collectively considered an example and spur by many designers. Papanek was a philosopher of design and as such he was an untiring, eloquent promoter of design aims and approaches that would be sensitive to social and ecological considerations. He wrote that "design has become the most powerful tool with which man shapes his tools and environments (and, by extension, society and himself).
 *Design for the Real World: Human Ecology and Social Change*
 in french
@@ -171,7 +179,7 @@ http://issuu.com/pierrebv/docs/victor_papanek_-_design_pour_un_monde_r_el
 DIY book *Nomadic furniture vol.1*
 DIY book *Nomadic furniture vol.2*
 
-**Jean Prouvé**
+### Jean Prouvé
 Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art collective to which his father belonged. Its goals were to make art readily accessible, to forge links between art and industry, as well as between art and social consciousness.
 
 The metal furniture of Jean Prouvé was produced copiously in every studio and workshop. His work involved frequent collaboration, most famously with Charlotte Perriand and Pierre Jeanneret.[16] The style is set apart from the Bauhaus steel furniture of the time by his rejection of the steel tube technique. Prouvé had more faith in the durability and form of sheet metal, "bent, pressed, compressed than welded". His designs speak of a work philosophy that includes knowledge of the materials at hand, a commitment to collaboration between artists and craftsmen, an attention to evolving technical developments, and "the principle of never postponing decisions so as neither to lose the impetus nor indulge in unrealistic forecasts". Prouvé was influential in the development of the idea of nomadic architecture, likening a chair to a house, and designing both with portability in mind.
@@ -179,12 +187,12 @@ The metal furniture of Jean Prouvé was produced copiously in every studio and w
 /// A TRADUIRE ou pas///
 Ses réalisations en tôle pliée (à l'origine d'un coût inférieur et d'une résistance supérieure, à l'instar de la carrosserie des voitures) – bibliothèques, fauteuils, chaises, lits Antony, bureaux et tables Compas, tables de réfectoire4 – sont exemplaires et figurent aujourd’hui parmi les meubles les plus cotés du xxe siècle (une édition originale de la chaise Antony s'évalue autour de 40 000 € ; un fauteuil Kangourou s'est vendu 152 449 €, en mars 2001 ; une bibliothèque peut valoir jusqu’à 160 000 €).
 
-**Art and design**
+### Art and design
 [Carpenters Workshop Gallery](http://carpentersworkshopgallery.com)
 "When we started out, less than a decade ago, there was little  connection between art and design. Since then, things have changed so  much. We are pleased to see that now there are designers who no longer  do industrial design; they are creating a new kind of discipline that is  closer to art", - says Julien Lombrail about the concept of the  gallery.
 It's the art market create that kind of design. The price of the pieces are very huge, just an elite can buy it. And the "Designer" now called "artist" became stars.
 
-**Enzo Mari**
+### Enzo Mari
 is a noted Italian modernist artist and furniture designer.
 about his Autoprogettazione manual:
 *The 19 ‘do-it-yourself’ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.* Also that project born in 1974 just after the first oil crisis in 1973. The poverty in Italy and all Europe was huge, Enzo Mari by this project, show that problem and give an social design answer.
@@ -192,27 +200,25 @@ http://www.cucula.org/en/enzo-mari/
 [book ‘Autoprogettazione’pdf](http://www.matthewlangley.com/blog/Enzo-Mari-Autoprogettazione2.pdf)
 
 Fresh news:
-*Modernist designer Enzo Mari has given Berlin-based CUCULA the rights to redesign and sell his Autoprogettazione furniture to raise funds for its refugee support programme*
-http://www.dezeen.com/2015/11/16/enzo-mari-autoprogettazione-furniture-reproduction-berlin-refugee-organisation-cucula-humanitarian-design/
-This should be used in the economic section as an example
 
-**Gerrit Rietveld**
-was a Dutch furniture designer and architect. One of the principal members of the Dutch artistic movement called De Stijl, Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House
+
+### Gerrit Rietveld
+Rietveld was a Dutch furniture designer and architect. One of the principal members of the Dutch artistic movement called De Stijl, Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House
 About Crate series:
 The original “Krat” (Crate) furniture was produced using untreated red spruce normally reserved for packing cases. It was sold in a kit form, to be assembled at home by the purchaser. The Crate furniture was a response to the economic crisis of the 1930s. It offered useful, inexpensive seating with basic construction and cheap materials. Other items of 'Crate' furniture include a Crate easy chair, Crate table, Crate desk, Crate bookcase and a Crate stool, all from 1934.
 http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/
 How to construct Rietveld furniture documents the best known and most  typical furniture designs by Gerrit Rietveld down the smallest detail.  The book contains working plans, measurements, detail drawings, lists of  materials and instructions for the assembly of each piece, as well as  historical information about each one.
 [how to construct rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0)
 
-**Bernard Stiegler**
-*is a French philosopher. He is head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, pharmakon.fr*
+### Bernard Stiegler
+Bernard Stiegler is a French philosopher. He is head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, pharmakon.fr*
 Key themes are technology, time, individuation, consumerism, consumer capitalism, technological convergence, digitization, Americanization, education and the future of politics and human society
 
-talk about the figure of "amator"
+talk about the figure of "amateur"
 in french:[URL Ars Industrialis](http://arsindustrialis.org/node/1848)
 [URL youtube](https://www.youtube.com/watch?v=EIsDStewTwU)
 
-**Thomas Chippendale**
+## Thomas Chippendale
 was a London cabinet-maker and furniture designer in the mid-Georgian,English Rococo, and Neoclassical styles. In 1754 he published a book of his designs, titled The Gentleman and Cabinet Maker's Director. The designs are regarded as reflecting the current London fashion for furniture for that period[2] and were used by other cabinet makers outside London.
 *The Gentleman and Cabinet Maker's Director*
 [URL book](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab)

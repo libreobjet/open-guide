@@ -1,22 +1,29 @@
-Designing
-=======
+Design processes
+=============
 
-Other possible titles for this section:
- - Design processes
+Required Skills / Knowledge
 
-Statement
----------------
-Skills / Knowledge
+Starting a new design project suppose to have a kind knowledge or skills before beginning.
+A sense of 3 dimensions, in geometry, mathematical, experiences with 2d or 3d software
 
-- Geometric / mathematical
-- Parametric design: 
-*is a paradigm in design where the relationship between elements are used  to manipulate and inform the design of complex geometries and  structures.* https://en.wikipedia.org/wiki/Parametric_design
-- making by hand
+- Not only computer but also work with your hand.
+Experimentation is an important part in design process, it is about trying, testing, go further, 
+making mockup to validate physically your initial idea is essential
+
+
+ ## Concept / modelise (Drawing/Representation Tools?)
+
+There are multiple tools you can use for drawing or representing your designs, from analogical traditional tools like pencil, pens, watercolours or handmade models to digital tools like vectorial drawing applications or 3D digital enviroments for moddeling. Analogical tools, of course, are useful but in order to share design efectively and fabricate them in a fast and precise way we will use digital tools or software of drawing and representation.
+
+It's not because your work is done with propriatary software than you project is not opensource.
+But we recommend to be logical in your design process. (This digital software could be propietary or opensource. If you use propietary software to work in your designs its does not mean that your design is not open source. However, we recommend to be logical in your design processes.) 
+
+In the following pages, we will talk about diferent digital tools that you can use for your designs. Do not forget that this are not all the options you can use, only a few ones.
 
 
  
- 
-### Designing Tactics:Not Starting From Scratch
+## Design Tactics
+###Not Starting From Scratch
  
   "*If I have seen further than others, it is by standing upon the shoulders of giants.*" Isaac Newton
  
@@ -35,6 +42,9 @@ One of the advantages of the open source object is that you are able tu adapt th
 
 ##### Examples of adaptations
 
+A possible solution to make easiest modification on a object is parametric design, but that means you should learn about it before. (repetition :/ )
+- Parametric design: 
+*is a paradigm in design where the relationship between elements are used  to manipulate and inform the design of complex geometries and  structures.* https://en.wikipedia.org/wiki/Parametric_design
 
 #### Mixing
  *To combine items from two or more sources normally kept separate.* [Wiktionary](https://en.wiktionary.org/wiki/mix)
@@ -50,11 +60,11 @@ Another advantage of the open source objects is that they can be combined. You c
 Some licences allows you to copy objects. This not only allows you to copy an object for its use or for distributing it, its also enables you to use the multiple copies of this object for reaching a bigger achievements. For example you can copy an open source single ball for playing with it, or you can copy it a million of times and make a ballpool.
  
 #### Forking
- The “fork” means an object having a common root with a second one.  Initially twins, these two objects will separate and follow their own developments.
+ The “fork” means an object having a common root with a second one. Initially twins, these two objects will separate and follow their own developments.
  
 ##### Examples of Workshop 2015 *divreved objetcs* by Libreobjet
 
- ![Lison illustration LibreObjet - LAL](./images/Lison-illustration.jpg)
+ ![Lison-LibreObjet-LAL](./images/Lison-illustration.jpeg)
  
 #### Upcycling
 Upcycling is the process of transforming by-products, waste materials, useless  and/or unwanted products into new materials or products of better quality or for better environmental value.
@@ -64,20 +74,15 @@ Book
 ##### Examples of pallets, welcomemamy Martin?
 
 
-### Concept / modelise (Drawing/Representation Tools?)
 
-There are multiple tools you can use for drawing or representing your designs, from analogical traditional tools like pencil, pens, watercolours or handmade models to digital tools like vectorial drawing applications or 3D digital enviroments for moddeling. Analogical tools, of course, are useful but in order to share design efectively and fabricate them in a fast and precise way we will use digital tools or software of drawing and representation.
-
-It's not because your work is done with propriatary software than you project is not opensource.
-But we recommend to be logical in your design process. (This digital software could be propietary or opensource. If you use propietary software to work in your designs its does not mean that your design is not open source. However, we recommend to be logical in your design processes.) 
-
-In the following pages, we will talk about diferent digital tools that you can use for your designs. Do not forget that this are not all the options you can use, only a few ones.
 
 
 
 
 ### Physical production
+Since the very first industrial manufacture machine "the spinnig jenny" the human being has been looking for improving the automatic fabrication processes  in order to reach faster and more precise results. Thanks to the digital revolution that started in the middle of the previous century, nowadays we can program machines by computer to fabricate tangible object by defining them digitally. At first, this kind of technology was only accesible to professional industry, but in the last decades it has began a democratization process of this technologies, so they has began accesible for everybody.
 
+Some of this tools has been reduced in size, dirtiness and noissiness, so has became, somehow, lets say, domestic. In other cases, the tools are still being  big, dirty and/or noisy, but there has appear a new kind of spaces in our cities that makes them accesible to the non professional people, like, for example, the fablabs. In the following lines we will explain you the diferent tools of digital fabrication that you can use for fabricating open source designs that has been defined digitally.
 
 #### Materials
 
@@ -129,9 +134,7 @@ disadvantage: CMYK output (in progress)
 
 #### Digital Tools for fabrication
 
-Since the very first industrial manufacture machine "the spinnig jenny" the human being has been looking for improving the automatic fabrication processes  in order to reach faster and more precise results. Thanks to the digital revolution that started in the middle of the previous century, nowadays we can program machines by computer to fabricate tangible object by defining them digitally. At first, this kind of technology was only accesible to professional industry, but in the last decades it has began a democratization process of this technologies, so they has began accesible for everybody.
 
-Some of this tools has been reduced in size, dirtiness and noissiness, so has became, somehow, lets say, domestic. In other cases, the tools are still being  big, dirty and/or noisy, but there has appear a new kind of spaces in our cities that makes them accesible to the non professional people, like, for example, the fablabs. In the following lines we will explain you the diferent tools of digital fabrication that you can use for fabricating open source designs that has been defined digitally.
 
 **CNC router: **
 *"A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for computer numerical control. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine. They can also cut mortises and tenons.
@@ -181,7 +184,7 @@ Bouctje become Reeboek
 
 [don't run beta](http://cargocollective.com/dontrun-beta)
 
-Questions
----------------
+Open questions
+----------------------
 
 

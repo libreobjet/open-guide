@@ -3,7 +3,7 @@ Introduction
 
 [Need to have here a better introduction to the book]
 
-How could we talk about something if we don't agree on the definitions behind the words we are using. We saw the urge to define a certain number of terms here so that, at least in the scope of this publication, we agree on what they represent. 
+How could we talk about something if we don't agree on the definitions behind the words we are using. We saw the urge to define a certain number of terms here and in the glossary so that, at least in the scope of this publication, we agree on what they represent. 
 
 As product designers coming from the free/libre and open source software movement, we also are very attached to some words that have been defined in other fields, such as the term "open source".
 
@@ -11,7 +11,7 @@ This book is trying to define "Open Source Product Design" and so we are not goi
 
 
 #### Product design
->  As a verb is the process of creating a new product to be  sold by a  business to its customers. A very broad concept, it is  essentially the  efficient and effective  generation and development of  ideas through a  process that leads to new  products.
+>  As a verb is the process of creating a new product to be sold by a  business to its customers. A very broad concept, it is  essentially the  efficient and effective  generation and development of  ideas through a  process that leads to new  products.
 [Source Wikipedia](https://en.wikipedia.org/wiki/Product_design )
 
 #### Open making
@@ -24,18 +24,24 @@ Open making is a practice mainly defined by the community  around the website an
 [Source Wikipedia](https://en.wikipedia.org/wiki/Open_design )
 
 #### Open source design
-Open  source design is a term coined mostly by the  graphic design community.  This thus embraces a practice more related to  the study of graphical  user interfaces for software than its physical  counter part. Maybe this  all due to the fact that "design" is such a  broad term that applies to  any action that involves making decisions or  "planning something". http://opensourcedesign.net/ 
+>  Open  source design is a term coined mostly by the  graphic design community.  This thus embraces a practice more related to  the study of graphical  user interfaces for software than its physical  counter part. Maybe this  all due to the fact that "design" is such a  broad term that applies to  any action that involves making decisions or  "planning something". http://opensourcedesign.net/ 
 
+At each chapitre of the book, to understand and illustrate what we are speaking about.
+We will approach those points : tools, objects, references and open questions.
 
 Tools
 -------
+Here we will explain the diffrent tools...
+
 - [Wikipedia](http://wikipedia ) is a collaborative user-edited encyclopedia. It is fantastic tool for an ever evloving consensus on definitions.
 
 Objects
 -----------
+Here we will give some example of project to illustrate the meaning...
 
 References
 ----------------
+Here we will show you some books, references or peoples
 
 - [Open Making Manifesto](https://openmaking.is/ )
 
