@@ -14,14 +14,15 @@ Here is a list of pads where all the writing is happening. We have broken the su
 Sections
 -------------
 
-- [Definitions]( https://mathieugabiot.titanpad.com/30 )
-- [Licenses]( https://mathieugabiot.titanpad.com/31 )
-- [Motivations]( https://mathieugabiot.titanpad.com/32 )
-- [Distributions]( https://mathieugabiot.titanpad.com/33 )
-- [Economics]( https://mathieugabiot.titanpad.com/34 ) 
-- [Design processes]( https://mathieugabiot.titanpad.com/35 ) 
-- [Meta/Links]( https://mathieugabiot.titanpad.com/39 )
-- [Glossary]( https://xuv.titanpad.com/1 )
+0. [Meta/Links]( https://mathieugabiot.titanpad.com/39 )
+
+1. [Introduction]( https://mathieugabiot.titanpad.com/30 )
+2. [Motivations]( https://mathieugabiot.titanpad.com/32 )
+3. [Licenses]( https://mathieugabiot.titanpad.com/31 )
+4. [Design processes]( https://mathieugabiot.titanpad.com/35 ) 
+5. [Distributions]( https://mathieugabiot.titanpad.com/33 )
+6. [Economics]( https://mathieugabiot.titanpad.com/34 ) 
+7. [Glossary]( https://xuv.titanpad.com/1 )
 
 
 Production schedule

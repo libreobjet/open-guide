@@ -16,7 +16,7 @@ echo "Fetching Meta/Links"
 wget -q https://mathieugabiot.titanpad.com/ep/pad/export/39/latest?format=txt -O README.md
 echo "Fetching Glossary"
 wget -q https://xuv.titanpad.com/ep/pad/export/1/latest?format=txt -O GLOSSARY.md
-echo "Fetching Introduction"
-wget -q https://xuv.titanpad.com/ep/pad/export/2/latest?format=txt -O introduction.md
+echo "Fetching Preface"
+wget -q https://xuv.titanpad.com/ep/pad/export/2/latest?format=txt -O preface.md
 
 echo "Done."

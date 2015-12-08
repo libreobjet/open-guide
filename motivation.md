@@ -1,21 +1,17 @@
-Open Guide Open Objects
-
 Motivation
-========
+=======
 
-Statement
----------------
+Design Today
 
-Design for humans.
+**Protect your work in the traditional way**
+- What we learn at school, about protection of design: patent, Industrial design right (model and drawings deposit), a bit of author's rights,  
+**ISSUE** : time limit, cost, territory limit
 
-- What we learn at school, about protection of design: patent, Industrial design right (model and drawings deposit), a bit of author's rights, 
-ISSUE : time limit, cost, territory limit
+- Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order  
+**ISSUE** : limited time of use, unreparability, waste, capitalism
 
-- Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order
-ISSUE : limited time of use, unreparability, waste, capitalism
-
-- Copy: The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such ascopyright law.
-ISSUE : illegal copy, impossible to control (Grcic chair chinese's copy > http://www.alibaba.com/product-detail/replica-magis-chair-one-by-Konstantin_60139375703.html)
+- Copy: The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such ascopyright law.  
+**ISSUE** : illegal copy, impossible to control ( [Grcic chair chinese's copy](http://www.alibaba.com/product-detail/replica-magis-chair-one-by-Konstantin_60139375703.html ) )
 
 
 A chinese copy is only an opportunity to get a low cost famous designer chair, but this is not the same like an orginal or official copy/edition in term of the emotional value...
@@ -46,8 +42,13 @@ luxury, ellitist, cheap,
 Original social design initiatives in the past like furnitures of Gerrit Rietveld, Enzo Mari, Jean Prouvé, some product of Bauhaus, become now masterpiece because of the "rarity" of these objects. A Jean Prouvé's school desk is about 3000€ on the art market
 (https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/)
 
-Designed localy, fabricated far away
+**Designed localy, fabricated far away**
 branding about great design by famous designers, fabrication on the other planet side to limit cost for end user but mainly to keep an interessant and comfortable margin for the producer
+
+**Mass production**
+
+**Design for rich people**
+Design associated to luxury
 
 Exciting about technology
 third industry revolution, 3d printing at home , cnc, laser cutter and other tools availables close to your living place, share everything, amazing time, but...
@@ -145,6 +146,8 @@ Tools
 
 Objects
 -----------
+- Open source stethoscope?
+- 
 
 References
 ----------------

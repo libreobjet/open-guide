@@ -48,9 +48,10 @@ Surprise, surprise! Creative Commons is not a license. **It's a set of licenses*
     - Public Domain Dedication (CC0)
 
 ### [TAPR License](http://www.tapr.org/ohl.html ) 
-The Tapr Open Hardware License is a license dedicated to open hardware rnojects, usually electronics components involved in amateur radlio. This license could be applied to any objects and addresses the specificity of open sourcing physical object.
+The Tapr Open Hardware License is a license dedicated to open hardware projects, usually electronics components involved in amateur radlio. This license could be applied to any objects and addresses the specificity of open sourcing physical object.
 
 ### [CERN](http://www.ohwr.org/projects/cernohl/wiki )
+In the spirit of knowledge sharing and dissemination, the CERN Open  Hardware Licence (CERN OHL) governs the use, copying, modification and  distribution of hardware design documentation, and the manufacture and  distribution of products.
 
 ### [GPL](https://gnu.org/licenses/gpl.html )
 The Gnu General Public License is the mother of all open source license. It was created by Richard Stallman and has been used and released as early as 1989. This license is certainly the most popular license for free/libre and open source software, but it can also apply to the designs of objects.
@@ -63,6 +64,24 @@ The Peer Production License by John Magyar, B.A., J.D. and Dmytri Kleiner is a v
 
 ### [FabL](https://lite6.framapad.org/p/FABL-0.1-incub-COMMENTAIRES )
 The Fabrication License is a new license − in the making − especially dedicated to the cases brought by growing popularity of fablabs and open source design. This license is being developped around the same community that developped the Free Art License. 
+
+### And a lot more Licences...
+
+
+#### Copyright
+>   Copyright  is a legal right created by the law of a country that  grants  the  creator of an original work exclusive rights for its use  and   distribution. This is usually only for a limited time. The  exclusive   rights are not absolute but limited by limitations and  exceptions to   copyright law, including fair use.
+
+>   Copyright  is a form of intellectual **property**, applicable to   certain forms of  **creative work**. Under US copyright law, legal   protection attaches  only to fixed    representations in a tangible medium. It is often shared among   multiple  authors, each of whom holds a set of rights to use or license   the work,  and who are commonly referred to as rightsholders. These   rights  frequently include reproduction, control over derivative  works,   distribution, public performance, and "moral rights" such as    attribution.
+
+>   Copyrights  are considered **territorial rights**, which means that    they do not  extend beyond the territory of a specific jurisdiction.    While many  aspects of national copyright laws have been standardized    through  international copyright agreements, copyright laws vary by   country. 
+[Source Wikipedia](https://en.wikipedia.org/wiki/Copyright)
+
+#### Copyleft
+> Copyleft (a play on the word copyright)    is the practice of offering people the right to freely distribute    copies and modified versions of a work with the stipulation that the    same rights be preserved in derivative works down the line.
+
+>   Copyleft  is a form of licensing, and can be used to maintain   copyright  conditions for works ranging from computer software, to   documents, to  art.  In general, copyright law is used by an author to   prohibit  recipients  from reproducing, adapting, or distributing  copies  of their  work. In  contrast, under copyleft, an author may give  every  person who  receives a  copy of the work permission to  reproduce,  adapt,  or  distribute it, with the accompanying requirement  that any  resulting   copies or adaptations are also bound by the same  licensing  agreement.
+Copyleft    licenses for software **require that information necessary for     reproducing and modifying the work must be made available to   recipients   of the binaries**. The source code files will usually   contain a copy of  the license terms and acknowledge the authors.
+[Source Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
 
 Objects
 -----------

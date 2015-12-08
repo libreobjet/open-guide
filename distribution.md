@@ -11,7 +11,9 @@ The physical
 ------------------
 How is your object physically distributed?
 
-As mentioned in the "Motivations" section, one of the benefits of open source product design is that the documentation can travel faster using contemporary communication tools than shipping an object in a container. This then potentially seperates even more the places where the objects are imagined from places where objects are built. It' is already the case when design is done in western countries for a western market and the resulting objects are produced in countries through cheap labor. But with open source product design, this relationship can be totally broken as objects could potentially be designed anywhere and fabricated where they are needed. At least, this is where we do see the benefits of it. Of course, this particular relation could be "closed" again if only specific skills and tools that are required to design and produce the objects. 
+As mentioned in the "Motivations" section, one of the benefits of open source product design is that the documentation can travel faster using contemporary communication tools than shipping an object in a container. This then potentially seperates even more the places where the objects are imagined from places where objects are built. It' is already the case when design is done in western countries for a western market and the resulting objects are produced in countries with cheap labor. But with open source product design, this relationship can be totally broken as objects could potentially be designed anywhere and fabricated where they are demanded. At least, this is where we do see the benefits of it. Of course, this particular relation could be "closed" again if only specific skills and tools that are required to design and produce the objects.
+
+Another benefit of digital distribution of the documentation is when certain objects can't be found in certain parts of the world due to legal restrictions. Digital fabrication tools such as a 3D printer have changed the way we look at certain objects and opened the doors to "illegal objects" manufacturing. 
 
 ### Distributing physical open source object
 
@@ -79,7 +81,15 @@ Tools
 
 Objects
 -----------
- - Gun?
+- Gun http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/regulating-the-liberator-prospects-for-the-regulation-of-3d-printing/
+
+- Dobsonian Telescope
+
+
+http://spontaneousgenerations.library.utoronto.ca/index.php/SpontaneousGenerations/article/viewFile/11947/11185
+
+
+- Duchamp Chess Set
 
 References
 ----------------
