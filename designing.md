@@ -80,7 +80,7 @@ In the following pages, we will talk about diferent digital tools that you can u
 #### Proprietary software
 
 - Adobe: The softwares developed by the american multinational Adobe Systems are one of the most used propietary softwares. You can find diferent kind of digital tools for doing diferent tasks of creative edition like vectorial drawing (Adobe Illustrator), music (Adobe Audition) and video editing (Adobe Premiere), photo editing (Adobe Photoshop)...
-
+    
 - Autodesk: Autodesk is an american multinational corporation that develops technical software. Autodesk's tools are usually used in field like architecture, manufacturing or engineering. Probably the most known tool from Autodesk is AutoCad, a software for 2D and 3D CAD (Computer Aided Design) drawing.
 
 #### Software Opensource for designing objects DAO/CAO

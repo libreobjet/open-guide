@@ -1,5 +1,3 @@
-Open Guide Open Objects
-
 Economics
 ========
 

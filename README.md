@@ -21,6 +21,7 @@ Sections
 - [Economics]( https://mathieugabiot.titanpad.com/34 ) 
 - [Design processes]( https://mathieugabiot.titanpad.com/35 ) 
 - [Meta/Links]( https://mathieugabiot.titanpad.com/39 )
+- [Glossary]( https://xuv.titanpad.com/1 )
 
 
 Production schedule
