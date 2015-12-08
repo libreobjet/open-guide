@@ -587,9 +587,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="69.870836"
-     inkscape:cy="635.63829"
+     inkscape:zoom="1.979899"
+     inkscape:cx="253.48972"
+     inkscape:cy="565.07749"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false" />
@@ -1433,7 +1433,18 @@
        inkscape:path-effect="#path-effect5098-7"
        inkscape:original-d="m 179.01786,382.54077 c 1.25,1.5625 1.69643,2.32143 3.4375,2.72322 1.74107,0.40178 4.86607,1.16071 4.86607,1.16071"
        inkscape:connector-curvature="0" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4342-4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.75590515;stroke-opacity:1"
+       transform="translate(150.63501,308.20665)"><flowRegion
+         id="flowRegion4344-8"><rect
+           id="rect4346-1"
+           width="152.14285"
+           height="71.428574"
+           x="-23.571428"
+           y="158.07649" /></flowRegion><flowPara
+         id="flowPara4348-9">Bernard Stiegler</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
