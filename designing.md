@@ -1,7 +1,7 @@
-Design processes
-=============
+Design as a process
+===============
 
-Required Skills / Knowledge
+Often design requires extensive knowledge in many fields and a lot of skills, both intellectual and manual.
 
 Starting a new design project suppose to have a kind knowledge or skills before beginning.
 A sense of 3 dimensions, in geometry, mathematical, experiences with 2d or 3d software
@@ -9,7 +9,6 @@ A sense of 3 dimensions, in geometry, mathematical, experiences with 2d or 3d so
 - Not only computer but also work with your hand.
 Experimentation is an important part in design process, it is about trying, testing, go further, 
 making mockup to validate physically your initial idea is essential
-
 
  ## Concept / modelise (Drawing/Representation Tools?)
 
@@ -19,7 +18,6 @@ It's not because your work is done with propriatary software than you project is
 But we recommend to be logical in your design process. (This digital software could be propietary or opensource. If you use propietary software to work in your designs its does not mean that your design is not open source. However, we recommend to be logical in your design processes.) 
 
 In the following pages, we will talk about diferent digital tools that you can use for your designs. Do not forget that this are not all the options you can use, only a few ones.
-
 
  
 ## Design Tactics

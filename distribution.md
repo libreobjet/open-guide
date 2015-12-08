@@ -81,10 +81,9 @@ Tools
 
 Objects
 -----------
-- Gun http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/regulating-the-liberator-prospects-for-the-regulation-of-3d-printing/
+### Gun http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/regulating-the-liberator-prospects-for-the-regulation-of-3d-printing/
 
-
-- Dobsonian Telescope
+### Dobsonian Telescope
 
 >"*John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.*"[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29)
 
@@ -98,8 +97,7 @@ http://spontaneousgenerations.library.utoronto.ca/index.php/SpontaneousGeneratio
 
 http://www.demos.co.uk/files/proamrevolutionfinal.pdf
 
-
-- Duchamp Chess Set
+### Duchamp Chess Set
 
 References
 ----------------

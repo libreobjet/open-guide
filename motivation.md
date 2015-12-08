@@ -4,14 +4,14 @@ Motivation
 The state of design today
 -------------------------------------
 
-It seems like the the only thing that worries designers today is how to protect their work and their profits in the traditional way.
+It seems like the only thing that worries designers these days is how to protect their work and their profits in a very traditional way. You've also heard many times someone comes with a supposedly good idea, someone else will promptly say "you should patent it", as if this was the only way to deal with your creativity.
 
 ### Protection
-What we learn in school is all about protection of the design using patents and industrial design related right (model and drawings deposit), plus a bit of author's rights.  
+What we learn in design schools is all about protection of the design using patents and industrial design related rights (model and drawing deposits, etc.). You might have also had courses on the author's rights.
 **ISSUE** : time limit, cost, territory limit
 
 ### Obsolescence
-Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order  
+Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order.
 **ISSUE** : limited time of use, unreparability, waste, capitalism
 
 ### Copy
@@ -39,13 +39,13 @@ related issue : http://www.ikeahackers.net/about
 Read more at
 http://www.ikeahackers.net/2014/06/big-changes-coming-to-ikeahackers.html
 
-'Mental Image' of design
-----------------------------------
-luxury, ellitist, cheap, 
+A "mental model" of design
+---------------------------------------
+Good design is mostly viewed as a luxury product and is reserved for an elite. Even 
 
 "Recuperation by collector/Art market" (I dont't if it's the right thing for that)
 Original social design initiatives in the past like furnitures of Gerrit Rietveld, Enzo Mari, Jean Prouvé, some product of Bauhaus, become now masterpiece because of the "rarity" of these objects. A Jean Prouvé's school desk is about 3000€ on the art market
-(https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/)
+(https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/ )
 
 **Designed localy, fabricated far away**
 branding about great design by famous designers, fabrication on the other planet side to limit cost for end user but mainly to keep an interessant and comfortable margin for the producer
@@ -105,8 +105,6 @@ edited by many brand, but sell his design product on his side (may have a contra
 http://shop.sylvainwillenz.com/
 ...
 
-
-
 keywords
 Obsolescence, waste, vernacular, adaptability, control, tactics, democratisation, unfinished, modifying, sharing, useful or not, ecology, forking, necessity, resilience, adapting, amatorism,  education, experimentation, starting from zero, appropriation, remixing, weapons, sextoys, remixing, upcycling...
 
@@ -121,7 +119,7 @@ La question de la copie est dans le milieu du design souvent un tabou, une crain
 L'inspiration est partout. Permettre la copie c'est favoriser la création, accélérer le processus de conception, cela permet de ne pas ré-inventer la roue à chaque nouveau projet. C'est aussi un choix politique, un positionnement éthique.
 Aussi le collectif Libre Objet nous permet d’expérimenter plus, en nous affranchissant de certainescontraintes de commande, de créer des outils et des plate-formes de publication de ces objets, d’organiser des ateliers et de participer à des événements liés au design.
 
-Qu'est-ce que ça change pour la personne qui achète l'objet, ou le construit lui-même dans sarelation avec les objets (dépasse-t-on l'opposition classique consommateur/producteur) ?
+Qu'est-ce que ça change pour la personne qui achète l'objet, ou le construit lui-même dans sa relation avec les objets (dépasse-t-on l'opposition classique consommateur/producteur) ?
 
 Oui, le consommateur n'est plus juste un utilisateur passif et peut devenir lui même créateur, producteur, réparateur. Il a tous les outils pour le devenir. Les licences libres invitent à la curiosité, à l'apprentissage et au partage des connaissances. Encore faut-il que l'acheteur aie conscience du caractère « libre » de ce qu'il achète.
 Le consommateur peut s'approprier un objet, en faire un usage différent ou l'adapter à ses propres besoins. Cet acquis généralement admis pour tout ce qu'on achète n'est plus aussi vrai aujourd'hui.
@@ -135,13 +133,11 @@ Cette approche des objets par les licences, n'est pas uniquement dans un but pra
 Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its  whole lifecycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use, and disposal.https://en.wikipedia.org/wiki/Ecodesign
 When designer is preocupated by opensource, he is surly an humanist person. So environmental aspect is an important part of his work.
 - Procurement: most of the open design project's use local material
-- Manufacture: The product is construct on demande localy, you don't have to transport it fom china to europe for exemple.
+- Manufacture: The product is construct on demande localy, you don't have to transport it fom China to Europe for exemple.
 When a person chose an openproduct, she is not a lambda customer.
 She's more in a collaborative consumption and in a sharing economy than is less 
 polluting system than productive consumption.
 https://en.wikipedia.org/wiki/Sharing_economy
-
-
 
 Tools
 -------
@@ -152,13 +148,18 @@ Objects
 Bypass Israel embargo on medical equipements in Gaza
 
 ###  Reprap
-A self replicating machine
+A self replicating machine.
 
 ### Prosthetic hands
 Cut down the cost of medical equipment production
 
+
 References
 ----------------
+
+*La Société de consommation* Jean Baudrillard 
+https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_de_consommation_%28ouvrage%29
+
 ### Shaker movement
 The shaker movement is a religious sect that had guiding principles of simplicity, utility and honesty. Their beliefs were reflected in the well-made furniture of minimalist designs.
 The Shakers' dedication to hard work and perfection has resulted in a unique range of architecture, furniture and handicraft styles. They designed their furniture with care, believing that making something well was in itself, "an act of prayer." Before the late 19th century, they rarely fashioned items with elaborate details or extra decoration, but only made things for their intended uses. [...]
@@ -193,33 +194,33 @@ Ses réalisations en tôle pliée (à l'origine d'un coût inférieur et d'une r
 It's the art market create that kind of design. The price of the pieces are very huge, just an elite can buy it. And the "Designer" now called "artist" became stars.
 
 ### Enzo Mari
-is a noted Italian modernist artist and furniture designer.
-about his Autoprogettazione manual:
-*The 19 ‘do-it-yourself’ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.* Also that project born in 1974 just after the first oil crisis in 1973. The poverty in Italy and all Europe was huge, Enzo Mari by this project, show that problem and give an social design answer.
+Enzo Mari is a noted Italian modernist artist and furniture designer.
+He is famous for his *Autoprogettazione* manual. 
+
+*The 19 ‘Do-It-Yourself’ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.* Also that project born in 1974 just after the first oil crisis in 1973. The poverty in Italy and all Europe was huge, Enzo Mari by this project, show that problem and give an social design answer.
 http://www.cucula.org/en/enzo-mari/
 [book ‘Autoprogettazione’pdf](http://www.matthewlangley.com/blog/Enzo-Mari-Autoprogettazione2.pdf)
 
-Fresh news:
-
-
 ### Gerrit Rietveld
-Rietveld was a Dutch furniture designer and architect. One of the principal members of the Dutch artistic movement called De Stijl, Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House
+Rietveld was a Dutch furniture designer and architect. One of the principal members of the dutch artistic movement called *De Stijl*.Piet Mondrian is the most famous figure from that movememt. Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House.
+
 About Crate series:
 The original “Krat” (Crate) furniture was produced using untreated red spruce normally reserved for packing cases. It was sold in a kit form, to be assembled at home by the purchaser. The Crate furniture was a response to the economic crisis of the 1930s. It offered useful, inexpensive seating with basic construction and cheap materials. Other items of 'Crate' furniture include a Crate easy chair, Crate table, Crate desk, Crate bookcase and a Crate stool, all from 1934.
 http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/
-How to construct Rietveld furniture documents the best known and most  typical furniture designs by Gerrit Rietveld down the smallest detail.  The book contains working plans, measurements, detail drawings, lists of  materials and instructions for the assembly of each piece, as well as  historical information about each one.
+How to construct Rietveld furniture documents the best known and most typical furniture designs by Gerrit Rietveld down the smallest detail. The book contains working plans, measurements, detail drawings, lists of materials and instructions for the assembly of each piece, as well as historical information about each one.
 [how to construct rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0)
 
 ### Bernard Stiegler
-Bernard Stiegler is a French philosopher. He is head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, pharmakon.fr*
-Key themes are technology, time, individuation, consumerism, consumer capitalism, technological convergence, digitization, Americanization, education and the future of politics and human society
+Bernard Stiegler is a french philosopher and head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, pharmakon.fr*
+
+His key themes are technology, time, individuation, consumerism, consumer capitalism, technological convergence, digitization, americanization, education and the future of politics and human society
 
 talk about the figure of "amateur"
 in french:[URL Ars Industrialis](http://arsindustrialis.org/node/1848)
 [URL youtube](https://www.youtube.com/watch?v=EIsDStewTwU)
 
-## Thomas Chippendale
-was a London cabinet-maker and furniture designer in the mid-Georgian,English Rococo, and Neoclassical styles. In 1754 he published a book of his designs, titled The Gentleman and Cabinet Maker's Director. The designs are regarded as reflecting the current London fashion for furniture for that period[2] and were used by other cabinet makers outside London.
+### Thomas Chippendale
+Thomas Chippendale was a London cabinet-maker and furniture designer in the mid-Georgian, English Rococo, and Neoclassical styles. In 1754, he published a book of his designs titled *The Gentleman and Cabinet Maker's Director*. The designs are regarded as reflecting the current London fashion for furniture for that period and were used by other cabinet makers outside London.
 *The Gentleman and Cabinet Maker's Director*
-[URL book](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab)
+[URL book](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab )
 

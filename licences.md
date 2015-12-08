@@ -9,8 +9,8 @@ Open source design addresses this the other way around and must be placed at the
 
 As with a classic contemporary design approach, licenses are made to protect the designer. But in open source design, these licences are also made to protect the users or any other preson in relation to the design. Nowadays, more and more objects are given to you with restrictions on how you can open it and own it. Take a car for example, or a smartphone. As a user you have very little to say about how those things work, let alone the possibility to repair them when they are broken. And this is not only related to the technical knowledge to do so but also with the legal right to apply any modification.
 
-4 freedoms
-----------------
+Four freedoms
+--------------------
 
 Open source product design is a practice that comes from free and open source software and as such is following the same principles, but applied to objects. There is a general rule that permits to determine if a licence is "open source" or not. Does it respect the [4 freedoms](http://www.gnu.org/philosophy/free-sw.html )?
 
