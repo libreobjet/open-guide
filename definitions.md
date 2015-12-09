@@ -1,14 +1,11 @@
-Introduction
-=========
+Open Source Product Design
+=====================
 
-[Need to have here a better introduction to the book]
+How could we talk about something if we don't agree on the definitions behind the words we are using. We saw the urge to define a certain number of terms here and in the glossary so that, at least in the scope of this publication, you know what they represent for us. 
 
-How could we talk about something if we don't agree on the definitions behind the words we are using. We saw the urge to define a certain number of terms here and in the glossary so that, at least in the scope of this publication, we agree on what they represent. 
+As product designers coming from the free/libre and open source software movement, we also are very picky with some words that have been defined in software field, especially the terms "open source", which we invariably link to "free / libre", although that's maybe not the case for everyone.
 
-As product designers coming from the free/libre and open source software movement, we also are very attached to some words that have been defined in other fields, such as the term "open source".
-
-This book is trying to define "Open Source Product Design" and so we are not going to define this term here − you willl have to read the whole book to understand what we mean by this. But you may have already encountered similar terms as "Open design", "Open making", "Open source design" and so on. These overlap each other and sometimes set themselves apart. We're quickly going to talk about them here so we can get them out of the way.
-
+This book is trying to define "Open Source Product Design" so we are not going to define this extensively here − you willl have to read the whole book. But you may have already encountered similar terms as "Open design", "Open making", "Open source design" and so on. These overlap each other and sometimes set themselves apart. One might think these little differences are not important, because the overall idea is shared. We do not agree with this. It's in the little differences, in the terms and expression we use that lies the ideals we stand for. 
 
 #### Product design
 >  As a verb is the process of creating a new product to be sold by a  business to its customers. A very broad concept, it is  essentially the  efficient and effective  generation and development of  ideas through a  process that leads to new  products.

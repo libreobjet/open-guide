@@ -14,15 +14,17 @@ Here is a list of pads where all the writing is happening. We have broken the su
 Sections
 -------------
 
-0. [Meta/Links]( https://mathieugabiot.titanpad.com/39 )
+[Meta/Links]( https://mathieugabiot.titanpad.com/39 ) <-- This pad.
 
-1. [Introduction]( https://mathieugabiot.titanpad.com/30 )
+0. [Introduction]( https://xuv.titanpad.com/2 )
+1. [Open Source Product Design]( https://mathieugabiot.titanpad.com/30 )
 2. [Motivations]( https://mathieugabiot.titanpad.com/32 )
 3. [Licenses]( https://mathieugabiot.titanpad.com/31 )
 4. [Design processes]( https://mathieugabiot.titanpad.com/35 ) 
 5. [Distributions]( https://mathieugabiot.titanpad.com/33 )
 6. [Economics]( https://mathieugabiot.titanpad.com/34 ) 
-7. [Glossary]( https://xuv.titanpad.com/1 )
+7. [About this book]( https://xuv.titanpad.com/3 )
+8. [Glossary]( https://xuv.titanpad.com/1 )
 
 
 Production schedule
@@ -48,22 +50,12 @@ Propositions for the title of the book.
 - What The Fuck Product Design
 - Open Porn Design
 
-Authors
------------
-
-- Mathieu Gabiot
-- Martin Léveque
-- Gaizka Altuna
-- Julien Deswaef
-
 License
 -----------
 [Free Art License 1.3](http://artlibre.org/licence/lal/en/ )
 
-Howto
---------
+TODO
+---------
+- Correct typo onr Martin's name "LévEque" with a &circ;
 
-Link an image example
-
-![Enzo Mari - Public Domain](./images/Enzo_Mari_1974.jpg)
 

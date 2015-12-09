@@ -18,5 +18,7 @@ echo "Fetching Glossary"
 wget -q https://xuv.titanpad.com/ep/pad/export/1/latest?format=txt -O GLOSSARY.md
 echo "Fetching Preface"
 wget -q https://xuv.titanpad.com/ep/pad/export/2/latest?format=txt -O preface.md
+echo "Fetching How"
+wget -q https://xuv.titanpad.com/ep/pad/export/3/latest?format=txt -O how.md
 
 echo "Done."

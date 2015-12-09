@@ -68,7 +68,7 @@ existing plateforms :
 
 Tools
 -------
- - hosting plateforms
+ - hosting platforms
  - Instruction manuals / schemas
  - Open standards
  - file sharing
@@ -81,7 +81,6 @@ Tools
 
 Objects
 -----------
-### Gun http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/regulating-the-liberator-prospects-for-the-regulation-of-3d-printing/
 
 ### Dobsonian Telescope
 
@@ -91,13 +90,33 @@ The dobsonian telescope is a design of telescope that is in amateur astronomy. I
 
 This model of telescope has been distribute widely around the world  and nowadays is the most used by the amateur astronomist. Thank to the dobsonian telescope amateur there have done a lot of discoveries by amateur observers, like the Comet  Hale-Boop, discovered by Tom Boop on 1995.
 
-In the text "*The Pro-Am Revolution: How enthusiasts are changing our economy and society" Charles Leadbeater and Paul Miller explain how thanks to the dobsonian telescope nowadays exists a symbiodsis between professional astronomers and amateur astronomers. Thank to its openess the dobsonian telescope had been improved to a point that makes almost as powerfull as a professional telescopes an
+In the text "*The Pro-Am Revolution: How enthusiasts are changing our economy and society" Charles Leadbeater and Paul Miller explain how thanks to the dobsonian telescope nowadays exists a symbiosis between professional astronomers and amateur astronomers. Thank to its openess the dobsonian telescope had been improved to a point that makes almost as powerfull as a professional telescopes from the observatories, so when the data that professional astronomers get in the observation stations they make a call to the networked amateur observers who provide them with fantastic information.
+
+Thanks to the open distribution of the dobsonian telescope the science can advance a little bit faster. When the astronomer Bob Alborzian encouraged Dobson to patent the dobsonian telescope, he just said "These are gifts to humanity". 
 
 http://spontaneousgenerations.library.utoronto.ca/index.php/SpontaneousGenerations/article/viewFile/11947/11185
 
 http://www.demos.co.uk/files/proamrevolutionfinal.pdf
 
-### Duchamp Chess Set
+### Liberator 
+
+On  the last years one of the most polemical issue relative to the open  source object and its distribution has been the printed weapons.  Especially It has been highly publicized case The Liberator single shot  gun.
+
+>*The  Liberator is a physible, 3D-printable single shot handgun, the first  such printable firearm design made widely available online. The open  source firm Defense Distributed  designed the gun and released the plans  on the Internet on May 6, 2013.  The plans were downloaded over 100,000  times in the two days before the  US Department of State demanded that  Defense Distributed retract the plans.
+The  plans for the gun remain hosted across the Internet and are available  at file sharing websites like The Pirate Bay.* [Wikipedia] (https://en.wikipedia.org/wiki/Liberator_%28gun%29)
+
+The  Liberator Gun was a really polemic case. It does not only create  discusions about the ethics of what could be built using the new  domestic 3D printers but also about the distribution of the blueprints  and instructuions of the objects and artifacts that could be printed.
+
+The  controversy created by the Liberator shows the potential of the open  source designs to be distributed around the world regardless the  frontiers, customs or any kind of territorial law.
+
+
+http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/regulating-the-liberator-prospects-for-the-regulation-of-3d-printing/
+
+
+### Readymake: Duchamp Chess Set
+
+Readymake: Duchamp Chess Set is a printable chess set based on a chess set that the dadaist artist Marcel Duchamp designed. This printable set of pieces was made by Scott Kildall and Bryan Cera and they share it on Thingiverse.
+
 
 References
 ----------------
