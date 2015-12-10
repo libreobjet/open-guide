@@ -16,15 +16,15 @@ Sections
 
 [Meta/Links]( https://mathieugabiot.titanpad.com/39 ) <-- This pad.
 
-0. [Introduction]( https://xuv.titanpad.com/2 )
-1. [Open Source Product Design]( https://mathieugabiot.titanpad.com/30 )
+1. [Introduction]( https://xuv.titanpad.com/2 )
 2. [Motivations]( https://mathieugabiot.titanpad.com/32 )
 3. [Licenses]( https://mathieugabiot.titanpad.com/31 )
 4. [Design processes]( https://mathieugabiot.titanpad.com/35 ) 
 5. [Distributions]( https://mathieugabiot.titanpad.com/33 )
-6. [Economics]( https://mathieugabiot.titanpad.com/34 ) 
-7. [About this book]( https://xuv.titanpad.com/3 )
-8. [Glossary]( https://xuv.titanpad.com/1 )
+6. [Economics]( https://mathieugabiot.titanpad.com/34 )
+7. [Proposition]( https://mathieugabiot.titanpad.com/30 )
+8. [This book]( https://xuv.titanpad.com/3 )
+9.[Glossary]( https://xuv.titanpad.com/1 )
 
 
 Production schedule

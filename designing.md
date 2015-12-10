@@ -1,21 +1,21 @@
 Design as a process
 ===============
 
-Often design requires extensive knowledge in many fields and a lot of skills, both intellectual and manual.
+##Skills
 
-Starting a new design project suppose to have a kind knowledge or skills before beginning.
-A sense of 3 dimensions, in geometry, mathematical, experiences with 2d or 3d software
+Often design requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry and mathematics or experiences with 2d or 3d software would help you a lot at the time of beginning your design. But do not be afraid if you think that you have not enough skills, because almost all the people can design objects. Remember the times in whitch you used to built huts,  homemade bows or models made by toys like Lego. In addition, working with open source designs makes designing easier as you can do not start from the scrach.
 
-- Not only computer but also work with your hand.
-Experimentation is an important part in design process, it is about trying, testing, go further, 
-making mockup to validate physically your initial idea is essential
+
+##Ways of working
+
+Do not only use computer but also work with your hand. Experimentation is an important part in design process, it is about trying, testing, go further, making mockup to validate physically your initial idea is essential
+
 
  ## Concept / modelise (Drawing/Representation Tools?)
 
-There are multiple tools you can use for drawing or representing your designs, from analogical traditional tools like pencil, pens, watercolours or handmade models to digital tools like vectorial drawing applications or 3D digital enviroments for moddeling. Analogical tools, of course, are useful but in order to share design efectively and fabricate them in a fast and precise way we will use digital tools or software of drawing and representation.
+There are multiple tools you can use for drawing or representing your designs, from analogical traditional tools like pencil, pens, watercolours or handmade models to digital tools like vectorial drawing applications or 3D digital enviroments for moddeling. Analogical tools, of course, are useful but in order to share design efectively and fabricate them in a fast and precise way we use digital tools or software of drawing and representation.
 
-It's not because your work is done with propriatary software than you project is not opensource.
-But we recommend to be logical in your design process. (This digital software could be propietary or opensource. If you use propietary software to work in your designs its does not mean that your design is not open source. However, we recommend to be logical in your design processes.) 
+This digital software could be propietary or opensource. If you use propietary software to work in your designs its does not mean that your design is not open source. However, we recommend to be logical in your design processes.
 
 In the following pages, we will talk about diferent digital tools that you can use for your designs. Do not forget that this are not all the options you can use, only a few ones.
 
@@ -24,7 +24,7 @@ In the following pages, we will talk about diferent digital tools that you can u
 ###Not Starting From Scratch
  
   "*If I have seen further than others, it is by standing upon the shoulders of giants.*" Isaac Newton
- 
+
 Sometime when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be enabled to implement some designing tactics that allows you to begin working from the work of others designer, instead start from scratch. At the same time, if you licence your design you will allow another designers to use your design, by this way, your design can stay alive, constantly improving and changing. In the following pages we are going to tell you some of the designing tactics that open source tactics allows you.
 
 #### Modifing
@@ -38,8 +38,6 @@ When an object has been licenced by certain type of permisions its allows you to
  
 One of the advantages of the open source object is that you are able tu adapt them to your own necesities (or anyone else necesities). There could be diferent reasons for adapting an object. Sometimes the reasons for adapting a design could be personal (Size, proportion, taste...). Other times the reasons for implement an adaptation are related to the fisical context (Clima, scale, materials abailable), technological context (technical knowledge and context abailable) or social context (language, religion, tradition, icons..)
 
-##### Examples of adaptations
-
 A possible solution to make easiest modification on a object is parametric design, but that means you should learn about it before. (repetition :/ )
 - Parametric design: 
 *is a paradigm in design where the relationship between elements are used  to manipulate and inform the design of complex geometries and  structures.* https://en.wikipedia.org/wiki/Parametric_design
@@ -49,7 +47,6 @@ A possible solution to make easiest modification on a object is parametric desig
  
 Another advantage of the open source objects is that they can be combined. You could take two (or more) open source elements and mix them in order to create a new object. This can be a way fast way of create usefull new object.
  
-##### Examples of mixing *Dildo + drill"
  
 #### Copying
  
@@ -72,17 +69,17 @@ Book
 ##### Examples of pallets, welcomemamy Martin?
 
 
-
-
-
-
-
 ### Physical production
 Since the very first industrial manufacture machine "the spinnig jenny" the human being has been looking for improving the automatic fabrication processes  in order to reach faster and more precise results. Thanks to the digital revolution that started in the middle of the previous century, nowadays we can program machines by computer to fabricate tangible object by defining them digitally. At first, this kind of technology was only accesible to professional industry, but in the last decades it has began a democratization process of this technologies, so they has began accesible for everybody.
 
 Some of this tools has been reduced in size, dirtiness and noissiness, so has became, somehow, lets say, domestic. In other cases, the tools are still being  big, dirty and/or noisy, but there has appear a new kind of spaces in our cities that makes them accesible to the non professional people, like, for example, the fablabs. In the following lines we will explain you the diferent tools of digital fabrication that you can use for fabricating open source designs that has been defined digitally.
 
+
 #### Materials
+
+There are many types of materials that could be used for creating objects and on the same time there are many criteria to choose them. However, there are some properties on which you should think at the time of choosing the materials of the open source object you are designing.
+
+An open source design should be fabricated anywhere by anyone or at least in the greatest amount of places that is posible and by the greatest amout of people that is posible.
 
 - Pallets > DIY > Basic tool
 - Plywood > Cnc
@@ -92,11 +89,6 @@ Some of this tools has been reduced in size, dirtiness and noissiness, so has be
 
 Tools
 ---------
-#### Proprietary software
-
-- Adobe: The softwares developed by the american multinational Adobe Systems are one of the most used propietary softwares. You can find diferent kind of digital tools for doing diferent tasks of creative edition like vectorial drawing (Adobe Illustrator), music (Adobe Audition) and video editing (Adobe Premiere), photo editing (Adobe Photoshop)...
-    
-- Autodesk: Autodesk is an american multinational corporation that develops technical software. Autodesk's tools are usually used in field like architecture, manufacturing or engineering. Probably the most known tool from Autodesk is AutoCad, a software for 2D and 3D CAD (Computer Aided Design) drawing.
 
 #### Software Opensource for designing objects DAO/CAO
 - Librecad: LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation is free from our large, dedicated community of users, contributors and developers. 
@@ -161,6 +153,10 @@ A CNC router typically produces consistent and high-quality work and  improves f
 tradionnal woodworking tools transformed to enlarge features/functions:
 Convert milling hand router into milling router table.
 
+#### Collaborative tools
+**Git**
+
+
 
 References
 -----------------
@@ -169,15 +165,17 @@ References
 
 Objects
 ---------------
-##### Color modification example
 ##### Shape modification example
-##### Texture modification example
 ##### Material modification example
 ##### Form modification example
 ##### Functionality modification example
 Bouctje become Reeboek
 
 ##### Addition modification example
+
+Wikiseat
+http://www.wikiseat.org/about/
+
 ##### Removing modification example
 
 [don't run beta](http://cargocollective.com/dontrun-beta)

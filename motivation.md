@@ -1,22 +1,21 @@
 Motivation
 =======
 
-The state of design today
--------------------------------------
+It seems like the only thing that worries designers these days is how to protect their work and their profits in a very conservative way. You've also heard many times someone comes with a supposedly good idea, someone else will promptly say "*− you should patent it!*", as if this was the only way to deal with your creativity.
 
-It seems like the only thing that worries designers these days is how to protect their work and their profits in a very traditional way. You've also heard many times someone comes with a supposedly good idea, someone else will promptly say "you should patent it", as if this was the only way to deal with your creativity.
+If profit is the golden ratio of success stories and the prism through which design should be thought today, then this what we end up with:
 
-### Protection
-What we learn in design schools is all about protection of the design using patents and industrial design related rights (model and drawing deposits, etc.). You might have also had courses on the author's rights.
-**ISSUE** : time limit, cost, territory limit
+#### Protection
+What we learn in most design schools is all about protecting our work using patents and industrial design related rights (model and drawing deposits, etc.). There is also, of course, the default author's right applied to any "creation de l'esprit" (intellectual creations), as the french call it. Patents and deposits have a costs, are limited in time and limited by territory, unless you have almost infinite ressources.
 
-### Obsolescence
-Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order.
-**ISSUE** : limited time of use, unreparability, waste, capitalism
+#### Obsolescence
+> Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. [Wikipedia]
+Of which there is the now famous planned obsolescence with the sole intention of increasing sales volume and producing garbage.
 
-### Copy
-The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law.  
-**ISSUE** : illegal copy, impossible to control ( [Grcic chair chinese's copy](http://www.alibaba.com/product-detail/replica-magis-chair-one-by-Konstantin_60139375703.html ) )
+#### Copy & anti-copy
+> The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law.  [Wikipedia](https://en.wikipedia.org/wiki/Copying )
+
+There is much heated debate around copying and its usually negative connotations. There is "illegal copies" which could harm you or the author, the dillusional control over copiers and the hypocricy of some education systems who tend to punish copying but asks students to recite what they have learned.
 
 A chinese copy is only an opportunity to get a low cost famous designer chair, but this is not the same as an orginal or official copy/edition in term of the emotional value...
 
@@ -31,10 +30,7 @@ examples of similar design >
 Norman Foster vs Ikea
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
 
-related issue : http://www.ikeahackers.net/about
-> Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
-> Long story short, after much negotiation between their agent and my lawyer, I am allowed to keep the domain name IKEAhackers.net only on the condition that it is non-commercial, meaning no advertising whatsoever.
-> I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo reluctant to give it up. I love this site’s community and what we have accomplished in the last 8 years. Secondly, I don’t have deep enough pockets to fight a mammoth company in court."
+
 
 Read more at
 http://www.ikeahackers.net/2014/06/big-changes-coming-to-ikeahackers.html
@@ -156,6 +152,11 @@ Cut down the cost of medical equipment production
 
 References
 ----------------
+
+related issue : http://www.ikeahackers.net/about
+> Some  months ago I received a Cease and Desist (C&D) letter from the  agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net  has infringed upon its intellectual property rights. [...]
+> Long  story short, after much negotiation between their agent and my lawyer, I  am allowed to keep the domain name IKEAhackers.net only on the  condition that it is non-commercial, meaning no advertising whatsoever.
+> I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo  reluctant to give it up. I love this site’s community and what we have  accomplished in the last 8 years. Secondly, I don’t have deep enough  pockets to fight a mammoth company in court."
 
 *La Société de consommation* Jean Baudrillard 
 https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_de_consommation_%28ouvrage%29

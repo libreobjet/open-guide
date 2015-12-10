@@ -1,5 +1,5 @@
-Open Source Product Design
-=====================
+Proposition
+========
 
 How could we talk about something if we don't agree on the definitions behind the words we are using. We saw the urge to define a certain number of terms here and in the glossary so that, at least in the scope of this publication, you know what they represent for us. 
 
@@ -28,7 +28,6 @@ We will approach those points : tools, objects, references and open questions.
 
 Tools
 -------
-Here we will explain the diffrent tools...
 
 - [Wikipedia](http://wikipedia ) is a collaborative user-edited encyclopedia. It is fantastic tool for an ever evloving consensus on definitions.
 
@@ -38,8 +37,6 @@ Here we will give some example of project to illustrate the meaning...
 
 References
 ----------------
-Here we will show you some books, references or peoples
-
 - [Open Making Manifesto](https://openmaking.is/ )
 
 Open questions

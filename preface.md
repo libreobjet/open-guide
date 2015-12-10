@@ -16,6 +16,7 @@ For each section, we've tried to keep a similar structure that is divided as fol
 
 - First we've put the theoretical part, where we define, explain and develop the concepts.
 - Then we give you a list of **tools** that are related to that section. As designers, we are not only producing objects, we are also building an intimate relation with the tools we are using. 
-- After this comes a series of open source **objects** that best represent the subject of the chapter.
-- And we will finish by **open questions** we keep open, for us and for you, to think further about your practice 
+- After this comes a series of open source **objects** that we think best represent what the chapter is about
+- And we finish with **open questions**, for us and for you, to think further about your practice. 
+
 

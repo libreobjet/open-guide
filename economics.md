@@ -1,31 +1,27 @@
-Economics
+Economies
 ========
 
-Often when we speak about *Open Source Product Design*, people are concerned about how to earn money with their creations. And although these concerns are very understandable − every body has to eat −, these questions come from a very narrow point of view on how designers can make money.
+Often when we speak about *Open Source Product Design*, people are concerned about how to earn money with their creations. And although these concerns are very understandable, everybody has to fill their physiological needs and feel safe, these questions come from a very narrow point of view on how designers can be paid.
 
-Since the industrialisation age and mass manufacture of objects, designers have mainly earned their living by licensing their designs and earning royalties from them. In these cases, exclusivity and popularity of the objects are key elements that influence how a designer will get paid.
+Since the industrialisation age and mass manufacture of objects, designers have mainly earned their living by licensing their designs and earning royalties. In these cases, exclusivity and popularity of the objects are key elements that influence how a designer makes money.
 
-But a more traditional way for a designer to earn money is to directly sell his creations. He will then be at the same time designing the object, building it and delivering it to the buyer.
+Patenting a design is a costly adventure and most of the time will only be profitable if you also have the money to enforce it. Having a patent does not make you instantly rich. And if you think someone is infringing your rights, you will have to go to court to solve that problem and make a case for compensation. As you know, going to court requires also money.
 
-### Ok my design is under free open source license, that means every one can sell my work or making money with? 
-Don't be afraid, you can do the same if you want with another opensource project.
-If someone make a nice improvement of your design, he should be interested to get some return, money for his work. You can also benefit of this by sell it again on your side.
-**illustration BD**
+### So if I open source my designs, then everyone can make money with it?
 
+Yes. And the other way around is also true, you can make money with other people's open source projects. The shift here is important. If you open source your work, someone else might be interested in it, apply transformation to it, improve it, and this then comes back to you. 
 
-But pattents are very expensive and the copy is always done anyway...* **maybe in the intro ?
-yes, see motivation section**
+Another thing to consider is, since it's so easy to share digital files and since people, with reason, consider that immaterial objects should be free to copy and distribute, there is still a true cost in making material objects. Not only a material cost, but also a knowledge cost in aquiring the skills to manipulate the tools that will help produce the physical objects and an energy cost in moving around the physical object to their end location. Overall, people are still willing to pay for those costs.
 
-### Open designs for economics of the mass collaboration
+### Benefits
 
-Some authors have criticized the open source services and objects production linking them with communist movement and arguing that they hinder the development. For example Jaron Lanier, an american computer philosophy writer, tells in his book *You Are Not A Gadget: A Manifesto* that the open source productions generate a kind expropriation of the intellectual productions that he calls "Digital Maoism". However, in the best-seller book *Wikinomics: How Mass Collaboration Changes Everything", the authors, Don Tapscott and Anthony D. Williams, defend that openess is creating a new forms economics development and, even more, they tell that it will be essencial for the economic innovation and development in a near future.
+Benefits can not always be measured in money. Participating in community adventures, sharing your knowledge, being open to others and lowering your ego can be profitable for you and your professional project but hardly translated into numbers.
 
-The economic model that is described in this book is based in four point: Openess, Peering, Sharing and Acting Global.
+And one could hope, that what open source practices have done for software, with methodologies such as agile problem solving, iterative prototyping and distributed development, similar approaches could change the face of product design and provide benefits yet to discover.
 
-*"Openness, which includes not only open standards and content but  also financial transparency and an open attitude towards external ideas  and resources
-Peering, which replaces hierarchical models with a more collaborative forum. Tapscott and Williams cite the development of Linux  as the "quintessential example of peering."
-Sharing, which is a less proprietary approach to (among other  things) products, intellectual property, bandwidth, scientific knowledge
-Acting globally, which involves embracing globalization and ignoring  "physical and geographical boundaries" at both the corporate and  individual level."*-[Wikipedia](https://en.wikipedia.org/wiki/Wikinomics)
+### A second life
+
+Most designers have their 
 
 Opportunities to explore
 ----------------------------------
@@ -56,7 +52,10 @@ The relation here can then be based on longer mutual support, more precise under
 
 Tools
 -------
- - Goteo
+ Goteo
+ *"At first glance, Goteo is a platform for civic crowdfunding and  collaboration on citizen initiatives and social, cultural, technological  and educational projects. Goteo has replicas and alliances in several  countries, thanks to its open source code as well as the awards and  international recognition it has gathered since 2011. It is a tool for  generating resources ‘drop by drop’ for a community of communities  consisting of over 65,000 people, with a funding success rate over 70%. 
+But in reality, Goteo is so much more. There is a non-profit  foundation (with consequent tax advantages for donors) behind the  platform, and a multidisciplinary team developing tools and services for  co-creation and collective funding. Our commons mission is tightly  linked to principles of transparency, progress and societal improvement." [Goteo.org](https://en.goteo.org/about)
+
  - Ecommerce plugins for Wordpress
  - http://www.widehandside.com/ (vente directe en Belgique)
 
@@ -87,4 +86,12 @@ References
 *Modernist designer Enzo Mari has given Berlin-based CUCULA the rights to redesign and sell his Autoprogettazione furniture to raise funds for its refugee support programme*
 http://www.dezeen.com/2015/11/16/enzo-mari-autoprogettazione-furniture-reproduction-berlin-refugee-organisation-cucula-humanitarian-design/
 
+The sharing of information can be beneficial for everybody. Some authors have criticized the open source services and objects production linking them with communist  movement and arguing that they hinder the development. For example  Jaron Lanier, an american computer philosophy writer, tells in his book *You Are Not A Gadget: A Manifesto* that the open source productions generate a kind expropriation  of the intellectual productions that he calls "Digital Maoism".  However, in the best-seller book *Wikinomics: How Mass Collaboration  Changes Everything",  the authors, Don Tapscott and Anthony D. Williams, defend that openess  is creating a new forms economics development and, even more, they tell  that it will be an essencial part of the economic innovation and development in the near future.
+
+The economic models described in this book is based in four point: Openess, Peering, Sharing and Acting Global.
+
+*"Openness,  which includes not only open standards and content but  also financial  transparency and an open attitude towards external ideas  and resources
+Peering,  which replaces hierarchical models with a more collaborative forum.  Tapscott and Williams cite the development of Linux  as the  "quintessential example of peering."
+Sharing,  which is a less proprietary approach to (among other  things) products,  intellectual property, bandwidth, scientific knowledge
+Acting  globally, which involves embracing globalization and ignoring   "physical and geographical boundaries" at both the corporate and   individual level."*-[Wikipedia](https://en.wikipedia.org/wiki/Wikinomics)
 

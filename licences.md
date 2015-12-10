@@ -28,6 +28,18 @@ Many times, the question of the commercial exploitation of a design generates he
 
 So stop calling your project "open source design" if you licence it with a commercial restriction. You might then want to have a look at our "Definitions" section to find a better generic name for your project.
 
+I don't need a license, I already share everything
+-------------------------------------------------------------
+
+People deeply involved in community activites are usually well versed at the practice of sharing and know the benefits of it. Because of this, they sometimes overlook the need of attaching a license to their work. And this is a big mistake.
+
+By default, every creation is protected by copyright. So even if some work is shared freely among a group of user, at any point in time, the creators of that work could apply restrictions and claim compensations for the use of it. Not applying a license to some shared work means trusting that the creators won't change their mind later on. This is fine most of the time, until money or any form of compensation is involved. By attaching a clear license to your work, we can get those problems out of the way and trust that nobody will change their mind even over time.
+
+Another undesired or unseen side effect of not using a license is that you will exclude a lot of people from participating and prevent people from spreading your work. Even if you've said that you want your work to be shared, if there is no license attached, people will have to contact you everytime they want to do someting special with it and ask you for a proper authorization. Licensing your work makes sharing faster and safer for everyone and requires less energy. 
+
+Copyright means that you have to ask the authors for anything you want to do with their work. This is the default behavior. So if you really want people to do anything they want with your work, you have to "revert copyright" and apply "copyleft" and that can only be done with a license.
+
+
 Is there an ideal or perfect license for open source objects?
 -------------------------------------------------------------------------------------
 
@@ -68,7 +80,9 @@ The Tapr Open Hardware License is a license dedicated to open hardware projects,
 The Gnu General Public License is the mother of all open source licenses. It was created by Richard Stallman and has been used and released as early as 1989. This license is certainly the most popular license for free/libre and open source software, but it can also apply to the designs of objects.
 
 ### [WTFPL](http://www.wtfpl.net/ ) 
-The "do What The Fuck you want Public License" is a very short and somewhat funny license that exists as a response to flame wars that often occur between partisans of one license or another.
+The "do What The Fuck you want Public License" is a very short and somewhat funny license that exists as a response to flame wars that often occur between partisans of one license or another. 
+
+But if you really don't give a fuss, you could be nicer to everyone by just dedicating your work to public domain through the use of a CC0 for example.
 
 ### [Peer Production License](http://p2pfoundation.net/Peer_Production_License ) 
 The Peer Production License by John Magyar, B.A., J.D. and Dmytri Kleiner is a very interesting take at the commercial / non-commercial debate that happens around open source product design. Basically, it can not be considered an open source license as it restricts freedoms on uses and distribution allowing only other commone rs, cooperatives and nonprofits to share and re-use the material, but not commercial entities who intent on making profit through the commons without explicit reciprocity. To our knowledge so far, no designs have been released under this type of license.

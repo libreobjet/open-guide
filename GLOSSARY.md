@@ -20,7 +20,7 @@ One of the basic Creative Commons license that only requires that proper attribu
 One of the Creative Commons license that requires that proper attribution is given to the original author(s) and that any derivative should be published using the same license.
 
 ### CC0
-Creative Commons Zero waives aill copyrights attached to a work. Similar as releasing work into the public domain. 
+Creative Commons Zero waives all copyrights attached to a work. Similar as releasing work into the public domain. 
 
 ### Open hardware
 
