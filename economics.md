@@ -21,7 +21,7 @@ And one could hope, that what open source practices have done for software, with
 
 ### A second life
 
-Most designers have their 
+[Talking about paid finished projets that lay in a carton somewhere]
 
 Opportunities to explore
 ----------------------------------
@@ -49,6 +49,10 @@ The relation here can then be based on longer mutual support, more precise under
 
 ### Who's building your open source furniture?
 (We must talk about building things. What is the value of an object beeing built by a creator or by some other person > refer to motivation section about copy depends on emotional value)
+
+"Recuperation by collector/Art market" (I dont't if it's the right thing for that)
+Original  social design initiatives in the past like furnitures of Gerrit  Rietveld, Enzo Mari, Jean Prouvé, some product of Bauhaus, become now  masterpiece because of the "rarity" of these objects. A Jean Prouvé's  school desk is about 3000€ on the art market
+(https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/ )
 
 Tools
 -------

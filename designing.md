@@ -38,9 +38,11 @@ When an object has been licenced by certain type of permisions its allows you to
  
 One of the advantages of the open source object is that you are able tu adapt them to your own necesities (or anyone else necesities). There could be diferent reasons for adapting an object. Sometimes the reasons for adapting a design could be personal (Size, proportion, taste...). Other times the reasons for implement an adaptation are related to the fisical context (Clima, scale, materials abailable), technological context (technical knowledge and context abailable) or social context (language, religion, tradition, icons..)
 
-A possible solution to make easiest modification on a object is parametric design, but that means you should learn about it before. (repetition :/ )
-- Parametric design: 
-*is a paradigm in design where the relationship between elements are used  to manipulate and inform the design of complex geometries and  structures.* https://en.wikipedia.org/wiki/Parametric_design
+
+####Parametric design:
+
+A possible solution to make easiest modification on a object is parametric design, but that means you should learn about it before.
+- Parametric design *is a paradigm in design where the relationship between elements are used  to manipulate and inform the design of complex geometries and  structures.* https://en.wikipedia.org/wiki/Parametric_design
 
 #### Mixing
  *To combine items from two or more sources normally kept separate.* [Wiktionary](https://en.wiktionary.org/wiki/mix)
@@ -63,8 +65,7 @@ Some licences allows you to copy objects. This not only allows you to copy an ob
  
 #### Upcycling
 Upcycling is the process of transforming by-products, waste materials, useless  and/or unwanted products into new materials or products of better quality or for better environmental value.
-Book
-[Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
+
  
 ##### Examples of pallets, welcomemamy Martin?
 
@@ -79,16 +80,20 @@ Some of this tools has been reduced in size, dirtiness and noissiness, so has be
 
 There are many types of materials that could be used for creating objects and on the same time there are many criteria to choose them. However, there are some properties on which you should think at the time of choosing the materials of the open source object you are designing.
 
-An open source design should be fabricated anywhere by anyone or at least in the greatest amount of places that is posible and by the greatest amout of people that is posible.
+An open source design should be fabricated anywhere by anyone or at least in the greatest amount of places that is posible and by the greatest amout of people that is posible. For that reason at the time of choosing materials we recomendate to use materials that could be got easily anywhere by anyone.
 
-- Pallets > DIY > Basic tool
-- Plywood > Cnc
-- plastic, composite... > 3d print
+Economic factor is also important. If you choose an extended material but it is expensive, only a few people will be able to build your design. Bu not only economic cuestions are important, you also should consider the ecologic. There are a lot of material that you can recycle, or even better, upcycle. For example emterials like pallets are easy to find anywhere, by anyone, for free.
+
+Finally you also have to consider the tools that you need to work with the materials you are going to fabricate your model. For example, glass and methacrylate are easy to find but while methacrylate could be easily cut by a common cutter, for cutting glass the tools are not as common and the technics are not as simple.
 
 
 
 Tools
 ---------
+
+For each type of task you need to do you would find diferent tools offered. It is important to find the tools that best suits for your designs, not only technicaly but also ethicaly. That is why encougare you to use open source tools for making your open source designs. If you use, for example a propietary software for doing an open source design, as we have said before, it does not mean that your design is not open source. But if you use an open soucer tool you will ensure that anyona could work on your design without needing to pay the fees of the propietary software. In addition, you are going to be ethicaly more coerent, which is as important as the openess of the tools used.
+
+On the following lines we will introduce you some open source applications that you can use for designing.
 
 #### Software Opensource for designing objects DAO/CAO
 - Librecad: LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation is free from our large, dedicated community of users, contributors and developers. 
@@ -154,7 +159,9 @@ tradionnal woodworking tools transformed to enlarge features/functions:
 Convert milling hand router into milling router table.
 
 #### Collaborative tools
-**Git**
+
+"* Git (/ɡɪt/[4]) is a widely used version control system for software development.[5] It is a distributed revision control system with an emphasis on speed,[6] data integrity,[7] and support for distributed, non-linear workflows.[8] Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005.
+As with most other distributed version control systems, and unlike most client–server systems, every Git working directory is a full-fledged repository with complete history and full version-tracking capabilities, independent of network access or a central server.[9] Like the Linux kernel, Git is free software distributed under the terms of the GNU General Public License version 2.*" [Wikipedia](https://en.wikipedia.org/wiki/Git_%28software%29)
 
 
 
@@ -163,24 +170,48 @@ References
 
 [don't run beta](http://cargocollective.com/dontrun-beta)
 
+Upcyclist by Antonia Edward
+[Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
+
 Objects
 ---------------
-##### Shape modification example
-##### Material modification example
-##### Form modification example
-##### Functionality modification example
-Bouctje become Reeboek
 
-##### Addition modification example
+#####Bouctje become Reeboek
 
-Wikiseat
-http://www.wikiseat.org/about/
+![**Bouctje** by Mathieu Gabiot. Free Art Licence.](./images/Bouctje_by_Mathieu Gabiot.jpg)!
+![**REEBOeK** by Verly Laurent. Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
 
-##### Removing modification example
+[Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on january 2013 and licenced with a Free Art Licence. [Reeboek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on september 2013 also licenced with a Free Art Licence. This is a good example about the advantages of the open source objects. Thanks to the open licence of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new propouse born.
 
-[don't run beta](http://cargocollective.com/dontrun-beta)
+#####Wikiseat
+
+"*WikiSeat is an open source furniture project. That means  that all of the documentation for how to build a WikiSeat is freely and  openly published online.
+At the heart of each WikiSeat is a Catalyst. This is the  structural support, made out of welded angle iron, that helps hold three  legs in place. The seat part goes on top. It is a pretty simple idea,  but there are no instructions for how to assemble these parts. We  encourage people to find materials rather than buying them from a  store. Every WikiSeat is a truly unique creation, a reflection of the  creators environment and ideas.*"
+[Wikiseat](http://www.wikiseat.org/about/)
+
+![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat01.jpg)
+![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat02.jpg)
+![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat03.jpg)
+![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat04.jpg)
+![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat05.jpg)
+![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat06.jpg)
+![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat07.jpg)
+
+
+#####Don't run beta
+
+[don't run beta](http://cargocollective.com/dontrun-beta ) 
+
+
 
 Open questions
 ----------------------
+
+- I add here another question
+
+
+
+
+
 
 

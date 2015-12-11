@@ -1,6 +1,11 @@
 Motivation
 =======
 
+Why would you want to get into open source product design? 
+
+The state of design today
+------------------------------------
+
 It seems like the only thing that worries designers these days is how to protect their work and their profits in a very conservative way. You've also heard many times someone comes with a supposedly good idea, someone else will promptly say "*− you should patent it!*", as if this was the only way to deal with your creativity.
 
 If profit is the golden ratio of success stories and the prism through which design should be thought today, then this what we end up with:
@@ -15,63 +20,47 @@ Of which there is the now famous planned obsolescence with the sole intention of
 #### Copy & anti-copy
 > The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law.  [Wikipedia](https://en.wikipedia.org/wiki/Copying )
 
-There is much heated debate around copying and its usually negative connotations. There is "illegal copies" which could harm you or the author, the dillusional control over copiers and the hypocricy of some education systems who tend to punish copying but asks students to recite what they have learned.
+There is much debate around copying and its usually negative connotations. There is "illegal copies" which could harm you or the author, the dillusional control over copiers and the hypocricy of some education systems who tend to punish copying but ask students to recite what they have learned. Copy is also invariably associated with stealing, thanks to the entertainment industry, although those two are very different concepts.
 
-A chinese copy is only an opportunity to get a low cost famous designer chair, but this is not the same as an orginal or official copy/edition in term of the emotional value...
-
-Designer as a creator, artist, all about starting from scratch:
-inspiration, citation, some words to about references, kind of forking 
-designer inspired by another but a bit stress about the fact his design is new and different not a copy and infringe the authour's right. The limit of derivation in the classic copyrigth in design. 
-examples of allowed derivation > 
-Original: le corbusier LC2, edited by Cassina) http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 
-Doshi Levien, edited by Moroso
-(http://www.doshilevien.com/projects/chandigarh/
-examples of similar design > 
-Norman Foster vs Ikea
-http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
-
-
-
-Read more at
-http://www.ikeahackers.net/2014/06/big-changes-coming-to-ikeahackers.html
+A chinese copy is only an opportunity to get a low cost famous designer chair, but somehow it's is not the same as an orginal or official copy/edition in terms of emotional value.
 
 A "mental model" of design
 ---------------------------------------
-Good design is mostly viewed as a luxury product and is reserved for an elite. Even 
 
-"Recuperation by collector/Art market" (I dont't if it's the right thing for that)
-Original social design initiatives in the past like furnitures of Gerrit Rietveld, Enzo Mari, Jean Prouvé, some product of Bauhaus, become now masterpiece because of the "rarity" of these objects. A Jean Prouvé's school desk is about 3000€ on the art market
-(https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/ )
+#### A designer is an artist
+A designer is a creator, an artist, who gets inspiration from a divine origin. Citation from the masters is authorized, but s/he should always come with something new and original.
 
-**Designed localy, fabricated far away**
-branding about great design by famous designers, fabrication on the other planet side to limit cost for end user but mainly to keep an interessant and comfortable margin for the producer
+#### Design localy, fabricate far away
+Famous designers work like a brand, where their products are fabricated on the other side of the planet to limit costs and keep prices low for the end market while keeping a comfortable margin for the producers.
 
-**Mass production**
+#### Mass production
+Design for manufacturing. How fast can you get your product out and in what numbers? 
 
-**Design for rich people**
-Design associated to luxury
+#### Design for the rich
+Quality design is a luxury product. Only the rich can access it.
 
-Exciting about technology
-third industry revolution, 3d printing at home , cnc, laser cutter and other tools availables close to your living place, share everything, amazing time, but...
-to print what? star wars stuff( http://www.thingiverse.com/thing:391664 ), Justin Bebber dildo (http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html ),  a gun (http://www.extremetech.com/extreme/142265-the-first-open-source-3d-printed-gun )
-it can be also this :
-Tarek Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and  sometimes not so modern) medical devices to the population of Gaza,  consequently picking a Free and open model for hardware and software  development that facilitates autonomy and collaboration with other  disenfranchised populations in the developing and developed worlds.
-http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
+#### Design and technology
+Designer are always excited about the latest technology. Design for the third industrial revolution or with the latest materials from NASA. But what are we designing for?
 
-Back to the source, taking care of human, what open source can offer to you.
+Design for humans
+---------------------------
+With open source product design, we're moving the whole design process back to the source: taking care of humans, every human.
 
-Learn more about tradition, existing design, not to rethink always the wheel, don't focus your design about revenue but more about service. 
+We are looking for a generous creative attitude where we know that an artwork is inspired by nature and should respect it.
 
-We are looking for a generous creative attitude where we know that an artwork is diverted by nature. Inspiration is everywhere. Allow copy is promote creativity, accelerate design process, not to rethink always the wheel...
+We allow ourselves to copy as a way to learn, encourage our creativity and iterate design processes.
 
-Choosing opensource way/idea you can rely on a community for help, for co-working, to remix, aware with the copying, just think that a real copy does'nt really exist, because of the materials or the tools you use to remake an object might be not exactly the same.
+We learn from traditions, existing designs, and do not try to reinvent the wheel every time.
 
-Patent don't give you a pefrect protection against compagny doing "aggressive" copies (see example above). What can you do if you don't have enough "big shoulder" to fight against this (lawyer to pay...) So assume copy, is a way to abstract this constraint.
+We don't focus our designs on revenues but see it as a service for society. 
 
+We choose the free/libre way because we can rely on a community for help, co-working and remixes.
 
+We are not afraid of being copied.
 
-You can be more close to your final users and get a objective feedback on your design.
-Final user can also help you by providing positive returned experiences, because you allow him/her to improve the object. 
+We want a close relationship with our users, turn them into active contributors of the whole process and get objective feedback 
+
+We 
 
 End User:
 you can change the role of the final user
@@ -143,6 +132,9 @@ Objects
 ### Open source stethoscope by Tarek Loubani
 Bypass Israel embargo on medical equipements in Gaza
 
+Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,   discusses the Palestinian struggle to bring the benefits of modern (and   sometimes not so modern) medical devices to the population of Gaza,   consequently picking a Free and open model for hardware and software   development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.
+http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
+
 ###  Reprap
 A self replicating machine.
 
@@ -153,10 +145,24 @@ Cut down the cost of medical equipment production
 References
 ----------------
 
+star wars stuff( http://www.thingiverse.com/thing:391664 ), Justin Bebber dildo (http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html ),  a gun (http://www.extremetech.com/extreme/142265-the-first-open-source-3d-printed-gun )
+
 related issue : http://www.ikeahackers.net/about
 > Some  months ago I received a Cease and Desist (C&D) letter from the  agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net  has infringed upon its intellectual property rights. [...]
 > Long  story short, after much negotiation between their agent and my lawyer, I  am allowed to keep the domain name IKEAhackers.net only on the  condition that it is non-commercial, meaning no advertising whatsoever.
 > I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo  reluctant to give it up. I love this site’s community and what we have  accomplished in the last 8 years. Secondly, I don’t have deep enough  pockets to fight a mammoth company in court."
+
+Read more at
+http://www.ikeahackers.net/2014/06/big-changes-coming-to-ikeahackers.html
+
+The limit of derivation in the classic copyrigth in design. 
+examples of allowed derivation > 
+Original: le corbusier LC2, edited by Cassina) http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 
+Doshi Levien, edited by Moroso
+(http://www.doshilevien.com/projects/chandigarh/
+examples of similar design > 
+Norman Foster vs Ikea
+http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
 
 *La Société de consommation* Jean Baudrillard 
 https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_de_consommation_%28ouvrage%29
