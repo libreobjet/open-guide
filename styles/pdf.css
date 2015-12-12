@@ -1,0 +1,24 @@
+/*____________ From OSP html2print ___________*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* Avoids headings to be cut or to be orphans.
+     * But it doesn't seem to work
+     * if the element after has a page-break-inside avoid. It tries its best! */
+  -webkit-region-break-inside: avoid;
+  -webkit-region-break-after: avoid;
+  break-inside: avoid;
+  break-after: avoid;
+}
+/* AN EXAMPLE TO AVOID PAGE BREAK INSIDE,
+ * HERE NO PARAGRAPH WILL BE CUT,
+ * BUT YOU MIGHT WANT TO DEACTIVATE THIS */
+p {
+  -webkit-region-break-inside: avoid;
+}
+@page {
+  size: 297mm 210mm !important;
+}
