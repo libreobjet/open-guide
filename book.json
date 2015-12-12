@@ -1,5 +1,5 @@
 {
-		"title": "Open guide into open objects",
+		"title": "Open guide to open objects",
 		"language": "en",
 		"structure": {
 			"readme": "preface.md"
@@ -7,20 +7,30 @@
 		 "variables": {
 				"meta": {
 						"source_url": "https://github.com/libreobjet/open-guide",
-						"compilation_date": "December 9th, 2015"
+						"compilation_date": "December 12th, 2015"
 				}
+		},
+		"plugins":[
+			"image-captions"
+		],
+		"pluginsConfig": {
+			"image-captions": {
+				"variable_name": "pictures",
+				"list_caption": "_CAPTION_",
+				"caption": "Image: _CAPTION_"
+			}
 		},
 		"theme": "./theme",
 		"styles": {
-			"pdf": "./styles/pdf.css"
+			"pdf": "./styles/pdf.css",
+			"website": "./styles/website.css"
 		},
-
     "pdf": {
         "toc": true,
         "pageNumbers": false,
 
         "fontSize": 10,
-        "fontFamily": "OpenSans",
+        "fontFamily": "Open Sans",
 
         "paperSize": "a5",
         "chapterMark" : "pagebreak",
