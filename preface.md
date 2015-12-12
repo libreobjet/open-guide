@@ -1,9 +1,9 @@
 Introduction
 ========
 
-The terms "open source" are becoming a trend among product designers. We see websites and initiatives appear here and there with a lot of good intentions but sometimes missing the point and often creating confusion. Design magazines and blogs are always rushing into calling an openly published creation "open source" but rarely question the licenses or propose schematics or design files to download.
+The term "open source" is becoming a trend among product designers. We see websites and initiatives appear here and there with a lot of good intentions but sometimes missing the point and often creating confusion. Design magazines and blogs are always rushing into calling an openly published creation "open source" but rarely question the licenses or provide schematics or design files to download.
 
-We are furniture designers, hackers and artists who have been playing d quite some time now with free/libre and open source software. So for us, applying these prirciples to product design was a natural extension and new playgrounds to explore. But we also realized that designers coming to this with no prior opne source experience had a lot of information to grasp before getting a clear picture of what could be open source product design. So we set ourselves to catalyse our knowledge in this book.
+We are furniture designers, hackers and artists who have been working with free/libre and open source software for quite some time now. So for us, applying these prirciples to product design was a natural extension and new playgrounds to explore. But we also realized that designers coming to this with no prior open source experience had a lot of information to grasp before getting a clear picture of what could be open source product design. So we set ourselves to catalyse our knowledge in this book.
 
 We hope that this tool could be a base for teaching and learning about open source product design, a collective memory of what one should know today to get started and join the movement, a reference students, amateurs and educators would have in their back pocket when they go out to explain what they are passionate about. 
 

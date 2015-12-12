@@ -89,9 +89,12 @@ Objects
 
 ### Dobsonian Telescope
 
+
+ ![*Dobsonian telescope by Szőcs TamásTamasflex (font:Treball propi) (Licensed by CC BY-SA 3.0)*](./images/Dobsonian_telescopes_schematic.png)
+
 > *John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.* [Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
 
-The dobsonian telescope is a telescope designed for amateur astronomy. It was created in 1950 by the amateur astronomer John Dobson and we could say that it is a open source object, although the terms open source and the open source licenses did not exist at all at that time. It is easily buildable at home using cheap and common materials, and its construction does not require any special hability, and even if there are commercial models, they are modified and customized by their users. This facts encourage the constant redefining of the design of this telescope every time it is built.
+The dobsonian telescope is a telescope designed for amateur astronomy. It was created in 1950 by the amateur astronomer John Dobson and we could say that it is a open source object, although the terms open source and the open source licenses did not exist at all at that time. It is easily buildable at home using cheap and common materials, and its construction does not require any special ability, and even if there are commercial models, they are modified and customized by their users. This facts encourage the constant redefining of the design of this telescope every time it is built.
 
 This model of telescope has been distributed widely around the world and nowadays is the most used by the amateur astronomists. Thanks to the dobsonian telescope amateurs, there have done a lot of discoveries by amateur observers, like the Comet  Hale-Boop, discovered by Tom Boop on 1995.
 
@@ -104,6 +107,10 @@ http://spontaneousgenerations.library.utoronto.ca/index.php/SpontaneousGeneratio
 http://www.demos.co.uk/files/proamrevolutionfinal.pdf
 
 ### Liberator 
+
+ ![Liberator gun by Kamenev licensed as CC-BY-SA 3.0*](./images/DDLiberator2.3.jpg)
+
+ ![Parts  of Liberator 3D-printable gun, designed by Defense Distributed and   banned in US. Photo originally made at 16-05-2013 by Vvzlad,   boxoverview.com/vvzvlad/2013/liberator/ and licensed as CC-BY-SA  3.0*](./images/Liberator.3d.gun.vv.02.jpg)
 
 On the last years one of the most polemical issue relative to the open source object and its distribution has been the printed weapons. Especially It has been highly publicized case The Liberator single shot  gun.
 
@@ -119,16 +126,17 @@ http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-ar
 
 ### Readymake: Duchamp Chess Set
 
-Readymake: Duchamp Chess Set is a printable chess set based on a chess set that the dadaist artist Marcel Duchamp designed for himself. This printable set of pieces was made by Scott Kildall and Bryan Cera and they shared it on Thingiverse on the April 21st , 2014. On the September 17th, 2014 they received a letter awaring that they were infringing the intelectual property of Marcel Duchamp. After asking different lawyers and making a research about their possibilities, they've decided to remove the Duchamp Chess Set from the repository and have asked everyone else to do so.
+Readymake: Duchamp Chess Set is a printable chess set based on a chess set that the dadaist artist Marcel Duchamp designed for himself. This printable set of pieces was made by Scott Kildall and Bryan Cera and they shared it on Thingiverse on the April 21st , 2014. On the September 17th, 2014 they received a letter warning that they were infringing the intelectual property of Marcel Duchamp. After asking different lawyers and making a research about their possibilities, they've decided to remove the Duchamp Chess Set from the repository and have asked everyone else to do so.
 
 This is an example of how the open source design can be censored and pursued. If 
-you want to know more about this case you can read the detailed full story on the link under these words.
+you want to know more about this case you can read the full story at the following link.
 
 http://kildall.com/what-happened-to-the-readymake-duchamp-chess-pieces/
 
 References
 ----------------
-Some existing plateforms to distribute your content:
+Some existing platforms to distribute your content:
+
 - http://ibreobjet.org is the online collection of open source product design from the eponym collective. They're open to submissions if you follow some rules regarding the documention of your project.
 - http://gitlab.org is a code hosting plateform dedicated to open source collaboration, but they could also work as a repository for open source designs.
 - http://www.opendesk.cc/ will accept submissions of open designs that can be produced through digital fabrication mechanisms typically found in fablabs.

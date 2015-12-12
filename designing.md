@@ -3,7 +3,7 @@ Design as a process
 
 ##Skills
 
-Often design requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry and mathematics or experiences with 2d or 3d software would help you a lot at the time of beginning your design. But do not be afraid if you think that you have not enough skills, because almost all the people can design objects. Remember the times in whitch you used to built huts,  homemade bows or models made by toys like Lego. In addition, working with open source designs makes designing easier as you can do not start from the scrach.
+Often design requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry and mathematics or experiences with 2d or 3d software would help you a lot at the time of beginning your design. But do not be afraid if you think that you have not enough skills, because almost all the people can design objects. Remember the times in which you used to buid huts,  homemade bows or models made by toys like Lego. In addition, working with open source designs makes designing easier as you can do not start from the scrach.
 
 
 ##Ways of working
@@ -15,7 +15,7 @@ Do not only use computer but also work with your hand. Experimentation is an imp
 
 There are multiple tools you can use for drawing or representing your designs, from analogical traditional tools like pencil, pens, watercolours or handmade models to digital tools like vectorial drawing applications or 3D digital enviroments for moddeling. Analogical tools, of course, are useful but in order to share design efectively and fabricate them in a fast and precise way we use digital tools or software of drawing and representation.
 
-This digital software could be propietary or opensource. If you use propietary software to work in your designs its does not mean that your design is not open source. However, we recommend to be logical in your design processes.
+This digital software could be proprietary or opensource. If you use proprietary software to create your designs its does not mean that your design is not open source. However, we recommend to be consistent in your design processes. Using free/libre open source software helps making your process as well as design open.
 
 In the following pages, we will talk about diferent digital tools that you can use for your designs. Do not forget that this are not all the options you can use, only a few ones.
 
@@ -25,7 +25,7 @@ In the following pages, we will talk about diferent digital tools that you can u
  
   "*If I have seen further than others, it is by standing upon the shoulders of giants.*" Isaac Newton
 
-Sometime when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be enabled to implement some designing tactics that allows you to begin working from the work of others designer, instead start from scratch. At the same time, if you licence your design you will allow another designers to use your design, by this way, your design can stay alive, constantly improving and changing. In the following pages we are going to tell you some of the designing tactics that open source tactics allows you.
+Sometime when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be able to implement some designing tactics that allows you to begin working from the work of others designer, instead start from scratch. At the same time, if you licence your design you will allow other designers to use your design, this way your design can stay alive, constantly improving and changing. In the following pages we are going to tell you some of the designing tactics that open source tactics allows you.
 
 #### Modifing
 *To make partial changes to.* [Wiktionary](https://en.wiktionary.org/wiki/open_source)
@@ -36,7 +36,7 @@ When an object has been licenced by certain type of permisions its allows you to
 #### Adapting
  *To make suitable; to make to correspond; to fit or suit; to proportion.* [Wiktionary](https://en.wiktionary.org/wiki/adapt)
  
-One of the advantages of the open source object is that you are able tu adapt them to your own necesities (or anyone else necesities). There could be diferent reasons for adapting an object. Sometimes the reasons for adapting a design could be personal (Size, proportion, taste...). Other times the reasons for implement an adaptation are related to the fisical context (Clima, scale, materials abailable), technological context (technical knowledge and context abailable) or social context (language, religion, tradition, icons..)
+One of the advantages of the open source object is that you are able to adapt them to your own needs (or anyone elses needs). There could be diferent reasons for adapting an object. Sometimes the reasons for adapting a design could be personal (Size, proportion, taste...). Other times the reasons for implement an adaptation are related to the fisical context (Climate, scale, materials abailable), technological context (technical knowledge and context available) or social context (language, religion, tradition, icons..)
 
 
 ####Parametric design:
@@ -55,14 +55,17 @@ Another advantage of the open source objects is that they can be combined. You c
 *To produce an object identical to a given object.*
  
 Some licences allows you to copy objects. This not only allows you to copy an object for its use or for distributing it, its also enables you to use the multiple copies of this object for reaching a bigger achievements. For example you can copy an open source single ball for playing with it, or you can copy it a million of times and make a ballpool.
- 
+
+
 #### Forking
+
  The “fork” means an object having a common root with a second one. Initially twins, these two objects will separate and follow their own developments.
  
 ##### Examples of Workshop 2015 *divreved objetcs* by Libreobjet
 
  ![Lison-LibreObjet-LAL](./images/Lison-illustration.jpeg)
- 
+
+
 #### Upcycling
 Upcycling is the process of transforming by-products, waste materials, useless  and/or unwanted products into new materials or products of better quality or for better environmental value.
 
@@ -71,9 +74,9 @@ Upcycling is the process of transforming by-products, waste materials, useless  
 
 
 ### Physical production
-Since the very first industrial manufacture machine "the spinnig jenny" the human being has been looking for improving the automatic fabrication processes  in order to reach faster and more precise results. Thanks to the digital revolution that started in the middle of the previous century, nowadays we can program machines by computer to fabricate tangible object by defining them digitally. At first, this kind of technology was only accesible to professional industry, but in the last decades it has began a democratization process of this technologies, so they has began accesible for everybody.
+Since the very first industrial manufacture machine "the spinnig jenny" the human being has been looking for improving the automatic fabrication processes  in order to reach faster and more precise results. Thanks to the digital revolution that started in the middle of the previous century, nowadays we can program machines by computer to fabricate tangible object by defining them digitally. At first, this kind of technology was only available to professional industry, but in the last decades a democratization process of these technologies has started, making them accessible for everybody.
 
-Some of this tools has been reduced in size, dirtiness and noissiness, so has became, somehow, lets say, domestic. In other cases, the tools are still being  big, dirty and/or noisy, but there has appear a new kind of spaces in our cities that makes them accesible to the non professional people, like, for example, the fablabs. In the following lines we will explain you the diferent tools of digital fabrication that you can use for fabricating open source designs that has been defined digitally.
+Some of this tools has been reduced in size, dirtiness and noisiness, so has became, somehow, lets say, domestic. In other cases, the tools are still being  big, dirty and/or noisy, but there has appear a new kind of spaces in our cities that makes them accesible to the non professional people, like, for example, the fablabs. In the following lines we will explain different tools of digital fabrication that you can use for fabricating open source designs that has been defined digitally.
 
 
 #### Materials
@@ -91,7 +94,7 @@ Finally you also have to consider the tools that you need to work with the mater
 Tools
 ---------
 
-For each type of task you need to do you would find diferent tools offered. It is important to find the tools that best suits for your designs, not only technicaly but also ethicaly. That is why encougare you to use open source tools for making your open source designs. If you use, for example a propietary software for doing an open source design, as we have said before, it does not mean that your design is not open source. But if you use an open soucer tool you will ensure that anyona could work on your design without needing to pay the fees of the propietary software. In addition, you are going to be ethicaly more coerent, which is as important as the openess of the tools used.
+For each type of task you need to do you would find diferent tools offered. It is important to find the tools that best suits for your designs, not only technically but also ethically. That is why encourage you to use open source tools for making your open source designs. If you use, for example a proprietary software for doing an open source design, as we have said before, it does not mean that your design is not open source. But if you use an open source tool you will ensure that anyone can work on your design without needing to pay the fees for the proprietary software. In addition, you are going to be ethicaly more coherent, which is as important as the openess of the tools used.
 
 On the following lines we will introduce you some open source applications that you can use for designing.
 
@@ -132,6 +135,9 @@ disadvantage: CMYK output (in progress)
 
 
 **CNC router: **
+
+ ![Homemade CNC router. *by by Drigotti (CC BY-SA 3.0)*](./images/CNC_Router_ by Drigotti CC BY-SA 3.0.png)
+
 *"A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for computer numerical control. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine. They can also cut mortises and tenons.
 A CNC router is very similar in concept to a CNC milling machine. Instead of routing by hand, tool paths are controlled via computer numerical control. The CNC router is one of many kinds of tools that have CNC variants.
 A CNC router typically produces consistent and high-quality work and  improves factory productivity. Unlike a jig router, the CNC router can  produce a one-off as effectively as repeated identical production.  Automation and precision are the key benefits of cnc router tables."*
@@ -148,6 +154,8 @@ A CNC router typically produces consistent and high-quality work and  improves f
 
 **3D printing**
 
+ ![Homemade RepRap 3D printer. *by by Drigotti (CC BY-SA 3.0)*](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
+
 *"3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source."*
 
 *"3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense."*
@@ -155,10 +163,15 @@ A CNC router typically produces consistent and high-quality work and  improves f
 [Wikipedia](https://en.wikipedia.org/wiki/3D_printing)
 
 **Make your own tools**
-tradionnal woodworking tools transformed to enlarge features/functions:
-Convert milling hand router into milling router table.
+Improving your tools by yourself or making your DIY tools for doing you DIY design is another option. In the traditional woodworking this was a very common practice. Nowadays there are a lot of people that make their own tools or improving their own tools. For example the conversions of milling hand routers into a CNC routers or the fabrication of 3D printers.
+
+
 
 #### Collaborative tools
+
+**Git**
+
+ ![](./images/GitHub_logo_2013.svg)
 
 "* Git (/ɡɪt/[4]) is a widely used version control system for software development.[5] It is a distributed revision control system with an emphasis on speed,[6] data integrity,[7] and support for distributed, non-linear workflows.[8] Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005.
 As with most other distributed version control systems, and unlike most client–server systems, every Git working directory is a full-fledged repository with complete history and full version-tracking capabilities, independent of network access or a central server.[9] Like the Linux kernel, Git is free software distributed under the terms of the GNU General Public License version 2.*" [Wikipedia](https://en.wikipedia.org/wiki/Git_%28software%29)
@@ -167,8 +180,6 @@ As with most other distributed version control systems, and unlike most client�
 
 References
 -----------------
-
-[don't run beta](http://cargocollective.com/dontrun-beta)
 
 Upcyclist by Antonia Edward
 [Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
@@ -198,16 +209,16 @@ At the heart of each WikiSeat is a Catalyst. This is the  structural support, ma
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat07.jpg)
 
 
-#####Don't run beta
-
-[don't run beta](http://cargocollective.com/dontrun-beta ) 
-
 
 
 Open questions
 ----------------------
 
-- I add here another question
+Do you think that the open source licenses became designing easier for no professional people? 
+
+Do you think that the open source licenses make designing more democratic?
+
+Do you prefer starting from scratch or from existing design?
 
 
 

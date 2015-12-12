@@ -26,7 +26,7 @@ And one could hope, that what open source practices have done for software, with
 Opportunities to explore
 ----------------------------------
 ### Education
-Through the organisation of workshops, participation in lectures and any other form of knowledge transmission, a designer could get financial support for developping and grow his/her work.
+Through the organisation of workshops, participation in lectures and any other form of knowledge transmission, a designer can get financial support for developping and grow his/her work.
 
 Education of the buyer.
 Education of the editor.
@@ -70,7 +70,7 @@ Objects
 Crowdfunding campaign https://www.indiegogo.com/projects/the-mod-multivibrating-open-source-dildo#/
 
 ### Droog
-Desgin for download. http://www.droog.com/droog/all/design-for-download/
+Design for download. http://www.droog.com/droog/all/design-for-download/
 http://www.talerez.com/portfolio/box-o-rama/
 
 ### [LibreObjet](http://libreobjet.org ) 

@@ -8,13 +8,15 @@ The co-authors present at Medialab Prado were:
 - Gaizka Altuna, architect − http://
 - Julien Deswaef, media artist − http://xuv.be
 - Mathieu Gabiot, product designer − http://mathieu-g.be/
-- Martin Léveque, product designer − https://www.behance.net/martinleveque
+- Øyvind Kolås, digital media toolsmith − http://pippin.gimp.org/
+- Martin Lévêque, product designer − https://www.behance.net/martinleveque
+
 
 This book is also open source. It is published under the Free Art License 1.3. Which means that if you want to copy it, distribute it or modifiy it, you're more than welcome to do so.
 
 The source files are available at {{ book.meta.source_url }}
 
-You're reading a version that has been compiled on {{ book.meta.compilation_date }}
+You're reading a version that has been compiled on the {{ book.meta.compilation_date }} with Gitbook version {{ gitbook.version }}.
 
 Tools
 -------
@@ -39,13 +41,22 @@ Sparkleshare behaves a little like the infamous Dropbox, but uses a git reposito
 ### Gitbook-cli
 Gitbook-cli is an open source software based on Nodejs that transforms a set of markdown files and folders into different electronic book formats (pdf, epub, mobi, html). https://www.gitbook.com/
 
-### Podofo or Psutils
-Imposition tools for making signatures and folios.
+### Podofo
+Podofo is a PDF manipulation toolbox maintained by Pierre Marchand, a member of the open source graphic design studio [OSP](http://osp.kitchen) in Brrussels. Podofoimpose was used to produce a different imposition of the pdf for the home printers.
+
+### Fonts
+We used these excellent libre fonts for all editions of the book:
+ - TGL by Peter Wiegel − SIL Open Font License 1.1
+ - Open Sans by Steve Matteson − Apache License  2.0
 
 Object
 ---------
 
 [Steps to build the book at home.]
 
-
+Pictures
+------------
+{% for picture in book.pictures %}
+  1. {{ picture.list_caption }} − [p{{picture.page_level}}]({{ picture.backlink }})
+{% endfor %}
 

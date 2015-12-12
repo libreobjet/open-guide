@@ -11,7 +11,7 @@ It seems like the only thing that worries designers these days is how to protect
 If profit is the golden ratio of success stories and the prism through which design should be thought today, then this what we end up with:
 
 #### Protection
-What we learn in most design schools is all about protecting our work using patents and industrial design related rights (model and drawing deposits, etc.). There is also, of course, the default author's right applied to any "creation de l'esprit" (intellectual creations), as the french call it. Patents and deposits have a costs, are limited in time and limited by territory, unless you have almost infinite ressources.
+What we learn in most design schools is all about protecting our work using patents and industrial design related rights (model and drawing deposits, etc.). There is also, of course, the default author's right applied to any "creation de l'esprit" (intellectual creations), as the french call it. Patents and deposits have a costs, are limited in time and limited by territory, unless you have almost infinite resources.
 
 #### Obsolescence
 > Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. [Wikipedia]
@@ -33,13 +33,13 @@ A designer is a creator, an artist, who gets inspiration from a divine origin. C
 Famous designers work like big brands, where their products are fabricated on the other side of the planet to limit costs and keep prices low for the end market while keeping a comfortable margin for the producers.
 
 #### Mass production
-Design for manufacturing, where standard sizes are the norm and your products have to fit in predefined boxes. How fast can you get your porduct out and in what numbers? 
+Design for manufacturing, where standard sizes are the norm and your products have to fit in predefined boxes. How fast can you get your product out and in what numbers? 
 
 #### Design for the rich
 Quality design is a luxury product. Only the rich can access it.
 
 #### Design and technology
-Designer are always excited about the latest technology. Design for the third industrial revolution or with the latest materials from NASA. But what are we designing for?
+Designers are always excited about the latest technology. Design for the third industrial revolution or with the latest materials from NASA. But what are we designing for?
 
 Design for humans
 ---------------------------
@@ -83,10 +83,10 @@ Souvent l'acheteur « perd sa garantie » s'il manipule l'objet qu'il a acheté 
 **Why did you chose open design? 
 > because is ecodesign?**
 Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its  whole lifecycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use, and disposal.https://en.wikipedia.org/wiki/Ecodesign
-When designer is preocupated by opensource, he is surly an humanist person. So environmental aspect is an important part of his work.
+When a designer is concerned with open source, the designer surely is a humanist person. Thus environmental aspect is an important part of projects.
 - Procurement: most of the open design project's use local material
-- Manufacture: The product is construct on demande localy, you don't have to transport it fom China to Europe for exemple.
-When a person chose an openproduct, she is not a lambda customer.
+- Manufacture: The product is construct on demand locally, you don't have to transport it fom China to Europe for exemple.
+When a person chooses an openproduct, she is not a lambda customer.
 She's more in a collaborative consumption and in a sharing economy than is less 
 polluting system than productive consumption.
 https://en.wikipedia.org/wiki/Sharing_economy
@@ -99,19 +99,36 @@ Objects
 ### Open source stethoscope by Tarek Loubani
 Bypass Israel embargo on medical equipements in Gaza
 
-Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,   discusses the Palestinian struggle to bring the benefits of modern (and   sometimes not so modern) medical devices to the population of Gaza,   consequently picking a Free and open model for hardware and software   development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.
+Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,   discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a Free and open model for hardware and software   development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.
 http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
 
-###  Reprap
-A self replicating machine.
+###  [Reprap](http://reprap.org/ )
+
+
+ ![*The first Reprap and its child by Kocio (CC BY-SA 3.0)*](./images/First_replication.jpg)
+ 
+A self replicating machine. More on http://reprap.org/
 
 ### Prosthetic hands
+
+ ![*Printed prosthetic hand by Intel free press (CC BY-SA 2.0)*](./images/Printed hand.jpg)
+
 Cut down the cost of medical equipment production
+
+###[star wars stuff]( http://www.thingiverse.com/thing:391664 )
+
+More on http://www.thingiverse.com/thing:391664 )
+
+
+###[Justin Bieber dildo] (http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html )
+
+More on http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html 
+
+
 
 References
 ----------------
 
-star wars stuff( http://www.thingiverse.com/thing:391664 ), Justin Bebber dildo (http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html ),  a gun (http://www.extremetech.com/extreme/142265-the-first-open-source-3d-printed-gun )
 
 related issue : http://www.ikeahackers.net/about
 > Some  months ago I received a Cease and Desist (C&D) letter from the  agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net  has infringed upon its intellectual property rights. [...]
@@ -148,7 +165,8 @@ in french
 http://issuu.com/pierrebv/docs/victor_papanek_-_design_pour_un_monde_r_el
 
 [image source](https://en.wikipedia.org/wiki/File:Victor_Papanek.jpg)
-![Victor_Papanek-wiki](./images/Victor_Papanek.jpg)
+
+![Victor Papanek by Stephen T Rose. 1969. Source:https://en.wikipedia.org/wiki/File:Victor_Papanek.jpg  ](./images/Victor_Papanek.jpg)
 
 DIY book *Nomadic furniture vol.1*
 DIY book *Nomadic furniture vol.2*

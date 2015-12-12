@@ -28,7 +28,7 @@ Creative Commons Zero waives all copyrights attached to a work. Similar as relea
 In production and development, open source as a development model promotes universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone.   https://en.wikipedia.org/wiki/Open_source
 
 ### Licence 
-The noun license refers to that permission as well as to the document recording that permission. A license may be granted by a party    ("licensor") to another party ("licensee") as an element of an   agreement  between those parties. A shorthand definition of a license  is "an authorization (by the licensor) to use the licensed material  (by  the  licensee)."  
+The noun license refers to that permission as well as to the document recording that permission. A license may be granted by a party    ("licensor") to another party ("licensee") as an element of an agreement  between those parties. A shorthand definition of a license is "an authorization (by the licensor) to use the licensed material  (by  the  licensee)."  
 https://en.wikipedia.org/wiki/License
 
 ### Free/Libre Software
@@ -53,7 +53,7 @@ DIWO stands for Do It With Others, the somehow social approach to DIY. The idea 
 A maker is usually a white male with a subscription to the Maker Magazine. This person could also just be a regular attendee of a makerspace.
 
 ### Hacker
->   1. A person who enjoys exploring the details of programmable  systems and how to stretch their capabilities, as opposed to most http://www.collinsdictionary.com/dictionary/english/stealusers, who prefer to learn only the minimum necessary.  RFC1392, the Internet    Users' Glossary, usefully amplifies this as: A person who delights in having an    intimate understanding of the internal workings of a system, computers and computer networks in particular. 
+>   1. A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most http://www.collinsdictionary.com/dictionary/english/stealusers, who prefer to learn only the minimum necessary.  RFC1392, the Internet    Users' Glossary, usefully amplifies this as: A person who delights in having an    intimate understanding of the internal workings of a system, computers and computer networks in particular. 
 [Source The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
 
 > 6. An expert or enthusiast of any kind.  One might be an astronomy    hacker, for example.

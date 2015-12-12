@@ -17,13 +17,13 @@ Open making is a practice mainly defined by the community  around the website an
 [Source](https://openmaking.is/manifesto )
 
 #### Open design
->  Open design is the development of physical products, machines and  systems through  use of publicly shared design information. Open design   involves the  making of both free and open-source software (FOSS) as  well as  open-source hardware.  The process is generally facilitated by  the  Internet and often  performed without monetary compensation. The  goals  and philosophy are  identical to that of the open-source  movement, but  are implemented for the development of physical products  rather than  software.[5] Open design is a form of co-creation, where  the final  product is designed by the users, rather than an external  stakeholder  such as a private company.
+>  Open design is the development of physical products, machines and  systems through  use of publicly shared design information. Open design   involves the  making of both free and open-source software (FOSS) as well as open-source hardware. The process is generally facilitated by the Internet and often  performed without monetary compensation. The goals  and philosophy are identical to that of the open-source  movement, but are implemented for the development of physical products  rather than  software.[5] Open design is a form of co-creation, where  the final  product is designed by the users, rather than an external  stakeholder  such as a private company.
 [Source Wikipedia](https://en.wikipedia.org/wiki/Open_design )
 
 #### Open source design
->  Open  source design is a term coined mostly by the  graphic design community.  This thus embraces a practice more related to  the study of graphical  user interfaces for software than its physical  counter part. Maybe this  all due to the fact that "design" is such a  broad term that applies to  any action that involves making decisions or  "planning something". http://opensourcedesign.net/ 
+>  Open  source design is a term coined mostly by the  graphic design community.  This thus embraces a practice more related to the study of graphical  user interfaces for software than its physical  counter part. Maybe this all due to the fact that "design" is such a broad term that applies to  any action that involves making decisions or "planning something". http://opensourcedesign.net/ 
 
-At each chapitre of the book, to understand and illustrate what we are speaking about.
+At each chapter of the book, to understand and illustrate what we are speaking about.
 We will approach those points : tools, objects, references and open questions.
 
 Tools

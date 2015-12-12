@@ -17,9 +17,9 @@ Open source product design is a practice that comes from free and open source so
 Here are those 4 freedoms applied to objects:
 
 1. The freedom to use objects as you wish, for any purpose (freedom 0).
-2. The freedom to study how the object works, om to build it, and change it so it behaves as you wish (freedom 1). Access to the documentation, build processes and sources is a precondition for this.
+2. The freedom to study how the object works, freedom to build it, and change it so it behaves as you wish (freedom 1). Access to the documentation, build processes and sources are a precondition for this.
 3. The freedom to redistribute the documentation, build processes, sources and copies of the object so you can help your neighbor (freedom 2).
-4. The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the documentation, build processes and sources is a precondition for this.
+4. The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the documentation, build processes and sources are a precondition for this.
 
 Commercial or Non-Commercial
 ----------------------------------------------
@@ -60,34 +60,48 @@ Tools
 -------
 
 ### [Free Art License](http://artlibre.org/licence/lal/en/ ) 
-![](./images/Logo_Licence_Art_Libre.png)
+
+![Free Art License Logo](./images/Logo_Licence_Art_Libre.png)
+
 This is the prefered license used by Libre Objet members and Nonpareil. This license has been written by Antoine Moreau and friends and has originated in France. The F.A.L. is very easy to read and simple to understand. It has been written especially for works of art regardless of their type or expression and is respectful of the roman version of the author's right (as opposed to the english copyright)
 
 ### [Creative Commons](https://creativecommons.org/licenses/ ) 
-![](./images/cc.logo.large.png)
+
+![Creative Commons License Logo](./images/cc.logo.large.png)
+
 Surprise, surprise! Creative Commons is not a license. **It's a set of licenses**. We often hear: "I publish my creations under Creative Commons." as this would instantly make you a nice person. It does not. Creative Commons proposes licenses that range from total freedom to no freedom at all. Fortunately, due to their popularity, you will find countless texts and studies that explain you the use of one or the other. Their widely use could be beneficial as more and more people understand them and their implications. If you care about restricting some right to your users, Creative Commons offer you those possibilities. Though remember, because of this, some of the Creative Commons licences are not open source. Here is the only ones that you can use for open source designs:  
-- Attribution-Share Alike (CC-by-sa) ![](./images/by-sa.png)
+- Attribution-Share Alike (CC-by-sa)    ![CC-by-sa badge](./images/by-sa.png)
 - Attribution (CC-by)
 - Public Domain Dedication (CC0)
 
 ### [TAPR License](http://www.tapr.org/ohl.html ) 
+
 The Tapr Open Hardware License is a license dedicated to open hardware projects, usually electronics components involved in amateur radlio. This license could be applied to any objects and addresses the specificity of open sourcing physical object.
 
 ### [CERN](http://www.ohwr.org/projects/cernohl/wiki )
+
 > In the spirit of knowledge sharing and dissemination, the CERN Open Hardware Licence (CERN OHL) governs the use, copying, modification and  distribution of hardware design documentation, and the manufacture and distribution of products.
 
 ### [GPL](https://gnu.org/licenses/gpl.html )
+
+![GPL logo](./images/License_icon-gpl-2.svg)
+
 The Gnu General Public License is the mother of all open source licenses. It was created by Richard Stallman and has been used and released as early as 1989. This license is certainly the most popular license for free/libre and open source software, but it can also apply to the designs of objects.
 
 ### [WTFPL](http://www.wtfpl.net/ ) 
+
+![WTF Public License logo](./images/WTFPL_License_Logo,_January_2014.png)
+
 The "do What The Fuck you want Public License" is a very short and somewhat funny license that exists as a response to flame wars that often occur between partisans of one license or another. 
 
 But if you really don't give a fuss, you could be nicer to everyone by just dedicating your work to public domain through the use of a CC0 for example.
 
 ### [Peer Production License](http://p2pfoundation.net/Peer_Production_License ) 
-The Peer Production License by John Magyar, B.A., J.D. and Dmytri Kleiner is a very interesting take at the commercial / non-commercial debate that happens around open source product design. Basically, it can not be considered an open source license as it restricts freedoms on uses and distribution allowing only other commone rs, cooperatives and nonprofits to share and re-use the material, but not commercial entities who intent on making profit through the commons without explicit reciprocity. To our knowledge so far, no designs have been released under this type of license.
+
+The Peer Production License by John Magyar, B.A., J.D. and Dmytri Kleiner is a very interesting take at the commercial or non-commercial debate that happens around open source product design. Basically, it can not be considered an open source license as it restricts freedoms on uses and distribution allowing only other commone rs, cooperatives and nonprofits to share and re-use the material, but not commercial entities who intent on making profit through the commons without explicit reciprocity. To our knowledge so far, no designs have been released under this type of license.
 
 ### [FabL](https://lite6.framapad.org/p/FABL-0.1-incub-COMMENTAIRES )
+
 The Fabrication License is a new license − in the making − especially dedicated to the cases brought by growing popularity of fablabs and open source design. This license is being developped around the same community that developped the Free Art License.
 
 ### More licences...
@@ -96,9 +110,10 @@ There is many more licences that you could chose from. Some might be more suitab
 
 In the end, the strength of a license will only be tested in case of conflicts and will be determined by a ruling from a judge.
 
-
 ### Copyright 
-![](./images/Copyright.png)
+
+![Copyright Logo](./images/Copyright.png)
+
 > Copyright  is a legal right created by the law of a country that  grants  the  creator of an original work exclusive rights for its use  and   distribution. This is usually only for a limited time. The  exclusive   rights are not absolute but limited by limitations and  exceptions to   copyright law, including fair use.
 
 > Copyright  is a form of intellectual **property**, applicable to   certain forms of  **creative work**. Under US copyright law, legal   protection attaches  only to fixed    representations in a tangible med
@@ -108,7 +123,9 @@ In the end, the strength of a license will only be tested in case of conflicts a
 [Source Wikipedia](https://en.wikipedia.org/wiki/Copyright)
 
 ### Copyleft 
-![](./images/Copyleft.png)
+
+![Copyleft Logo](./images/Copyleft.png)
+
 > Copyleft (a play on the word copyright)    is the practice of offering people the right to freely distribute    copies and modified versions of a work with the stipulation that the    same rights be preserved in derivative works down the line.
 
 >   Copyleft  is a form of licensing, and can be used to maintain   copyright  conditions for works ranging from computer software, to   documents, to  art.  In general, copyright law is used by an author to   prohibit  recipients  from reproducing, adapting, or distributing  copies  of their  work. In  contrast, under copyleft, an author may give  every  person who  receives a  copy of the work permission to  reproduce,  adapt,  or  distribute it, with the accompanying requirement  that any  resulting   copies or adaptations are also bound by the same  licensing  agreement.
@@ -119,24 +136,32 @@ Objects
 -----------
 
 ### [Mmodulus](http://mmodulus.com/ )
+
+![MmodulUS ](./images/modulUS.jpg)
+
 Mmodulus, a series of modular furniture by Martina Minnucci and Juan Freire has been published using a CERN license.
 
-[**Need illustration**]
 
-### Bouctje
-Bouctje, by Mathieu Gabiot, is a small book holder published under the Free Art License.
+### [Archipel armchair](http://libreobjet.org/objects/archipel-armchair/ )  
 
-[**Need illustration**]
+![*Archipel armchair*, by Mathieu Gabiot − Free Art License ](./images/archipel.png)
+
+Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free Art License.
+
 
 ### [MicroHouse](http://opensourceecology.org/portfolio/microhouse/ ) 
+
+![*Microhouse*, by Open Source Ecology  ](./images/microhouse_32.png)
+
 MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house designed for two and has been released under a GPL License.
 
-[**Need illustration**]
 
 ### [Mozilla Open Source Furniture](http://os-furnitures.tumblr.com/ )
+
+![*Mozilla Furniture*, by Mozilla Japan, CC-by ](./images/MOZILLA.jpg)
+
 Desiged by Nosigner, elements that were used to compose the furniture for the Mozilla Office Japan have been published under CC-by license.
 
-[**Need illustration**]
 
 References
 ----------------
@@ -146,7 +171,7 @@ References
  
 Open questions
 ----------------------
-- What is your prefered license and most importantly why?
+- What is your preferred license and most importantly why?
 - Should Product designers write their own license?
 - What would be the physical representation of a license?
 - How to apply a licence to an object?
