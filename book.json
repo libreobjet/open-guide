@@ -20,7 +20,7 @@
         "pageNumbers": false,
 
         "fontSize": 10,
-        "fontFamily": "Arial",
+        "fontFamily": "OpenSans",
 
         "paperSize": "a5",
         "chapterMark" : "pagebreak",

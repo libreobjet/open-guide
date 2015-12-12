@@ -24,17 +24,16 @@ There is much debate around copying and its usually negative connotations. There
 
 A chinese copy is only an opportunity to get a low cost famous designer chair, but somehow it's is not the same as an orginal or official copy/edition in terms of emotional value.
 
-A "mental model" of design
----------------------------------------
+### A "mental model" of design
 
 #### A designer is an artist
 A designer is a creator, an artist, who gets inspiration from a divine origin. Citation from the masters is authorized, but s/he should always come with something new and original.
 
 #### Design localy, fabricate far away
-Famous designers work like a brand, where their products are fabricated on the other side of the planet to limit costs and keep prices low for the end market while keeping a comfortable margin for the producers.
+Famous designers work like big brands, where their products are fabricated on the other side of the planet to limit costs and keep prices low for the end market while keeping a comfortable margin for the producers.
 
 #### Mass production
-Design for manufacturing. How fast can you get your product out and in what numbers? 
+Design for manufacturing, where standard sizes are the norm and your products have to fit in predefined boxes. How fast can you get your porduct out and in what numbers? 
 
 #### Design for the rich
 Quality design is a luxury product. Only the rich can access it.
@@ -50,7 +49,7 @@ We are looking for a generous creative attitude where we know that an artwork is
 
 We allow ourselves to copy as a way to learn, encourage our creativity and iterate design processes.
 
-We learn from traditions, existing designs, and do not try to reinvent the wheel every time.
+We learn from traditions and existing designs, and do not try to reinvent the wheel every time.
 
 We don't focus our designs on revenues but see it as a service for society. 
 
@@ -58,60 +57,28 @@ We choose the free/libre way because we can rely on a community for help, co-wor
 
 We are not afraid of being copied.
 
-We want a close relationship with our users, turn them into active contributors of the whole process and get objective feedback 
+We want a close relationship with our users, turn them into active contributors and get objective feedback.
 
-We 
+We want to challenge the status quo and break social barriers.
 
-End User:
-you can change the role of the final user
-/// Oui, le consommateur n'est plus juste un utilisateur passif et peut devenir lui même créateur, producteur, réparateur. Il a tous les outils pour le devenir. Les licences libres invitent à la curiosité, à l'apprentissage et au partage des connaissances. Encore faut-il que l'acheteur aie conscience du caractère « libre » de ce qu'il achète.
-Le consommateur peut s'approprier un objet, en faire un usage différent ou l'adapter à ses propres besoins. Cet acquis généralement admis pour tout ce qu'on achète n'est plus aussi vrai aujourd'hui.////
+We think of product design as a process, as communication, as information, and it wants to be free.
 
-You can keep control on your design regarding copyright, because with the copyleft attitude, the exclusive appropriation is not possible. For example, if you design a chair with an opensource license, Ikea can be interested to produce and sell your design, but only with the same conditions as defined by the license. That means, you or another compagny can also sell or distribute your design. A totally different way of the traditional exclusive distributing design. Compagny might be not interested by selling product also distributing by a competitor.
+We know open source licensing is a key in upcycling and a legal framework for cradle to cradle thinking.
 
-Your design can be more spread around the world and give the opportunity to use or adapt it for people in developing countries for example. This is about democratisation.
+We don't have one size fits all so here's our files to make it fit for you.
 
-You are speciliazed in custom made design, so why not sharing your design ?
-It can be reused, remixed in another place/country, in another context...You can democratized your work in that way. Why not ask for fees if people abroad need some help to adapt the design?
+We are not looking for perfection but know we have a better chance of acheiving if we work together.
 
-I don't know if it's interesting or in the right place, maybe more in the economical part, but choosing opensource can be an alternative to this or another way to spread design 
+If you can't modify it, repair it or improve it, you don't own it and this makes us angry.
 
-Classic Design Editors > it is about royalties revenues (3 to 5%)
-When you are young designer you might be interested to work for an editor, it is not easy.
-You need experiences, it take time, you need connections, network, visit fairs around the world...time, energy, money and the chance to work with is low.
 
-New kind of plateform for designers to consummers
-http://monoqi.com/en/bestseller-shop.html
-...
-article on it : http://www.domusweb.it/en/design/2012/12/17/d2c-generation.html
 
-Designers with their own webshop: 
-edited by many brand, but sell his design product on his side (may have a contract with)
-http://shop.sylvainwillenz.com/
-...
+opter pour une licence libre permet de garantir le respect et la protection du droit d'auteur, tout en assurant sa visibilité et sa diffusion.
 
-keywords
-Obsolescence, waste, vernacular, adaptability, control, tactics, democratisation, unfinished, modifying, sharing, useful or not, ecology, forking, necessity, resilience, adapting, amatorism,  education, experimentation, starting from zero, appropriation, remixing, weapons, sextoys, remixing, upcycling...
-
-Context 
-
-Pourquoi avoir décidé de donner une dimension "libre" à votre travail et qu'entendez-vous, selon vos pratiques et votre approche, par justement cette licence libre mise sur les objets ? Que permet-elle ? En quoi cela modifie-t-il le design et la conception d'objets, de meubles, etc ?
-
-Publier un objet sous licence libre est une forme d'alternative à la protection traditionnelle des objets de type dépôt de modèle, de brevet. Étant donné leur caractère limitatif (durée, territoires) et leur coûts relativement importants, opter pour une licence libre permet de garantir le respect et la protection du droit d'auteur, tout en assurant sa visibilité et sa diffusion. Le dépôt de brevet n’empêche pas la copie, les grands groupes dépensent des fortunes en procès pour lutter contre. Assumer la copie permet de se libérer de cette contrainte. Une copie chinoise n'est de toute façon pas la même chose qu'une copie officielle en terme de valeur émotionnelle.
 L'utilisation de licences libres change aussi le mode de production, de conception et de fabrication d'un objet. Le travail de designer demande énormément de qualités et de savoir-faire. Un seul objet peut prendre des années à se concevoir et requiert de multiples compétences. Souvent, plusieurs personnes interviennent dans le design d'un seul objet. Le fait de publier sous licence libre ouvre la possibilité de travailler à plusieurs, à distance et de manière ouverte par des jeux de cycles publication-modification successifs.
-L'idée est également de faire vivre en d'autres lieux, des projets souvent dessinés pour des contextes particuliers et pour une durée plus ou moins limitée et de permettre ainsi à d'autres d'utiliser et de s'approprier ces designs.
-La question de la copie est dans le milieu du design souvent un tabou, une crainte. L’attitude que nous recherchons se veut créative généreuse ou l’on reconnaît que toute œuvre est par nature dérivée.
-L'inspiration est partout. Permettre la copie c'est favoriser la création, accélérer le processus de conception, cela permet de ne pas ré-inventer la roue à chaque nouveau projet. C'est aussi un choix politique, un positionnement éthique.
-Aussi le collectif Libre Objet nous permet d’expérimenter plus, en nous affranchissant de certainescontraintes de commande, de créer des outils et des plate-formes de publication de ces objets, d’organiser des ateliers et de participer à des événements liés au design.
 
-Qu'est-ce que ça change pour la personne qui achète l'objet, ou le construit lui-même dans sa relation avec les objets (dépasse-t-on l'opposition classique consommateur/producteur) ?
-
-Oui, le consommateur n'est plus juste un utilisateur passif et peut devenir lui même créateur, producteur, réparateur. Il a tous les outils pour le devenir. Les licences libres invitent à la curiosité, à l'apprentissage et au partage des connaissances. Encore faut-il que l'acheteur aie conscience du caractère « libre » de ce qu'il achète.
 Le consommateur peut s'approprier un objet, en faire un usage différent ou l'adapter à ses propres besoins. Cet acquis généralement admis pour tout ce qu'on achète n'est plus aussi vrai aujourd'hui.
-Souvent l'acheteur « perd sa garantie » s'il manipule l'objet qu'il a acheté ou en fait une utilisation inappropriée. Au pire, il risque même des poursuites judiciaires dans certains cas. Avec les objets libres, nous revendiquons le plein pouvoir de l'acheteur sur ce qu'il a acquis. Et même plus. Les objets produits en grandes séries répondent-ils exactement aux attentes de chacun, de manière universelle? Ou se situe ma liberté d'action ?
-Si un acheteur / modificateur souhaite partager son adaptation et en faire bénéficier à la communauté, grâce aux licences libres, la redistribution est autorisée, même pour une utilisation commerciale.
-Combien d'objets achetez vous aujourd'hui que vous pouvez modifier et revendre ?
-Cette approche des objets par les licences, n'est pas uniquement dans un but pratique, mais permet aussi à l'acheteur de prendre conscience des implications « sociales » de son geste et de pouvoir agir dessus.
+Souvent l'acheteur « perd sa garantie » s'il manipule l'objet qu'il a acheté ou en fait une utilisation inappropriée. Au pire, il risque même des poursuites judiciaires dans certains cas. Avec les objets libres, nous revendiquons le plein pouvoir de l'acheteur sur ce qu'il a acquis. 
 
 **Why did you chose open design? 
 > because is ecodesign?**
@@ -140,7 +107,6 @@ A self replicating machine.
 
 ### Prosthetic hands
 Cut down the cost of medical equipment production
-
 
 References
 ----------------

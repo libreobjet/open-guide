@@ -99,3 +99,12 @@ Peering,  which replaces hierarchical models with a more collaborative forum.  T
 Sharing,  which is a less proprietary approach to (among other  things) products,  intellectual property, bandwidth, scientific knowledge
 Acting  globally, which involves embracing globalization and ignoring   "physical and geographical boundaries" at both the corporate and   individual level."*-[Wikipedia](https://en.wikipedia.org/wiki/Wikinomics)
 
+New kind of plateform for designers to consummers
+http://monoqi.com/en/bestseller-shop.html
+...
+article on it : http://www.domusweb.it/en/design/2012/12/17/d2c-generation.html
+
+Designers with their own webshop: 
+edited by many brand, but sell his design product on his side (may have a contract with)
+http://shop.sylvainwillenz.com/
+
