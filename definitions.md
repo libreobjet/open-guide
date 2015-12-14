@@ -31,6 +31,8 @@ Tools
 
 - [Wikipedia](http://wikipedia ) is a collaborative user-edited encyclopedia. It is fantastic tool for an ever evloving consensus on definitions.
 
+- [Manifestos](https://en.wikipedia.org/wiki/Manifesto ) A manifesto is a published verbal declaration of the intentions,  motives, or views of the issuer, be it an individual, group, political  party or government.
+
 Objects
 -----------
 Here we will give some example of project to illustrate the meaning...

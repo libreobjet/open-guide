@@ -48,6 +48,7 @@ Propositions for the title of the book.
 - Product design that does not suck
 - What The Fuck Product Design
 - Open Porn Design
+- Open source product design: Not your usual fork.
 
 License
 -----------

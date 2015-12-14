@@ -18,7 +18,7 @@ What we learn in most design schools is all about protecting our work using pate
 Of which there is the now famous planned obsolescence with the sole intention of increasing sales volume and producing garbage.
 
 #### Copy & anti-copy
-> The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law.  [Wikipedia](https://en.wikipedia.org/wiki/Copying )
+> The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law. [Wikipedia](https://en.wikipedia.org/wiki/Copying )
 
 There is much debate around copying and its usually negative connotations. There is "illegal copies" which could harm you or the author, the dillusional control over copiers and the hypocricy of some education systems who tend to punish copying but ask students to recite what they have learned. Copy is also invariably associated with stealing, thanks to the entertainment industry, although those two are very different concepts.
 
@@ -67,11 +67,13 @@ We know open source licensing is a key in upcycling and a legal framework for cr
 
 We don't have one size fits all so here's our files to make it fit for you.
 
-We are not looking for perfection but know we have a better chance of acheiving if we work together.
+We are not looking for perfection but know we have a better chance of acheiving it if we work together.
 
 If you can't modify it, repair it or improve it, you don't own it and this makes us angry.
 
+Opting for a libre license ensures respect for author and the protection of its rights as author, while insuring visibility and dissemination.
 
+Using libre licenses
 
 opter pour une licence libre permet de garantir le respect et la protection du droit d'auteur, tout en assurant sa visibilité et sa diffusion.
 

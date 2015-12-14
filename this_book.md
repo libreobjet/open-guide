@@ -12,7 +12,7 @@ The co-authors present at Medialab Prado were:
 - Martin Lévêque, product designer − https://www.behance.net/martinleveque
 
 
-This book is also open source. It is published under the Free Art License 1.3. Which means that if you want to copy it, distribute it or modifiy it, you're more than welcome to do so.
+This book is also open source. It is published under the Free Art License 1.3. Which means that if you want to copy it, distribute it or modify it, you're more than welcome to do so.
 
 The source files are available at {{ book.meta.source_url }}
 
@@ -27,7 +27,7 @@ We used this toolchain of free/libre and open source softwares to bring the book
 Etherpad is a browser based text editor that allows many people to write together in real-time on the same page. http://etherpad.org/
 
 ### Markdown
-We used the markdown syntax as it is very easy-to-write and easy-to-read plaintext format that can be converted in HTML while keeping this structured. http://daringfireball.net/projects/markdown/
+We used the markdown syntax as it is very easy-to-write and easy-to-read plaintext format that can be converted in HTML while keeping it structured. http://daringfireball.net/projects/markdown/
 
 ### Bash
 Bash is a shell scripting language available on *nix systems. A small bash script was used to download and regularly backup all the texts that were written in etherpads. https://www.gnu.org/software/bash/
@@ -64,11 +64,17 @@ Pictures
 How to bind a physical copy
 ----------------------------------------
 
-As we have said this is a book licensed with a Free Art License 1.3. so you can modify, copy and distribute it, not only in digitaly but also phisicaly. There are a lot of ways of printing and binding this book. On the following lines we explain how we have made it, if you got a different way of doing it, you are, of course, free for doing it. If you have bind your copy in a new way we would like to encourage you to attach  the instruction to the book.
+As we have said this is a book licensed with a Free Art License 1.3. so you can modify, copy and distribute it, not only in digitally but also physically. There are a lot of ways of printing and binding this book. On the following lines we explain how we have made it, if you got a different way of doing it, you are, of course, free for doing it. If you have bind your copy in a new way we would like to encourage you to attach  the instruction to the book.
 
 ##Early prototype, a fast and cheap way
 
 We used this way of binding for making our earliest prototype, but as it is a very fast and cheap way you can use if you do not want to waste a lot of time and money fabricating your copy or if you need to make a lot of copies.
+
+Materials and tools:
+-Din A4 folios (12-20, depending the version of the book)
+-An Din A4 Printer 
+-Staples (1 or 2 per copy)
+-Stapler
 
 >Step 1
 >Print the book in booklet mode. You can use a software like *Bookletimposer* for sorting the pages in a correct way.
@@ -77,14 +83,38 @@ We used this way of binding for making our earliest prototype, but as it is a ve
 >Fold the pages 
 
 >Step 3
->Put a stample in the middle.
+>Put a staple in the middle.
 
 
 ##Advanced prototype, cute but cheap way
 
-We used this way of binding for making our last prototype on the workshop Interactivos?'15.
+We used this way of binding for making our last prototype on the workshop Interactivos?'15. This version is a little bit more sophisticated than the previous one, but is also affordable by anyone and is possible its fabrication using common tools.
 
->
+Materialas:
+
+-Din A4 sized folios (12-20, depending the version of the book)
+-Din A4 sized Cardboards
+-An Din A4 Printer 
+-A drill for spiral binding or a minidrill
+-Thread 
+-A needle
+
+
+>Step 1
+>Print the book in booklet mode. You can use a software like *Bookletimposer* for sorting the pages in a correct way.
+
+>Step2
+>Add a cardboard on top of printed booklet to use it as cover
+
+>Step3
+>Fold pages, including cardboard, in half along the center of shortest axis.
+ 
+>Step4
+>Use a minidrill to create holes along the spine.
+
+>Step5
+Use thread and neddle to bind the book using pre-drilled holes.
+
 
 
 
