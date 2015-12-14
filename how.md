@@ -5,7 +5,7 @@ This book was initiated by Libre Objet and brought to life by a collective of cr
 
 The co-authors present at Medialab Prado were:
 
-- Gaizka Altuna, architect − http://
+- Gaizka Altuna, architect − http://m-etxea.com/
 - Julien Deswaef, media artist − http://xuv.be
 - Mathieu Gabiot, product designer − http://mathieu-g.be/
 - Øyvind Kolås, digital media toolsmith − http://pippin.gimp.org/
@@ -59,4 +59,34 @@ Pictures
 {% for picture in book.pictures %}
   1. {{ picture.list_caption }} − [p{{picture.page_level}}]({{ picture.backlink }})
 {% endfor %}
+
+
+How to bind a physical copy
+----------------------------------------
+
+As we have said this is a book licensed with a Free Art License 1.3. so you can modify, copy and distribute it, not only in digitaly but also phisicaly. There are a lot of ways of printing and binding this book. On the following lines we explain how we have made it, if you got a different way of doing it, you are, of course, free for doing it. If you have bind your copy in a new way we would like to encourage you to attach  the instruction to the book.
+
+##Early prototype, a fast and cheap way
+
+We used this way of binding for making our earliest prototype, but as it is a very fast and cheap way you can use if you do not want to waste a lot of time and money fabricating your copy or if you need to make a lot of copies.
+
+>Step 1
+>Print the book in booklet mode. You can use a software like *Bookletimposer* for sorting the pages in a correct way.
+
+>Step2
+>Fold the pages 
+
+>Step 3
+>Put a stample in the middle.
+
+
+##Advanced prototype, cute but cheap way
+
+We used this way of binding for making our last prototype on the workshop Interactivos?'15.
+
+>
+
+
+
+
 

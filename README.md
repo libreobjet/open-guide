@@ -24,7 +24,7 @@ Sections
 6. [Economics]( https://mathieugabiot.titanpad.com/34 )
 7. [Proposition]( https://mathieugabiot.titanpad.com/30 )
 8. [This book]( https://xuv.titanpad.com/3 )
-9.[Glossary]( https://xuv.titanpad.com/1 )
+9. [Glossary]( https://xuv.titanpad.com/1 )
 
 
 Production schedule
@@ -52,4 +52,15 @@ Propositions for the title of the book.
 License
 -----------
 [Free Art License 1.3](http://artlibre.org/licence/lal/en/ )
+
+Help
+------
+
+### Legal
+We would appreciate if any lawyer specialized in IP rights could have a look at these questions: https://xuv.titanpad.com/5 
+
+### Illustration / Graphic design
+Any graphic designer or illustrator willing to give a hand making this book beautiful. We would appreciate.
+
+Credits given and eternal gratitude for any input, suggestion, councel or support.
 

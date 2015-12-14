@@ -7,3 +7,4 @@
 * [Economies](economics.md)
 * [Propositions](definitions.md)
 * [This book](how.md)
+* [Glossary](GLOSSARY.md)
