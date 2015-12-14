@@ -67,6 +67,7 @@ Some licences allows you to copy objects. This not only allows you to copy an ob
 
 
 #### Upcycling
+
 Upcycling is the process of transforming by-products, waste materials, useless  and/or unwanted products into new materials or products of better quality or for better environmental value.
 
  
@@ -98,27 +99,29 @@ For each type of task you need to do you would find diferent tools offered. It i
 
 On the following lines we will introduce you some open source applications that you can use for designing.
 
+
 #### Software Opensource for designing objects DAO/CAO
-- Librecad: LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation is free from our large, dedicated community of users, contributors and developers. 
+
+-**Librecad**: LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation is free from our large, dedicated community of users, contributors and developers. 
 advantage: close to autocad
 disadvantage: 
 
-- Freecad: FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modelingallows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is open-source and highly customizable, scriptable and extensible.
+-**Freecad**: FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modelingallows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is open-source and highly customizable, scriptable and extensible.
 FreeCAD is multiplatfom (Windows, Mac and Linux), and reads and writes many open file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
 advantage: parametric, graphic aided user interface
 disadvantage: hard development, not stable
 
-- opencad: OpenSCAD is a software for creating solid 3D CAD models. It is free software and available for Linux/UNIX, Windows and Mac OS X. Unlike most free software for creating 3D models (such as Blender) it does not focus on the artistic aspects of 3D modelling but instead on the CAD aspects. Thus it might be the application you are looking for when you are planning to create 3D models of machine parts but pretty sure is not what you are looking for when you are more interested in creating computer-animated movies.
+-**Opencad**: OpenSCAD is a software for creating solid 3D CAD models. It is free software and available for Linux/UNIX, Windows and Mac OS X. Unlike most free software for creating 3D models (such as Blender) it does not focus on the artistic aspects of 3D modelling but instead on the CAD aspects. Thus it might be the application you are looking for when you are planning to create 3D models of machine parts but pretty sure is not what you are looking for when you are more interested in creating computer-animated movies.
 advantage:
 disadvantage: 
 
-- Blender: Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process.
+-**Blender**: Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process.
 Blender is cross-platform and runs equally well on Linux, Windows and Macintosh computers. Its interface uses OpenGL to provide a consistent experience.
 advantage: multi-platform, really stable, light, huge community, updated often, lot of tutorials, documentation
 disadvantage: complex, 3d abstract appraoch
 
 
-- inskape: Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
+-**Inskape**: Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
 advantage: multi-platform, easy to use, really stable, light, large community, updated, lot of tutorials, documentation
 disadvantage: CMYK output (in progress)
 
@@ -126,7 +129,8 @@ disadvantage: CMYK output (in progress)
 [image source](https://www.flickr.com/photos/eager/13614572614/in/photolist-qifQQT-qzwM1c-qihunx-pCWgpH-qi8Rrq-qxqnCu-qihu1k-qzCG61-qxqnzJ-qi9xM7-qihsNR-qi8R65-qihsXP-pCWhBc-pCGUk5-qihttZ-qzwN9K-qxqmRj-qi8S11-mK3tGM-mK3rER-mK3urF-mK3t42-mK5h2Y-mK3pQ8-mK5f7A-mK5dUL-mK5d4Y-mK3wpD-mK5iFu-mK3wmz-mK3yJ8-mK5hrq-dxzXMu-9UVoLE-aoH6tk-aoH6hV-aoH6nZ-aoKQrS-5AhkAm-ncuMtD-nUkGJM-5AhkA3-5AhkAd-5AhkzW-5AhkAj-pedNPo-6yUh2E-a1FL3k-7LyVWw )
 ![創盟國際-cc-by](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
 
-- Vector graphics:
+-**Vector graphics**:
+
 *is the use of geometrical primitives such as points, lines, curves, and shapes or polygons—all of which are based on mathematical expressions—to represent images in computer graphics.  Vector graphics are based on vectors (also called paths), which lead  through locations called control points or nodes. Each of these points  has a definite position on the x and y axes of the work plane and  determines the direction of the path; further, each path may be assigned  a stroke color, shape, thickness, and fill. These properties don't  increase the size of vector graphics files in a substantial manner, as  all information resides in the document's structure, which describes  solely how the vector should be drawn.* https://en.wikipedia.org/wiki/Vector_graphics#Standards
 
 
@@ -149,6 +153,7 @@ A CNC router typically produces consistent and high-quality work and  improves f
 [Wikipedia](https://en.wikipedia.org/wiki/CNC_router)
 
 **Laser cutter**
+
 *"Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. A typical commercial laser for cutting materials would involve a motion control system to follow a CNC or G-code of the pattern to be cut onto the material. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish. Industrial laser cutters are used to cut flat-sheet material as well as structural and piping materials."*
 [Wikipedia](https://en.wikipedia.org/wiki/Laser_cutting)
 
@@ -171,7 +176,7 @@ Improving your tools by yourself or making your DIY tools for doing you DIY desi
 
 **Git**
 
- ![](./images/GitHub_logo_2013.svg)
+ ![GitHub Logo](./images/GitHub_logo_2013.svg)
 
 "* Git (/ɡɪt/[4]) is a widely used version control system for software development.[5] It is a distributed revision control system with an emphasis on speed,[6] data integrity,[7] and support for distributed, non-linear workflows.[8] Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005.
 As with most other distributed version control systems, and unlike most client–server systems, every Git working directory is a full-fledged repository with complete history and full version-tracking capabilities, independent of network access or a central server.[9] Like the Linux kernel, Git is free software distributed under the terms of the GNU General Public License version 2.*" [Wikipedia](https://en.wikipedia.org/wiki/Git_%28software%29)
@@ -181,7 +186,8 @@ As with most other distributed version control systems, and unlike most client�
 References
 -----------------
 
-Upcyclist by Antonia Edward
+If you want to know more about upcycling we recomend the book Upcyclist by Antonia Edward.
+
 [Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
 
 Objects
@@ -201,11 +207,17 @@ At the heart of each WikiSeat is a Catalyst. This is the  structural support, ma
 [Wikiseat](http://www.wikiseat.org/about/)
 
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat01.jpg)
+
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat02.jpg)
+
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat03.jpg)
+
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat04.jpg)
+
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat05.jpg)
+
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat06.jpg)
+
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat07.jpg)
 
 

@@ -56,7 +56,7 @@ Original  social design initiatives in the past like furnitures of Gerrit  Rietv
 
 Tools
 -------
- Goteo
+ - Goteo
  *"At first glance, Goteo is a platform for civic crowdfunding and  collaboration on citizen initiatives and social, cultural, technological  and educational projects. Goteo has replicas and alliances in several  countries, thanks to its open source code as well as the awards and  international recognition it has gathered since 2011. It is a tool for  generating resources ‘drop by drop’ for a community of communities  consisting of over 65,000 people, with a funding success rate over 70%. 
 But in reality, Goteo is so much more. There is a non-profit  foundation (with consequent tax advantages for donors) behind the  platform, and a multidisciplinary team developing tools and services for  co-creation and collective funding. Our commons mission is tightly  linked to principles of transparency, progress and societal improvement." [Goteo.org](https://en.goteo.org/about)
 
@@ -76,8 +76,7 @@ http://www.talerez.com/portfolio/box-o-rama/
 ### [LibreObjet](http://libreobjet.org ) 
 Libre Objet is a collective of designers that sustains itself by giving talks and workshops about the practice of open source product design. Members of the collective share their designs using open source licenses. The collective is 
 
-### [Mmodulus](http://mmodulus.com/ ) 
-[Talk to Mantina about her economic modelr]
+
 
 ### [Nonpareil](https://nonpareil.be )
 With their serie *Autour du trait*, Nonpareil sells their open source designs at different steps of construction. For different prices you can purchase a piece from just the pdf download, a rough build, a classic finish or even a customization of the object itself.

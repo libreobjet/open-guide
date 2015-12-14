@@ -36,16 +36,16 @@ Bash is a shell scripting language available on *nix systems. A small bash scrip
 Git, todays's most famous version control system, was used to keep tracks of the text changes and to sync those with an online repository held at Github. http://www.git-scm.com/
 
 ### Sparkleshare
-Sparkleshare behaves a little like the infamous Dropbox, but uses a git repository as a backend. This tool made it easier to sync files and folders between computers, while keeping track of changes and without having anyone to learn how Git works. http://sparkleshare.org/  
+Sparkleshare behaves a little like the infamous Dropbox, but uses a git repository as a backend. Created by Hylke Bons, this tool made it easier to sync files and folders between computers, while keeping track of changes and without having anyone to learn how Git works. http://sparkleshare.org/  
 
 ### Gitbook-cli
 Gitbook-cli is an open source software based on Nodejs that transforms a set of markdown files and folders into different electronic book formats (pdf, epub, mobi, html). https://www.gitbook.com/
 
 ### Podofo
-Podofo is a PDF manipulation toolbox maintained by Pierre Marchand, a member of the open source graphic design studio [OSP](http://osp.kitchen) in Brrussels. Podofoimpose was used to produce a different imposition of the pdf for the home printers.
+Podofo is a PDF manipulation toolbox creatid by Pierre Marchand, member of the open source graphic design studio [OSP](http://osp.kitchen) in Brussels. Podofoimpose was used to produce a different imposition of the pdf for the home printers.
 
 ### Fonts
-We used these excellent libre fonts for all editions of the book:
+We use these excellent libre fonts in the book:
  - TGL by Peter Wiegel − SIL Open Font License 1.1
  - Open Sans by Steve Matteson − Apache License  2.0
 

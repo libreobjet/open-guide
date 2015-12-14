@@ -32,7 +32,6 @@ Production schedule
 
 We mainly work from 10:00 to 20:00 CET (Madrid).
 
- - From the 4th of December to the 9th: writing
  - From the 10th of December to the 14th: layout / illustrations
  - 15th and 16th of December: printing and exhibition
 
@@ -53,9 +52,4 @@ Propositions for the title of the book.
 License
 -----------
 [Free Art License 1.3](http://artlibre.org/licence/lal/en/ )
-
-TODO
----------
-- Correct typo onr Martin's name "LévEque" with a &circ;
-
 

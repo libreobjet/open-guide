@@ -50,13 +50,13 @@ http://www.do-it-yourself.cz/
 DIWO stands for Do It With Others, the somehow social approach to DIY. The idea here is to build things by sharing knowledge, usually in a space such as makerspace or fablab that encourages these practices.
 
 ### Maker
-A maker is usually a white male with a subscription to the Maker Magazine. This person could also just be a regular attendee of a makerspace.
+A maker is usually a white male with a subscription to the Make Magazine. This person could also just be a regular attendee of a makerspace.
 
 ### Hacker
->   1. A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most http://www.collinsdictionary.com/dictionary/english/stealusers, who prefer to learn only the minimum necessary.  RFC1392, the Internet    Users' Glossary, usefully amplifies this as: A person who delights in having an    intimate understanding of the internal workings of a system, computers and computer networks in particular. 
+>   1. A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most http://www.collinsdictionary.com/dictionary/english/stealusers, who prefer to learn only the minimum necessary.  RFC1392, the Internet Users' Glossary, usefully amplifies this as: A person who delights in having an    intimate understanding of the internal workings of a system, computers and computer networks in particular. 
 [Source The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
 
-> 6. An expert or enthusiast of any kind.  One might be an astronomy    hacker, for example.
+> 6. An expert or enthusiast of any kind.  One might be an astronomy hacker, for example.
 [Source The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
 
 > 7. One who enjoys the intellectual challenge of creatively    overcoming or circumventing limitations.
