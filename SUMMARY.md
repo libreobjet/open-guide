@@ -6,5 +6,5 @@
 * [Distributions](distribution.md)
 * [Economies](economics.md)
 * [Propositions](definitions.md)
-* [This book](how.md)
+* [This book](this_book.md)
 * [Glossary](GLOSSARY.md)

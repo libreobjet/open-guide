@@ -17,8 +17,8 @@ wget -q https://mathieugabiot.titanpad.com/ep/pad/export/39/latest?format=txt -O
 echo "Fetching Glossary"
 wget -q https://xuv.titanpad.com/ep/pad/export/1/latest?format=txt -O GLOSSARY.md
 echo "Fetching Preface"
-wget -q https://xuv.titanpad.com/ep/pad/export/2/latest?format=txt -O preface.md
+wget -q https://xuv.titanpad.com/ep/pad/export/2/latest?format=txt -O introduction.md
 echo "Fetching How"
-wget -q https://xuv.titanpad.com/ep/pad/export/3/latest?format=txt -O how.md
+wget -q https://xuv.titanpad.com/ep/pad/export/3/latest?format=txt -O this_book.md
 
 echo "Done."
