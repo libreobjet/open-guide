@@ -2,7 +2,8 @@
 		"title": "Open guide to open objects",
 		"language": "en",
 		"structure": {
-			"readme": "preface.md"
+			"readme": "preface.md",
+			"glossary": ""
 		},
 		 "variables": {
 				"meta": {
