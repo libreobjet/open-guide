@@ -16,7 +16,8 @@ For each section, we've tried to keep a similar structure that is divided as fol
 
 - A bit of **theory**, where we define, explain and develop concepts from our point of view.
 - Then a list of **tools** that are related to that section. As designers, we are not only producing objects, we are also building an intimate relation with the tools we are using.
-- After this comes a series of open source **objects** that we think best represent what the chapter is about. We hope they both work as examples and inspiration.
+- After this comes a series of open source **objects** that we think best represent what the chapter is about.
+- A section called **Inspiration** will point you to a wide variety of projects, examples, authors, theories,… that should be food for thoughts.
 - And we finish with **open questions**, for us and for you, to think further about these  practices and help us define the future of it.
 
 

@@ -114,8 +114,8 @@ http://www.demos.co.uk/files/proamrevolutionfinal.pdf
 
 On the last years one of the most polemical issue relative to the open source object and its distribution has been the printed weapons. Especially It has been highly publicized case The Liberator single shot  gun.
 
-> *The  Liberator is a physible, 3D-printable single shot handgun, the first such printable firearm design made widely available online. The open source firm Defense Distributed  designed the gun and released the plans on the Internet on May 6, 2013. The plans were downloaded over 100,000  times in the two days before the US Department of State demanded that Defense Distributed retract the plans.
-The  plans for the gun remain hosted across the Internet and are available at file sharing websites like The Pirate Bay.* [Wikipedia] (https://en.wikipedia.org/wiki/Liberator_%28gun%29)
+> The  Liberator is a physible, 3D-printable single shot handgun, the first such printable firearm design made widely available online. The open source firm Defense Distributed  designed the gun and released the plans on the Internet on May 6, 2013. The plans were downloaded over 100,000  times in the two days before the US Department of State demanded that Defense Distributed retract the plans.
+The  plans for the gun remain hosted across the Internet and are available at file sharing websites like The Pirate Bay.  −[Wikipedia] (https://en.wikipedia.org/wiki/Liberator_%28gun%29)
 
 The Liberator Gun was a really polemic case. It does not only create  discusions about the ethics of what could be built using the new domestic 3D printers but also about the distribution of the blueprints and instructions of the objects and artifacts that could be printed.
 
@@ -133,8 +133,8 @@ you want to know more about this case you can read the full story at the followi
 
 http://kildall.com/what-happened-to-the-readymake-duchamp-chess-pieces/
 
-References
-----------------
+Inspiration
+---------------
 Some existing platforms to distribute your content:
 
 - http://ibreobjet.org is the online collection of open source product design from the eponym collective. They're open to submissions if you follow some rules regarding the documention of your project.

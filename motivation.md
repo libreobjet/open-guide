@@ -73,22 +73,20 @@ If you can't modify it, repair it or improve it, you don't own it and this makes
 
 Opting for a libre license ensures respect for author and the protection of its rights as author, while insuring visibility and dissemination.
 
-Using libre licenses
+Using libre licenses changes too the modes of production, conception and manufacturing of an object. Designer's work requires lots of skills and expertise. A single object can take years to develop, requiring multiple skills. Often, several people contribute to the design of an object. Publishing an object using libre licenses opens the possibility of working with others, local or remote, using several consecutive publication-modification cycles.
 
-opter pour une licence libre permet de garantir le respect et la protection du droit d'auteur, tout en assurant sa visibilité et sa diffusion.
+Cosumers can appropriate an object, and make a different use of it or adapt it to their own needs. Even though this scenario could be desirable for everything, it is not true today. Usually objects have a label "Warranty void if manipulated by user or made an inappropriate use of it". In the worst cases, there can be legal backlash too. With libre objects, we reclaim the rights adquired by final users. 
 
-L'utilisation de licences libres change aussi le mode de production, de conception et de fabrication d'un objet. Le travail de designer demande énormément de qualités et de savoir-faire. Un seul objet peut prendre des années à se concevoir et requiert de multiples compétences. Souvent, plusieurs personnes interviennent dans le design d'un seul objet. Le fait de publier sous licence libre ouvre la possibilité de travailler à plusieurs, à distance et de manière ouverte par des jeux de cycles publication-modification successifs.
-
-Le consommateur peut s'approprier un objet, en faire un usage différent ou l'adapter à ses propres besoins. Cet acquis généralement admis pour tout ce qu'on achète n'est plus aussi vrai aujourd'hui.
-Souvent l'acheteur « perd sa garantie » s'il manipule l'objet qu'il a acheté ou en fait une utilisation inappropriée. Au pire, il risque même des poursuites judiciaires dans certains cas. Avec les objets libres, nous revendiquons le plein pouvoir de l'acheteur sur ce qu'il a acquis. 
+¿?¿?¿? (That sentence doesn't sound right to mee!!!!!!!!
+Avec les objets libres, nous revendiquons le plein pouvoir de l'acheteur sur ce qu'il a acquis. 
 
 **Why did you chose open design? 
 > because is ecodesign?**
-Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its  whole lifecycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use, and disposal.https://en.wikipedia.org/wiki/Ecodesign
-When a designer is concerned with open source, the designer surely is a humanist person. Thus environmental aspect is an important part of projects.
-- Procurement: most of the open design project's use local material
-- Manufacture: The product is construct on demand locally, you don't have to transport it fom China to Europe for exemple.
-When a person chooses an openproduct, she is not a lambda customer.
+Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its whole lifecycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use and disposal.https://en.wikipedia.org/wiki/Ecodesign
+When a designer is concerned with open source, the designer surely is a humanist person. Thus environmental aspect is an important part of the project.
+- Procurement: most of the open design projects use local materials.
+- Manufacturing: The product is constructed on demand locally, you don't have to transport it from China to Europe, for exemple.
+When a person chooses an open product, she is not a lambda customer.
 She's more in a collaborative consumption and in a sharing economy than is less 
 polluting system than productive consumption.
 https://en.wikipedia.org/wiki/Sharing_economy
@@ -109,13 +107,13 @@ http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
 
  ![*The first Reprap and its child by Kocio (CC BY-SA 3.0)*](./images/First_replication.jpg)
  
-A self replicating machine. More on http://reprap.org/
+Reprap project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
 
 ### Prosthetic hands
 
  ![*Printed prosthetic hand by Intel free press (CC BY-SA 2.0)*](./images/Printed hand.jpg)
 
-Cut down the cost of medical equipment production
+Cut down the cost of medical equipment production by using libre designs. These prosthesis that can be extensively customized to fit children needs. Using digital fabrication tools, such as 3D printers, new pieces can be constructed to accomodate children growth with very low costs.
 
 ###[star wars stuff]( http://www.thingiverse.com/thing:391664 )
 
@@ -127,13 +125,12 @@ More on http://www.thingiverse.com/thing:391664 )
 More on http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html 
 
 
-
-References
-----------------
+Inspiration
+---------------
 
 
 related issue : http://www.ikeahackers.net/about
-> Some  months ago I received a Cease and Desist (C&D) letter from the  agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net  has infringed upon its intellectual property rights. [...]
+> Some  months ago I received a Cease and Desist (C&D) letter from the  agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
 > Long  story short, after much negotiation between their agent and my lawyer, I  am allowed to keep the domain name IKEAhackers.net only on the  condition that it is non-commercial, meaning no advertising whatsoever.
 > I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo  reluctant to give it up. I love this site’s community and what we have  accomplished in the last 8 years. Secondly, I don’t have deep enough  pockets to fight a mammoth company in court."
 
@@ -161,7 +158,7 @@ https://en.wikipedia.org/wiki/Shakers#Architecture_and_furnishings
 see also https://en.wikipedia.org/wiki/Shaker_furniture
 
 ### Victor Papanek
-He was a designer and educator who became a strong advocate of the socially and ecologically responsible design of products, tools, and community infrastructures. He disapproved of manufactured products that were unsafe, showy, maladapted, or essentially useless. His products, writings, and lectures were collectively considered an example and spur by many designers. Papanek was a philosopher of design and as such he was an untiring, eloquent promoter of design aims and approaches that would be sensitive to social and ecological considerations. He wrote that "design has become the most powerful tool with which man shapes his tools and environments (and, by extension, society and himself).
+He was a designer and educator who became a strong advocate of the socially and ecologically responsible design of products, tools and community infrastructures. He disapproved of manufactured products that were unsafe, showy, maladapted or essentially useless. His products, writings and lectures were collectively considered an example and spur by many designers. Papanek was a philosopher of design and as such he was an untiring, eloquent promoter of design aims and approaches that would be sensitive to social and ecological considerations. He wrote that "design has become the most powerful tool with which man shapes his tools and environments (and, by extension, society and himself).
 *Design for the Real World: Human Ecology and Social Change*
 in french
 http://issuu.com/pierrebv/docs/victor_papanek_-_design_pour_un_monde_r_el
@@ -178,12 +175,11 @@ Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art
 
 The metal furniture of Jean Prouvé was produced copiously in every studio and workshop. His work involved frequent collaboration, most famously with Charlotte Perriand and Pierre Jeanneret.[16] The style is set apart from the Bauhaus steel furniture of the time by his rejection of the steel tube technique. Prouvé had more faith in the durability and form of sheet metal, "bent, pressed, compressed than welded". His designs speak of a work philosophy that includes knowledge of the materials at hand, a commitment to collaboration between artists and craftsmen, an attention to evolving technical developments, and "the principle of never postponing decisions so as neither to lose the impetus nor indulge in unrealistic forecasts". Prouvé was influential in the development of the idea of nomadic architecture, likening a chair to a house, and designing both with portability in mind.
 
-/// A TRADUIRE ou pas///
-Ses réalisations en tôle pliée (à l'origine d'un coût inférieur et d'une résistance supérieure, à l'instar de la carrosserie des voitures) – bibliothèques, fauteuils, chaises, lits Antony, bureaux et tables Compas, tables de réfectoire4 – sont exemplaires et figurent aujourd’hui parmi les meubles les plus cotés du xxe siècle (une édition originale de la chaise Antony s'évalue autour de 40 000 € ; un fauteuil Kangourou s'est vendu 152 449 €, en mars 2001 ; une bibliothèque peut valoir jusqu’à 160 000 €).
+His achievements in folded sheet (originally of lower costs and higher strength, like the bodywork of cars) include libraries, armcharrs, Anthony beds, desks and Compass tables. These pieces are exemplary and are quoted as the highest in design for 20th century. An original edition of Anthony chair is worth 40.000 EUR; a Kangaroo chair was sold for 152.449 EUR in March 2011; a library could be valued at over 160.000 EUR)
 
 ### Art and design
 [Carpenters Workshop Gallery](http://carpentersworkshopgallery.com)
-"When we started out, less than a decade ago, there was little  connection between art and design. Since then, things have changed so  much. We are pleased to see that now there are designers who no longer  do industrial design; they are creating a new kind of discipline that is  closer to art", - says Julien Lombrail about the concept of the  gallery.
+"When we started out, less than a decade ago, there was little  connection between art and design. Since then, things have changed so  much. We are pleased to see that now there are designers who no longer do industrial design; they are creating a new kind of discipline that is  closer to art", - says Julien Lombrail about the concept of the gallery.
 It's the art market create that kind of design. The price of the pieces are very huge, just an elite can buy it. And the "Designer" now called "artist" became stars.
 
 ### Enzo Mari
@@ -195,7 +191,7 @@ http://www.cucula.org/en/enzo-mari/
 [book ‘Autoprogettazione’pdf](http://www.matthewlangley.com/blog/Enzo-Mari-Autoprogettazione2.pdf)
 
 ### Gerrit Rietveld
-Rietveld was a Dutch furniture designer and architect. One of the principal members of the dutch artistic movement called *De Stijl*.Piet Mondrian is the most famous figure from that movememt. Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House.
+Rietveld was a Dutch furniture designer and architect. One of the principal members of the dutch artistic movement called *De Stijl*. Piet Mondrian is the most famous figure from that movememt. Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House.
 
 About Crate series:
 The original “Krat” (Crate) furniture was produced using untreated red spruce normally reserved for packing cases. It was sold in a kit form, to be assembled at home by the purchaser. The Crate furniture was a response to the economic crisis of the 1930s. It offered useful, inexpensive seating with basic construction and cheap materials. Other items of 'Crate' furniture include a Crate easy chair, Crate table, Crate desk, Crate bookcase and a Crate stool, all from 1934.
@@ -216,4 +212,8 @@ in french:[URL Ars Industrialis](http://arsindustrialis.org/node/1848)
 Thomas Chippendale was a London cabinet-maker and furniture designer in the mid-Georgian, English Rococo, and Neoclassical styles. In 1754, he published a book of his designs titled *The Gentleman and Cabinet Maker's Director*. The designs are regarded as reflecting the current London fashion for furniture for that period and were used by other cabinet makers outside London.
 *The Gentleman and Cabinet Maker's Director*
 [URL book](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab )
+
+Open questions
+-----------------------
+- ???
 

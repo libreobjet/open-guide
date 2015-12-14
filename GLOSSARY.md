@@ -33,6 +33,10 @@ One of the Creative Commons license that requires that proper attribution is giv
 >   A suite of licenses designed to allow creators and users of works   flexibility beyond that offered in traditional copyright.  
 −[Libre Graphics Magazine](http://libregraphicsmag.com/ )
 
+#### Crowdfunding
+>  Crowdfunding is the practice of funding a project or venture by   raising monetary contributions from a large number of people, today  often performed via internet-mediated registries.  
+−[Wikipedia](https://en.wikipedia.org/wiki/Crowdfunding )
+
 #### Do It Yourself (DIY)
 > Do It Yourself is the practice of doing home improvements and maintenance oneself rather than employing a professional  
 −[Wiktionary](https://en.wiktionary.org/wiki/do_it_yourself)

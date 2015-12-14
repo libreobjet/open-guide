@@ -182,16 +182,8 @@ Improving your tools by yourself or making your DIY tools for doing you DIY desi
 As with most other distributed version control systems, and unlike most client–server systems, every Git working directory is a full-fledged repository with complete history and full version-tracking capabilities, independent of network access or a central server.[9] Like the Linux kernel, Git is free software distributed under the terms of the GNU General Public License version 2.*" [Wikipedia](https://en.wikipedia.org/wiki/Git_%28software%29)
 
 
-
-References
------------------
-
-If you want to know more about upcycling we recomend the book Upcyclist by Antonia Edward.
-
-[Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
-
 Objects
----------------
+------------
 
 #####Bouctje become Reeboek
 
@@ -221,6 +213,12 @@ At the heart of each WikiSeat is a Catalyst. This is the  structural support, ma
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat07.jpg)
 
 
+Inspiration
+---------------
+
+If you want to know more about upcycling we recomend the book Upcyclist by Antonia Edward.
+
+[Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
 
 
 Open questions

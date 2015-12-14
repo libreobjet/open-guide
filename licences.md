@@ -43,16 +43,16 @@ Copyright means that you have to ask the authors for anything you want to do wit
 Is there an ideal or perfect license for open source objects?
 -------------------------------------------------------------------------------------
 
-Sorry to say this, but no. Although there is many open source licenses for software and some of those licenses might work for design documents, there is no magic solution that could work in any case. Remember that licenses are generally complex legal documents that try to cover as many cases as possible and that give guidelines on what is permitted or not. As we said, these are social contracts, and as such could be ideal in a particular situation, but be problematic in others. In the case of open source licenses, since these grant more freedoms than they restrict, they generally tend to create less problems than some others. Fortunately also, and as open source product design will become more and more popular, we can expect that licences will improve and adapt to the new conditions brought by our future societies.
+Sorry to say this, but no. Although there are many open source licenses for software and some of those licenses might work for design documents, there is no magic solution that could work in any case. Remember that licenses are generally complex legal documents that try to cover as many cases as possible and that give guidelines on what is permitted or not. As we said, these are social contracts, and as such could be ideal in a particular situation, but be problematic in others. In the case of open source licenses, since these grant more freedoms than they restrict, they generally tend to create less problems than some others. Fortunately also, and as open source product design will become more and more popular, we can expect that licences will improve and adapt to the new conditions brought by our future societies.
 
-Please, refer to the "tools" chapter of this section to have an overview of the licences available and their use cases.
+Please, refer to the "Tools" chapter of this section to have an overview of the licences available and their use cases.
 
 Terms of use and liability
 -----------------------------------
 
 Usually, when you acquire an object, some terms of use define the cases for which the object has been thought for and limits the responsibility of the designer to those cases. It is commonly accepted that a designer is responsible for its creation and the quality of the objects being produced following his technical plans. In most countries, designs have to go through extensive testing and have to follow local regulations before being put on the market.
 
-With open source product design, the responsibility is often transfered on the person receiving the documentation and are totally waived from the creator's hand by the license. As with open source software, documentation and objects being offered have no garantee of  usability, functionality or purpose of any kind and the final user shall not make the designer responsible of anything ever.
+With open source product design, the responsibility is often transfered on the person receiving the documentation and are totally waived from the creator's hand by the license. As with open source software, documentation and objects being offered have no garantee of usability, functionality or purpose of any kind and the final user shall not make the designer responsible of anything ever.
 
 Because of this, if you intend to download, build and commercialize any open source object, you better check with your local regulation the implications of such practices and get an advice from a specialized lawyer.
 
@@ -116,19 +116,18 @@ In the end, the strength of a license will only be tested in case of conflicts a
 
 > Copyright  is a legal right created by the law of a country that  grants  the  creator of an original work exclusive rights for its use  and   distribution. This is usually only for a limited time. The  exclusive   rights are not absolute but limited by limitations and  exceptions to   copyright law, including fair use.
 
-> Copyright  is a form of intellectual **property**, applicable to   certain forms of  **creative work**. Under US copyright law, legal   protection attaches  only to fixed    representations in a tangible med
-%=ium. It is often shared among   multiple  authors, each of whom holds a set of rights to use or license   the work,  and who are commonly referred to as rightsholders. These   rights  frequently include reproduction, control over derivative  works,   distribution, public performance, and "moral rights" such as    attribution.
+> Copyright  is a form of intellectual **property**, applicable to certain forms of  **creative work**. Under US copyright law, legal   protection attaches  only to fixed representations in a tangible medium. It is often shared among  multiple  authors, each of whom holds a set of rights to use or license, the work  and who are commonly referred to as rightsholders. These rights  frequently include reproduction, control over derivative  works,   distribution, public performance, and "moral rights" such as attribution.
 
-> Copyrights  are considered **territorial rights**, which means that    they do not  extend beyond the territory of a specific jurisdiction.    While many  aspects of national copyright laws have been standardized    through  international copyright agreements, copyright laws vary by   country. 
+> Copyrights  are considered **territorial rights**, which means that  they do not  extend beyond the territory of a specific jurisdiction. While many  aspects of national copyright laws have been standardized    through  international copyright agreements, copyright laws vary by   country. 
 [Source Wikipedia](https://en.wikipedia.org/wiki/Copyright)
 
 ### Copyleft 
 
 ![Copyleft Logo](./images/Copyleft.png)
 
-> Copyleft (a play on the word copyright)    is the practice of offering people the right to freely distribute    copies and modified versions of a work with the stipulation that the    same rights be preserved in derivative works down the line.
+> Copyleft (a play on the word copyright) is the practice of offering people the right to freely distribute  copies and modified versions of a work with the stipulation that the    same rights be preserved in derivative works down the line.
 
->   Copyleft  is a form of licensing, and can be used to maintain   copyright  conditions for works ranging from computer software, to   documents, to  art.  In general, copyright law is used by an author to   prohibit  recipients  from reproducing, adapting, or distributing  copies  of their  work. In  contrast, under copyleft, an author may give  every  person who  receives a  copy of the work permission to  reproduce,  adapt,  or  distribute it, with the accompanying requirement  that any  resulting   copies or adaptations are also bound by the same  licensing  agreement.
+> Copyleft  is a form of licensing, and can be used to maintain copyright  conditions for works ranging from computer software, to   documents, to  art.  In general, copyright law is used by an author to   prohibit  recipients  from reproducing, adapting, or distributing  copies  of their  work. In  contrast, under copyleft, an author may give  every  person who  receives a  copy of the work permission to  reproduce,  adapt,  or  distribute it, with the accompanying requirement  that any  resulting   copies or adaptations are also bound by the same  licensing  agreement.
 Copyleft    licenses for software **require that information necessary for     reproducing and modifying the work must be made available to   recipients   of the binaries**. The source code files will usually   contain a copy of  the license terms and acknowledge the authors.
 [Source Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
 
@@ -162,9 +161,8 @@ MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house d
 
 Desiged by Nosigner, elements that were used to compose the furniture for the Mozilla Office Japan have been published under CC-by license.
 
-
-References
-----------------
+Inspiration
+---------------
 
  - Ronen Kadushin about Open design
  - [openstructures-nolicence](http://openstructures.net/)
