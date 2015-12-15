@@ -11,25 +11,23 @@ The physical
 ------------------
 **How is your object physically distributed?**
 
-As mentioned in the "Motivations" section, one of the benefits of open source product design is that the documentation can travel faster using contemporary communication tools than shipping an object in a container. This then potentially seperates even more the places where the objects are imagined from places where objects are built. It' is already the case when design is done in western countries for a western market and the resulting objects are produced in countries with cheap labor. But with open source product design, this relationship can be totally broken as objects could potentially be designed anywhere and fabricated where they are demanded. At least, this is where we do see the benefits of it. Of course, this particular relation could be "closed" again if only specific skills and tools that are required to design and produce the objects.
+As mentioned in the Motivations section, one of the benefits of open source product design is that the documentation can travel faster using contemporary communication tools than shipping an object in a container. This then potentially seperates even more the places where the objects are imagined from places where objects are built. It' is already the case when design is done in western countries for a western market and the resulting objects are produced in countries with cheap labor. But with open source product design, this relationship can be totally broken as objects could potentially be designed anywhere and fabricated where they are demanded. At least, this is where we do see the benefits of it. Of course, this particular relation could be "closed" again if only specific skills and tools are required to design and produce the objects.
 
 Another benefit of digital distribution of the documentation is when certain objects can't be found in certain parts of the world due to legal restrictions. Digital fabrication tools such as a 3D printer have changed the way we look at certain objects and opened the doors to "illegal objects" manufacturing. 
 
-### Distributing physical open source object
+### Distributing physical open source objects
 
-Something that is quite easier to figure with software is if the software itself is open source. This is normally clearly indicated in the software itself. But with objets, this can be tricky. How can I know that the object I'm using is opensource?
+Something that is quite easier to figure with software is if the software itself is open source. This is normally clearly indicated in the software itself. But with objets, this can be tricky. How can I know that the object I'm using is open source?
 
-> refer to a license or a sign somewhere on the object.
->  marking by engraving, laser, sticker, the license name or an url where  you can find further informations about this objects (license,  sources...)
-Why?
-because  if it is only on separate sheet/document or packaging, this information  can be lost if the user/buyer decide to give this object to other. New  user can have no idea about the origin and loose the oportunity of what  open source can give it him (adapt, remix, etc...)
-This  thing is still an issue about the complexity to add information on a  object (small object, smooth materials...). We are still looking for new  ideas.
+There might be ways to expose this with a proper marking or tagging on the object. Engraving or sticking a mention of the license and a url where to find further information about the object could be an elegant solution in some cases. Or maybe one day, design amateurs will be able to recognise an open source object just by looking at it. But until then, this should be something to think of when desgining open source products.
+
+The main reason is if the licensing is only mentioned on separate documents or packaging, it can be lost if the user decides to give the object away. The new users will then have no idea about the origin and loose the opportunity to know the benefits of it (adapt, remix, etc.) 
  
 The dialogue
 ------------------
 **How open is your conversation?**
 
-The dialogue between a designer and any other person involved in the project will be done through **the documentation**. If you don't document your project, nobody will be able to interact with it in a constructive manner. If we could again make a comparison with software, if you don't distribute the source code in a readable manner, if you only distribute binary files, it can not be open source software. Same thing with objects, the full documentation is a requirement for open source product design.
+The dialogue between a designer and any other person involved in the project will be done through the **documentation**. If you don't document your project, nobody will be able to interact with it in a constructive manner. If we could again make a comparison with software, if you don't distribute the source code in a readable manner, if you only distribute binary files, it can not be open source software. Same thing with objects, the full documentation is a requirement for open source product design.
 
 By documentation, we mean all the all the documents one will need to copy and modify the product easily.
 
@@ -37,109 +35,131 @@ Documentation can take many form. It could be sound, video, schemas, 3D files, 2
 
 Documentation is often overlooked by designers. And many project fall short on being called open source product design because of their lack of or poor docunentation. A rule of thumb when making a project is to consider that documentation will take at least 50% of the time.
 
+And this should be done as soon as the project starts.
+
 Documentation
 ----------------------
 
-Here are a list of things you should consider when documentating objects. This list is based on requirements we've made for adding objects to the collection of [Libre Objet](http://libreobjet.org ) :
-- general view (picture or drawing) of your object
-- general size (L x H x D) in mm or cm or inches
-- general standard views (front, left/right side, up/down)
-- list of all materials used in the composition of your object
-- list of tools required to build the object
-- date of creation
-- name of designer(s) and any other authors
-- name of builder
-- full license text (FAL, CC, CERN...)
-- url(s) of sources (if available)
-- description of each part, like technical drawing with size, scale, front
-- description for the assembly, the order/way to mount (drawings, pictures, better than text but why not)
-- description of potential issues or different way to improve the project after (see Entropie's Doc http://www.asso-entropie.fr/media/filer_public/cd/37/cd37e323-1f8c-450e-8cbc-0fe9a12f95bb/table_et_banc_entropie_juillet2013.pdf)
-- ways of using the object
+Here are a list of things you should consider when documentating objects. This list is based on requirements we've made for adding objects to the [Libre Objet](http://libreobjet.org ).
+- General view (picture or drawing) of your object
+- General size (L x H x D) in m, cm mm or inches
+- General standard views (front, left/right side, up/down)
+- List of all materials used in the composition of your object
+- List of tools required to build the object
+- Date of creation
+- Name of the designer(s) and any other authors involved
+- Name of builder(s)
+- Full license text (FAL, CC, CERN...)
+- Url(s) of original sources
+- Description of each part, like technical drawing with size, scale, front
+- Description of the assembly, the order and way to mount it (drawings and pictures prefered than only text)
+- Description of potential issues or possible ways to improve the project (see Entropie's Doc http://www.asso-entropie.fr/media/filer_public/cd/37/cd37e323-1f8c-450e-8cbc-0fe9a12f95bb/table_et_banc_entropie_juillet2013.pdf)
+- Ways of using the object
 
 ### How deep is your source?
-- documentation + license + 3d/2d files 
-For example, Entropie don't share digital files, only pdf. Not so easy to remix or fork their design before the step of making...But they do it in this case (http://www.asso-entropie.fr/fr/design-libre/atelier/documents/ )but you don't have documentation...
+Be generous with the documentation. Share everything. Digital files are cheap anyway. And if you need to render or compile the documentation to be readable, share also the source files for the documentation. This is required if you want other designers to make adatpations.
 
 ### Where to publish your designs?
 
-There is many ways you can distribute your designs. But we strongly encourage that you manage distribution yourself, from your own little corner of the interent or that at least you don't rely on one channel for distribution, especially if that channel is a big corporation who only cares about collecting data from its visitors. 
+There is many ways you can distribute your designs. But we strongly encourage that you manage distribution yourself, from your own little corner of the internet or that at least you don't rely on one channel for distribution, especially if that channel is a big corporation who only cares about collecting data from its visitors.
 
 We do recommend though that you build your distribution channels the same way you build the objets themselves, collectively. You will find online collectives that will be happy to spread your design and engage in a conversation with you about it.
 
-Open file formats
-------------------------
+Open formats
+-------------------
 
-Talking about the reason about 
+Documentation being a key element, it would do no good for the object and its reach if it required a proprietary application to be accessed.
+
+Open formats are usually standards to store information that can be readable by a human or a machine and of which the specification is publicly available, fully described and exenpt of patents and copyright.
+
+Open formats are the only way to garantee a future to your design documents. Any other format would be bound to the willingness of their maintainers to continue to support it. You would not want your life's work to become inaccessible because some company, somewhere, went bankrupt or changed their business model and decided not to support this or that particular feature. 
+
+And don't think that the size, popularity or apparent financial wellness of a company is a garantee of anything. 
 
 Tools
 -------
- - hosting platforms
- - Instruction manuals / schemas
- - Open standards
- - file sharing
- - upload / Download
- - wikis
- - Fablabs/Makerspaces
- - Local manufacturer
-- distributed versioning
-- **Teaching / Education** is a good way to share projects and ideas.
+
+### Distribution plateforms
+- http://ibreobjet.org  is the online collection of open source product design from the eponym  collective. They're open to submissions if you follow some rules regarding the documention of your project. The source code for their website is also available as pen source. So you could just copy them and use it to build our own collection of projects.
+- http://gitlab.org is a code hosting plateform dedicated to open source collaboration, but  they could also work as a repository for open source designs. The source code of Gitlab is also availalbe, so you can install it on your owr server.
+- http://el-recetario.net/ is a collection of upcycling projects and their recepies. They allow anyone to publish their project under CC licenses. The website is built with Wordpress, a popular open source content management system and could serve as a good example of a distribution plateform built with these tools.
+
+### Open formats
+It would be foolish to list here all the open formats available, some being more popular than others, and new formats being created almost every day, here is a short selection:
+  - SVG for vector graphic files
+  - PNG, is a standard lossless compression format for raster images
+  - STL, a standard format for sharing 3D files, usually associated with 3D printing.
+  - OBJ is an open 3D file format and the _de facto_ standard for exchanging files between 3d applications.
+  - PDF is a widely used standard to present documents.
+
+### Distributed versioning
+Git and Mercurial are two distributed source control programs that work similarly. They provide tools such as the versioning of files which have helped coders work together on large projects. These kinds of tools, although more adapted to managing text, should be considered and integrated more and more in a designer's workflow.
+
+### Physical distribution
+Visit your local fablabs, makerspaces, micro-factories, local community manufacturers and share with them your creations. They usually gather large groups of people that could help you distribute your projects further.
 
 Objects
 -----------
 
 ### Dobsonian Telescope
 
-
  ![*Dobsonian telescope by Szőcs TamásTamasflex (font:Treball propi) (Licensed by CC BY-SA 3.0)*](./images/Dobsonian_telescopes_schematic.png)
 
-> *John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.* [Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
+> John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.  
+−[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
 
-The dobsonian telescope is a telescope designed for amateur astronomy. It was created in 1950 by the amateur astronomer John Dobson and we could say that it is a open source object, although the terms open source and the open source licenses did not exist at all at that time. It is easily buildable at home using cheap and common materials, and its construction does not require any special ability, and even if there are commercial models, they are modified and customized by their users. This facts encourage the constant redefining of the design of this telescope every time it is built.
+The dobsonian telescope is a telescope designed for amateur astronomy. It was created in 1950 by the amateur astronomer John Dobson and we could say that it is a open source object, although the terms open source and the open source licenses did not exist at all at that time. It is easily buildable at home using cheap and common materials, and its construction does not require any special ability. Even if there is commercial models available, they are usually modified and customized by their users. These facts encourage the constant refining of the design of the telescope every time it is built.
 
-This model of telescope has been distributed widely around the world and nowadays is the most used by the amateur astronomists. Thanks to the dobsonian telescope amateurs, there have done a lot of discoveries by amateur observers, like the Comet  Hale-Boop, discovered by Tom Boop on 1995.
 
-In the text *The Pro-Am Revolution: How enthusiasts are changing our economy and society* Charles Leadbeater and Paul Miller explain how thanks to the dobsonian telescope nowadays exists a symbiosis between professional astronomers and amateur astronomers. Thank to its openess the dobsonian telescope had been improved to a point that makes almost as powerfull as a professional telescopes from the observatories, so when the data that professional astronomers get in the observation stations they make a call to the networked amateur observers who provide them with fantastic information.
-
-Thanks to the open distribution of the dobsonian telescope the science can advance a little bit faster. When the astronomer Bob Alborzian encouraged Dobson to patent the dobsonian telescope, he just said "These are gifts to humanity". 
-
-http://spontaneousgenerations.library.utoronto.ca/index.php/SpontaneousGenerations/article/viewFile/11947/11185
-
-http://www.demos.co.uk/files/proamrevolutionfinal.pdf
-
-### Liberator 
+### The Liberator 
 
  ![Liberator gun by Kamenev licensed as CC-BY-SA 3.0*](./images/DDLiberator2.3.jpg)
 
- ![Parts  of Liberator 3D-printable gun, designed by Defense Distributed and   banned in US. Photo originally made at 16-05-2013 by Vvzlad,   boxoverview.com/vvzvlad/2013/liberator/ and licensed as CC-BY-SA  3.0*](./images/Liberator.3d.gun.vv.02.jpg)
+ ![Parts of Liberator 3D-printable gun, designed by Defense Distributed. Photo by Vvzlad CC-BY-SA  3.0](./images/Liberator.3d.gun.vv.02.jpg)
 
-On the last years one of the most polemical issue relative to the open source object and its distribution has been the printed weapons. Especially It has been highly publicized case The Liberator single shot  gun.
+During the last years, one of the most polemical issue relative to open source object and their distribution has been the printed weapons. Especially the highly publicized case of The Liberator single shot gun.
 
-> The  Liberator is a physible, 3D-printable single shot handgun, the first such printable firearm design made widely available online. The open source firm Defense Distributed  designed the gun and released the plans on the Internet on May 6, 2013. The plans were downloaded over 100,000  times in the two days before the US Department of State demanded that Defense Distributed retract the plans.
-The  plans for the gun remain hosted across the Internet and are available at file sharing websites like The Pirate Bay.  −[Wikipedia] (https://en.wikipedia.org/wiki/Liberator_%28gun%29)
+> The Liberator is a physible, 3D-printable single shot handgun, the first such printable firearm design made widely available online. The open source firm Defense Distributed  designed the gun and released the plans on the Internet on May 6, 2013. The plans were downloaded over 100,000  times in the two days before the US Department of State demanded that Defense Distributed retract the plans.  
+The plans for the gun remain hosted across the Internet and are available at file sharing websites like The Pirate Bay.  
+−[Wikipedia] (https://en.wikipedia.org/wiki/Liberator_%28gun%29)
 
-The Liberator Gun was a really polemic case. It does not only create  discusions about the ethics of what could be built using the new domestic 3D printers but also about the distribution of the blueprints and instructions of the objects and artifacts that could be printed.
+The Liberator Gun was a really polemic case. It does not only create discussions about the ethics of what could be built using the new domestic 3D printers but also about the distribution of the blueprints and instructions of the objects and artifacts that could be printed.
 
-The  controversy created by the Liberator shows the potential of the open source designs to be distributed around the world regardless the frontiers, customs or any kind of territorial law.
+The  controversy created by The Liberator shows the potential of the open source product design being distributed around the world regardless of the frontiers, customs or any kind of territorial law.
 
 http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/regulating-the-liberator-prospects-for-the-regulation-of-3d-printing/
 
 
 ### Readymake: Duchamp Chess Set
 
-Readymake: Duchamp Chess Set is a printable chess set based on a chess set that the dadaist artist Marcel Duchamp designed for himself. This printable set of pieces was made by Scott Kildall and Bryan Cera and they shared it on Thingiverse on the April 21st , 2014. On the September 17th, 2014 they received a letter warning that they were infringing the intelectual property of Marcel Duchamp. After asking different lawyers and making a research about their possibilities, they've decided to remove the Duchamp Chess Set from the repository and have asked everyone else to do so.
+Readymake: Duchamp Chess Set is a printable chess set based on the version dadaist artist Marcel Duchamp designed for himself. This printable set of pieces was made by Scott Kildall and Bryan Cera and they shared it on Thingiverse on the April 21st, 2014. On September 17th, 2014 they received a letter warning them they were infringing the intellectual property of Marcel Duchamp. After asking different lawyers and researching about their possibile responses, they've decided to remove the Duchamp Chess Set from the repository and have asked everyone else to do so.
 
-This is an example of how the open source design can be censored and pursued. If 
-you want to know more about this case you can read the full story at the following link.
-
+This is an example of how the open source product design can be censored and pursued.
 http://kildall.com/what-happened-to-the-readymake-duchamp-chess-pieces/
 
-Inspiration
----------------
-Some existing platforms to distribute your content:
+Food for thought
+------------------------
 
-- http://ibreobjet.org is the online collection of open source product design from the eponym collective. They're open to submissions if you follow some rules regarding the documention of your project.
-- http://gitlab.org is a code hosting plateform dedicated to open source collaboration, but they could also work as a repository for open source designs.
+### Dobsonian Telescope Amateurs
+
+This model of telescope has been distributed widely around the world and nowadays is the most used by the amateur astronomists. Thanks to the network of dobsonian telescope owners, there has been a lot of discoveries by amateur observers, like the Comet  Hale-Boop, discovered by Tom Boop on 1995.
+
+In the text *The Pro-Am Revolution: How enthusiasts are changing our economy and society*  Charles Leadbeater and Paul Miller explain how thanks to the dobsonian  telescope nowadays exists a symbiosis between professional astronomers  and amateur astronomers. Thank to its openess the dobsonian telescope  had been improved to a point that makes almost as powerfull as a  professional telescopes from the observatories, so when the data that  professional astronomers get in the observation stations they make a  call to the networked amateur observers who provide them with fantastic  information.
+
+Thanks  to the open distribution of the dobsonian telescope the science can  advance a little bit faster. When the astronomer Bob Alborzian  encouraged Dobson to patent the dobsonian telescope, he just said "These  are gifts to humanity". 
+
+http://spontaneousgenerations.library.utoronto.ca/index.php/SpontaneousGenerations/article/viewFile/11947/11185
+
+http://www.demos.co.uk/files/proamrevolutionfinal.pdf
+
+### Other plateforms:
+
 - http://www.opendesk.cc/ will accept submissions of open designs that can be produced through digital fabrication mechanisms typically found in fablabs.
+
+- http://thepiratebay.se is a poular online index of torrent files, usually associated with the mass distribution of copyrighted entertainment material
+
+### Entropie 
+Entropie has published many open source product designs, such as this [_Carriole à Vélo_](http://www.asso-entropie.fr/fr/design-libre/notices/carriole-velo/ ) (bike trailer) for example. But they only share the documentation in a single pdf, no other sources attached, complicating and putting a brake on the adaptation prossiblities.
 
 Open questions
 ----------------------

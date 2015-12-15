@@ -9,7 +9,7 @@ Patenting a design is a costly adventure and most of the time will only be profi
 
 ### So if I open source my designs, then everyone can make money with it?
 
-Yes. And the other way around is also true, you can make money with other people's open source projects. The shift here is important. If you open source your work, someone else might be interested in it, apply transformation to it, improve it, and this then comes back to you. 
+Yes. And the other way around is also true, you can make money with other people's open source projects. The shift here is important. If you open source your work, someone else might be interested in it, apply transformation to it, improve it, and this then comes back to you.
 
 Another thing to consider is, since it's so easy to share digital files and since people, with reason, consider that immaterial objects should be free to copy and distribute, there is still a true cost in making material objects. Not only a material cost, but also a knowledge cost in aquiring the skills to manipulate the tools that will help produce the physical objects and an energy cost in moving around the physical object to their end location. Overall, people are still willing to pay for those costs.
 
@@ -21,14 +21,14 @@ And one could hope, that what open source practices have done for software, with
 
 ### A second life
 
-[Talking about paid finished projets that lay in a carton somewhere]
+Why do you keep so many projects hidden or dead in your portfolio? Who do they benefit? You've been commissioned to create something. You were paid. The client was happy and now the project is in the attic. Unless the client has all the rights over that project or you can't disclose anything from it, why not release it as open source? Maybe it'll be a little extra work. Keeping a project to oneself is different that making it understandable to everyone, but why not put the effort and give this project a second round. The hours were paid, let's earn something more with it.
 
 Opportunities to explore
 ----------------------------------
 ### Education
 Through the organisation of workshops, participation in lectures and any other form of knowledge transmission, a designer can get financial support for developping and grow his/her work.
 
-Education of the buyers and partners is something that should not be forgotten. Although it might be clear for you the benefits of open sourcing your work, this is maybe not the case of your clients or editor. If they understand the concepts and social aspects of open source product desgin, they might be even more happy to invest in your projects or at least understand what they are participating in.
+Education of the buyers and partners is something that should also not be forgotten. Although it might be clear for you the benefits of open sourcing your work, this is maybe not the case of your clients or editor. If they understand the concepts and social aspects of open source product desgin, they might be even more happy to invest in your projects or at least understand what they are participating in.
 
 ### Services
 This is a model that comes from the experiences of open source software economies. Developper of open source software don't earn money by selling the software but by selling additional services related to the software. For example, [Automattic](https://automattic.com/ ), the company behind the Wordpress blogging plateform is offering paid hosting for people who don't want to set up and host Wordpress themselves. They also provide services like statistics, anti-spam, backups, etc.
@@ -44,20 +44,20 @@ The relation here can then be based on longer mutual support, more precise under
 Free/libre licensing does not mean that you can't sell the product. You can sell your plans and pdf, set up a webshop for it and encourage people to donate money so that you keep on improving what you are proposing.
 
 ### Crowdfunding
-Crowdfunding and open source goes well together, and it might even be the only way this is actually beneficial for all the parties involved. People are always willing to invest in something they find useful and especially if they know that they will get something in exchange and that it will benefit a larger community than just their own.
+Crowdfunding and open source goes well together, and it might even be the only way this is actually beneficial for all the parties involved. People are always willing to invest in something they find useful, be part of an adventure and especially if they know that they will get something in exchange and that it will benefit a larger community than just their own.
 
-### Open source as a way to get known
-People like to share. If you give them something they have the right to share, they will happily do so. As such, open sourcing some of your work could be a way to get some attention. Your objects might travel further than if you just keep it for yourself and the generosity of open sourcing could shine back on the rest of your projects.
+### Open source as an identity
+People like to share. If you give them something they have the right to share, they will happily do so. As such, open sourcing some of your work could be a way to get some attention, or even something to be known for. Your objects might travel further than if you just keep it for yourself and the generosity of open sourcing could shine back on you and the rest of your projects.
 
 ### Who's building your open source furniture?
 Something we havent seen explored in open source product design but that could have some impact after a couple of years is the importance of the builder in the open source product design process. If the design files and documentation are freely available to download, then what differenciates an object from another is who has built it. 
 
-Collectors will always be willing to pay extra for a piece that has been built by the original creator than by someone else. The stories around the objects are what give value to it. The agency of an object does not lie only in its function and the art and vintage design market is here to prove it.
+Collectors will always be willing to pay extra for a piece that has been built by the original creator than by someone else. Someone else might prefer to pay a company that is owned by its workers or that has a social model different than traditional captialist ones.The stories around the objects are what give value to it. The agency of an object does not lie only in its function and the art and vintage design market is here to prove it.
 
 Tools
 -------
  ### Goteo
- > At first glance, Goteo is a platform for civic crowdfunding and collaboration on citizen initiatives and social, cultural, technological  and educational projects. Goteo has replicas and alliances in several  countries, thanks to its open source code as well as the awards and  international recognition it has gathered since 2011. It is a tool for generating resources ‘drop by drop’ for a community of communities  consisting of over 65,000 people, with a funding success rate over 70%. […] Our commons mission is tightly  linked to principles of transparency, progress and societal improvement. 
+ > Goteo is a platform for civic crowdfunding and collaboration on citizen initiatives and social, cultural, technological  and educational projects. Goteo has replicas and alliances in several  countries, thanks to its open source code as well as the awards and  international recognition it has gathered since 2011. It is a tool for generating resources ‘drop by drop’ for a community of communities […]. [Their]  mission is tightly linked to principles of transparency, progress and societal improvement. 
 −[Goteo.org](https://en.goteo.org/about)
  
 ### [Opendesk](https://www.opendesk.cc/ )
@@ -78,38 +78,36 @@ With  _X-Modules_, Maria Solé Bravo and Julien Deswaef have developped a multi-
 ### « Sur et Autour du trait »
 With their serie _« Sur et Autour du trait »_, Nonpareil sells their open source product designs at different steps of construction. For different prices you can purchase a piece from just the pdf download, a rough build to a classic finish or even order a customization of the object itself.
 
-Inspiration
----------------
+Food for thought
+-----------------------
 
-### [LibreObjet](http://libreobjet.org ) 
-Libre Objet is a collective of designers that sustains itself by giving talks and workshops about the practice of open source product design. Members of the collective share some of their designs using open source licenses.
+### CUCULA
+> The CUCULA design manufacture produces and sells premium design objects and as such conveys basic technical qualifications with focus on furniture prodution. In the proprietary workshop, fueled by active  collaboration between refugees, designers and pedagogues, a lively  production space is forming, where knowledge about carpentry and design  is transferred and where new ideas are being developed.[…] As a starting point, the manufacture is exploring Enzo Mari’s ‘DIY’ furniture program ‘Autoprgettazione’.The proceeds of the coming furniture sales will be invested directly in the refugees’ education and cost of living.  
+http://www.cucula.org
 
-*Modernist designer Enzo Mari has given Berlin-based CUCULA the rights to redesign and sell his Autoprogettazione furniture to raise funds for its refugee support programme*
-http://www.dezeen.com/2015/11/16/enzo-mari-autoprogettazione-furniture-reproduction-berlin-refugee-organisation-cucula-humanitarian-design/
+### _You Are Not A Gadget: A Manifesto_
+Some authors have criticized the open source services and objects production linking them with communist movement and arguing that they hinder the development. For example Jaron Lanier, an american computer philosophy writer, tells in his book _You Are Not A Gadget: A Manifesto_ that the open source productions generate a kind expropriation of the intellectual productions that he calls "Digital Maoism".
 
-The sharing of information can be beneficial for everybody. Some authors have criticized the open source services and objects production linking them with communist  movement and arguing that they hinder the development. For example  Jaron Lanier, an american computer philosophy writer, tells in his book *You Are Not A Gadget: A Manifesto* that the open source productions generate a kind expropriation  of the intellectual productions that he calls "Digital Maoism".  However, in the best-seller book *Wikinomics: How Mass Collaboration  Changes Everything",  the authors, Don Tapscott and Anthony D. Williams, defend that openess  is creating a new forms economics development and, even more, they tell  that it will be an essencial part of the economic innovation and development in the near future.
+### _Wikinomics: How Mass Collaboration Changes Everything_
+In the best-seller book _Wikinomics_, the authors, Don Tapscott and Anthony D. Williams, defend that openess is creating a new forms economics development and, even more, they tell that it will be an essencial part of the economic innovation and development in the near future.
 
 The economic models described in this book is based in four point: Openess, Peering, Sharing and Acting Global.
 
-*"Openness,  which includes not only open standards and content but  also financial  transparency and an open attitude towards external ideas  and resources
-Peering,  which replaces hierarchical models with a more collaborative forum.  Tapscott and Williams cite the development of Linux  as the  "quintessential example of peering."
-Sharing,  which is a less proprietary approach to (among other  things) products,  intellectual property, bandwidth, scientific knowledge
-Acting  globally, which involves embracing globalization and ignoring   "physical and geographical boundaries" at both the corporate and   individual level."*-[Wikipedia](https://en.wikipedia.org/wiki/Wikinomics)
+> Openness, which includes not only open standards and content but also financial  transparency and an open attitude towards external ideas  and resources.  Peering, which replaces hierarchical models with a more collaborative forum. Tapscott and Williams cite the development of Linux  as the "quintessential example of peering."  Sharing, which is a less proprietary approach to (among other  things) products,  intellectual property, bandwidth, scientific knowledge.  Acting globally, which involves embracing globalization and ignoring   "physical and geographical boundaries" at both the corporate and   individual level."  −[Wikipedia](https://en.wikipedia.org/wiki/Wikinomics)
 
-New kind of plateform for designers to consummers
-http://monoqi.com/en/bestseller-shop.html
-...
-article on it : http://www.domusweb.it/en/design/2012/12/17/d2c-generation.html
+### Designer-to-consumer (D2C)
+Some examples of designers-to-consumers approaches:
+- http://monoqi.com/en/bestseller-shop.html
+- http://www.domusweb.it/en/design/2012/12/17/d2c-generation.html
+- http://shop.sylvainwillenz.com/ Sylvain Willenz is a designer with his own shop. Although edited by many brands, he sells his design products on his side also.
+- http://www.widehandside.com/ A D2C shop from Belgium
 
-Designers with their own webshop: 
-edited by many brand, but sell his design product on his side (may have a contract with)
-http://shop.sylvainwillenz.com/
+### Art market
+[An original Jean Prouvé's school desk at 3000€](https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/ )
 
-- http://www.widehandside.com/ (vente directe en Belgique)
-
-
-
-"Recuperation by collector/Art market" (I dont't if it's the right thing for that)
-Original   social design initiatives in the past like furnitures of Gerrit   Rietveld, Enzo Mari, Jean Prouvé, some product of Bauhaus, become now   masterpiece because of the "rarity" of these objects. A Jean Prouvé's   school desk is about 3000€ on the art market
-(https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/ )
+Open questions
+-----------------------
+- What is it that you are selling?
+- What do you want to be known for?
+- Where do you stand in this capitalist economy?
 

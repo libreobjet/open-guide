@@ -1,7 +1,7 @@
 Design as a process
 ===============
 
-##Skills
+### Skills
 
 Often design requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry and mathematics or experiences with 2d or 3d software would help you a lot at the time of beginning your design. But do not be afraid if you think that you have not enough skills, because almost all the people can design objects. Remember the times in which you used to buid huts,  homemade bows or models made by toys like Lego. In addition, working with open source designs makes designing easier as you can do not start from the scrach.
 
@@ -120,7 +120,6 @@ Blender is cross-platform and runs equally well on Linux, Windows and Macintosh 
 advantage: multi-platform, really stable, light, huge community, updated often, lot of tutorials, documentation
 disadvantage: complex, 3d abstract appraoch
 
-
 -**Inskape**: Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
 advantage: multi-platform, easy to use, really stable, light, large community, updated, lot of tutorials, documentation
 disadvantage: CMYK output (in progress)
@@ -136,9 +135,7 @@ disadvantage: CMYK output (in progress)
 
 #### Digital Tools for fabrication
 
-
-
-**CNC router: **
+**CNC router**
 
  ![Homemade CNC router. *by by Drigotti (CC BY-SA 3.0)*](./images/CNC_Router_ by Drigotti CC BY-SA 3.0.png)
 
@@ -171,28 +168,17 @@ A CNC router typically produces consistent and high-quality work and  improves f
 Improving your tools by yourself or making your DIY tools for doing you DIY design is another option. In the traditional woodworking this was a very common practice. Nowadays there are a lot of people that make their own tools or improving their own tools. For example the conversions of milling hand routers into a CNC routers or the fabrication of 3D printers.
 
 
-
-#### Collaborative tools
-
-**Git**
-
- ![GitHub Logo](./images/GitHub_logo_2013.svg)
-
-"* Git (/ɡɪt/[4]) is a widely used version control system for software development.[5] It is a distributed revision control system with an emphasis on speed,[6] data integrity,[7] and support for distributed, non-linear workflows.[8] Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005.
-As with most other distributed version control systems, and unlike most client–server systems, every Git working directory is a full-fledged repository with complete history and full version-tracking capabilities, independent of network access or a central server.[9] Like the Linux kernel, Git is free software distributed under the terms of the GNU General Public License version 2.*" [Wikipedia](https://en.wikipedia.org/wiki/Git_%28software%29)
-
-
 Objects
 ------------
 
-#####Bouctje become Reeboek
+### Bouctje become Reeboek
 
 ![**Bouctje** by Mathieu Gabiot. Free Art Licence.](./images/Bouctje_by_Mathieu Gabiot.jpg)!
 ![**REEBOeK** by Verly Laurent. Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
 
 [Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on january 2013 and licenced with a Free Art Licence. [Reeboek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on september 2013 also licenced with a Free Art Licence. This is a good example about the advantages of the open source objects. Thanks to the open licence of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new propouse born.
 
-#####Wikiseat
+### Wikiseat
 
 "*WikiSeat is an open source furniture project. That means  that all of the documentation for how to build a WikiSeat is freely and  openly published online.
 At the heart of each WikiSeat is a Catalyst. This is the  structural support, made out of welded angle iron, that helps hold three  legs in place. The seat part goes on top. It is a pretty simple idea,  but there are no instructions for how to assemble these parts. We  encourage people to find materials rather than buying them from a  store. Every WikiSeat is a truly unique creation, a reflection of the  creators environment and ideas.*"
@@ -213,8 +199,8 @@ At the heart of each WikiSeat is a Catalyst. This is the  structural support, ma
 ![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat07.jpg)
 
 
-Inspiration
----------------
+Food for thought
+-----------------------
 
 If you want to know more about upcycling we recomend the book Upcyclist by Antonia Edward.
 
@@ -224,11 +210,9 @@ If you want to know more about upcycling we recomend the book Upcyclist by Anton
 Open questions
 ----------------------
 
-Do you think that the open source licenses became designing easier for no professional people? 
-
-Do you think that the open source licenses make designing more democratic?
-
-Do you prefer starting from scratch or from existing design?
+- Do you think that the open source licenses make designing easier for non-professional people? 
+- Do you think that the open source licenses make designing more democratic?
+- Do you prefer starting from scratch or from existing design?
 
 
 

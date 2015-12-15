@@ -11,18 +11,17 @@ It seems like the only thing that worries designers these days is how to protect
 If profit is the golden ratio of success stories and the prism through which design should be thought today, then this what we end up with:
 
 #### Protection
-What we learn in most design schools is all about protecting our work using patents and industrial design related rights (model and drawing deposits, etc.). There is also, of course, the default author's right applied to any "creation de l'esprit" (intellectual creations), as the french call it. Patents and deposits have a costs, are limited in time and limited by territory, unless you have almost infinite resources.
+What we learn in most design schools is all about protecting our work using patents and industrial design related rights (model and drawing deposits, etc.). There is also, of course, the default author's right applied to any _creation de l'esprit_ (intellectual creation), as the french call it. Patents and deposits have costs, are limited in time and limited by territory, unless you have almost infinite resources.
 
 #### Obsolescence
 > Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. [Wikipedia]
 Of which there is the now famous planned obsolescence with the sole intention of increasing sales volume and producing garbage.
 
 #### Copy & anti-copy
-> The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law. [Wikipedia](https://en.wikipedia.org/wiki/Copying )
+> The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law.  
+−[Wikipedia](https://en.wikipedia.org/wiki/Copying )
 
 There is much debate around copying and its usually negative connotations. There is "illegal copies" which could harm you or the author, the dillusional control over copiers and the hypocricy of some education systems who tend to punish copying but ask students to recite what they have learned. Copy is also invariably associated with stealing, thanks to the entertainment industry, although those two are very different concepts.
-
-A chinese copy is only an opportunity to get a low cost famous designer chair, but somehow it's is not the same as an orginal or official copy/edition in terms of emotional value.
 
 ### A "mental model" of design
 
@@ -30,16 +29,13 @@ A chinese copy is only an opportunity to get a low cost famous designer chair, b
 A designer is a creator, an artist, who gets inspiration from a divine origin. Citation from the masters is authorized, but s/he should always come with something new and original.
 
 #### Design localy, fabricate far away
-Famous designers work like big brands, where their products are fabricated on the other side of the planet to limit costs and keep prices low for the end market while keeping a comfortable margin for the producers.
+Famous designers work like big brands, where their products are fabricated on the other side of the planet to limit costs and keep prices low for the end market while giving a comfortable margin for the producers.
 
 #### Mass production
 Design for manufacturing, where standard sizes are the norm and your products have to fit in predefined boxes. How fast can you get your product out and in what numbers? 
 
 #### Design for the rich
 Quality design is a luxury product. Only the rich can access it.
-
-#### Design and technology
-Designers are always excited about the latest technology. Design for the third industrial revolution or with the latest materials from NASA. But what are we designing for?
 
 Design for humans
 ---------------------------
@@ -71,25 +67,23 @@ We are not looking for perfection but know we have a better chance of acheiving 
 
 If you can't modify it, repair it or improve it, you don't own it and this makes us angry.
 
+### Design together
+
 Opting for a libre license ensures respect for author and the protection of its rights as author, while insuring visibility and dissemination.
 
-Using libre licenses changes too the modes of production, conception and manufacturing of an object. Designer's work requires lots of skills and expertise. A single object can take years to develop, requiring multiple skills. Often, several people contribute to the design of an object. Publishing an object using libre licenses opens the possibility of working with others, local or remote, using several consecutive publication-modification cycles.
+Using libre licenses changes also the modes of production, conception and manufacturing of an object. Designer's work requires lots of skills and expertise. So a single object can take years to develop, requiring multiple skills. Often, several people contribute to the design of an object. Publishing an object using libre licenses opens the possibility of working with others, local or remote, using several consecutive publication-modification cycles.
 
-Cosumers can appropriate an object, and make a different use of it or adapt it to their own needs. Even though this scenario could be desirable for everything, it is not true today. Usually objects have a label "Warranty void if manipulated by user or made an inappropriate use of it". In the worst cases, there can be legal backlash too. With libre objects, we reclaim the rights adquired by final users. 
+Cosumers can appropriate the object, and make a different use of it or adapt it to their own needs. Even though this scenario could be desirable for everything, it is not true today. Usually objects have a label _Warranty void if manipulated by user or made an inappropriate use of it_. In the worst cases, there can be legal backlash too.
 
-¿?¿?¿? (That sentence doesn't sound right to mee!!!!!!!!
-Avec les objets libres, nous revendiquons le plein pouvoir de l'acheteur sur ce qu'il a acquis. 
+With open source product design, we reclaim the full ownership a buyer has over what s/he has acquired.
 
-**Why did you chose open design? 
-> because is ecodesign?**
 Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its whole lifecycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use and disposal.https://en.wikipedia.org/wiki/Ecodesign
-When a designer is concerned with open source, the designer surely is a humanist person. Thus environmental aspect is an important part of the project.
+Thus environmental aspect is an important part of the project.
 - Procurement: most of the open design projects use local materials.
 - Manufacturing: The product is constructed on demand locally, you don't have to transport it from China to Europe, for exemple.
 When a person chooses an open product, she is not a lambda customer.
 She's more in a collaborative consumption and in a sharing economy than is less 
 polluting system than productive consumption.
-https://en.wikipedia.org/wiki/Sharing_economy
 
 Tools
 -------
@@ -97,46 +91,27 @@ Tools
 Objects
 -----------
 ### Open source stethoscope by Tarek Loubani
-Bypass Israel embargo on medical equipements in Gaza
+The bypass of Israel embargo on medical equipements in Gaza
 
-Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,   discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a Free and open model for hardware and software   development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.
+> Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a free and open model for hardware and software  development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.
 http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
 
 ###  [Reprap](http://reprap.org/ )
 
-
- ![*The first Reprap and its child by Kocio (CC BY-SA 3.0)*](./images/First_replication.jpg)
+ ![The first Reprap and its child by Kocio - CC BY-SA 3.0](./images/First_replication.jpg)
  
 Reprap project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
 
 ### Prosthetic hands
 
- ![*Printed prosthetic hand by Intel free press (CC BY-SA 2.0)*](./images/Printed hand.jpg)
+ ![Printed prosthetic hand by Intel free press - CC BY-SA 2.0](./images/Printed hand.jpg)
 
 Cut down the cost of medical equipment production by using libre designs. These prosthesis that can be extensively customized to fit children needs. Using digital fabrication tools, such as 3D printers, new pieces can be constructed to accomodate children growth with very low costs.
 
-###[star wars stuff]( http://www.thingiverse.com/thing:391664 )
+Food for thought
+-----------------------
 
-More on http://www.thingiverse.com/thing:391664 )
-
-
-###[Justin Bieber dildo] (http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html )
-
-More on http://www.makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html 
-
-
-Inspiration
----------------
-
-
-related issue : http://www.ikeahackers.net/about
-> Some  months ago I received a Cease and Desist (C&D) letter from the  agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
-> Long  story short, after much negotiation between their agent and my lawyer, I  am allowed to keep the domain name IKEAhackers.net only on the  condition that it is non-commercial, meaning no advertising whatsoever.
-> I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo  reluctant to give it up. I love this site’s community and what we have  accomplished in the last 8 years. Secondly, I don’t have deep enough  pockets to fight a mammoth company in court."
-
-Read more at
-http://www.ikeahackers.net/2014/06/big-changes-coming-to-ikeahackers.html
-
+### Approved adaptations
 The limit of derivation in the classic copyrigth in design. 
 examples of allowed derivation > 
 Original: le corbusier LC2, edited by Cassina) http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 
@@ -163,12 +138,8 @@ He was a designer and educator who became a strong advocate of the socially and 
 in french
 http://issuu.com/pierrebv/docs/victor_papanek_-_design_pour_un_monde_r_el
 
-[image source](https://en.wikipedia.org/wiki/File:Victor_Papanek.jpg)
-
 ![Victor Papanek by Stephen T Rose. 1969. Source:https://en.wikipedia.org/wiki/File:Victor_Papanek.jpg  ](./images/Victor_Papanek.jpg)
 
-DIY book *Nomadic furniture vol.1*
-DIY book *Nomadic furniture vol.2*
 
 ### Jean Prouvé
 Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art collective to which his father belonged. Its goals were to make art readily accessible, to forge links between art and industry, as well as between art and social consciousness.
@@ -215,5 +186,7 @@ Thomas Chippendale was a London cabinet-maker and furniture designer in the mid-
 
 Open questions
 -----------------------
-- ???
+
+#### Design and technology
+Designers are always excited about the latest technology. Design for the third industrial revolution or with the latest materials from NASA. But what are we designing for?
 

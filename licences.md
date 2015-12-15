@@ -63,7 +63,7 @@ Tools
 
 ![Free Art License Logo](./images/Logo_Licence_Art_Libre.png)
 
-This is the prefered license used by Libre Objet members and Nonpareil. This license has been written by Antoine Moreau and friends and has originated in France. The F.A.L. is very easy to read and simple to understand. It has been written especially for works of art regardless of their type or expression and is respectful of the roman version of the author's right (as opposed to the english copyright)
+This is the prefered license used by Libre Objet members. This license has been written by Antoine Moreau and friends and has originated in France. The F.A.L. is very easy to read and simple to understand. It has been written especially for works of art regardless of their type or expression and is respectful of the roman version of the author's right (as opposed to the english copyright)
 
 ### [Creative Commons](https://creativecommons.org/licenses/ ) 
 
@@ -110,27 +110,6 @@ There is many more licences that you could chose from. Some might be more suitab
 
 In the end, the strength of a license will only be tested in case of conflicts and will be determined by a ruling from a judge.
 
-### Copyright 
-
-![Copyright Logo](./images/Copyright.png)
-
-> Copyright  is a legal right created by the law of a country that  grants  the  creator of an original work exclusive rights for its use  and   distribution. This is usually only for a limited time. The  exclusive   rights are not absolute but limited by limitations and  exceptions to   copyright law, including fair use.
-
-> Copyright  is a form of intellectual **property**, applicable to certain forms of  **creative work**. Under US copyright law, legal   protection attaches  only to fixed representations in a tangible medium. It is often shared among  multiple  authors, each of whom holds a set of rights to use or license, the work  and who are commonly referred to as rightsholders. These rights  frequently include reproduction, control over derivative  works,   distribution, public performance, and "moral rights" such as attribution.
-
-> Copyrights  are considered **territorial rights**, which means that  they do not  extend beyond the territory of a specific jurisdiction. While many  aspects of national copyright laws have been standardized    through  international copyright agreements, copyright laws vary by   country. 
-[Source Wikipedia](https://en.wikipedia.org/wiki/Copyright)
-
-### Copyleft 
-
-![Copyleft Logo](./images/Copyleft.png)
-
-> Copyleft (a play on the word copyright) is the practice of offering people the right to freely distribute  copies and modified versions of a work with the stipulation that the    same rights be preserved in derivative works down the line.
-
-> Copyleft  is a form of licensing, and can be used to maintain copyright  conditions for works ranging from computer software, to   documents, to  art.  In general, copyright law is used by an author to   prohibit  recipients  from reproducing, adapting, or distributing  copies  of their  work. In  contrast, under copyleft, an author may give  every  person who  receives a  copy of the work permission to  reproduce,  adapt,  or  distribute it, with the accompanying requirement  that any  resulting   copies or adaptations are also bound by the same  licensing  agreement.
-Copyleft    licenses for software **require that information necessary for     reproducing and modifying the work must be made available to   recipients   of the binaries**. The source code files will usually   contain a copy of  the license terms and acknowledge the authors.
-[Source Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
-
 Objects
 -----------
 
@@ -140,13 +119,11 @@ Objects
 
 Mmodulus, a series of modular furniture by Martina Minnucci and Juan Freire has been published using a CERN license.
 
-
 ### [Archipel armchair](http://libreobjet.org/objects/archipel-armchair/ )  
 
 ![*Archipel armchair*, by Mathieu Gabiot − Free Art License ](./images/archipel.png)
 
 Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free Art License.
-
 
 ### [MicroHouse](http://opensourceecology.org/portfolio/microhouse/ ) 
 
@@ -154,23 +131,56 @@ Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free A
 
 MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house designed for two and has been released under a GPL License.
 
-
 ### [Mozilla Open Source Furniture](http://os-furnitures.tumblr.com/ )
 
 ![*Mozilla Furniture*, by Mozilla Japan, CC-by ](./images/MOZILLA.jpg)
 
 Desiged by Nosigner, elements that were used to compose the furniture for the Mozilla Office Japan have been published under CC-by license.
 
-Inspiration
----------------
+Food for thought
+-----------------------
 
- - Ronen Kadushin about Open design
- - [openstructures-nolicence](http://openstructures.net/)
+### Copyright 
+
+![Copyright Logo](./images/Copyright.png)
+
+>  Copyright  is a legal right created by the law of a country that   grants  the  creator of an original work exclusive rights for its use   and   distribution. This is usually only for a limited time. The   exclusive   rights are not absolute but limited by limitations and   exceptions to   copyright law, including fair use.
+
+>  Copyright  is a form of intellectual **property**, applicable to  certain forms of  **creative work**. Under US copyright law, legal    protection attaches  only to fixed  representations in a tangible medium. It is often shared among   multiple  authors, each of whom holds a set of rights to use or license,  the work  and who are commonly referred to as rightsholders. These  rights  frequently include reproduction, control over derivative   works,   distribution, public performance, and "moral rights" such as  attribution.
+
+>  Copyrights  are considered **territorial rights**, which means that   they do not  extend beyond the territory of a specific jurisdiction.  While many  aspects of national copyright laws have been standardized     through  international copyright agreements, copyright laws vary by    country.  
+−[Wikipedia](https://en.wikipedia.org/wiki/Copyright)
+
+### Copyleft 
+
+![Copyleft Logo](./images/Copyleft.png)
+
+> Copyleft (a play on the word copyright)  is the practice of offering people the right to freely distribute   copies and modified versions of a work with the stipulation that the     same rights be preserved in derivative works down the line.
+
+>  Copyleft  is a form of licensing, and can be used to maintain  copyright  conditions for works ranging from computer software, to    documents, to  art.  In general, copyright law is used by an author to    prohibit  recipients  from reproducing, adapting, or distributing   copies  of their  work. In  contrast, under copyleft, an author may  give  every  person who  receives a  copy of the work permission to   reproduce,  adapt,  or  distribute it, with the accompanying  requirement  that any  resulting   copies or adaptations are also bound  by the same  licensing  agreement.  
+Copyleft  licenses for software **require that information necessary for reproducing and modifying the work must be made available to recipients of the binaries**. The source code files will usually    contain a copy of  the license terms and acknowledge the authors. 
+−[Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
+
+### Ronen Kadushin 
+Ronan Kadushin, in his [Open Desgin Manifesto](http://www.ronen-kadushin.com/files/4613/4530/1263/Open_Design_Manifesto-Ronen_Kadushin_.pdf ), considers that there is two requirements to for open designs:
+1. They have to be published under a CC license.
+2. They have to be build using only CNC machines.
+
+### [Open Structures](http://openstructures.net/ )
+> The OS (OpenStructures) project explores the possibility of a modular construction model where **everyone designs for everyone** on the basis of one shared geometrical grid.
+
+This approach of grid based designed applied to objects is very interesting and has produced interesting objects, but it also shoots itself in the foot by not forcing anyone to use certain licences that would give a legal framework to the "everyone for everyone".
+
+### [IkeaHackers](http://www.ikeahackers.net/about )
+The famous IkeaHackers website gets threatened for IP infringment.
+> Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
+> Long   story short, after much negotiation between their agent and my lawyer,  I  am allowed to keep the domain name IKEAhackers.net only on the   condition that it is non-commercial, meaning no advertising whatsoever.
+> I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo  reluctant to give it up. I love this site’s community and what we have  accomplished in the last 8 years. Secondly, I don’t have deep enough pockets to fight a mammoth company in court."
  
 Open questions
 ----------------------
 - What is your preferred license and most importantly why?
-- Should Product designers write their own license?
+- Should product designers write their own license?
 - What would be the physical representation of a license?
 - How to apply a licence to an object?
 
