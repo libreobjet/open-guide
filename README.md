@@ -32,8 +32,7 @@ Production schedule
 
 We mainly work from 10:00 to 20:00 CET (Madrid).
 
- - From the 10th of December to the 14th: layout / illustrations
- - 15th and 16th of December: printing and exhibition
+ - 16th of December: 12:30 - Presentation
 
 Title of the book
 -----------------------

@@ -5,7 +5,7 @@ This book was initiated by Libre Objet and brought to life by a collective of cr
 
 The co-authors present at Medialab Prado were:
 
-- Gaizka Altuna, architect − http://m-etxea.com/
+- Gaizka Altuna, architect researcher − http://m-etxea.com/
 - ginger coons, researcher − http://gingercoons.ca
 - Julien Deswaef, media artist − http://xuv.be
 - César García, digital tech researcher - http://make.cesargarciasaez.com
@@ -13,7 +13,9 @@ The co-authors present at Medialab Prado were:
 - Øyvind Kolås, digital media toolsmith − http://pippin.gimp.org/
 - Martin Lévêque, product designer − https://www.behance.net/martinleveque
 
-This book is also open source and is published under the Free Art License 1.3. Which means that if you want to copy it, distribute it or modify it, you're more than welcome to do so, as long as you credit all the co-authors.
+This project could not have been possible without the support of Josian Llorente, Wendy Van Wynsberghe and the whole team at Medialab Prado.
+
+This book is also liberated and published under the Free Art License 1.3. Which means that if you want to copy it, distribute it or modify it, you're more than welcome to do so, as long as you credit all the co-authors.
 
 Although this is not required, we would be pleased if you sent us news, reviews, comments or any adaptation you make to it. Our email adress is hello@libreobjet.org
 
@@ -69,20 +71,24 @@ Materials:
 -A needle
 
 >Step 1
->Print the book in booklet mode. You can use a software like *Bookletimposer* for sorting the pages in a correct way.
+>Print the book in booklet mode. You can use a software like *Bookletimposer* for sorting the pages in a correct way. Then, fold the folios and make the holes with the drill for spiral binding.
 
 >Step 2
->Print the 
+>Print the cover in a DIN A3 printer. The cover will be more or less 337x210 mm. You must divide the cover in seven strip. The size of this strims must be 148.5+8+8+8+8+8+148.5=337.
+
+![Diagram for folding and drilling](./images/Tutorial diagram 1)
 
 
 >Step 3
->Fold pages, including cardboard, in half along the center of shortest axis.
+> Make holes with the drill for 2nd,3rd, 5th and 6th strips and them fold them in the same way of the fotograph.
+
+![Diagram for folding and drilling](./images/tutorial diagram 2)
  
 >Step 4
->Use a minidrill to create holes along the spine.
+>Sew all the pages with the cover.
 
 >Step 5
-Use thread and neadle to bind the book using pre-drilled holes.
+Enjoy the reading
 
 Open Questions
 -----------------------
