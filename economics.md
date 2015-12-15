@@ -73,25 +73,25 @@ Objects
 Comingle is an open source vibrating dildo that you can customize to your heart's content. It has been sucessfully funded through a crowdfunding campaign on [Indiegogo](https://www.indiegogo.com/projects/the-mod-multivibrating-open-source-dildo )
 
 ### X-Modules: furniture for Ixelles Library
-With  _X-Modules_, Maria Solé Bravo and Julien Deswaef have developed a multi-purpose design to furnish the courtyard at the entrance of the Ixelles public library in Brussels. As required by the library, the furniture is made from upcycled material -- re-used pallets -- and was built by  neighbours and school children during a series of workshops. The open source nature of the it fitted perfectly with the mission of the library and was one of the key factors that got this project selected after the competition.
+With  _X-Modules_, Maria Solé Bravo and Julien Deswaef have developed a multi-purpose design to furnish the courtyard at the entrance of the Ixelles public library in Brussels. As required by the library, the furniture is made from upcycled material -- re-used pallets -- and was built by neighbours and school children during a series of workshops. The open source nature of the project fitted perfectly with the mission of the library and was one of the key factors that got this project selected after the competition.
 
 ### « Sur et Autour du trait »
-With their serie _« Sur et Autour du trait »_, Nonpareil sells their open source product designs at different steps of construction. For different prices you can purchase a piece from just the pdf download, a rough build to a classic finish or even order a customization of the object itself.
+With their series _« Sur et Autour du trait »_, Nonpareil sells their open source product designs at different steps of construction. For different prices you can purchase a piece from just the pdf download, a rough build to a classic finish or even order a customization of the object itself.
 
 Food for thought
 -----------------------
 
 ### CUCULA
-> The CUCULA design manufacture produces and sells premium design objects and as such conveys basic technical qualifications with focus on furniture prodution. In the proprietary workshop, fueled by active  collaboration between refugees, designers and pedagogues, a lively  production space is forming, where knowledge about carpentry and design  is transferred and where new ideas are being developed.[…] As a starting point, the manufacture is exploring Enzo Mari’s ‘DIY’ furniture program ‘Autoprgettazione’.The proceeds of the coming furniture sales will be invested directly in the refugees’ education and cost of living.  
+> The CUCULA design manufacture produces and sells premium design objects and as such conveys basic technical qualifications with focus on furniture prodution. In the proprietary workshop, fuelled by active  collaboration between refugees, designers and pedagogues, a lively  production space is forming, where knowledge about carpentry and design  is transferred and where new ideas are being developed.[…] As a starting point, the manufacture is exploring Enzo Mari’s ‘DIY’ furniture program ‘Autoprgettazione’.The proceeds of the coming furniture sales will be invested directly in the refugees’ education and cost of living.  
 http://www.cucula.org
 
 ### _You Are Not A Gadget: A Manifesto_
-Some authors have criticized the open source services and objects production linking them with communist movement and arguing that they hinder the development. For example Jaron Lanier, an american computer philosophy writer, tells in his book _You Are Not A Gadget: A Manifesto_ that the open source productions generate a kind expropriation of the intellectual productions that he calls "Digital Maoism".
+Some authors have criticized the production of open source services and objects, linking them with the communist movement and arguing that they hinder development. For example Jaron Lanier, an American computer philosophy writer, suggests in his book _You Are Not A Gadget: A Manifesto_ that the open source productions generate a kind expropriation of the intellectual productions that he calls "Digital Maoism".
 
 ### _Wikinomics: How Mass Collaboration Changes Everything_
-In the best-seller book _Wikinomics_, the authors, Don Tapscott and Anthony D. Williams, defend that openess is creating a new forms economics development and, even more, they tell that it will be an essencial part of the economic innovation and development in the near future.
+In the best-selling book _Wikinomics_, the authors, Don Tapscott and Anthony D. Williams, defend the idea that openess is creating a new form of economic development and, even more, they argue that it will be an essential part of economic innovation and development in the near future.
 
-The economic models described in this book is based in four point: Openess, Peering, Sharing and Acting Global.
+The economic models described in the book are based on four themes: Openness, Peering, Sharing and Acting Global.
 
 > Openness, which includes not only open standards and content but also financial  transparency and an open attitude towards external ideas  and resources.  Peering, which replaces hierarchical models with a more collaborative forum. Tapscott and Williams cite the development of Linux  as the "quintessential example of peering."  Sharing, which is a less proprietary approach to (among other  things) products,  intellectual property, bandwidth, scientific knowledge.  Acting globally, which involves embracing globalization and ignoring   "physical and geographical boundaries" at both the corporate and   individual level."  −[Wikipedia](https://en.wikipedia.org/wiki/Wikinomics)
 
@@ -99,7 +99,7 @@ The economic models described in this book is based in four point: Openess, Peer
 Some examples of designers-to-consumers approaches:
 - http://monoqi.com/en/bestseller-shop.html
 - http://www.domusweb.it/en/design/2012/12/17/d2c-generation.html
-- http://shop.sylvainwillenz.com/ Sylvain Willenz is a designer with his own shop. Although edited by many brands, he sells his design products on his side also.
+- http://shop.sylvainwillenz.com/ Sylvain Willenz is a designer with his own shop. Although edited by many brands, he sells also sells his products on his own site.
 - http://www.widehandside.com/ A D2C shop from Belgium
 
 ### Art market

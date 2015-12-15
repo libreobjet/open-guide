@@ -6,6 +6,7 @@ This book was initiated by Libre Objet and brought to life by a collective of cr
 The co-authors present at Medialab Prado were:
 
 - Gaizka Altuna, architect − http://m-etxea.com/
+- ginger coons, researcher − http://gingercoons.ca
 - Julien Deswaef, media artist − http://xuv.be
 - César García, digital tech researcher - http://make.cesargarciasaez.com
 - Mathieu Gabiot, product designer − http://mathieu-g.be/
@@ -29,22 +30,22 @@ We used this toolchain of free/libre and open source softwares to bring the book
 Etherpad is a browser based text editor that allows many people to write together in real-time on the same page. http://etherpad.org/
 
 ### Markdown
-We used the markdown syntax as it's very easy-to-write and easy-to-read plaintext format can be converted in HTML while keeping it structured. http://daringfireball.net/projects/markdown/
+We used the markdown syntax as its very easy-to-write and easy-to-read plaintext format can be converted in HTML while keeping it structured. http://daringfireball.net/projects/markdown/
 
 ### Bash
 Bash is a shell scripting language available on *nix systems. A small bash script was used to download and regularly backup all the texts that were written in etherpads. https://www.gnu.org/software/bash/
 
 ### Git
-Git, todays's most famous version control system, was used to keep tracks of the text changes and to sync those with an online repository held at Github. http://www.git-scm.com/
+Git, today's most famous version control system, was used to keep track of the text changes and to sync those with an online repository held at Github. http://www.git-scm.com/
 
 ### Sparkleshare
-Sparkleshare behaves a little like the infamous Dropbox, but uses a git repository as a backend. Created by Hylke Bons, this tool made it easier to sync files and folders between computers, while keeping track of changes and without having anyone to learn how Git works. http://sparkleshare.org/  
+Sparkleshare behaves a little like the infamous Dropbox, but uses a git repository as a backend. Created by Hylke Bons, this tool made it easier to sync files and folders between computers, while keeping track of changes and without anyone needing to learn how Git works. http://sparkleshare.org/  
 
 ### Gitbook-cli
 Gitbook-cli is an open source software based on Nodejs that transforms a set of markdown files and folders into different electronic book formats (pdf, epub, mobi, html). https://www.gitbook.com/
 
 ### Podofo
-Podofo is a PDF manipulation toolbox created by Pierre Marchand, member of the open source graphic design studio [OSP](http://osp.kitchen) in Brussels. Podofoimpose was used to produce a different imposition of the pdf for the home printers.
+Podofo is a PDF manipulation toolbox created by Pierre Marchand, member of the open source graphic design studio [OSP](http://osp.kitchen) in Brussels. Podofoimpose was used to produce a different imposition of the pdf for home printers.
 
 ### Fonts
 We use these excellent libre fonts in the book:
@@ -54,36 +55,15 @@ We use these excellent libre fonts in the book:
 Object
 ---------
 
-There are a lot of ways of printing and binding this book. On the following lines we explain how we have made it, if you got a different way of doing it, you are, of course, free for doing it. If you have bind your copy in a new way we would like to encourage you to attach  the instruction to the book.
+There are a lot of ways of printing and binding this book. Below, we explain how we have made it. If you have a different way of doing it, you are, of course, free to do it your way. 
 
-### Early prototype, a fast and cheap way
+We used this way of binding for making our prototype on the workshop Interactivos?'15. This version is affordable by anyone and is possible to fabricate using common tools.
 
-We used this way of binding for making our earliest prototype, but as it is a very fast and cheap way you can use if you do not want to waste a lot of time and money fabricating your copy or if you need to make a lot of copies.
+Materials:
 
-Materials and tools:
-- Din A4 folios (12-20, depending the version of the book)
-- An Din A4 Printer 
-- Staples (1 or 2 per copy)
-- Stapler
-
->Step 1
->Print the book in booklet mode. You can use a software like *Bookletimposer* for sorting the pages in a correct way.
-
->Step2
->Fold the pages 
-
->Step 3
->Put a staple in the middle.
-
-### Advanced prototype, cute but cheap way
-
-We used this way of binding for making our last prototype on the workshop Interactivos?'15. This version is a little bit more sophisticated than the previous one, but is also affordable by anyone and is possible its fabrication using common tools.
-
-Materialas:
-
--Din A4 sized folios (12-20, depending the version of the book)
--Din A4 sized Cardboards
--An Din A4 Printer 
+-DIN A4 sized folios (12-20, depending the version of the book)
+-DIN A3 sized Cardboards
+-A DIN A3 Printer 
 -A drill for spiral binding or a minidrill
 -Thread 
 -A needle
@@ -91,17 +71,18 @@ Materialas:
 >Step 1
 >Print the book in booklet mode. You can use a software like *Bookletimposer* for sorting the pages in a correct way.
 
->Step2
->Add a cardboard on top of printed booklet to use it as cover
+>Step 2
+>Print the 
 
->Step3
+
+>Step 3
 >Fold pages, including cardboard, in half along the center of shortest axis.
  
->Step4
+>Step 4
 >Use a minidrill to create holes along the spine.
 
->Step5
-Use thread and neddle to bind the book using pre-drilled holes.
+>Step 5
+Use thread and neadle to bind the book using pre-drilled holes.
 
 Open Questions
 -----------------------

@@ -55,6 +55,9 @@ A possible approach for easier adaptations of an object is to use parametric des
 
 Typically, this can be understood as defining a set of variables and relationship rules inside your design so that when those variables are modified, the resulting object is changed accordingly.
 
+image source](https://www.flickr.com/photos/eager/13614572614/in/photolist-qifQQT-qzwM1c-qihunx-pCWgpH-qi8Rrq-qxqnCu-qihu1k-qzCG61-qxqnzJ-qi9xM7-qihsNR-qi8R65-qihsXP-pCWhBc-pCGUk5-qihttZ-qzwN9K-qxqmRj-qi8S11-mK3tGM-mK3rER-mK3urF-mK3t42-mK5h2Y-mK3pQ8-mK5f7A-mK5dUL-mK5d4Y-mK3wpD-mK5iFu-mK3wmz-mK3yJ8-mK5hrq-dxzXMu-9UVoLE-aoH6tk-aoH6hV-aoH6nZ-aoKQrS-5AhkAm-ncuMtD-nUkGJM-5AhkA3-5AhkAd-5AhkzW-5AhkAj-pedNPo-6yUh2E-a1FL3k-7LyVWw )
+![創盟國際-cc-by](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
+
 ### Upcycling
 
 Upcycling is the process of transforming by-products, waste materials, useless and/or unwanted products into new materials or products of better quality or for better environmental value.
@@ -82,65 +85,45 @@ The economic factor is also important. If you choose an extended material but th
 Finally you also have to consider the tools that you need to shape these materials. For example, glass and methacrylate are easy to find but while methacrylate could be easily cut by a common cutter, for cutting glass the tools are not as common and the technics are not as simple.
 
 
-
 Tools
----------
+-------
 
-For each type of task you need to do you would find diferent tools offered. It is important to find the tools that best suits for your designs, not only technically but also ethically. That is why encourage you to use open source tools for making your open source designs. If you use, for example a proprietary software for doing an open source design, as we have said before, it does not mean that your design is not open source. But if you use an open source tool you will ensure that anyone can work on your design without needing to pay the fees for the proprietary software. In addition, you are going to be ethicaly more coherent, which is as important as the openess of the tools used.
+Designers love their tools. It's important to find the right tool for your designs, but this does not mean only technically, but also ethically. Free/libre and open source tools are the only tools that allow you to adapt them to your particular needs, that respect your freedoms, your users and your collaborators.
 
-On the following lines we will introduce you some open source applications that you can use for designing.
+Of course you can create open source designs with proprietary tools. But these tools are not yours. You just have a temporary revocable license to use them. And if you design something that goes outside of what they have allowed, they might take them from you.
 
+Free/Libre and open source tools are also generally better at handling open standards.
 
-### Free/libre softwares 
+### Free/libre softwares for DAO/CAO
 
-There is plenty of tools for a free/libre DAO CAO
+#### LibreCAD 
+LibreCAD is a free/libre and open source CAD application for Windows, Apple and Linux that some users have compared to the proprietary Autocad.
 
--**Librecad**: LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation is free from our large, dedicated community of users, contributors and developers. 
-advantage: close to autocad
-disadvantage: 
+#### FreeCAD
+FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is a multiplateform customizable, scriptable and extensible software that reads and writes many open file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
 
--**Freecad**: FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modelingallows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is open-source and highly customizable, scriptable and extensible.
-FreeCAD is multiplatfom (Windows, Mac and Linux), and reads and writes many open file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
-advantage: parametric, graphic aided user interface
-disadvantage: hard development, not stable
+#### OpenSCAD 
+OpenSCAD is a software for creating solid 3D CAD models using code. It is free software and available on all major plateforms. If you have abilities in coding and want to produce CAD files using a special scipting langauge, this might be the application you are looking for.
 
--**Opencad**: OpenSCAD is a software for creating solid 3D CAD models. It is free software and available for Linux/UNIX, Windows and Mac OS X. Unlike most free software for creating 3D models (such as Blender) it does not focus on the artistic aspects of 3D modelling but instead on the CAD aspects. Thus it might be the application you are looking for when you are planning to create 3D models of machine parts but pretty sure is not what you are looking for when you are more interested in creating computer-animated movies.
-advantage:
-disadvantage: 
+#### Blender 
+Blender is the free/libre and open source 3D creation suite. It is most well-know for its artistic capabilities in the field of 3D illustration and animation. It supports the entirety of the 3D pipeline from modeling to rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. But more and more people use it to produce or manipulate files for 3D printing and CAD related tasks. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools.
 
--**Blender**: Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process.
-Blender is cross-platform and runs equally well on Linux, Windows and Macintosh computers. Its interface uses OpenGL to provide a consistent experience.
-advantage: multi-platform, really stable, light, huge community, updated often, lot of tutorials, documentation
-disadvantage: complex, 3d abstract appraoch
-
--**Inskape**: Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
-advantage: multi-platform, easy to use, really stable, light, large community, updated, lot of tutorials, documentation
-disadvantage: CMYK output (in progress)
-
-
-[image source](https://www.flickr.com/photos/eager/13614572614/in/photolist-qifQQT-qzwM1c-qihunx-pCWgpH-qi8Rrq-qxqnCu-qihu1k-qzCG61-qxqnzJ-qi9xM7-qihsNR-qi8R65-qihsXP-pCWhBc-pCGUk5-qihttZ-qzwN9K-qxqmRj-qi8S11-mK3tGM-mK3rER-mK3urF-mK3t42-mK5h2Y-mK3pQ8-mK5f7A-mK5dUL-mK5d4Y-mK3wpD-mK5iFu-mK3wmz-mK3yJ8-mK5hrq-dxzXMu-9UVoLE-aoH6tk-aoH6hV-aoH6nZ-aoKQrS-5AhkAm-ncuMtD-nUkGJM-5AhkA3-5AhkAd-5AhkzW-5AhkAj-pedNPo-6yUh2E-a1FL3k-7LyVWw )
-![創盟國際-cc-by](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
-
+#### Inskape
+Inkscape is a free/libre and open-source vector graphics editor that runs on all major plateforms. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
 
 ### Digital Tools for fabrication
 
 #### CNC router
 
- ![Homemade CNC router. *by by Drigotti (CC BY-SA 3.0)*](./images/CNC_Router_ by Drigotti CC BY-SA 3.0.png)
+![Homemade CNC router. *by by Drigotti (CC BY-SA 3.0)*](./images/CNC_Router_ by Drigotti CC BY-SA 3.0.png)
 
-*"A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for computer numerical control. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine. They can also cut mortises and tenons.
-A CNC router is very similar in concept to a CNC milling machine. Instead of routing by hand, tool paths are controlled via computer numerical control. The CNC router is one of many kinds of tools that have CNC variants.
-A CNC router typically produces consistent and high-quality work and  improves factory productivity. Unlike a jig router, the CNC router can  produce a one-off as effectively as repeated identical production.  Automation and precision are the key benefits of cnc router tables."*
-
-*"CNC routers come in many configurations, from small home-style D.I.Y.  "desktop" like k2 cnc, to large industrialCNC routers used in sign  shops, cabinet making, aerospace and boat-making facilities"* 
-
-*"CNC routers are generally available in 3-axis and 5-axis CNC formats.  Many Manufacturers offer A and B Axis for full 5 Axis capabilities and  rotary 4th axis"*
-
-[Wikipedia](https://en.wikipedia.org/wiki/CNC_router)
+> A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for _computer numerical control_. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine.  
+A CNC router typically produces consistent and high-quality work and improves factory productivity. Automation and precision are the key benefits of cnc router tables.  
+−[Wikipedia](https://en.wikipedia.org/wiki/CNC_router)
 
 #### Laser cutter
 
-> Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. A typical commercial laser for cutting materials would involve a motion control system to follow a CNC or G-code of the pattern to be cut onto the material. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish. Industrial laser cutters are used to cut flat-sheet material as well as structural and piping materials.  
+> Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Laser_cutting)
 
 #### 3D printer
@@ -151,8 +134,8 @@ A CNC router typically produces consistent and high-quality work and  improves f
 3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense.  
 −[Wikipedia](https://en.wikipedia.org/wiki/3D_printing)
 
-#### Make your own tools
-Improving your tools by yourself or making your DIY tools for doing you DIY design is another option. In the traditional woodworking this was a very common practice. Nowadays there are a lot of people that make their own tools or improving their own tools. For example the conversions of milling hand routers into a CNC routers or the fabrication of 3D printers.
+#### Build     your own tools
+Improving your tools by yourself or making your  open source tools for doing open source design is another option. In the traditional woodworking this was a very common practice. Nowadays there are a lot of people that make their own tools or improving their own tools. For example the conversions of milling hand routers into a CNC routers or the fabrication of 3D printers.
 
 Objects
 ------------
@@ -162,38 +145,59 @@ Objects
 ![**Bouctje** by Mathieu Gabiot. Free Art Licence.](./images/Bouctje_by_Mathieu Gabiot.jpg)!
 ![**REEBOeK** by Verly Laurent. Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
 
-[Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on january 2013 and licenced with a Free Art Licence. [Reeboek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on september 2013 also licenced with a Free Art Licence. This is a good example about the advantages of the open source objects. Thanks to the open licence of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new propouse born.
+[Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on january 2013 and licenced with a Free Art Licence. 
+
+[Reeboek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on september 2013 also licenced with a Free Art Licence. 
+
+This is a good example about the advantages of the open source objects. Thanks to the open licence of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new purpose is born.
 
 ### Wikiseat
 
-"*WikiSeat is an open source furniture project. That means  that all of the documentation for how to build a WikiSeat is freely and  openly published online.
-At the heart of each WikiSeat is a Catalyst. This is the  structural support, made out of welded angle iron, that helps hold three  legs in place. The seat part goes on top. It is a pretty simple idea,  but there are no instructions for how to assemble these parts. We  encourage people to find materials rather than buying them from a  store. Every WikiSeat is a truly unique creation, a reflection of the  creators environment and ideas.*"
-[Wikiseat](http://www.wikiseat.org/about/)
+> WikiSeat is an open source furniture project. That means that all of the documentation for how to build a WikiSeat is freely and  openly published online.  
+At the heart of each WikiSeat is a Catalyst. This is the structural support, made out of welded angle iron, that helps hold three legs in place. The seat part goes on top. It is a pretty simple idea, but there are no instructions for _how_ to assemble these parts. We encourage people to find materials rather than buying them from a store. Every WikiSeat is a truly unique creation, a reflection of the creators environment and ideas.  
+−[Wikiseat](http://www.wikiseat.org/about/)
 
-![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat01.jpg)
+![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat01.jpg)
 
-![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat02.jpg)
+![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat02.jpg)
 
-![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat03.jpg)
+![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat03.jpg)
 
-![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat04.jpg)
+![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat04.jpg)
 
-![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat05.jpg)
+![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat05.jpg)
 
-![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat06.jpg)
+![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat06.jpg)
 
-![**Wikiseat** . Licensed with a Creative Commons’s CC-BY-SA.  ](./images/wikiseat07.jpg)
+![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat07.jpg)
 
+### uHbench
+
+> The uHbench (v 1.5) is a libre object designed by Julien Deswaef. Made with love and f/los software (Blender, Freestyle, Inkscape, Bash, XMLStarlet, Git & Gnu/Linux)
+Get from a standard (Epal-Eur) pallet to a public bench in just a couple easy steps. The idea came while thinking about urban hacking or how to  reclaim public space with easy to find material and tools in urban areas.  
+http://xuv.be/uH-bench-open-source-public-bench.html
 
 Food for thought
 -----------------------
 
-If you want to know more about upcycling we recomend the book Upcyclist by Antonia Edward.
+### Strandbeest
+> Theo Jansen has been creating _Strandbeest_ (Dutch: _strand_=beach; _beest_=beast), wind-walking examples of artificial life, since 1990. What was at first a rudimentary breed has slowly evolved into a generation of machines that are able to react to their environment. Constructed as intricate assemblages of piping, wood, and wing-like sails, Jansen's creations are constantly being improved and have become excellently adapted to their sandy beach environment.
 
-[Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
+This is a particular interesting exemple since, Theo Jansen has also built his own tools for creating and producing these machines and has followed a principle of forking and merging between every instance of his project.
 
-Sea Chair
+### Upcyclist
+>Filled with an enormous range of materials and objects, this unique book will inspire any designer or design-conscious consumer to incorporate  upcycling into their creative practice or interior design projects.  
+−[Upcyclist](https://www.bookdepository.com/Upcyclist-Antonia-Edwards/9783791349503 ) by Antonia Edward.
 
+### 1962 - Versioned physical sculpture
+> Sculptures conceptualized using a revision control system and represented physically.
+http://raphaelbastide.com/1962/
+
+An exploration by Raphael Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts former member of Libre Objet.
+
+### Sea Chair
+Sea chair is made entirely from plastic recovered 
+http://www.studioswine.com/sea-chair
 
 Open questions
 ----------------------
@@ -201,10 +205,4 @@ Open questions
 - Do you think that the open source licenses make designing easier for non-professional people? 
 - Do you think that the open source licenses make designing more democratic?
 - Do you prefer starting from scratch or from existing design?
-
-
-
-
-
-
 
