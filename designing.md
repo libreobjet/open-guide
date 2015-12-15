@@ -1,94 +1,85 @@
-Design as a process
-===============
+Design (as a) process
+================
 
-### Skills
+_It's the journey, not the destination._
 
-Often design requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry and mathematics or experiences with 2d or 3d software would help you a lot at the time of beginning your design. But do not be afraid if you think that you have not enough skills, because almost all the people can design objects. Remember the times in which you used to buid huts,  homemade bows or models made by toys like Lego. In addition, working with open source designs makes designing easier as you can do not start from the scrach.
-
-
-##Ways of working
-
-Do not only use computer but also work with your hand. Experimentation is an important part in design process, it is about trying, testing, go further, making mockup to validate physically your initial idea is essential
-
-
- ## Concept / modelise (Drawing/Representation Tools?)
-
-There are multiple tools you can use for drawing or representing your designs, from analogical traditional tools like pencil, pens, watercolours or handmade models to digital tools like vectorial drawing applications or 3D digital enviroments for moddeling. Analogical tools, of course, are useful but in order to share design efectively and fabricate them in a fast and precise way we use digital tools or software of drawing and representation.
-
-This digital software could be proprietary or opensource. If you use proprietary software to create your designs its does not mean that your design is not open source. However, we recommend to be consistent in your design processes. Using free/libre open source software helps making your process as well as design open.
-
-In the following pages, we will talk about diferent digital tools that you can use for your designs. Do not forget that this are not all the options you can use, only a few ones.
-
+Designing requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry, mathematics, mechanics, anatomy and kinetics, proficiency with 2d or 3d software and lets not forget a feel for the beautiful. But don't be afraid, because everybody can design objects. Remember the times in when we used to buid huts, homemade bows or extraordinary worlds made with toys like Lego. Working with open source design does not make assupmptions about your knowledge but taps on your willing to learn and imporve your abilities.
  
-## Design Tactics
-###Not Starting From Scratch
+Design Tactics
+---------------------
+
+### Open prototyping
+
+Designers are usually expected to provide a polished product. With open source practices, this is not the case. You are encouraged to release your concept files and embryo of documentation as soon as possible. Prototyping should be done in the open, permitting other designers to join you.
+
+### Not starting from scratch
  
-  "*If I have seen further than others, it is by standing upon the shoulders of giants.*" Isaac Newton
+> If I have seen further than others, it is by standing upon the shoulders of giants.  
+−Isaac Newton
 
-Sometime when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be able to implement some designing tactics that allows you to begin working from the work of others designer, instead start from scratch. At the same time, if you licence your design you will allow other designers to use your design, this way your design can stay alive, constantly improving and changing. In the following pages we are going to tell you some of the designing tactics that open source tactics allows you.
+Sometimes when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be able to implement some designing tactics that allows you to begin working from the work of others designers, instead of starting from scratch.
 
-#### Modifing
-*To make partial changes to.* [Wiktionary](https://en.wiktionary.org/wiki/open_source)
-
-When an object has been licenced by certain type of permisions its allows you to make changes in its design. There are many points of the object can be modified: color,  shape, texture, materials, form, functionality. Is also posible to add or remove elements.
-
-
-#### Adapting
- *To make suitable; to make to correspond; to fit or suit; to proportion.* [Wiktionary](https://en.wiktionary.org/wiki/adapt)
+### Copying
  
-One of the advantages of the open source object is that you are able to adapt them to your own needs (or anyone elses needs). There could be diferent reasons for adapting an object. Sometimes the reasons for adapting a design could be personal (Size, proportion, taste...). Other times the reasons for implement an adaptation are related to the fisical context (Climate, scale, materials abailable), technological context (technical knowledge and context available) or social context (language, religion, tradition, icons..)
+> To produce an object identical to a given object.
 
+Copying is the best way to learn, to appreciate, flatter and get in the mind of the original author. Copying a design, make it as indentical as possible, by redrawing the files in a different application or building replicas of the original object could teach you a lot of skills and give you a great sense of satisfaction. This is all permitted and even encouraged by open source licensing.
 
-####Parametric design:
+### Adapting / modifying
+> To make suitable; to make to correspond; to fit or suit; to proportion
+−[Wiktionary](https://en.wiktionary.org/wiki/open_source )
 
-A possible solution to make easiest modification on a object is parametric design, but that means you should learn about it before.
-- Parametric design *is a paradigm in design where the relationship between elements are used  to manipulate and inform the design of complex geometries and  structures.* https://en.wikipedia.org/wiki/Parametric_design
+One of the advantages of open source objects is that you are allowed to adapt them to your own needs (or anyone else's needs). There could be diferent reasons for adapting or modifying an object. Sometimes the reasons for adapting a design could be personal (size, proportion, taste...), other times related to the physical context (climate, scale, materials available), technological context (technical knowledge and context available), social context (language, religion, tradition, icons..), etc.
 
-#### Mixing
- *To combine items from two or more sources normally kept separate.* [Wiktionary](https://en.wiktionary.org/wiki/mix)
- 
-Another advantage of the open source objects is that they can be combined. You could take two (or more) open source elements and mix them in order to create a new object. This can be a way fast way of create usefull new object.
- 
- 
-#### Copying
- 
-*To produce an object identical to a given object.*
- 
-Some licences allows you to copy objects. This not only allows you to copy an object for its use or for distributing it, its also enables you to use the multiple copies of this object for reaching a bigger achievements. For example you can copy an open source single ball for playing with it, or you can copy it a million of times and make a ballpool.
+If you want to share those changes, some open source licenses require that you publish them under the same license.
 
+### Forking
 
-#### Forking
+The “fork” means an object having a common root with a second one. Initially twins, these two objects will separate and follow their own developments. This terms comes from open source software development and was perceived as a negative action implying the death of one of the branch. But nowadays, forking is encouraged as a way to make adaptations to the original work that than could be merged back together afterwards  to improve the original piece.
 
- The “fork” means an object having a common root with a second one. Initially twins, these two objects will separate and follow their own developments.
- 
-##### Examples of Workshop 2015 *divreved objetcs* by Libreobjet
+An example from the _Diverted objetcs_ workshop given by Libre Objet
 
  ![Lison-LibreObjet-LAL](./images/Lison-illustration.jpeg)
+  
+### Mixing / merging
+> To combine items from two or more sources normally kept separate.  
+−[Wiktionary](https://en.wiktionary.org/wiki/mix)
 
+Another  advantage of open source objects is that they can be combined. Youcould take two (or more) open source elements and mix them in order to  create a new object. This could be an intereseting approach for hybrid desgins and other creative explorations
 
-#### Upcycling
+### Parametric design
 
-Upcycling is the process of transforming by-products, waste materials, useless  and/or unwanted products into new materials or products of better quality or for better environmental value.
+A possible approach for easier adaptations of an object is to use parametric design tools.
 
- 
-##### Examples of pallets, welcomemamy Martin?
+> Parametric design is a paradigm in design where the relationship between elements are used to manipulate and inform the design of complex geometries and structures.  −[Wikipedia](https://en.wikipedia.org/wiki/Parametric_design )
 
+Typically, this can be understood as defining a set of variables and relationship rules inside your design so that when those variables are modified, the resulting object is changed accordingly.
+
+### Upcycling
+
+Upcycling is the process of transforming by-products, waste materials, useless and/or unwanted products into new materials or products of better quality or for better environmental value.
+
+This approach, sometimes more associated with DIY and home crafting, could be more formalized and achieve a greater sustainability if it was also approched with the legal framework of open source licensing.
+
+Design Tools
+-------------------
 
 ### Physical production
-Since the very first industrial manufacture machine "the spinnig jenny" the human being has been looking for improving the automatic fabrication processes  in order to reach faster and more precise results. Thanks to the digital revolution that started in the middle of the previous century, nowadays we can program machines by computer to fabricate tangible object by defining them digitally. At first, this kind of technology was only available to professional industry, but in the last decades a democratization process of these technologies has started, making them accessible for everybody.
+Since the very first industrial manufacture machine "the spinnig jenny" the human being has been looking for improving the automatic fabrication processes in order to reach faster and more precise results. Thanks to the digital revolution that started in the middle of the previous century, nowadays we can program machines by computer to fabricate tangible object by defining them digitally. At first, this kind of technology was only available to professional industry, but in the last decades a democratization process of these technologies has started, making them accessible for everybody.
 
-Some of this tools has been reduced in size, dirtiness and noisiness, so has became, somehow, lets say, domestic. In other cases, the tools are still being  big, dirty and/or noisy, but there has appear a new kind of spaces in our cities that makes them accesible to the non professional people, like, for example, the fablabs. In the following lines we will explain different tools of digital fabrication that you can use for fabricating open source designs that has been defined digitally.
+Some of these tools have been reduced in size, cost, dirtiness and noisiness, so they have become somehow more domestic. In other cases, some tools that are still big, expensive, dirty or noisy have appeared in a new kind of spaces that makes them accessible to the non professional people, sometimes named "fablabs", "makerspaces" or "micro-factories".
 
+Neither do you have to rush into complex or automated manufacturing mechanism to design open source objects. Designing things to be made by hand could also appeal to a wider audience.
 
 #### Materials
 
-There are many types of materials that could be used for creating objects and on the same time there are many criteria to choose them. However, there are some properties on which you should think at the time of choosing the materials of the open source object you are designing.
+There are many types of materials that could be used for creating objects and at the same time there are many criterias to choose them. However, there are some properties you should consider for the open source object you are designing.
 
-An open source design should be fabricated anywhere by anyone or at least in the greatest amount of places that is posible and by the greatest amout of people that is posible. For that reason at the time of choosing materials we recomendate to use materials that could be got easily anywhere by anyone.
+To achieve the largest distribution, an open source design should be fabricated anywhere by anyone or at least in the greatest amount of places possible and by the broadest range of people. For those reasons, at the time of choosing materials, you might have to consider materials that can be found easily anywhere.
 
-Economic factor is also important. If you choose an extended material but it is expensive, only a few people will be able to build your design. Bu not only economic cuestions are important, you also should consider the ecologic. There are a lot of material that you can recycle, or even better, upcycle. For example emterials like pallets are easy to find anywhere, by anyone, for free.
+The economic factor is also important. If you choose an extended material but that is expensive, only a few people will be able to build your design. Bu not only economic questions are important, you also should consider the ecologic. There are a lot of material that you can recycle, or even better, upcycle.
 
-Finally you also have to consider the tools that you need to work with the materials you are going to fabricate your model. For example, glass and methacrylate are easy to find but while methacrylate could be easily cut by a common cutter, for cutting glass the tools are not as common and the technics are not as simple.
+Finally you also have to consider the tools that you need to shape these materials. For example, glass and methacrylate are easy to find but while methacrylate could be easily cut by a common cutter, for cutting glass the tools are not as common and the technics are not as simple.
 
 
 
@@ -100,7 +91,9 @@ For each type of task you need to do you would find diferent tools offered. It i
 On the following lines we will introduce you some open source applications that you can use for designing.
 
 
-#### Software Opensource for designing objects DAO/CAO
+### Free/libre softwares 
+
+There is plenty of tools for a free/libre DAO CAO
 
 -**Librecad**: LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation is free from our large, dedicated community of users, contributors and developers. 
 advantage: close to autocad
@@ -128,14 +121,10 @@ disadvantage: CMYK output (in progress)
 [image source](https://www.flickr.com/photos/eager/13614572614/in/photolist-qifQQT-qzwM1c-qihunx-pCWgpH-qi8Rrq-qxqnCu-qihu1k-qzCG61-qxqnzJ-qi9xM7-qihsNR-qi8R65-qihsXP-pCWhBc-pCGUk5-qihttZ-qzwN9K-qxqmRj-qi8S11-mK3tGM-mK3rER-mK3urF-mK3t42-mK5h2Y-mK3pQ8-mK5f7A-mK5dUL-mK5d4Y-mK3wpD-mK5iFu-mK3wmz-mK3yJ8-mK5hrq-dxzXMu-9UVoLE-aoH6tk-aoH6hV-aoH6nZ-aoKQrS-5AhkAm-ncuMtD-nUkGJM-5AhkA3-5AhkAd-5AhkzW-5AhkAj-pedNPo-6yUh2E-a1FL3k-7LyVWw )
 ![創盟國際-cc-by](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
 
--**Vector graphics**:
 
-*is the use of geometrical primitives such as points, lines, curves, and shapes or polygons—all of which are based on mathematical expressions—to represent images in computer graphics.  Vector graphics are based on vectors (also called paths), which lead  through locations called control points or nodes. Each of these points  has a definite position on the x and y axes of the work plane and  determines the direction of the path; further, each path may be assigned  a stroke color, shape, thickness, and fill. These properties don't  increase the size of vector graphics files in a substantial manner, as  all information resides in the document's structure, which describes  solely how the vector should be drawn.* https://en.wikipedia.org/wiki/Vector_graphics#Standards
+### Digital Tools for fabrication
 
-
-#### Digital Tools for fabrication
-
-**CNC router**
+#### CNC router
 
  ![Homemade CNC router. *by by Drigotti (CC BY-SA 3.0)*](./images/CNC_Router_ by Drigotti CC BY-SA 3.0.png)
 
@@ -149,29 +138,26 @@ A CNC router typically produces consistent and high-quality work and  improves f
 
 [Wikipedia](https://en.wikipedia.org/wiki/CNC_router)
 
-**Laser cutter**
+#### Laser cutter
 
-*"Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. A typical commercial laser for cutting materials would involve a motion control system to follow a CNC or G-code of the pattern to be cut onto the material. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish. Industrial laser cutters are used to cut flat-sheet material as well as structural and piping materials."*
-[Wikipedia](https://en.wikipedia.org/wiki/Laser_cutting)
+> Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. A typical commercial laser for cutting materials would involve a motion control system to follow a CNC or G-code of the pattern to be cut onto the material. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish. Industrial laser cutters are used to cut flat-sheet material as well as structural and piping materials.  
+−[Wikipedia](https://en.wikipedia.org/wiki/Laser_cutting)
 
-**3D printing**
+#### 3D printer
 
  ![Homemade RepRap 3D printer. *by by Drigotti (CC BY-SA 3.0)*](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
 
-*"3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source."*
+> 3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source.  
+3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense.  
+−[Wikipedia](https://en.wikipedia.org/wiki/3D_printing)
 
-*"3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense."*
-
-[Wikipedia](https://en.wikipedia.org/wiki/3D_printing)
-
-**Make your own tools**
+#### Make your own tools
 Improving your tools by yourself or making your DIY tools for doing you DIY design is another option. In the traditional woodworking this was a very common practice. Nowadays there are a lot of people that make their own tools or improving their own tools. For example the conversions of milling hand routers into a CNC routers or the fabrication of 3D printers.
-
 
 Objects
 ------------
 
-### Bouctje become Reeboek
+### Reeboek
 
 ![**Bouctje** by Mathieu Gabiot. Free Art Licence.](./images/Bouctje_by_Mathieu Gabiot.jpg)!
 ![**REEBOeK** by Verly Laurent. Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
@@ -205,6 +191,8 @@ Food for thought
 If you want to know more about upcycling we recomend the book Upcyclist by Antonia Edward.
 
 [Upcyclist](http://www.randomhouse.de/book/Upcyclist-Reclaimed-and-Remade-Furniture-Lighting-and-Interiors/Antonia-Edwards/e423253.rhd?pub=58500)
+
+Sea Chair
 
 
 Open questions
