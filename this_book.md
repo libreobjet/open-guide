@@ -11,7 +11,6 @@ The co-authors present at Medialab Prado were:
 - Mathieu Gabiot, product designer − http://mathieu-g.be/
 - Øyvind Kolås, digital media toolsmith − http://pippin.gimp.org/
 - Martin Lévêque, product designer − https://www.behance.net/martinleveque
-- César García, digital tech researcher - http://make.cesargarciasaez.com
 
 This book is also open source and is published under the Free Art License 1.3. Which means that if you want to copy it, distribute it or modify it, you're more than welcome to do so, as long as you credit all the co-authors.
 
