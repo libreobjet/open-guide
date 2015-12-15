@@ -38,3 +38,7 @@ p {
   -webkit-region-break-inside: avoid;
   break-inside: avoid;
 }
+
+a {
+  color: black !important;
+}
