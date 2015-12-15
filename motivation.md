@@ -14,7 +14,9 @@ If profit is the golden ratio of success stories and the prism through which des
 What we learn in most design schools is all about protecting our work using patents and industrial design related rights (model and drawing deposits, etc.). There is also, of course, the default author's right applied to any _creation de l'esprit_ (intellectual creation), as the french call it. Patents and deposits have costs, are limited in time and limited by territory, unless you have almost infinite resources.
 
 #### Obsolescence
-> Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. [Wikipedia]
+> Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order.  
+−[Wikipedia]
+
 Of which there is the now famous planned obsolescence with the sole intention of increasing sales volume and producing garbage.
 
 #### Copy & anti-copy
@@ -63,9 +65,9 @@ We know open source licensing is a key in upcycling and a legal framework for cr
 
 We don't have one size fits all so here's our files to make it fit for you.
 
-We are not looking for perfection but know we have a better chance of acheiving it if we work together.
-
 If you can't modify it, repair it or improve it, you don't own it and this makes us angry.
+
+We are not looking for perfection but know we have a better chance of acheiving it if we work together.
 
 ### Design together
 
@@ -73,17 +75,21 @@ Opting for a libre license ensures respect for author and the protection of its 
 
 Using libre licenses changes also the modes of production, conception and manufacturing of an object. Designer's work requires lots of skills and expertise. So a single object can take years to develop, requiring multiple skills. Often, several people contribute to the design of an object. Publishing an object using libre licenses opens the possibility of working with others, local or remote, using several consecutive publication-modification cycles.
 
-Cosumers can appropriate the object, and make a different use of it or adapt it to their own needs. Even though this scenario could be desirable for everything, it is not true today. Usually objects have a label _Warranty void if manipulated by user or made an inappropriate use of it_. In the worst cases, there can be legal backlash too.
+Consumers can appropriate the object, and make a different use of it or adapt it to their own needs. Even though this scenario could be desirable for everything, it is not true today. Usually objects have a label saying something like this: "_Warranty void if manipulated by user or made an inappropriate use of it_". In the worst cases, there can be legal backlash too.
 
 With open source product design, we reclaim the full ownership a buyer has over what s/he has acquired.
 
-Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its whole lifecycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use and disposal.https://en.wikipedia.org/wiki/Ecodesign
-Thus environmental aspect is an important part of the project.
-- Procurement: most of the open design projects use local materials.
-- Manufacturing: The product is constructed on demand locally, you don't have to transport it from China to Europe, for exemple.
-When a person chooses an open product, she is not a lambda customer.
-She's more in a collaborative consumption and in a sharing economy than is less 
-polluting system than productive consumption.
+### Ecodesign 
+> Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its whole lifecycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use and disposal.  
+−[Wikipedia](https://en.wikipedia.org/wiki/Ecodesign )
+
+In this sense, the environmental aspect is an important part of the project, whether it's the natural or social environment at stake. And open source product design could play an important role in these practices.
+
+- Procurement: most of the open source design projects could or should use local materials.
+- Manufacturing: the product could be constructed on demand, locally, while respecting the laws of labor.
+- Disposal: Allowing people to modify the designs could encourage adaptation, reuse and the reduction of waste.
+
+When a person chooses an open source product, s/he moves away from a passive consumer position into a collaborative process that could  potentially be a less polluting system than productive consumption.
 
 Tools
 -------
