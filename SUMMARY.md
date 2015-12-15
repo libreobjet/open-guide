@@ -2,7 +2,7 @@
 
 * [Motivations](motivation.md)
 * [Licenses](licences.md)
-* [Design processes](designing.md)
+* [Design (as a) process](designing.md)
 * [Distributions](distribution.md)
 * [Economies](economics.md)
 * [Propositions](definitions.md)
