@@ -1,7 +1,7 @@
 Motivation
 =======
 
-Why would you want to get into open source product design? 
+Why would you want to get into open source product design?
 
 The state of design today
 ------------------------------------
@@ -34,7 +34,7 @@ A designer is a creator, an artist, who gets inspiration from a divine origin. C
 Famous designers work like big brands, where their products are fabricated on the other side of the planet to limit costs and keep prices low for the end market while giving a comfortable margin for the producers.
 
 #### Mass production
-Design for manufacturing, where standard sizes are the norm and your products have to fit in predefined boxes. How fast can you get your product out and in what numbers? 
+Design for manufacturing, where standard sizes are the norm and your products have to fit in predefined boxes. How fast can you get your product out and in what numbers?
 
 #### Design for the rich
 Quality design is a luxury product. Only the rich can access it.
@@ -49,7 +49,7 @@ We allow ourselves to copy as a way to learn, encourage our creativity and itera
 
 We learn from traditions and existing designs, and do not try to reinvent the wheel every time.
 
-We don't focus our designs on revenues but see it as a service for society. 
+We don't focus our designs on revenues but see it as a service for society.
 
 We choose the free/libre way because we can rely on a community for help, co-working and remixes.
 
@@ -79,7 +79,7 @@ Consumers can appropriate the object, and make a different use of it or adapt it
 
 With open source product design, we reclaim the full ownership a buyer has over what s/he has acquired.
 
-### Ecodesign 
+### Ecodesign
 > Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its whole lifecycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use and disposal.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Ecodesign )
 
@@ -105,7 +105,7 @@ http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza
 ###  [Reprap](http://reprap.org/ )
 
  ![The first Reprap and its child by Kocio - CC BY-SA 3.0](./images/First_replication.jpg)
- 
+
 Reprap project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
 
 ### Prosthetic hands
@@ -118,14 +118,14 @@ Food for thought
 -----------------------
 
 ### Approved adaptations
-The limit of derivation in the classic copyrigth design. 
+The limit of derivation in the classic copyrigth design.
 
-The original LC2 armchair and sofa by Le Corbusier is still sold and edited by [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) Although adaptations of it by  Doshi Levien and edited by [Moroso]((http://www.doshilevien.com/projects/chandigarh/ ) are allowed on the market.
+The original LC2 armchair and sofa by Le Corbusier is still sold and edited by [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) Although adaptations of it by  Doshi Levien and edited by [Moroso](http://www.doshilevien.com/projects/chandigarh/ ) are allowed on the market.
 
 Emco fights Ikea over a supposed copy of Norman Foster's 20-06 stacking chair.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
 
-### _La Société de consommation_ 
+### _La Société de consommation_
 This book written by sociologist Jean Baudrillard in 1970 describes how, in contemporary societies, social relationships have been restructured by a new phonomenon: mass  consumption.
 
 ### Shaker movement
@@ -152,14 +152,14 @@ His achievements in folded sheet (originally of lower costs and higher strength,
 
 ### Design for the art market.
 
-[Carpenters Workshop Gallery](http://carpentersworkshopgallery.com ) is a 
+[Carpenters Workshop Gallery](http://carpentersworkshopgallery.com ) is a
 hybrid concept gallery where "designers" are now called "artists".
 
 > When we started out, less than a decade ago, there was little connection between art and design. Since then, things have changed so much. We are pleased to see that now there are designers who no longer do industrial design; they are creating a new kind of discipline that is  closer to art  
 −Julien Lombrail
 
 ### Enzo Mari
-Enzo Mari is a noted Italian modernist artist and furniture designer. He is famous for his _Autoprogettazione_ manual. 
+Enzo Mari is a noted Italian modernist artist and furniture designer. He is famous for his _Autoprogettazione_ manual.
 
 > The 19 _Do-It-Yourself_ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.  
 http://www.cucula.org/en/enzo-mari/
@@ -193,4 +193,3 @@ Open questions
 - What are you designing for?
 - As a designer, what is your relation to technology?
 - What are the responsibilities of a designer in a mass consuming capitalist society?
-
