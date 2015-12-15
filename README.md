@@ -17,9 +17,9 @@ Sections
 [Meta/Links]( https://mathieugabiot.titanpad.com/39 ) <-- This pad.
 
 1. [Introduction]( https://xuv.titanpad.com/2 )
-2. [Motivations]( https://mathieugabiot.titanpad.com/32 ) <- Needs some editing
+2. [Motivations]( https://mathieugabiot.titanpad.com/32 )
 3. [Licenses]( https://mathieugabiot.titanpad.com/31 )
-4. [Design processes]( https://mathieugabiot.titanpad.com/35 )  <- Still needs heavy editing
+4. [Design processes]( https://mathieugabiot.titanpad.com/35 )
 5. [Distribution]( https://mathieugabiot.titanpad.com/33 )
 6. [Economics]( https://mathieugabiot.titanpad.com/34 )
 7. [Proposition]( https://mathieugabiot.titanpad.com/30 )

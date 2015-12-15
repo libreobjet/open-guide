@@ -21,12 +21,13 @@ Sometimes when you are begin with the design of an object your are going to find
 
 ### Copying
  
-> To produce an object identical to a given object.
+> To produce an object identical to a given object.  
+−[Wiktionary](https://en.wiktionary.org/wiki/copy)
 
 Copying is the best way to learn, to appreciate, flatter and get in the mind of the original author. Copying a design, make it as indentical as possible, by redrawing the files in a different application or building replicas of the original object could teach you a lot of skills and give you a great sense of satisfaction. This is all permitted and even encouraged by open source licensing.
 
 ### Adapting / modifying
-> To make suitable; to make to correspond; to fit or suit; to proportion
+> To make suitable; to make to correspond; to fit or suit; to proportion.  
 −[Wiktionary](https://en.wiktionary.org/wiki/open_source )
 
 One of the advantages of open source objects is that you are allowed to adapt them to your own needs (or anyone else's needs). There could be diferent reasons for adapting or modifying an object. Sometimes the reasons for adapting a design could be personal (size, proportion, taste...), other times related to the physical context (climate, scale, materials available), technological context (technical knowledge and context available), social context (language, religion, tradition, icons..), etc.
@@ -51,12 +52,11 @@ Another  advantage of open source objects is that they can be combined. Youcould
 
 A possible approach for easier adaptations of an object is to use parametric design tools.
 
-> Parametric design is a paradigm in design where the relationship between elements are used to manipulate and inform the design of complex geometries and structures.  −[Wikipedia](https://en.wikipedia.org/wiki/Parametric_design )
+> Parametric design is a paradigm in design where the relationship between elements are used to manipulate and inform the design of complex geometries and structures.   −[Wikipedia](https://en.wikipedia.org/wiki/Parametric_design )
 
 Typically, this can be understood as defining a set of variables and relationship rules inside your design so that when those variables are modified, the resulting object is changed accordingly.
 
-image source](https://www.flickr.com/photos/eager/13614572614/in/photolist-qifQQT-qzwM1c-qihunx-pCWgpH-qi8Rrq-qxqnCu-qihu1k-qzCG61-qxqnzJ-qi9xM7-qihsNR-qi8R65-qihsXP-pCWhBc-pCGUk5-qihttZ-qzwN9K-qxqmRj-qi8S11-mK3tGM-mK3rER-mK3urF-mK3t42-mK5h2Y-mK3pQ8-mK5f7A-mK5dUL-mK5d4Y-mK3wpD-mK5iFu-mK3wmz-mK3yJ8-mK5hrq-dxzXMu-9UVoLE-aoH6tk-aoH6hV-aoH6nZ-aoKQrS-5AhkAm-ncuMtD-nUkGJM-5AhkA3-5AhkAd-5AhkzW-5AhkAj-pedNPo-6yUh2E-a1FL3k-7LyVWw )
-![創盟國際-cc-by](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
+![_Archi-Union 創盟國際_ by 準建築人手札網站 Forgemind ArchiMedia − CC-BY](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
 
 ### Upcycling
 
@@ -83,7 +83,6 @@ To achieve the largest distribution, an open source design should be fabricated 
 The economic factor is also important. If you choose an extended material but that is expensive, only a few people will be able to build your design. Bu not only economic questions are important, you also should consider the ecologic. There are a lot of material that you can recycle, or even better, upcycle.
 
 Finally you also have to consider the tools that you need to shape these materials. For example, glass and methacrylate are easy to find but while methacrylate could be easily cut by a common cutter, for cutting glass the tools are not as common and the technics are not as simple.
-
 
 Tools
 -------
@@ -173,6 +172,8 @@ At the heart of each WikiSeat is a Catalyst. This is the structural support, mad
 
 ### uHbench
 
+![_uHbench_ by Julien Deswaef − Free Art License](./images/uhbench.png)
+
 > The uHbench (v 1.5) is a libre object designed by Julien Deswaef. Made with love and f/los software (Blender, Freestyle, Inkscape, Bash, XMLStarlet, Git & Gnu/Linux)
 Get from a standard (Epal-Eur) pallet to a public bench in just a couple easy steps. The idea came while thinking about urban hacking or how to  reclaim public space with easy to find material and tools in urban areas.  
 http://xuv.be/uH-bench-open-source-public-bench.html
@@ -181,7 +182,12 @@ Food for thought
 -----------------------
 
 ### Strandbeest
-> Theo Jansen has been creating _Strandbeest_ (Dutch: _strand_=beach; _beest_=beast), wind-walking examples of artificial life, since 1990. What was at first a rudimentary breed has slowly evolved into a generation of machines that are able to react to their environment. Constructed as intricate assemblages of piping, wood, and wing-like sails, Jansen's creations are constantly being improved and have become excellently adapted to their sandy beach environment.
+
+![_Theo Jansen's Strandbeest at Fundacion Telefonica, Madrid_ - Photo by Julien Deswaef.- Free Art License](./images/strandbeest.jpg)
+
+> Theo Jansen has been creating _Strandbeest_ (Dutch: _strand_=beach; _beest_=beast), wind-walking examples of artificial life, since 1990. What was at first a rudimentary breed has slowly evolved into a generation of machines that are able to react to their environment. Constructed as intricate assemblages of piping, wood, and wing-like sails, Jansen's creations are constantly being improved and have become excellently adapted to their sandy beach environment.  −[Wikipedia](https://en.wikipedia.org/wiki/Theo_Jansen )
+
+![_Theo  Jansen's tools at Fundacion Telefonica, Madrid_. Photo by Julien  Deswaef. Free Art License](./images/strandbeest-tools.jpg)
 
 This is a particular interesting exemple since, Theo Jansen has also built his own tools for creating and producing these machines and has followed a principle of forking and merging between every instance of his project.
 
@@ -190,14 +196,16 @@ This is a particular interesting exemple since, Theo Jansen has also built his o
 −[Upcyclist](https://www.bookdepository.com/Upcyclist-Antonia-Edwards/9783791349503 ) by Antonia Edward.
 
 ### 1962 - Versioned physical sculpture
+
+![_Presentation of 1962_ by Raphael Bastide, MIT License](./images/192.png)
+
 > Sculptures conceptualized using a revision control system and represented physically.
 http://raphaelbastide.com/1962/
 
 An exploration by Raphael Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts former member of Libre Objet.
 
 ### Sea Chair
-Sea chair is made entirely from plastic recovered 
-http://www.studioswine.com/sea-chair
+> Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plasti is collected and processed into a stool at sea.  −[Studio Swine](http://www.studioswine.com/sea-chair )
 
 Open questions
 ----------------------
