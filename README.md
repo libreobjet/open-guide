@@ -4,7 +4,7 @@ Diverted Derived Design
 These are the source files of a collectively written book today called _Diverted Derived Design_ (formerly _Guía abierta a objetos abiertos_).
 This was a project part of [Interactivos?'15 at Medialab Prado, Madrid](http://comunidad.medialab-prado.es/en/groups/open-guide-open-objects).
 
-This book is part of an exhibition at Medialab Prado called _Objetos Comunes_.
+This book is on display in an exhibition at Medialab Prado called _Objetos Comunes_.
 
 License
 -----------

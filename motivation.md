@@ -15,7 +15,7 @@ What we learn in most design schools is all about protecting our work using pate
 
 #### Obsolescence
 > Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order.  
-−[Wikipedia]
+−[Wikipedia](https://en.wikipedia.org/wiki/Obsolescence)
 
 Of which there is the now famous planned obsolescence with the sole intention of increasing sales volume and producing garbage.
 
@@ -99,7 +99,7 @@ Objects
 ### Open source stethoscope by Tarek Loubani
 The bypass of Israel embargo on medical equipments in Gaza
 
-> Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a free and open model for hardware and software  development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.  −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
+> Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a free and open model for hardware and software  development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
 
 ###  [Reprap](http://reprap.org/ )
 
@@ -143,12 +143,12 @@ Early 19th-century Shaker interiors are characterized by an austerity and simpli
 Find and read his book _Design for the Real World: Human Ecology and Social Change_, you won't regret it.
 
 ### Jean Prouvé
-> Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art collective to which his father belonged. Its goals were to make art readily accessible, to forge links between art and industry, as well as between art and social consciousness.  
+> Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art collective to which his father belonged. Its goals were to make art readily accessible, to forge links between art and industry, as well as between art and social consciousness.
+
 >The metal furniture of Jean Prouvé was produced copiously in every studio and workshop. His work involved frequent collaboration, most famously with Charlotte Perriand and Pierre Jeanneret. The style is set apart from the Bauhaus steel furniture of the time by his rejection of the steel tube technique. Prouvé had more faith in the durability and form of sheet metal, "bent, pressed, compressed than welded". His designs speak of a work philosophy that includes knowledge of the materials at hand, a commitment to collaboration between artists and craftsmen, an attention to evolving technical developments, and "the principle of never postponing decisions so as neither to lose the impetus nor indulge in unrealistic forecasts". Prouvé was influential in the development of the idea of nomadic architecture, likening a chair to a house, and designing both with portability in mind.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Jean_Prouv%C3%A9 )
 
 His achievements in folded sheet (originally of lower costs and higher strength, like the bodywork of cars) include libraries, armchairs, Anthony beds, desks and Compass tables. These pieces are exemplary and are quoted as the highest in design for 20th century. An original edition of Anthony chair is worth 40.000 EUR; a Kangaroo chair was sold for 152.449 EUR in March 2011; a library could be valued at over 160.000 EUR)
-
 
 ### Design for the art market.
 
@@ -170,9 +170,9 @@ This project was born in 1974 just after the first oil crisis of 1973. The pover
 Rietveld was a Dutch furniture designer and architect. One of the principal members of the dutch artistic movement called _De Stijl_. Piet Mondrian is the most famous figure from that movememt. Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House.
 
 > The original _Krat_ (Crate) furniture was produced using untreated red spruce normally reserved for packing cases. It was sold in a kit form, to be assembled at home by the purchaser. The Crate furniture was a response to the economic crisis of the 1930s. It offered useful, inexpensive seating with basic construction and cheap materials. Other items of Crate furniture include a Crate easy chair, Crate table, Crate desk, Crate bookcase and a Crate stool, all from 1934.  
-[annetgelink.com](http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/)
+−[annetgelink.com](http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/)
 
-> How to construct Rietveld furniture documents the best known and most typical furniture designs by Gerrit Rietveld down the smallest detail. The book contains working plans, measurements, detail drawings, lists of materials and instructions for the assembly of each piece, as well as historical information about each one.   −[How to construct Rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0 )
+> _How to construct Rietveld furniture_ documents the best known and most typical furniture designs by Gerrit Rietveld down the smallest detail. The book contains working plans, measurements, detail drawings, lists of materials and instructions for the assembly of each piece, as well as historical information about each one.   −[How to construct Rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0 )
 
 ### Bernard Stiegler
 > Bernard Stiegler is a french philosopher and head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, _pharmakon.fr_ […]  
