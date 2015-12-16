@@ -3,18 +3,17 @@
 # Run this from the root of the project
 
 EXPORT_FOLDER="exports"
-OUTPUT_PDF="open-guide.pdf"
-OUTPUT_PDF_DIY="open-guide_DIY.pdf"
+FILENAME="open-guide"
 
 echo "Creating EPUB from Markdown files"
-gitbook epub ./ ./$EXPORT_FOLDER/open-guide.epub
+gitbook epub ./ ./$EXPORT_FOLDER/$FILENAME.epub
 
 echo "Creating MOBI from Markdown files"
-gitbook epub ./ ./$EXPORT_FOLDER/open-guide.mobi
+gitbook epub ./ ./$EXPORT_FOLDER/$FILENAME.mobi
 
 echo "Creating PDF from Markdown files"
-gitbook pdf ./ ./$EXPORT_FOLDER/$OUTPUT_PDF
+gitbook pdf ./ ./$EXPORT_FOLDER/$FILENAME.pdf
 echo "Converting PDF"
-gs -o ./$EXPORT_FOLDER/book-outlines.pdf -dNoOutputFonts -sDEVICE=pdfwrite ./$EXPORT_FOLDER/$OUTPUT_PDF
-podofoimpose ./$EXPORT_FOLDER/book-outlines.pdf ./$EXPORT_FOLDER/$OUTPUT_PDF_DIY impositions/Booklet-LO.plan
+gs -o ./$EXPORT_FOLDER/$FILENAME-outlines.pdf -dNoOutputFonts -sDEVICE=pdfwrite ./$EXPORT_FOLDER/$FILENAME.pdf
+podofoimpose ./$EXPORT_FOLDER/$FILENAME-outlines.pdf ./$EXPORT_FOLDER/$FILENAME-DIY.pdf impositions/Booklet-LO.plan
 echo "Done"
