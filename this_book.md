@@ -14,7 +14,7 @@ The co-authors present at Medialab Prado were:
 - Øyvind Kolås, digital media toolsmith − http://pippin.gimp.org/
 - Martin Lévêque, product designer − https://www.behance.net/martinleveque
 
-This project could not have been possible without the support of Josian Llorente, Wendy Van Wynsberghe and the whole team at Medialab Prado.
+This project could not have been possible without the support of Josian Llorente, Jara Rocha, Wendy Van Wynsberghe and the whole team at Medialab Prado.
 
 This book is also liberated and published under the Free Art License 1.3. Which means that if you want to copy it, distribute it or modify it, you're more than welcome to do so, as long as you credit all the co-authors.
 
@@ -24,6 +24,14 @@ The source files are available at {{ book.meta.source_url }}
 
 You're reading a version that has been compiled on the {{ book.meta.compilation_date }} with Gitbook version {{ gitbook.version }}.
 
+About the title
+---------------
+
+During the whole process of writing, many titles were proposed. Some were more pleasing than others. Some were funny. Some were rude. But somehow we could never settle for one. Close to the end of the 2 weeks, while we were printing the first versions of it, Øyvind got confused by a typo in the book and made a word become "derived", although the initial author meant "diverted".
+
+Those two words fitting nicely with the practice of free/libre open source design, it seemed a perfect fit for a catchy title with an alliterative twist, and so was born the _Diverted Derived Design_.
+
+<div class="page-break"></div>
 Tools
 -------
 

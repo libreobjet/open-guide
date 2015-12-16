@@ -1,5 +1,5 @@
 {
-		"title": "Open source product design",
+		"title": "Diverted Derived Design",
 		"language": "en",
 
 		"structure": {
@@ -26,7 +26,7 @@
 			}
 		},
 
-
+		"theme": "./theme",
 		"styles": {
 			"pdf": "./styles/pdf.css",
 			"website": "./styles/website.css"
