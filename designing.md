@@ -40,7 +40,7 @@ The “fork” means an object having a common root with a second one. Initially
 
 An example from the _Diverted objetcs_ workshop given by Libre Objet
 
- ![Lison-LibreObjet-LAL](./images/Lison-illustration.jpeg)
+ ![_A fork by Lison_ − Libre Objet − Free Art License](./images/Lison-illustration.jpeg)
 
 ### Mixing / merging
 > To combine items from two or more sources normally kept separate.  
@@ -114,7 +114,7 @@ Inkscape is a free/libre and open-source vector graphics editor that runs on all
 
 #### CNC router
 
-![Homemade CNC router. *by by Drigotti (CC BY-SA 3.0)*](./images/CNC_Router_ by Drigotti CC BY-SA 3.0.png)
+![_Homemade CNC router_ − Drigotti − CC-BY-SA 3.0](./images/CNC_Router_ by Drigotti CC BY-SA 3.0.png)
 
 > A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for _computer numerical control_. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine.  
 A CNC router typically produces consistent and high-quality work and improves factory productivity. Automation and precision are the key benefits of cnc router tables.  
@@ -127,67 +127,60 @@ A CNC router typically produces consistent and high-quality work and improves fa
 
 #### 3D printer
 
- ![Homemade RepRap 3D printer. *by by Drigotti (CC BY-SA 3.0)*](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
+ ![_Homemade RepRap 3D printer_ − Drigotti − CC-BY-SA 3.0](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
 
 > 3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source.  
 3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense.  
 −[Wikipedia](https://en.wikipedia.org/wiki/3D_printing)
 
-#### Build     your own tools
+#### Build your own tools
 Improving your tools by yourself or making your  open source tools for doing open source design is another option. In the traditional woodworking this was a very common practice. Nowadays there are a lot of people that make their own tools or improving their own tools. For example the conversions of milling hand routers into a CNC routers or the fabrication of 3D printers.
 
 Objects
 ------------
 
-### Reeboek
+### Bouctje & REEBOeK
 
-![**Bouctje** by Mathieu Gabiot. Free Art Licence.](./images/Bouctje_by_Mathieu Gabiot.jpg)!
-![**REEBOeK** by Verly Laurent. Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
+![_Bouctje by Mathieu Gabiot_ − Libre Objet − Free Art Licence](./images/Bouctje_by_Mathieu Gabiot.jpg)
 
-[Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on january 2013 and licenced with a Free Art Licence.
+![_REEBOeK by Verly Laurent_ − Libre Objet − Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
 
-[Reeboek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on september 2013 also licenced with a Free Art Licence.
+[Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on January 2013 and licensed with a Free Art License.
 
-This is a good example about the advantages of the open source objects. Thanks to the open licence of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new purpose is born.
+[REEBOek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on September 2013 also licensed with a Free Art License.
+
+This is a good example about the advantages of the open source objects. Thanks to the open license of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new purpose is born.
 
 ### Wikiseat
+
+![_Wikiseat_ − CC-BY-SA](./images/wikiseat01.jpg)
 
 > WikiSeat is an open source furniture project. That means that all of the documentation for how to build a WikiSeat is freely and  openly published online.  
 At the heart of each WikiSeat is a Catalyst. This is the structural support, made out of welded angle iron, that helps hold three legs in place. The seat part goes on top. It is a pretty simple idea, but there are no instructions for _how_ to assemble these parts. We encourage people to find materials rather than buying them from a store. Every WikiSeat is a truly unique creation, a reflection of the creators environment and ideas.  
 −[Wikiseat](http://www.wikiseat.org/about/)
 
-![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat01.jpg)
+![_Wikiseat_ − CC-BY-SA](./images/wikiseat02.jpg)
 
-![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat02.jpg)
-
-![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat03.jpg)
-
-![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat04.jpg)
-
-![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat05.jpg)
-
-![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat06.jpg)
-
-![**Wikiseat** . CC-BY-SA.  ](./images/wikiseat07.jpg)
+![_Wikiseat_ − CC-BY-SA](./images/wikiseat03.jpg)
 
 ### uHbench
 
-![_uHbench_ by Julien Deswaef − Free Art License](./images/uhbench.png)
+![_uHbench_ − Julien Deswaef − Free Art License](./images/uhbench.png)
 
 > The uHbench (v 1.5) is a libre object designed by Julien Deswaef. Made with love and f/los software (Blender, Freestyle, Inkscape, Bash, XMLStarlet, Git & Gnu/Linux)
 Get from a standard (Epal-Eur) pallet to a public bench in just a couple easy steps. The idea came while thinking about urban hacking or how to  reclaim public space with easy to find material and tools in urban areas.  
 http://xuv.be/uH-bench-open-source-public-bench.html
 
 Food for thought
------------------------
+----------------
 
 ### Strandbeest
 
-![_Theo Jansen's Strandbeest at Fundacion Telefonica, Madrid_ - Photo by Julien Deswaef.- Free Art License](./images/strandbeest.jpg)
+![_Theo Jansen's Strandbeest at Fundacion Telefonica, Madrid_ − Julien Deswaef − Free Art License](./images/strandbeest.jpg)
 
 > Theo Jansen has been creating _Strandbeest_ (Dutch: _strand_=beach; _beest_=beast), wind-walking examples of artificial life, since 1990. What was at first a rudimentary breed has slowly evolved into a generation of machines that are able to react to their environment. Constructed as intricate assemblages of piping, wood, and wing-like sails, Jansen's creations are constantly being improved and have become excellently adapted to their sandy beach environment.  −[Wikipedia](https://en.wikipedia.org/wiki/Theo_Jansen )
 
-![_Theo  Jansen's tools at Fundacion Telefonica, Madrid_. Photo by Julien  Deswaef. Free Art License](./images/strandbeest-tools.jpg)
+![_Theo  Jansen's tools at Fundacion Telefonica, Madrid_ − Julien  Deswaef − Free Art License](./images/strandbeest-tools.jpg)
 
 This is a particular interesting exemple since, Theo Jansen has also built his own tools for creating and producing these machines and has followed a principle of forking and merging between every instance of his project.
 
@@ -197,12 +190,12 @@ This is a particular interesting exemple since, Theo Jansen has also built his o
 
 ### 1962 - Versioned physical sculpture
 
-![_Presentation of 1962_ by Raphael Bastide, MIT License](./images/1962.png)
+![_Presentation of 1962_ − Raphaël Bastide − MIT License](./images/1962.png)
 
 > Sculptures conceptualized using a revision control system and represented physically.
 http://raphaelbastide.com/1962/
 
-An exploration by Raphael Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts former member of Libre Objet.
+An exploration by Raphaël Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts.
 
 ### Sea Chair
 > Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plastic is collected and processed into a stool at sea.  −[Studio Swine](http://www.studioswine.com/sea-chair )

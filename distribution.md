@@ -6,14 +6,14 @@ Distribution
 **Distribution** has to be thought of from two interacting point of views:
  - The physical
  - The dialogue
- 
+
 The physical
 ------------------
 **How is your object physically distributed?**
 
 As we mentioned in the Motivations section, one of the benefits of open source product design is that documentation can travel faster using contemporary communication tools than can an object shipped in a container. This then potentially seperates even more the places where objects are imagined from the places where objects are built. It is already the case when design is done in western countries for a western market and the resulting objects are produced in non-western countries with cheaper labor. But with open source product design, this relationship can be totally broken as objects could potentially be designed anywhere and fabricated where they are demanded. At least, this is where we do see the benefits of it. Of course, this particular relation could be "closed" again if only specific skills and tools are required to design and produce the objects.
 
-Another benefit of digital distribution of documentation is when certain objects can't be found in certain parts of the world due to legal restrictions. Digital fabrication tools such as a 3D printer have changed the way we look at certain objects and opened the doors to the manufacture of "illegal objects". 
+Another benefit of digital distribution of documentation is when certain objects can't be found in certain parts of the world due to legal restrictions. Digital fabrication tools such as a 3D printer have changed the way we look at certain objects and opened the doors to the manufacture of "illegal objects".
 
 ### Distributing physical open source objects
 
@@ -22,7 +22,7 @@ Something that is quite easy to figure out with software is if the software itse
 There might be ways to expose this with a proper marking or tagging on the object. Engraving or sticking a mention of the license and a url where to find further information about the object could be an elegant solution in some cases. Or maybe one day, design lovers will be able to recognise an open source object just by looking at it. But until then, this should be something to think about when desgining open source products.
 
 Communicating the product's license directly on the product somehow is important. If the license is only mentioned on separate documents or packaging, it can be lost if the user decides to give the object away. The new users will then have no idea about the origin and lose the opportunity to know the benefits of the object and its license -- adapt, remix, etc.
- 
+
 The dialogue
 ------------------
 **How open is your conversation?**
@@ -72,9 +72,9 @@ Documentation being a key element, it would do no good for the object and its re
 
 Open formats are usually standards to store information that can be readable by a human or a machine and of which the specification is publicly available, fully described and exempt of patents and copyright.
 
-Open formats are the only way to garantee a future to your design documents. Any other format would be bound to the willingness of their maintainers to continue to support it. You would not want your life's work to become inaccessible because some company, somewhere, went bankrupt or changed their business model and decided not to support this or that particular feature. 
+Open formats are the only way to garantee a future to your design documents. Any other format would be bound to the willingness of their maintainers to continue to support it. You would not want your life's work to become inaccessible because some company, somewhere, went bankrupt or changed their business model and decided not to support this or that particular feature.
 
-And don't think that the size, popularity or apparent financial wellness of a company is a guarantee of anything. 
+And don't think that the size, popularity or apparent financial wellness of a company is a guarantee of anything.
 
 Tools
 -------
@@ -103,7 +103,7 @@ Objects
 
 ### Dobsonian Telescope
 
- ![*Dobsonian telescope by Szőcs TamásTamasflex (font:Treball propi) (Licensed by CC BY-SA 3.0)*](./images/Dobsonian_telescopes_schematic.png)
+ ![_Dobsonian telescope_ − Szőcs TamásTamasflex − CC-BY-SA 3.0](./images/Dobsonian_telescopes_schematic.png)
 
 > John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.  
 −[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
@@ -111,11 +111,11 @@ Objects
 The dobsonian telescope is a telescope designed for amateur astronomy. It was created in 1950 by the amateur astronomer John Dobson and we could say that it is an open source object, although the terms open source and the open source licenses did not exist at all at that time. It is easily buildable at home using cheap and common materials, and its construction does not require any special ability. Even if there is commercial models available, they are usually modified and customized by their users. These facts encourage the constant refining of the design of the telescope every time it is built.
 
 
-### The Liberator 
+### The Liberator
 
- ![Liberator gun by Kamenev licensed as CC-BY-SA 3.0*](./images/DDLiberator2.3.jpg)
+ ![_Liberator gun_ − Kamenev − CC-BY-SA 3.0](./images/DDLiberator2.3.jpg)
 
- ![Parts of Liberator 3D-printable gun, designed by Defense Distributed. Photo by Vvzlad CC-BY-SA  3.0](./images/Liberator.3d.gun.vv.02.jpg)
+ ![_Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-BY-SA 3.0](./images/Liberator.3d.gun.vv.02.jpg)
 
 During the last few years, one of the most polemical issue relative to open source object and their distribution has been 3D-printed weapons, and especially the highly publicized case of the Liberator single shot gun.
 
@@ -146,7 +146,7 @@ This model of telescope has been distributed widely around the world and is now 
 
 In the text *The Pro-Am Revolution: How enthusiasts are changing our economy and society*  Charles Leadbeater and Paul Miller explain how, thanks to the Dobsonian telescope, there is now a symbiosis between professional astronomers and amateur astronomers. Thanks to its openness, the Dobsonian telescope has been improved to a point that makes it almost as powerful as a professional telescope.
 
-Thanks  to the open distribution of the Dobsonian telescope, science can advance a little bit faster. When the astronomer Bob Alborzian  encouraged Dobson to patent the telescope, Dobson replied "These  are gifts to humanity". 
+Thanks  to the open distribution of the Dobsonian telescope, science can advance a little bit faster. When the astronomer Bob Alborzian  encouraged Dobson to patent the telescope, Dobson replied "These  are gifts to humanity".
 
 http://spontaneousgenerations.library.utoronto.ca/index.php/SpontaneousGenerations/article/viewFile/11947/11185
 
@@ -158,7 +158,7 @@ http://www.demos.co.uk/files/proamrevolutionfinal.pdf
 
 - http://thepiratebay.se is a popular online index of torrent files, usually associated with the mass distribution of copyrighted entertainment material
 
-### Entropie 
+### Entropie
 Entropie has published many open source product designs, such as this [_Carriole à Vélo_](http://www.asso-entropie.fr/fr/design-libre/notices/carriole-velo/ ) (bike trailer) for example. But they only share the documentation in a single pdf, no other sources attached, complicating and putting a brake on the adaptation prossiblities.
 
 Open questions
@@ -166,4 +166,3 @@ Open questions
 - How can you make your object integrate in its design the license and documentation necessary to make it?
 - How can you tell the user that the object s/he is using is open source?
 - What could be an object that distributes itself?
-

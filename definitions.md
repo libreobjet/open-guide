@@ -47,7 +47,7 @@ Objects
 When Picollo was released, it mentioned on the website that the project was open source hardware, although they were restricting commercial use of the project. After [discussing with them](http://piccolo.cc/#comment-1644436573 ) and pointing the incompatibilities between the restrictive license and the _open source_ terms used in the description, the Piccolo team completely freed their project with a CC-BY-SA.
 
 ### [Faircap](http://faircap.org/ )
-The Faircap is a 3D-printed water filter and when it was released, they anounced it as open source while licensing it under CC-NC-SA. After [pointing out](https://twitter.com/raphaelbastide/status/657257450593230848) to the creator why this license was misleading, the project was then released as Public Domain. http://www.instructables.com/id/Open-Source-3D-Printed-Water-Filter/
+The Faircap is a 3D-printed water filter and when it was released, they anounced it as open source while licensing it under CC-NC-SA. After [pointing out](https://twitter.com/raphaelbastide/status/657257450593230848) to the creator why this license was misleading, the project was then released as Public Domain.   http://www.instructables.com/id/Open-Source-3D-Printed-Water-Filter/
 
 
 Food for thought

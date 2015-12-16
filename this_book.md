@@ -74,18 +74,22 @@ Materials:
 #### Step 1
 Print the book in booklet mode. You can use a software like Bookletimposer for sorting the pages in a correct way. Then, fold the folios and make the holes with the drill for spiral binding.
 
+![_Book binding step 1_ − Julien Deswaef − Free Art License](./images/bookbinding-1.JPG)
+
 #### Step 2
 Print the cover in a DIN A3 printer. The cover will be more or less 337x210 mm. You must divide the cover in seven strips. The size of this strips must be 148.5+8+8+8+8+8+148.5=337.
 
-![Diagram for folding and drilling](./images/Tutorial diagram 1)
+![_Diagram for folding and drilling_ − Gaizka Altuna − Free Art License](./images/Tutorial_diagram_1.jpg)
 
 #### Step 3
 Make holes with the drill for 2nd, 3rd, 5th and 6th strips and them fold them in the same way of the photograph.
 
-![Diagram for folding and drilling](./images/tutorial diagram 2)
+![_Diagram for folding and drilling_ − Gaizka Altuna − Free Art license](./images/tutorial_diagram_2.jpg)
 
 #### Step 4
 Sew all the pages with the cover.
+
+![_Book binding step 4_ − Julien Deswaef − Free Art License](./images/bookbinding-4.JPG)
 
 #### Step 5
 Enjoy the reading
@@ -95,4 +99,14 @@ Open Questions
 - Have you found a mistake in this book?
 - Would you like to translate it?
 
+<div class="page-break"></div>
+Illustrations
+=============
+
+This is the list of illustrations, photos and graphics available in book and their license.
+{% for picture in book.pictures %}
+  1. {{ picture.list_caption }}
+{% endfor %}
+
+<div class="page-break"></div>
 {% include "./LICENSE.md" %}
