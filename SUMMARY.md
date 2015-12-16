@@ -5,6 +5,6 @@
 * [Design (as a) process](design_process.md)
 * [Distributions](distribution.md)
 * [Economies](economies.md)
-* [Propositions](propositions.md)
+* [Proposition](proposition.md)
 * [This book](this_book.md)
 * [Glossary](GLOSSARY.md)
