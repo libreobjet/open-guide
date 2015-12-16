@@ -1,10 +1,10 @@
 # Summary
 
 * [Motivations](motivation.md)
-* [Licenses](licences.md)
-* [Design (as a) process](designing.md)
+* [Licenses](licenses.md)
+* [Design (as a) process](design_process.md)
 * [Distributions](distribution.md)
-* [Economies](economics.md)
-* [Propositions](definitions.md)
+* [Economies](economies.md)
+* [Propositions](propositions.md)
 * [This book](this_book.md)
 * [Glossary](GLOSSARY.md)
