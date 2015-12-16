@@ -1,5 +1,5 @@
 {
-		"title": "Open guide to open objects",
+		"title": "Open source product design",
 		"language": "en",
 
 		"structure": {
@@ -10,7 +10,7 @@
 		 "variables": {
 				"meta": {
 						"source_url": "https://github.com/libreobjet/open-guide",
-						"compilation_date": "December 15th, 2015"
+						"compilation_date": "December 16th, 2015"
 				}
 		},
 
@@ -34,7 +34,7 @@
 
     "pdf": {
         "toc": true,
-        "pageNumbers": false,
+        "pageNumbers": true,
 
         "fontSize": 10,
         "fontFamily": "Open sans",

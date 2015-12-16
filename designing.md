@@ -4,7 +4,7 @@ Design (as a) process
 _It's the journey, not the destination._
 
 Designing requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry, mathematics, mechanics, anatomy and kinetics, proficiency with 2d or 3d software and lets not forget a feel for the beautiful. But don't be afraid, because everybody can design objects. Remember the times in when we used to buid huts, homemade bows or extraordinary worlds made with toys like Lego. Working with open source design does not make assupmptions about your knowledge but taps on your willing to learn and imporve your abilities.
- 
+
 Design Tactics
 ---------------------
 
@@ -13,14 +13,14 @@ Design Tactics
 Designers are usually expected to provide a polished product. With open source practices, this is not the case. You are encouraged to release your concept files and embryo of documentation as soon as possible. Prototyping should be done in the open, permitting other designers to join you.
 
 ### Not starting from scratch
- 
+
 > If I have seen further than others, it is by standing upon the shoulders of giants.  
 −Isaac Newton
 
 Sometimes when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be able to implement some designing tactics that allows you to begin working from the work of others designers, instead of starting from scratch.
 
 ### Copying
- 
+
 > To produce an object identical to a given object.  
 −[Wiktionary](https://en.wiktionary.org/wiki/copy)
 
@@ -41,7 +41,7 @@ The “fork” means an object having a common root with a second one. Initially
 An example from the _Diverted objetcs_ workshop given by Libre Objet
 
  ![Lison-LibreObjet-LAL](./images/Lison-illustration.jpeg)
-  
+
 ### Mixing / merging
 > To combine items from two or more sources normally kept separate.  
 −[Wiktionary](https://en.wiktionary.org/wiki/mix)
@@ -95,16 +95,16 @@ Free/Libre and open source tools are also generally better at handling open stan
 
 ### Free/libre softwares for DAO/CAO
 
-#### LibreCAD 
+#### LibreCAD
 LibreCAD is a free/libre and open source CAD application for Windows, Apple and Linux that some users have compared to the proprietary Autocad.
 
 #### FreeCAD
 FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is a multiplateform customizable, scriptable and extensible software that reads and writes many open file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
 
-#### OpenSCAD 
+#### OpenSCAD
 OpenSCAD is a software for creating solid 3D CAD models using code. It is free software and available on all major plateforms. If you have abilities in coding and want to produce CAD files using a special scipting langauge, this might be the application you are looking for.
 
-#### Blender 
+#### Blender
 Blender is the free/libre and open source 3D creation suite. It is most well-know for its artistic capabilities in the field of 3D illustration and animation. It supports the entirety of the 3D pipeline from modeling to rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. But more and more people use it to produce or manipulate files for 3D printing and CAD related tasks. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools.
 
 #### Inskape
@@ -144,9 +144,9 @@ Objects
 ![**Bouctje** by Mathieu Gabiot. Free Art Licence.](./images/Bouctje_by_Mathieu Gabiot.jpg)!
 ![**REEBOeK** by Verly Laurent. Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
 
-[Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on january 2013 and licenced with a Free Art Licence. 
+[Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on january 2013 and licenced with a Free Art Licence.
 
-[Reeboek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on september 2013 also licenced with a Free Art Licence. 
+[Reeboek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on september 2013 also licenced with a Free Art Licence.
 
 This is a good example about the advantages of the open source objects. Thanks to the open licence of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new purpose is born.
 
@@ -192,12 +192,12 @@ Food for thought
 This is a particular interesting exemple since, Theo Jansen has also built his own tools for creating and producing these machines and has followed a principle of forking and merging between every instance of his project.
 
 ### Upcyclist
->Filled with an enormous range of materials and objects, this unique book will inspire any designer or design-conscious consumer to incorporate  upcycling into their creative practice or interior design projects.  
+> Filled with an enormous range of materials and objects, this unique book will inspire any designer or design-conscious consumer to incorporate upcycling into their creative practice or interior design projects.  
 −[Upcyclist](https://www.bookdepository.com/Upcyclist-Antonia-Edwards/9783791349503 ) by Antonia Edward.
 
 ### 1962 - Versioned physical sculpture
 
-![_Presentation of 1962_ by Raphael Bastide, MIT License](./images/192.png)
+![_Presentation of 1962_ by Raphael Bastide, MIT License](./images/1962.png)
 
 > Sculptures conceptualized using a revision control system and represented physically.
 http://raphaelbastide.com/1962/
@@ -205,12 +205,11 @@ http://raphaelbastide.com/1962/
 An exploration by Raphael Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts former member of Libre Objet.
 
 ### Sea Chair
-> Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plasti is collected and processed into a stool at sea.  −[Studio Swine](http://www.studioswine.com/sea-chair )
+> Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plastic is collected and processed into a stool at sea.  −[Studio Swine](http://www.studioswine.com/sea-chair )
 
 Open questions
 ----------------------
 
-- Do you think that the open source licenses make designing easier for non-professional people? 
+- Do you think that the open source licenses make designing easier for non-professional people?
 - Do you think that the open source licenses make designing more democratic?
 - Do you prefer starting from scratch or from existing design?
-

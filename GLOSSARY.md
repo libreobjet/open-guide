@@ -1,31 +1,31 @@
 Glossary
-======
+========
 
 #### Amateur
-> An amateur (French amateur  "lover of", from Old French and ultimately from Latin amatorem nom.  amator, "lover") is generally considered a person attached to a  particular pursuit, study, or science in a non-professional or unpaid  manner. Amateurs often have little or no formal training in their  pursuits, and many are autodidacts (self-taught).  
+> An amateur (French amateur "lover of", from Old French and ultimately from Latin amatorem nom. amator, "lover") is generally considered a person attached to a  particular pursuit, study, or science in a non-professional or unpaid  manner. Amateurs often have little or no formal training in their pursuits, and many are autodidacts (self-taught).  
 − [Wikipedia](https://en.wikipedia.org/wiki/Amateur )
 
 #### Author
-An author is broadly defined as "the person who originated or gave  existence to anything" and whose authorship determines responsibility  for what was created.  
+> An author is broadly defined as "the person who originated or gave existence to anything" and whose authorship determines responsibility for what was created.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Author )
 
 #### CC
 See Creative Commons.
 
 #### CC0
-Creative Commons Zero is a licence  that waives all copyrights attached to a work. Similar to releasing work into the public domain. 
+Creative Commons Zero is a licence  that waives all copyrights attached to a work. Similar to releasing work into the public domain.
 
-#### CC-by 
+#### CC-by
 One of the basic Creative Commons licences that only requires that proper attribution is given to the author(s) of the work being used.
 
 #### CC-by-sa
 One of the Creative Commons licences that requires that proper attribution is given to the original author(s) and that any derivative should be  published using the same licence.
 
 #### Copy
-> To make an identical duplicate of an original  
+> To make an identical duplicate of an original.  
 −[Wiktionary](https://en.wiktionary.org/wiki/copy )
 
-#### Copyleft 
+#### Copyleft
 >  A style of licensing in which those redistributing the work are  required to do so under its original (or a compatible) license.  
 −[Libre Graphics Magazine](http://libregraphicsmag.com/ )
 
@@ -38,7 +38,7 @@ One of the Creative Commons licences that requires that proper attribution is gi
 −[Wikipedia](https://en.wikipedia.org/wiki/Crowdfunding )
 
 #### Do It Yourself (DIY)
-> Do It Yourself is the practice of doing home improvements and maintenance oneself rather than employing a professional  
+> Do It Yourself is the practice of doing home improvements and maintenance oneself rather than employing a professional.  
 −[Wiktionary](https://en.wiktionary.org/wiki/do_it_yourself)
 
 #### Do It With Others (DIWO)
@@ -71,9 +71,9 @@ Since  free software is often associated with gratis, the "libre" french word  i
 > 7. One who enjoys the intellectual challenge of creatively overcoming or circumventing limitations.  
 −[The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
 
-#### Licence 
-The  noun license refers to that permission as well as to the document  recording that permission. A license may be granted by a party     ("licensor") to another party ("licensee") as an element of an  agreement  between those parties. A shorthand definition of a license is  "an authorization (by the licensor) to use the licensed material  (by   the  licensee)."  
-−[Wikipedia]https://en.wikipedia.org/wiki/License
+#### Licence
+> The  noun license refers to that permission as well as to the document  recording that permission. A license may be granted by a party     ("licensor") to another party ("licensee") as an element of an  agreement  between those parties. A shorthand definition of a license is  "an authorization (by the licensor) to use the licensed material  (by   the  licensee)."  
+−[Wikipedia](https://en.wikipedia.org/wiki/License)
 
 #### Maker
 A maker is usually a white male with a subscription to Make Magazine. This person could also just be a regular attendee of a makerspace.
@@ -86,7 +86,7 @@ A maker is usually a white male with a subscription to Make Magazine. This perso
 > Hardware which follows the same principles as F/LOSS, including publicly available, freely licensed schematics.  
 −[Libre Graphics Magazine](http://libregraphicsmag.com/ )
 
-#### Open source 
+#### Open source
 See F/LOSS.
 
 #### Open standards
@@ -114,6 +114,5 @@ See F/LOSS.
 −[Collins Dictionary](http://www.collinsdictionary.com/dictionary/english/steal )
 
 #### STL
-A file format for CAD files, geared towards representation of 3D objects. It has become the "de facto" format for 3D printing.  
+> A file format for CAD files, geared towards representation of 3D objects. It has become the "de facto" format for 3D printing.  
 −[Libre Graphics Magazine](http://libregraphicsmag.com/ )
-
