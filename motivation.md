@@ -92,7 +92,20 @@ In this sense, the environmental aspect is an important part of the project, whe
 When a person chooses an open source product, s/he moves away from a passive consumer position into a collaborative process that could  potentially be a less polluting system than productive consumption.
 
 Tools
--------
+-----
+Ok, this is a tricky one. What are the tools to stay motivated or to motivate yourself to go into open source product design? This is actually a very personal question. We hope this book will be a tool. You tell us. But here's some other suggestions.
+
+### Get inspired
+Read, search and document yourself. This is why we've laid a "food for thought" part in each section of the book. Because those things listed here, one way or the other, inspired and motivated us.  
+
+### Challenge yourself
+This is a somewhat new and open field, and there is a lot of creativity going around it. New business models, new collaborative processes, new publication models, etc. There is plenty of things to invent and plenty of challenges to create.
+
+### Release early, release often
+This motto comes from open source software practices and encourages creators to publish their project right from the beginning (or almost) and to regularly update it. If you're willing to go the open way, don't keep things hidden until they are finished. You might loose energy on the way. You might also miss an opportunity to find collaborators.
+
+### Get connected
+This is a community. We're online and offline talking to each other, supporting each other.  
 
 Objects
 -----------
