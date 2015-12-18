@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="icon" href="https://www.gitbook.com/assets/images/logo/favicon.ico">
+    <link rel="stylesheet" href="open-guide/styles/website.css">
+    <style type="text/css">
+      .container {
+        max-width: 770px;
+        background: red;
+        margin: 0 auto;
+      }
+      .row, .col, .cover {
+        max-width: inherit;
+      }
+      .col {
+        width: 50%;
+        float: left;
+      }
+      .cover {
+        border: 2px solid lightgrey;
+        border-right: 30px solid lightgrey;
+      }
+      .cover img {
+        width: 100%;
+      }
+      .infos {
+        padding: 0 10px 0 30px;
+      }
+      p { font-family: 'Open Sans', sans-serif; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="cover">
+            <a href="open-guide/">
+              <img src="open-guide/cover.png">
+            </a>
+          </div>
+        </div>
+        <div class="col">
+          <div class="infos">
+            <h1><a href="open-guide/">{{ book.title }}</a></h1>
+            <p class="co-authors">
+            {% for user in book.collaborators %}
+            {% if loop.last %}and{% else %},{% endif %} <a href="{{ user.urls.profile }}">{{ user.name }}</a>
+            {% endfor %}
+            </p>
+            <p class="description">{{ book.description }}</p>
+            <p>You can also download this book as: <a href="{{ book.urls.download.epub }}" rel="nofollow"><b>ePUB</b> (for iPad, iPhone, Mac)</a>, <a href="{{ book.urls.download.mobi }}" rel="nofollow"><b>MOBI</b> (for Kindle)</a> or <a href="{{ book.urls.download.pdf }}" rel="nofollow"><b>PDF</b> (for Windows and others)</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
