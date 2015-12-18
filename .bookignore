@@ -1,2 +1,11 @@
-scripts/*
+# Ignore any file or folder that is not necessary for the book
 .sparkleshare
+
+scripts/
+exports/
+impositions/
+node_modules/
+theme/
+
+package.json
+Gruntfile.js
