@@ -1,5 +1,9 @@
-_book/*
+# Don't track exports folders
+_book/		# default
+exports/	# open-guide 
 
-node_modules/*
+
+node_modules/
+*.pdf
 *.epub
 *.mobi
