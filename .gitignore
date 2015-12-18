@@ -1,6 +1,6 @@
 # Don't track exports folders
 _book/		# default
-exports/	# open-guide 
+exports/open-guide/ 
 
 
 node_modules/
