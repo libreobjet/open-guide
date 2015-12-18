@@ -10,7 +10,8 @@
   font-style: normal;
 }
 
-body {
+.page .section {
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* Related to the images */
