@@ -27,6 +27,9 @@ module.exports = function(grunt) {
       },
       build: {
         exec: 'gitbook build ./ ./exports/open-guide'
+      },
+      pdf: {
+        exec: 'gitbook pdf ./ ./exports/open-guide.pdf'
       }
     },
     imagemin: {                          // Task
@@ -61,7 +64,6 @@ module.exports = function(grunt) {
     }
   });
 
-  grunt.loadNpmTasks('grunt-modify-json');
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-run');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
@@ -70,10 +72,15 @@ module.exports = function(grunt) {
   // Default task(s).
   grunt.registerTask('default', ['run:server']);
   grunt.registerTask('update_book_json', ['copy']);
-  grunt.registerTask('build', [
-                                'update_book_json',
-                                'run:build',
-                                'image_resize',
-                                'imagemin'
-                              ]);
+  grunt.registerTask('pdf', [
+                              'update_book_json',
+                              'run:pdf'
+                            ]);
+  grunt.registerTask('web', [
+                              'update_book_json',
+                              'run:build',
+                              'image_resize',
+                              'imagemin'
+                            ]);
+                            
 };
