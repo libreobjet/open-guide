@@ -22,6 +22,20 @@ Any graphic designer or illustrator willing to give a hand making this book beau
 If you find this book worth reading and sharing, there might be people in your community that could benefit from a native language translation.
 If you'd like to join a team of translators, please contact us at hello@libreobjet.org
 
+Looking for more translators in these languages:
+- Euskadi
+- Español
+- Català
+- Français
+
 Build
 -----
-If you wish to build this book yourself, you will need at least Gitbook.
+
+If you wish to build this book yourself, you will need Grunt, Gitbook, Calibre and ImageMagick.
+
+Grunt handles the building of the different files.  
+A [special version of Gitbook](https://github.com/xuv/gitbook) is used, mainly to better handle fonts in the pdfs.  
+Calibre is required by Gitbook to make pdfs, epub and mobi.  
+Imagemagick is used to compress the images for the web version of the book.  
+
+Detailed howto is coming soon. File an issue to remind us to post it.
