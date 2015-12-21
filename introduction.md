@@ -3,7 +3,7 @@ Introduction
 
 The term _open source_ is becoming popular among product designers. We see websites and initiatives appear with a lot of good intentions but sometimes missing the point and often creating confusion. Design magazines and blogs are always rushing into calling an openly published creation _open source_ but rarely question the licenses or provide schematics or design files to download.
 
-We are furniture designers, hackers and artists who have been working with free/libre and open source software for quite some time. For us, applying these prirciples to product design was a natural extension, providing new areas to explore. But we also realized that designers coming to this with no prior open source experience had a lot of information to grasp before getting a clear picture of what could be open source product design. So we set ourselves to mobilize our knowledge in this book.
+We are furniture designers, hackers and artists who have been working with free/libre and open source software for quite some time. For us, applying these principles to product design was a natural extension, providing new areas to explore. But we also realized that designers coming to this with no prior open source experience had a lot of information to grasp before getting a clear picture of what could be open source product design. So we set ourselves to mobilize our knowledge in this book.
 
 We hope that this tool can be a base for teaching and learning about open source product design; a collective understanding of what one should know today to get started and join the movement; a reference students, amateurs and educators can have in their back pocket when they go out to explain what they are passionate about.
 
