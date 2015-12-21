@@ -1,5 +1,5 @@
 # Don't track exports folders
-_book/		# default
+_book/
 exports/open-guide/ 
 
 
@@ -8,4 +8,6 @@ node_modules/
 *.epub
 *.mobi
 
-book.json	# Now handled by Grunt
+book.json
+
+styles/*.less
