@@ -6,9 +6,9 @@
     <link rel="icon" href="https://www.gitbook.com/assets/images/logo/favicon.ico">
     <link rel="stylesheet" href="open-guide/styles/website.css">
     <style type="text/css">
+      a { color: #00BD00; }
       .container {
         max-width: 770px;
-        background: red;
         margin: 0 auto;
       }
       .row, .col, .cover {
@@ -17,6 +17,15 @@
       .col {
         width: 50%;
         float: left;
+      }
+      .logo {
+          text-align: center;
+          height: 80px;
+          /* border-bottom: 2px dotted lightgrey;*/
+          margin-bottom: 30px;
+      }
+      .logo img {
+        /* height: 60%; */
       }
       .cover {
         border: 2px solid lightgrey;
@@ -28,12 +37,41 @@
       .infos {
         padding: 0 10px 0 30px;
       }
+      .infos h1 {
+        font-size: 1.8em;
+      }
+
+      .infos .co-authors {
+        font-style: italic;
+      }
+
       p { font-family: 'Open Sans', sans-serif; }
+
+      @media all and (max-width:700px) {
+        .col {
+          width: 100%;
+          float: none;
+        }
+        .cover {
+          margin: 0 7%;
+          border: 2px solid lightgrey;
+          border-right: 2px solid lightgrey;
+        }
+
+        .infos {
+          padding: 0 7%;
+        }
+      }
     </style>
   </head>
   <body>
     <div class="container">
       <div class="row">
+        <div class="logo">
+          <a href="http://libreobjet.org">
+            <img src="open-guide/images/libre-objet-logo.svg" alt="Libre Objet books" />
+          </a>
+        </div>
         <div class="col">
           <div class="cover">
             <a href="open-guide/">
@@ -43,14 +81,15 @@
         </div>
         <div class="col">
           <div class="infos">
-            <h1><a href="open-guide/">{{ book.title }}</a></h1>
+            <h1><a href="open-guide/">Diverted Derived Design</a></h1>
             <p class="co-authors">
-            {% for user in book.collaborators %}
-            {% if loop.last %}and{% else %},{% endif %} <a href="{{ user.urls.profile }}">{{ user.name }}</a>
-            {% endfor %}
+              Gaizka Altuna, ginger coons, Julien Deswaef, Mathieu Gabiot, César García, Øyvind Kolås and Martin Lévêque
             </p>
-            <p class="description">{{ book.description }}</p>
-            <p>You can also download this book as: <a href="{{ book.urls.download.epub }}" rel="nofollow"><b>ePUB</b> (for iPad, iPhone, Mac)</a>, <a href="{{ book.urls.download.mobi }}" rel="nofollow"><b>MOBI</b> (for Kindle)</a> or <a href="{{ book.urls.download.pdf }}" rel="nofollow"><b>PDF</b> (for Windows and others)</a>.</p>
+            <p class="description">We hope that this book can be a base for teaching and learning about <b>open source product design</b>; a collective understanding of what one should know today to get started and join the movement; a reference students, amateurs and educators can have in their back pocket when they go out to explain what they are passionate about.</p>
+            <p><a href="open-guide">Read it online here</a></p>
+            <p>You can also download this book as <a href="open-guide.pdf" rel="nofollow"><b>PDF</b></a>.</p>
+            <p>Free Art License 1.3</p>
+            <p><a href="https://github.com/libreobjet/open-guide">Sources</a></p>
           </div>
         </div>
       </div>
