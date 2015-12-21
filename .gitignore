@@ -7,3 +7,5 @@ node_modules/
 *.pdf
 *.epub
 *.mobi
+
+book.json	# Now handled by Grunt
