@@ -1,0 +1,19 @@
+{
+  "name": "open-guide",
+  "version": "0.9.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-modify-json" : "~0.1.3",
+    "grunt-contrib-copy" : "~0.8.2",
+    "grunt-run": "~0.5.2",
+    "grunt-contrib-imagemin": "~1.0.0",
+    "grunt-responsive-images": "~0.1.7",
+    "grunt-image-resize": "~1.0.0"
+  },
+  "homepage": "http://books.libreobjet.org",
+  "repository": "https://github.com/libreobjet/open-guide",
+  "bugs": {
+    "url" : "https://github.com/libreobjet/open-guide/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE.md"
+}
