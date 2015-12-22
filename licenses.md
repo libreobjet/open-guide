@@ -26,7 +26,7 @@ Commercial or Non-Commercial
 
 Many times, the question of the commercial exploitation of a design generates heated debates in the open source design community. We'd like to refer you to the section about economics to understand more about this, but we want to make clear here that any license that would prevent any commercial use of a design **does not comply** with the four freedoms. Why? Because this conflicts or puts limitations on the freedom 2 and 3.
 
-If you license your project with a commercial restriction, it can't rightly be called "open source design". Instead, you might want to have a look at our "Definitions" section to find a better generic name for your project.
+If you license your project with a commercial restriction, it can't rightly be called "open source design". Instead, you might want to have a look at our "Proposition" section to find a better generic name for your project.
 
 I don't need a license, I already share everything
 -------------------------------------------------------------
@@ -35,15 +35,15 @@ People deeply involved in community activities are usually well versed at the pr
 
 By default, every creation is protected by copyright. So even if some work is shared freely among a group of user, at any point in time, the creators of that work could apply restrictions and claim compensations for the use of it. Not applying a license to some shared work means trusting that the creators won't change their mind later on. This is fine most of the time, until money or any form of compensation is involved. By attaching a clear license to your work, you can get those problems out of the way and trust that nobody will change their mind even over time.
 
-Another undesired or unseen side effect of not using a license is that you will exclude a lot of people from participating and prevent people from spreading your work. Even if you've said that you want your work to be shared, if there is no license attached, people will have to contact you every time they want to do someting special with it and ask you for a proper authorization. Licensing your work makes sharing faster and safer for everyone and requires less energy over time.
+Another undesired or unseen side effect of not using a license is that you will exclude a lot of people from participating and prevent people from spreading your work. Even if you've said that you want your work to be shared, if there is no license attached, people will have to contact you every time they want to do something special with it and ask you for a proper authorization. Licensing your work makes sharing faster and safer for everyone and requires less energy over time.
 
-Copyright means that you have to ask the authors permission for anything you want to do with their work. This is the default behavior. So if you really want people to do anything they want with your work, you have to reverse copyright and apply "copyleft", something that can only be done with a license.
+Copyright means that you have to ask the authors' permission for anything you want to do with their work. This is the default behavior. So if you really want people to do anything they want with your work, you have to **explicitly authorize it**, something that can only be done with a license.
 
 
 Is there an ideal or perfect license for open source objects?
 -------------------------------------------------------------------------------------
 
-Sorry to say it, but no. Although there are many open source licenses for software and some of those licenses might work for design documents, there is no magic solution that can work in any case. Remember that licenses are generally complex legal documents that try to cover as many cases as possible and that give guidelines on what is permitted or not. As we said, these are social contracts, and as such could be ideal in a particular situation, but could be problematic in others. In the case of open source licenses, since these grant more freedoms than they restrict, they generally tend to create less problems than some others. Fortunately also, and as open source product design becomes more and more popular, we can expect that licenses will improve and adapt to the new conditions brought by our future societies.
+Sorry to say this, but no. Although there are many open source licenses for software and some of those licenses work for design documents, there is no magic solution that can work in any case. Remember that licenses are generally complex legal documents that try to cover as many cases as possible and that give guidelines on what is permitted or not. As we said, these are social contracts, and as such could be ideal in a particular situation, but could be problematic in others. In the case of open source licenses, since these grant more freedoms than they restrict, they generally tend to create less problems than some others. Fortunately also, and as open source product design becomes more and more popular, we can expect that licenses will improve and adapt to the new conditions brought by our future societies.
 
 Please, refer to the "Tools" chapter of this section to have an overview of the licenses available and their use cases.
 
@@ -63,24 +63,24 @@ Tools
 
 ![_Free Art License official logo_ − Free Art License](./images/Licence_Art_Libre.svg)
 
-This is the prefered license used by Libre Objet members. This license was written by Antoine Moreau and friends and originated in France. The F.A.L. is very easy to read and simple to understand. It has been written especially for works of art regardless of their type or expression and is respectful of the Roman version of the author's right (as opposed to the English copyright)
+This is the prefered license used by Libre Objet members. This license was written by Antoine Moreau and friends and originated in France. The F.A.L. is very easy to read and simple to understand. It has been written especially for works of art regardless of their type or expression and is respectful of the roman version of the author's right (as opposed to the English copyright)
 
 ### [Creative Commons](https://creativecommons.org/licenses/ )
 
 ![_Creative Commons Logo_ − Registered trademark of Creative Commons](./images/cc.logo.large.png)
 
-Surprise, surprise! Creative Commons is not a license. **It's a set of licenses**. We often hear: "I publish my creations under Creative Commons" as if this would instantly make you a nice person. It does not. Creative Commons offers licenses that range from total freedom to almost no freedom at all. Fortunately, due to their popularity, you will find countless texts that explain the use of each of the Creative Commons licenses. If you care about restricting some user rights, Creative Commons offers you that option. But remember, because of this, some of the Creative Commons licences are not actually open source. Here are the licenses that you can be considered open source:  
+Surprise, surprise! Creative Commons is not a license. **It's a set of licenses**. We often hear: "_I publish my creations under Creative Commons_" as if this would instantly make you a nice person. It does not. Creative Commons offers licenses that range from total freedom to almost no freedom at all. Fortunately, due to their popularity, you will find countless texts that explain the use of each of the Creative Commons licenses. If you care about restricting some user rights, Creative Commons offers you that option. But remember, because of this, some of the Creative Commons licenses are not actually open source. Here are the licenses that you can be considered open source:  
 - Attribution-Share Alike (CC-BY-SA)
 - Attribution (CC-BY)
 - Public Domain Dedication (CC0)
 
 ### [TAPR License](http://www.tapr.org/ohl.html )
 
-The TAPR Open Hardware License is a license dedicated to open hardware projects, usually electronics components involved in amateur radlio. This license could be applied to any objects and addresses the specificity of open sourcing physical objects.
+The TAPR Open Hardware License is a license dedicated to open hardware projects, usually electronics components involved in amateur radio. This license could be applied to any objects and addresses the specificity of open sourcing physical objects.
 
 ### [CERN](http://www.ohwr.org/projects/cernohl/wiki )
 
-> In the spirit of knowledge sharing and dissemination, the CERN Open Hardware Licence (CERN OHL) governs the use, copying, modification and  distribution of hardware design, documentation, and the manufacture and distribution of products.
+> In the spirit of knowledge sharing and dissemination, the CERN Open Hardware License (CERN OHL) governs the use, copying, modification and  distribution of hardware design, documentation, and the manufacture and distribution of products.
 
 ### [GPL](https://gnu.org/licenses/gpl.html )
 
@@ -139,7 +139,7 @@ MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house d
 
 ![_Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA.jpg)
 
-Desiged by Nosigner, elements that were used to compose the furniture for Mozilla's Japan office have been published under a CC-by license.
+Designed by Nosigner, elements that were used to compose the furniture for Mozilla's Japan office have been published under a CC-by license.
 
 Food for thought
 -----------------------
@@ -150,7 +150,7 @@ Food for thought
 
 >  Copyright  is a legal right created by the law of a country that grants  the  creator of an original work exclusive rights for its use   and   distribution. This is usually only for a limited time. The   exclusive   rights are not absolute but limited by limitations and   exceptions to   copyright law, including fair use.
 
->  Copyright  is a form of intellectual **property**, applicable to  certain forms of  **creative work**. Under US copyright law, legal    protection attaches  only to fixed  representations in a tangible medium. It is often shared among   multiple  authors, each of whom holds a set of rights to use or license,  the work  and who are commonly referred to as rightsholders. These  rights  frequently include reproduction, control over derivative   works,   distribution, public performance, and "moral rights" such as  attribution.
+>  Copyright  is a form of intellectual **property**, applicable to  certain forms of  **creative work**. Under US copyright law, legal    protection attaches  only to fixed  representations in a tangible medium. It is often shared among   multiple  authors, each of whom holds a set of rights to use or license,  the work  and who are commonly referred to as rights-holders. These  rights  frequently include reproduction, control over derivative   works,   distribution, public performance, and "moral rights" such as  attribution.
 
 >  Copyrights  are considered **territorial rights**, which means that   they do not  extend beyond the territory of a specific jurisdiction.  While many  aspects of national copyright laws have been standardized     through  international copyright agreements, copyright laws vary by    country.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Copyright)
@@ -177,7 +177,7 @@ Ronan Kadushin, in his [Open Design Manifesto](http://www.ronen-kadushin.com/fil
 This approach of grid based designed applied to objects is very interesting and has produced intriguing objects, but it also shoots itself in the foot by not forcing anyone to use certain licenses that would give a legal framework to the "everyone for everyone" model.
 
 ### [IkeaHackers](http://www.ikeahackers.net/about )
-The famous IkeaHackers website gets threatened for IP infringement.
+The famous IkeaHackers website gets threatened for intellectual property infringement.
 > Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
 > Long   story short, after much negotiation between their agent and my lawyer,  I  am allowed to keep the domain name IKEAhackers.net only on the   condition that it is non-commercial, meaning no advertising whatsoever.
 > I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo reluctant to give it up. I love this site’s community and what we have  accomplished in the last 8 years. Secondly, I don’t have deep enough pockets to fight a mammoth company in court."
