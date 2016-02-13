@@ -1,12 +1,12 @@
-Motivation
+Motivación
 =======
 
-Why would you want to get into open source product design?
+¿Por qué quieres comenzar en el diseño de productos de código abierto?
 
-The state of design today
+El estado actual del diseño
 ------------------------------------
 
-It seems like the only thing that worries designers these days is how to protect their work and their profits in a very conservative way. You've also heard many times someone comes with a supposedly good idea, someone else will promptly say "_− you should patent it!_", as if this was the only way to deal with your creativity.
+Parece que lo único que preocupa a los diseñadores actualmente es cómo proteger su trabajo y sus ganancias de un modo muy conservador. Habrás escuchado también en muchas ocasiones que alguien llega con una supuesta buena idea, y alguno dice rápidamente "_− ¡deberías patentarla!_", como si esta fuera la única forma de tratar con tu creatividad.
 
 If profit is the golden ratio of success stories and the prism through which design should be thought today, then this what we end up with:
 
