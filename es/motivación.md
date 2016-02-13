@@ -8,7 +8,7 @@ El estado actual del diseño
 
 Parece que lo único que preocupa a los diseñadores actualmente es cómo proteger su trabajo y sus ganancias de un modo muy conservador. Habrás escuchado también en muchas ocasiones que alguien llega con una supuesta buena idea, y alguno dice rápidamente "_− ¡deberías patentarla!_", como si esta fuera la única forma de tratar con tu creatividad.
 
-Sí las ganancias son el número de oro de las historias de éxito y el prisma a través del cual el diseño debería ser pensado hoy, entonces esto es en lo que terminamos:
+Si las ganancias son el número de oro de las historias de éxito y el prisma a través del cual el diseño debería ser pensado hoy, entonces esto es en lo que terminamos:
 
 #### Protección
 Lo que aprendimos en la mayoría de las escuelas de diseño tiene que ver con la protección de nuestro trabajo por medio de patentes y derechos relacionados al diseño industrial (modelos y depósitos de dibujo, etc). También está, por supuesto, el derecho de autor por defecto, aplicado a cualquier _création de l'esprit_ (creación intelectual), como lo llaman los franceses. Las patentes y depósitos tienen costos, están limitados en el tiempo y limitados por territorio, al menos que cuentes con recursos casi infinitos.
@@ -19,27 +19,27 @@ Lo que aprendimos en la mayoría de las escuelas de diseño tiene que ver con la
 
 De la cual se encuentra la ya famosa obsolescencia programada con la única intención de incrementar el volumen de ventas y la producción de basura.
 
-#### Copy & anti-copy
-> The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law.  
+#### Copia y anti-copia
+>El concepto de copia tiene un significado particular en ciertas áreas del derecho. En cada una de las áreas principales de la ley de propiedad intelectual, un número de casos han refinado la cuestión de qué constituye exactamente el tipo de copia prohibida por la ley, especialmente en áreas como el derecho de autor.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Copying )
 
-There is much debate around copying and its usually negative connotations. There is "illegal copies" which could harm you or the author, the delusional control over copiers and the hypocrisy of some education systems who tend to punish copying but ask students to recite what they have learned. Copy is also invariably associated with stealing, thanks to the entertainment industry, although those two are very different concepts.
+Hay un gran debate en torno a la copia y generalmente con connotaciones negativas. Hay “copias ilegales” que podrían dañarte a ti o al autor, el delirante control sobre las personas que hacen copias y la hipocresía de algunos sistemas educativos que tienden a castigar la copia pero evalúan alumnos al recitar lo que aprendieron. La copia está invariablemente asociada al robo, gracias a la industria del entretenimiento, a pesar de que son dos conceptos muy diferentes.
 
-### A "mental model" of design
+### Un "modelo mental" de diseño
 
-#### A designer is an artist
-A designer is a creator, an artist, who gets inspiration from a divine origin. Citation from the masters is authorized, but s/he should always come with something new and original.
+#### Un diseñador es un artista
+Un diseñador es un creador, un artista, se inspira por origen divino. Citar a los maestros está autorizado, pero ella o el siempre debe venir con algo nuevo y original.
 
-#### Design locally, fabricate far away
-Famous designers work like big brands, where their products are fabricated on the other side of the planet to limit costs and keep prices low for the end market while giving a comfortable margin for the producers.
+#### Diseñado localmente, fabricado lejos
+Los diseñadores famosos trabajan como las grandes marcas, donde sus productos son fabricados al otro lado del planeta para limitar costos y mantener los precios bajos en el mercado final, mientras le otorgan un margen confortable a sus productores.
 
-#### Mass production
-Design for manufacturing, where standard sizes are the norm and your products have to fit in predefined boxes. How fast can you get your product out and in what numbers?
+#### Producción en masa
+Diseño para la fabricación, donde la norma son los tamaños estándar y tus productos tienen que encajar en contenedores predeterminados. ¿Qué tan rápido puedes obtener tu producto y en qué cantidades?
 
-#### Design for the rich
-Quality design is a luxury product. Only the rich can access it.
+#### Diseño para los ricos
+La calidad de diseño es un producto de lujo. Sólo los ricos tienen acceso.
 
-Design for humans
+Diseño para humanos
 ---------------------------
 With open source product design, we're moving the whole design process back to the source: taking care of humans, every human.
 
