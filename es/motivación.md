@@ -1,23 +1,23 @@
 Motivación
 =======
 
-¿Por qué quieres comenzar en el diseño de productos de código abierto?
+¿Por qué quieres comenzar en el diseño de productos open sourse?
 
 El estado actual del diseño
 ------------------------------------
 
 Parece que lo único que preocupa a los diseñadores actualmente es cómo proteger su trabajo y sus ganancias de un modo muy conservador. Habrás escuchado también en muchas ocasiones que alguien llega con una supuesta buena idea, y alguno dice rápidamente "_− ¡deberías patentarla!_", como si esta fuera la única forma de tratar con tu creatividad.
 
-If profit is the golden ratio of success stories and the prism through which design should be thought today, then this what we end up with:
+Sí las ganancias son el número de oro de las historias de éxito y el prisma a través del cual el diseño debería ser pensado hoy, entonces esto es en lo que terminamos:
 
-#### Protection
-What we learn in most design schools is all about protecting our work using patents and industrial design related rights (model and drawing deposits, etc.). There is also, of course, the default author's right applied to any _création de l'esprit_ (intellectual creation), as the French call it. Patents and deposits have costs, are limited in time and limited by territory, unless you have almost infinite resources.
+#### Protección
+Lo que aprendimos en la mayoría de las escuelas de diseño tiene que ver con la protección de nuestro trabajo por medio de patentes y derechos relacionados al diseño industrial (modelos y depósitos de dibujo, etc). También está, por supuesto, el derecho de autor por defecto, aplicado a cualquier _création de l'esprit_ (creación intelectual), como lo llaman los franceses. Las patentes y depósitos tienen costos, están limitados en el tiempo y limitados por territorio, al menos que cuentes con recursos casi infinitos.
 
-#### Obsolescence
-> Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order.  
-−[Wikipedia](https://en.wikipedia.org/wiki/Obsolescence)
+#### Obsolescencia
+> Obsolescencia es el estado que ocurre cuando un objeto, servicio, o práctica ya no es requerido incluso aunque esté correctamente funcionando.  
+−[Wikipedia]( https://es.wikipedia.org/wiki/Obsolescencia)
 
-Of which there is the now famous planned obsolescence with the sole intention of increasing sales volume and producing garbage.
+De la cual se encuentra la ya famosa obsolescencia programada con la única intención de incrementar el volumen de ventas y la producción de basura.
 
 #### Copy & anti-copy
 > The concept of copying has a particular significance in certain areas of law. In each of the primary areas of intellectual property law, a number of cases have refined the question of what exactly constitutes the kind of copying prohibited by law, especially in areas such as copyright law.  
