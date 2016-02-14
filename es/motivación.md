@@ -41,7 +41,7 @@ La calidad de diseño es un producto de lujo. Sólo los ricos tienen acceso.
 
 Diseño para humanos
 ---------------------------
-Con el diseño de producto open sourse, estamos moviendo todo el proceso de diseño nuevamente a la fuente: cuidando a los seres humanos, cada ser humano.
+Con el diseño de producto open source, estamos moviendo todo el proceso de diseño nuevamente a la fuente: cuidando a los seres humanos, cada ser humano.
 
 Estamos en busca de una actitud creativa generosa donde sabemos que una obra se inspira en la naturaleza y debe respetarla.
 
