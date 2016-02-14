@@ -1,7 +1,7 @@
 Motivación
 =======
 
-¿Por qué quieres comenzar en el diseño de productos open sourse?
+¿Por qué quieres comenzar en el diseño de productos open source?
 
 El estado actual del diseño
 ------------------------------------
