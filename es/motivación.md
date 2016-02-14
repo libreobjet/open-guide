@@ -17,7 +17,7 @@ Lo que aprendimos en la mayoría de las escuelas de diseño tiene que ver con la
 > Obsolescencia es el estado que ocurre cuando un objeto, servicio, o práctica ya no es requerido incluso aunque esté correctamente funcionando.  
 −[Wikipedia]( https://es.wikipedia.org/wiki/Obsolescencia)
 
-De la cual se encuentra la ya famosa obsolescencia programada con la única intención de incrementar el volumen de ventas y la producción de basura.
+En la cual se encuentra la ya famosa obsolescencia programada con la única intención de incrementar el volumen de ventas y la producción de basura.
 
 #### Copia y anti-copia
 >El concepto de copia tiene un significado particular en ciertas áreas del derecho. En cada una de las áreas principales de la ley de propiedad intelectual, un número de casos han refinado la cuestión de qué constituye exactamente el tipo de copia prohibida por la ley, especialmente en áreas como el derecho de autor.  
@@ -41,35 +41,35 @@ La calidad de diseño es un producto de lujo. Sólo los ricos tienen acceso.
 
 Diseño para humanos
 ---------------------------
-With open source product design, we're moving the whole design process back to the source: taking care of humans, every human.
+Con el diseño de producto open sourse, estamos moviendo todo el proceso de diseño nuevamente a la fuente: cuidando a los seres humanos, cada ser humano.
 
-We are looking for a generous creative attitude where we know that an artwork is inspired by nature and should respect it.
+Estamos en busca de una actitud creativa generosa donde sabemos que una obra se inspira en la naturaleza y debe respetarla.
 
-We allow ourselves to copy as a way to learn, encourage our creativity and iterate design processes.
+Nos permitimos la copia como método de aprendizaje, estimulando nuestra creatividad y los procesos iterativos de diseño. 
 
-We learn from traditions and existing designs, and do not try to reinvent the wheel every time.
+Aprendimos de las tradiciones y los diseños existentes, y no tratamos de reinventar la rueda a cada paso.
 
-We don't focus our designs on revenues but see it as a service for society.
+No enfocamos nuestros diseños en los ingresos pero lo vemos como un servicio a la sociedad.
 
-We choose the free/libre way because we can rely on a community for help, co-working and remixes.
+Elegimos el método free/libre porque podemos depender de una comunidad en busca de ayuda, trabajo cooperativo y remixes.
 
-We are not afraid of being copied.
+No tenemos miedo de ser copiados.
 
-We want a close relationship with our users, turn them into active contributors and get objective feedback.
+Queremos una relación cercana con los usuarios, convertirlos en contribuyentes activos y obtener comentarios objetivos.
 
-We want to challenge the status quo and break social barriers.
+Queremos desafiar el status quo y romper las barreras sociales.
 
-We think of product design as a process, as communication, as information, and it wants to be free.
+Pensamos al diseño de producto como un proceso, como la comunicación, como la información, y queremos que sea libre.
 
-We know open source licensing is a key in upcycling and a legal framework for cradle to cradle thinking.
+Sabemos que la concesión de licencias open source es la clave para el upcycling y el marco legal para un pensamiento de la cuna a la cuna.
 
-We don't have one size fits all so here's our files to make it fit for you.
+No tenemos un solo talle que encaje a todos, así que aquí están nuestros archivos para que lo ajustes a tu medida.
 
-If you can't modify it, repair it or improve it, you don't own it and this makes us angry.
+Si no puedes modificarlo, repararlo o mejorarlo, no te pertenece y eso nos hace enojar.
 
-We are not looking for perfection but know we have a better chance of achieving it if we work together.
+No estamos buscando la perfección pero sabemos que tenemos una meyor oprtunidad de lograrlo si trabajamos juntos.
 
-### Design together
+### Diseñando juntos
 
 Opting for a libre license ensures respect for author and the protection of its rights as author, while insuring visibility and dissemination.
 
