@@ -33,7 +33,7 @@ Looking for more translators in these languages:
 Build
 -----
 
-If you wish to build this book yourself, you will need Grunt, Gitbook, Calibre and ImageMagick.
+If you wish to build this book yourself, you will need Npm, Grunt, Gitbook, Calibre and ImageMagick.
 
 Grunt handles the building of the different files.  
 A [special version of Gitbook](https://github.com/xuv/gitbook) is used, mainly to better handle fonts in the pdfs.  
