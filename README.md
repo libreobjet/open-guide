@@ -26,7 +26,7 @@ If you'd like to join a team of translators, please contact us at hello@libreobj
 
 Looking for more translators in these languages:
 - Euskadi
-- Español
+- Español (See [Walter's fork](https://github.com/walterreiner/open-guide/) )
 - Català
 - Français
 
@@ -40,4 +40,53 @@ A [special version of Gitbook](https://github.com/xuv/gitbook) is used, mainly t
 Calibre is required by Gitbook to make pdfs, epub and mobi.  
 Imagemagick is used to compress the images for the web version of the book.  
 
-Detailed howto is coming soon. File an issue to remind us to post it.
+All the following instructions are for Linux (Debian family) but could easily be adapted for any system.
+
+### Install software
+First, you need to have Git, NodeJs and Imagemagick installed.  
+```
+sudo apt-get update
+sudo apt-get install git nodejs npm imagemagick
+```
+
+If you want to make PDF, Ebook and MOBI versions of the book, you will also need Calibre. Please follow the [official instructions to install Calibre](http://calibre-ebook.com/download) on your system. This is not necessary if you just wish to see the book in a browser.
+
+### Install components
+Next, we'll install some Nodejs components to make the book.
+Create a directory for the project and go into that directory.  
+```
+mkdir libre-objet-book
+cd libre-objet-book
+```
+
+Install Gitbook software:
+```
+npm install gitbook-cli -g
+```
+
+Copy our modified version of the Gitbook files (we hope to use the official ones in the future, but until some options have been added, you need to use this one):
+```
+git clone https://github.com/xuv/gitbook.git
+```
+Tell Gitbook software to use our version:
+```
+gitbook versions:link ./gitbook
+```
+Then finally, download the book source files:
+```
+git clone https://github.com/libreobjet/open-guide
+```
+
+### Building the book
+To view the book in a browser, go into the `open-guide` folder and lauch gitbook.
+```
+gitbook serve
+```
+The book should now be accessible at the address: http://localhost:4000  
+Press `CTRL+c` to stop the Gitbook server.
+
+If you have Calibre installed, you can type this to generate a PDF :
+```
+gitbook pdf
+```
+It will be available in the `open-guide` folder with a name like `book_en.pdf` for english, etc.
