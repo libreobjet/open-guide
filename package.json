@@ -1,7 +1,21 @@
 {
   "name": "open-guide",
   "version": "0.9.0",
+  "description": "An open book as a base for teaching and learning about open source product design; a collective understanding of what one should know today to get started and join the movement; a reference students, amateurs and educators can have in their back pocket when they go out to explain what they are passionate about.",
+  "homepage": "http://books.libreobjet.org",
+  "repository": "https://github.com/libreobjet/open-guide",
+  "author": {
+      "name" : "Libre Objet",
+      "email" : "hello@libreobjet.org",
+      "url" : "http://libreobjet.org"
+  },
+  "bugs": {
+    "url": "https://github.com/libreobjet/open-guide/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
+    "font-awesome": "^4.5.0",
+    "gitbook-markdown-css": "^1.0.1",
     "grunt": "^0.4.5",
     "grunt-contrib-copy": "^0.8.2",
     "grunt-contrib-imagemin": "^1.0.0",
@@ -9,12 +23,8 @@
     "grunt-image-resize": "^1.0.0",
     "grunt-responsive-images": "^0.1.7",
     "grunt-run": "^0.5.2",
-    "imagemin-jpegtran": "^4.3.2"
-  },
-  "homepage": "http://books.libreobjet.org",
-  "repository": "https://github.com/libreobjet/open-guide",
-  "bugs": {
-    "url": "https://github.com/libreobjet/open-guide/issues"
-  },
-  "license": "SEE LICENSE IN LICENSE.md"
+    "imagemin-jpegtran": "^4.3.2",
+    "imagemin-optipng": "^4.3.0",
+    "imagemin-svgo": "^4.2.1"
+  }
 }

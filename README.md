@@ -76,17 +76,27 @@ Then finally, download the book source files:
 ```
 git clone https://github.com/libreobjet/open-guide
 ```
+We are also sing Grunt to some automatic building. So you'll need that.
+```
+sudo npm install -g grunt-cli
+```
+And then in the `open-guide` folder you just cloned do
+```
+npm install
+gitbook install
+```
+It should install all the necessary components to build the book.
+
 
 ### Building the book
-To view the book in a browser, go into the `open-guide` folder and lauch gitbook.
+To view the book in a browser, go into the `open-guide` folder and launch gitbook.
 ```
-gitbook serve
+grunt serve
 ```
 The book should now be accessible at the address: http://localhost:4000  
-Press `CTRL+c` to stop the Gitbook server.
+Press `CTRL+c` to stop the process.
 
 If you have Calibre installed, you can type this to generate a PDF :
 ```
-gitbook pdf
+grunt pdf
 ```
-It will be available in the `open-guide` folder with a name like `book_en.pdf` for english, etc.
