@@ -26,7 +26,7 @@ If you'd like to join a team of translators, please contact us at hello@libreobj
 
 Looking for more translators in these languages:
 - Euskadi
-- Español (See issue #11)
+- Español (See issue [#11](https://github.com/libreobjet/open-guide/issues/11))
 - Català
 - Français
 
