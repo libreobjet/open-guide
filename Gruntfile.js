@@ -61,6 +61,16 @@ module.exports = function(grunt) {
         src: './exports/open-guide/images/*',
         dest: './exports/open-guide/images/'
       }
+    },
+    less: {
+      development:{
+        options: {
+          yuicompress: true
+        },
+        files: {
+          "theme/assets/website/style.css": "theme/stylesheets/website.less"
+        }
+      }
     }
   });
 
@@ -68,19 +78,26 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-run');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-image-resize');
+  grunt.loadNpmTasks('grunt-contrib-less');
 
   // Default task(s).
-  grunt.registerTask('default', ['run:server']);
   grunt.registerTask('update_book_json', ['copy']);
+  grunt.registerTask('default', [ 'css',
+                                  'update_book_json',
+                                  'run:server'
+                                ]);
+  grunt.registerTask('serve', ['default']);
   grunt.registerTask('pdf', [
                               'update_book_json',
                               'run:pdf'
                             ]);
   grunt.registerTask('web', [
+                              'css',
                               'update_book_json',
                               'run:build',
                               'image_resize',
                               'imagemin'
                             ]);
-                            
+  grunt.registerTask('css', [ 'less']);
+
 };
