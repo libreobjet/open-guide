@@ -5,9 +5,9 @@
   "homepage": "http://books.libreobjet.org",
   "repository": "https://github.com/libreobjet/open-guide",
   "author": {
-      "name" : "Libre Objet",
-      "email" : "hello@libreobjet.org",
-      "url" : "http://libreobjet.org"
+    "name": "Libre Objet",
+    "email": "hello@libreobjet.org",
+    "url": "http://libreobjet.org"
   },
   "bugs": {
     "url": "https://github.com/libreobjet/open-guide/issues"
