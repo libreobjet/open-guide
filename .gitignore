@@ -16,3 +16,7 @@ styles/*.less
 /**/images/**
 # Except the root one
 !/images/**
+
+# Tarck only bash scripts in the scripts/ folder
+/scripts/**
+!/scripts/*.sh
