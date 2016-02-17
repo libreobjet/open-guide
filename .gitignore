@@ -11,3 +11,8 @@ node_modules/
 book.json
 
 styles/*.less
+
+# Don't track subfolders called images
+/**/images/**
+# Except the root one
+!/images/**
