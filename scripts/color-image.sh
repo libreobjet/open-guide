@@ -3,10 +3,10 @@
 # Colorize images
 
 COLOR="#247940"
-INPUT=$1
-OUTPUT=$2
+INPUT="$1"
+OUTPUT="$2"
 
-convert $INPUT  \
+convert "$INPUT"  \
         -adaptive-resize 1920x1920 \
         -blur 1x1 -unsharp 0x2.5 \
         -set colorspace sRGB -separate -seed 1000 -attenuate .8 +noise Multiplicative -combine \
@@ -24,4 +24,4 @@ convert $INPUT  \
            -clone 1,2,0 -composite \
         \) \
          -delete 0,1,2 \
-      $OUTPUT
+      "$OUTPUT"
