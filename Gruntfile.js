@@ -62,6 +62,12 @@ module.exports = function(grunt) {
         dest: './exports/open-guide/images/'
       }
     },
+    // "imagemagick-convert":{
+    //   dev:{
+    //     args:[
+    //       'images/*.jpg', '-resize', '25x25', 'scripts/*.png']
+    //   }
+    // },
     less: {
       development:{
         options: {
@@ -79,6 +85,8 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-image-resize');
   grunt.loadNpmTasks('grunt-contrib-less');
+  grunt.loadNpmTasks('grunt-imagemagick');
+  grunt.loadNpmTasks('grunt-shell');
 
   // Default task(s).
   grunt.registerTask('update_book_json', ['copy']);
@@ -100,4 +108,24 @@ module.exports = function(grunt) {
                             ]);
   grunt.registerTask('css', [ 'less']);
 
+  /* Custom task to convert files */
+  grunt.registerTask('colorize', function(){
+    var src = grunt.file.expand({'cwd':'images'}, '*.+(jpg|JPG|png|PNG|gif|GIF)');
+    var dest = "en/images/";
+    if ( !grunt.file.exists( dest ) ){
+      grunt.file.mkdir( dest );
+    }
+    for ( var i=0; i < src.length; i++ ) {
+      var el = src[i];
+      var img_src = 'images/' + el;
+      var img_dest = dest + el;
+      var cmd = 'sh scripts/color-image.sh "' + img_src + '" "' + img_dest + '"';
+      var taskName = el;
+      console.log( img_src );
+      grunt.config(['shell', taskName ], {
+          command: cmd
+      });
+    }
+    grunt.task.run('shell');
+  });
 };

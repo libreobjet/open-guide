@@ -23,6 +23,7 @@
     "grunt-image-resize": "^1.0.0",
     "grunt-responsive-images": "^0.1.7",
     "grunt-run": "^0.5.2",
+    "grunt-shell": "^1.1.2",
     "imagemin-jpegtran": "^4.3.2",
     "imagemin-optipng": "^4.3.0",
     "imagemin-svgo": "^4.2.1"
