@@ -130,9 +130,9 @@ Ideas para pensar
 -----------------------
 
 ### Adaptaciones autorizadas
-El límite derivado del clásico derecho de autor en diseño.
+El límite de crear más allá de la definición clásica del derecho de autor en diseño.
 
-El sillón y sofá original LC2 de Le Corbusier todavía se vende y se edita por  [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) A pesar de las adaptaciones por Doshi Levien y editado por [Moroso](http://www.doshilevien.com/projects/chandigarh/ ) se permiten en el mercado.
+El sillón y sofá original LC2 de Le Corbusier todavía se vende y se edita por  [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) aunque la adaptación hecha por Doshi Levien está permitida en el mercado y es editada por [Moroso](http://www.doshilevien.com/projects/chandigarh/ ).
 
 Emco fights Ikea over a supposed copy of Norman Foster's 20-06 stacking chair.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
