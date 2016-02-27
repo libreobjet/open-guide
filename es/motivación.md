@@ -71,31 +71,31 @@ No estamos buscando la perfección pero sabemos que tenemos una meyor oprtunidad
 
 ### Diseñando juntos
 
-Opting for a libre license ensures respect for author and the protection of its rights as author, while insuring visibility and dissemination.
+Optar por una licencia libre garantiza el respeto por el autor y la protección de sus  derechos como autor, mientras se aseguran visibilidad y difusión.
 
-Using libre licenses changes also the modes of production, conception and manufacturing of an object. Designer's work requires lots of skills and expertise. So a single object can take years to develop, requiring multiple skills. Often, several people contribute to the design of an object. Publishing an object using libre licenses opens the possibility of working with others, local or remote, using several consecutive publication-modification cycles.
+El uso de licencias libres también cambia los modos de producción, concepción y fabricación de un objeto. El trabajo de diseñador requiere muchas habilidades y experiencia. Así que un solo objeto puede tardar años en desarrollarse, lo que requiere múltiples habilidades. A menudo, varias personas contribuyen al diseño de un objeto. Publicar un objeto usando licencias libres abre la posibilidad de trabajar con otros, local o globalmente, utilizando varios ciclos consecutivos de publicaciones-modificaciones.
 
-Consumers can appropriate the object, and make a different use of it or adapt it to their own needs. Even though this scenario could be desirable for everything, it is not true today. Usually objects have a label saying something like this: "_Warranty void if manipulated by user or made an inappropriate use of it_". In the worst cases, there can be legal backlash too.
+Los consumidores pueden apropiarse de los objetos, pueden darle un uso diferente o adaptarlo a sus propias necesidades. A pesar de que este escenario podría ser conveniente para todo, no es cierto hoy en día. Generalmente los objetos tienen una etiqueta que dice algo por el estilo:"_La garantía se pierde si es manipulado por el usuario o hace un uso inapropiado_". En los peores casos, puede haber un contragolpe legal también.
 
-With open source product design, we reclaim the full ownership a buyer has over what s/he has acquired.
+Con el diseño de producto open source, revindicamos la plena propiedad de un comprador sobre lo que ella/el ha adquirido.
 
-### Ecodesign
-> Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its whole life cycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use and disposal.  
+### Ecodiseño
+> El ecodiseño es un enfoque de diseño de producto con especial consideración por los impactos ambientales del producto durante todo su ciclo de vida. En una evaluación de ciclo de vida, el ciclo de vida de un producto por lo general es dividido en la obtención, la fabricación, el uso y el descarte.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Ecodesign )
 
-In this sense, the environmental aspect is an important part of the project, whether it's the natural or social environment at stake. And open source product design could play an important role in these practices.
+En este sentido, el aspecto ambiental es una parte importante del proyecto, ya sea que el ambiente natural o social esté en juego. El diseño de producto open source podría desempeñar un rol importante en estas prácticas.
 
-- Procurement: most of the open source design projects could or should use local materials.
-- Manufacturing: the product could be constructed on demand, locally, while respecting the laws of labor.
-- Disposal: Allowing people to modify the designs could encourage adaptation, reuse and the reduction of waste.
+- Obtención: la mayor parte de los proyectos de diseño open source pueden o deben utilizar materiales locales.
+- Fabricación: el producto puede construirse a pedido, a nivel local mientras respeta las leyes de trabajo.
+- Eliminación: Permite a las personas modificar los diseños, puede fomentar la adaptación, la reutilización y la reducción de residuos.
 
-When a person chooses an open source product, s/he moves away from a passive consumer position into a collaborative process that could  potentially be a less polluting system than productive consumption.
+Cuando una persona elije in producto open source, ella/el se corre de la posición de consumidor pasivo hacia un proceso colaborativo que podría potencialmente ser menos contaminante que el consumo productivo.
 
-Tools
+Herramientas
 -----
-Ok, this is a tricky one. What are the tools to stay motivated or to motivate yourself to go into open source product design? This is actually a very personal question. We hope this book will be a tool. You tell us. But here's some other suggestions.
+Ok, este asunto es difícil. ¿Cuáles son las herramientas para mantener la motivación o motivarse para empezar con el diseño de productos open source? Realmente esta es una pregunta muy personal. Esperamos que este libro sea una herramienta. Tú nos cuentas. Pero aquí hay algunas sugerencias.
 
-### Get inspired
+### Inspírate
 Read, search and document yourself. This is why we've laid a "food for thought" part in each section of the book. Because those things listed here, one way or the other, inspired and motivated us.  
 
 ### Challenge yourself
