@@ -96,37 +96,37 @@ Herramientas
 Ok, este asunto es difícil. ¿Cuáles son las herramientas para mantener la motivación o motivarse para empezar con el diseño de productos open source? Realmente esta es una pregunta muy personal. Esperamos que este libro sea una herramienta. Tú nos cuentas. Pero aquí hay algunas sugerencias.
 
 ### Inspírate
-Read, search and document yourself. This is why we've laid a "food for thought" part in each section of the book. Because those things listed here, one way or the other, inspired and motivated us.  
+Lee, investiga y documéntate.  Por esta razón hemos puesto una sección “ideas para pensar” en este libro. Porque estas cosas enumeradas aquí, de una u otra forma nos inspiran o nos motivan.  
 
-### Challenge yourself
-This is a somewhat new and open field, and there is a lot of creativity going around it. New business models, new collaborative processes, new publication models, etc. There is plenty of things to invent and plenty of challenges to create.
+### Desafiate
+Este es de alguna manera un campo nuevo y abierto, y hay mucha creatividad alrededor. Nuevos modelos de negocio, nuevos procesos colaborativos, nuevos modelos de publicación, etc. Hay un montón de cosas para inventar y un montón de desafíos por crear.
 
-### Release early, release often
-This motto comes from open source software practices and encourages creators to publish their project right from the beginning (or almost) and to regularly update it. If you're willing to go the open way, don't keep things hidden until they are finished. You might loose energy on the way. You might also miss an opportunity to find collaborators.
+### Lánzalo temprano, lánzalo seguido
+Este lema proviene de las prácticas de software open source y alienta a los creadores a publicar su proyecto desde el principio (o casi) y actualizarlo regularmente. Si estás dispuesto a seguir el camino abierto, no mantengas ocultas las cosas hasta que estén terminadas. Podes perder energía en el proceso. También podes perder la oportunidad de encontrar colaboradores.
 
-### Get connected
-This is a community. We're online and offline talking to each other, supporting each other.  
+### Conectate
+Esta es una comunidad. Estamos online y offline hablando entre nosotros, apoyándonos unos a otros.  
 
-Objects
+Objetos
 -----------
-### Open source stethoscope by Tarek Loubani
-The bypass of Israel embargo on medical equipments in Gaza
+### Estetoscopio open source por Tarek Loubani
+El bypass de embargo israelí sobre equipos médicos en Gaza.
 
-> Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a free and open model for hardware and software  development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
+> Tarek Loubani, un médico palestino que trabaja en Gaza y en Canadá, discute la lucha palestina por llevar los beneficios de los modernos (y a veces no tan modernos) dispositivos médicos a la población de Gaza, elegir en consecuencia un modelo libre y abierto para el desarrollo de hardware y el software que permita la autonomía y la colaboración con otras poblaciones marginadas en países desarrollados y países en vía de desarrollo.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
 
 ###  [Reprap](http://reprap.org/ )
 
-![_The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg)
+![_La primera Reprap y su hija_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg)
 
-Reprap project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
+El proyecto RepRap tiene como objetivo crear una maquina auto replicante. Este proyecto creció de manera constante debido a que la mayoría de los diseñadores usa licencias libres, permitiendo a las personas alrededor del mundo contribuir para mejorarlas. Algunas de las impresoras más comunes se basan en los diseños de Prusa i2 y Prusa i3. Más en http://reprap.org/
 
-### Prosthetic hands
+### Prótesis de manos
 
- ![_Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg)
+ ![_Prótesis de mano impresa_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg)
 
-Cut down the cost of medical equipment production by using libre designs. These prosthesis that can be extensively customized to fit children needs. Using digital fabrication tools, such as 3D printers, new pieces can be constructed to accommodate children growth with very low costs.
+Reducir el costo de producción de equipos médicos mediante el uso de diseño libre. Estas prótesis pueden personalizarse considerablemente para satisfacer las necesidades de los niños. Usando herramientas de fabricación digital, como las impresoras 3D, se pueden construir piezas nuevas para acompañar el crecimiento los niños a muy bajo costo.
 
-Food for thought
+Ideas para pensar
 -----------------------
 
 ### Approved adaptations
