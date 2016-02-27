@@ -129,10 +129,10 @@ Reducir el costo de producción de equipos médicos mediante el uso de diseño l
 Ideas para pensar
 -----------------------
 
-### Approved adaptations
-The limit of derivation in the classic copyright design.
+### Adaptaciones autorizadas
+El límite derivado del clásico derecho de autor en diseño.
 
-The original LC2 armchair and sofa by Le Corbusier is still sold and edited by [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) Although adaptations of it by  Doshi Levien and edited by [Moroso](http://www.doshilevien.com/projects/chandigarh/ ) are allowed on the market.
+El sillón y sofá original LC2 de Le Corbusier todavía se vende y se edita por  [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) A pesar de las adaptaciones por Doshi Levien y editado por [Moroso](http://www.doshilevien.com/projects/chandigarh/ ) se permiten en el mercado.
 
 Emco fights Ikea over a supposed copy of Norman Foster's 20-06 stacking chair.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
