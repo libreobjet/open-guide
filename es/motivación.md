@@ -112,7 +112,7 @@ Objetos
 ### Estetoscopio open source por Tarek Loubani
 El bypass de embargo israelí sobre equipos médicos en Gaza.
 
-> Tarek Loubani, un médico palestino que trabaja en Gaza y en Canadá, discute la lucha palestina por llevar los beneficios de los modernos (y a veces no tan modernos) dispositivos médicos a la población de Gaza, elegir en consecuencia un modelo libre y abierto para el desarrollo de hardware y el software que permita la autonomía y la colaboración con otras poblaciones marginadas en países desarrollados y países en vía de desarrollo.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
+> Tarek Loubani, un médico palestino que trabaja en Gaza y en Canadá, discute la lucha palestina por llevar los beneficios de los modernos (y a veces no tan modernos) dispositivos médicos a la población de Gaza, elige en consecuencia un modelo libre y abierto para el desarrollo de hardware y el software que permita la autonomía y la colaboración con otras poblaciones marginadas en países desarrollados y países en vía de desarrollo.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
 
 ###  [Reprap](http://reprap.org/ )
 
