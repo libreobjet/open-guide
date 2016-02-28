@@ -98,13 +98,13 @@ Ok, este asunto es difícil. ¿Cuáles son las herramientas para mantener la mot
 ### Inspírate
 Lee, investiga y documéntate.  Por esta razón hemos puesto una sección “ideas para pensar” en este libro. Porque estas cosas enumeradas aquí, de una u otra forma nos inspiran o nos motivan.  
 
-### Desafiate
+### Desafíate
 Este es de alguna manera un campo nuevo y abierto, y hay mucha creatividad alrededor. Nuevos modelos de negocio, nuevos procesos colaborativos, nuevos modelos de publicación, etc. Hay un montón de cosas para inventar y un montón de desafíos por crear.
 
 ### Lánzalo temprano, lánzalo seguido
 Este lema proviene de las prácticas de software open source y alienta a los creadores a publicar su proyecto desde el principio (o casi) y actualizarlo regularmente. Si estás dispuesto a seguir el camino abierto, no mantengas ocultas las cosas hasta que estén terminadas. Podes perder energía en el proceso. También podes perder la oportunidad de encontrar colaboradores.
 
-### Conectate
+### Conéctate
 Esta es una comunidad. Estamos online y offline hablando entre nosotros, apoyándonos unos a otros.  
 
 Objetos
