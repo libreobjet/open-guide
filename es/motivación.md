@@ -71,68 +71,68 @@ No estamos buscando la perfección pero sabemos que tenemos una meyor oprtunidad
 
 ### Diseñando juntos
 
-Opting for a libre license ensures respect for author and the protection of its rights as author, while insuring visibility and dissemination.
+Optar por una licencia libre garantiza el respeto por el autor y la protección de sus  derechos como autor, mientras se aseguran visibilidad y difusión.
 
-Using libre licenses changes also the modes of production, conception and manufacturing of an object. Designer's work requires lots of skills and expertise. So a single object can take years to develop, requiring multiple skills. Often, several people contribute to the design of an object. Publishing an object using libre licenses opens the possibility of working with others, local or remote, using several consecutive publication-modification cycles.
+El uso de licencias libres también cambia los modos de producción, concepción y fabricación de un objeto. El trabajo de diseñador requiere muchas habilidades y experiencia. Así que un solo objeto puede tardar años en desarrollarse, lo que requiere múltiples habilidades. A menudo, varias personas contribuyen al diseño de un objeto. Publicar un objeto usando licencias libres abre la posibilidad de trabajar con otros, local o globalmente, utilizando varios ciclos consecutivos de publicaciones-modificaciones.
 
-Consumers can appropriate the object, and make a different use of it or adapt it to their own needs. Even though this scenario could be desirable for everything, it is not true today. Usually objects have a label saying something like this: "_Warranty void if manipulated by user or made an inappropriate use of it_". In the worst cases, there can be legal backlash too.
+Los consumidores pueden apropiarse de los objetos, pueden darle un uso diferente o adaptarlo a sus propias necesidades. A pesar de que este escenario podría ser conveniente para todo, no es cierto hoy en día. Generalmente los objetos tienen una etiqueta que dice algo por el estilo:"_La garantía se pierde si es manipulado por el usuario o hace un uso inapropiado_". En los peores casos, puede haber un contragolpe legal también.
 
-With open source product design, we reclaim the full ownership a buyer has over what s/he has acquired.
+Con el diseño de producto open source, revindicamos la plena propiedad de un comprador sobre lo que ella/el ha adquirido.
 
-### Ecodesign
-> Ecodesign is an approach to designing product with special consideration for the environmental impacts of the product during its whole life cycle. In a life cycle assessment, the life cycle of a product is usually divided into procurement, manufacture, use and disposal.  
+### Ecodiseño
+> El ecodiseño es un enfoque de diseño de producto con especial consideración por los impactos ambientales del producto durante todo su ciclo de vida. En una evaluación de ciclo de vida, el ciclo de vida de un producto por lo general es dividido en la obtención, la fabricación, el uso y el descarte.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Ecodesign )
 
-In this sense, the environmental aspect is an important part of the project, whether it's the natural or social environment at stake. And open source product design could play an important role in these practices.
+En este sentido, el aspecto ambiental es una parte importante del proyecto, ya sea que el ambiente natural o social esté en juego. El diseño de producto open source podría desempeñar un rol importante en estas prácticas.
 
-- Procurement: most of the open source design projects could or should use local materials.
-- Manufacturing: the product could be constructed on demand, locally, while respecting the laws of labor.
-- Disposal: Allowing people to modify the designs could encourage adaptation, reuse and the reduction of waste.
+- Obtención: la mayor parte de los proyectos de diseño open source pueden o deben utilizar materiales locales.
+- Fabricación: el producto puede construirse a pedido, a nivel local mientras respeta las leyes de trabajo.
+- Eliminación: Permite a las personas modificar los diseños, puede fomentar la adaptación, la reutilización y la reducción de residuos.
 
-When a person chooses an open source product, s/he moves away from a passive consumer position into a collaborative process that could  potentially be a less polluting system than productive consumption.
+Cuando una persona elije in producto open source, ella/el se corre de la posición de consumidor pasivo hacia un proceso colaborativo que podría potencialmente ser menos contaminante que el consumo productivo.
 
-Tools
+Herramientas
 -----
-Ok, this is a tricky one. What are the tools to stay motivated or to motivate yourself to go into open source product design? This is actually a very personal question. We hope this book will be a tool. You tell us. But here's some other suggestions.
+Ok, este asunto es difícil. ¿Cuáles son las herramientas para mantener la motivación o motivarse para empezar con el diseño de productos open source? Realmente esta es una pregunta muy personal. Esperamos que este libro sea una herramienta. Tú nos cuentas. Pero aquí hay algunas sugerencias.
 
-### Get inspired
-Read, search and document yourself. This is why we've laid a "food for thought" part in each section of the book. Because those things listed here, one way or the other, inspired and motivated us.  
+### Inspírate
+Lee, investiga y documéntate.  Por esta razón hemos puesto una sección “ideas para pensar” en este libro. Porque estas cosas enumeradas aquí, de una u otra forma nos inspiran o nos motivan.  
 
-### Challenge yourself
-This is a somewhat new and open field, and there is a lot of creativity going around it. New business models, new collaborative processes, new publication models, etc. There is plenty of things to invent and plenty of challenges to create.
+### Desafíate
+Este es de alguna manera un campo nuevo y abierto, y hay mucha creatividad alrededor. Nuevos modelos de negocio, nuevos procesos colaborativos, nuevos modelos de publicación, etc. Hay un montón de cosas para inventar y un montón de desafíos por crear.
 
-### Release early, release often
-This motto comes from open source software practices and encourages creators to publish their project right from the beginning (or almost) and to regularly update it. If you're willing to go the open way, don't keep things hidden until they are finished. You might loose energy on the way. You might also miss an opportunity to find collaborators.
+### Lánzalo temprano, lánzalo seguido
+Este lema proviene de las prácticas de software open source y alienta a los creadores a publicar su proyecto desde el principio (o casi) y actualizarlo regularmente. Si estás dispuesto a seguir el camino abierto, no mantengas ocultas las cosas hasta que estén terminadas. Podes perder energía en el proceso. También podes perder la oportunidad de encontrar colaboradores.
 
-### Get connected
-This is a community. We're online and offline talking to each other, supporting each other.  
+### Conéctate
+Esta es una comunidad. Estamos online y offline hablando entre nosotros, apoyándonos unos a otros.  
 
-Objects
+Objetos
 -----------
-### Open source stethoscope by Tarek Loubani
-The bypass of Israel embargo on medical equipments in Gaza
+### Estetoscopio open source por Tarek Loubani
+El bypass de embargo israelí sobre equipos médicos en Gaza.
 
-> Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a free and open model for hardware and software  development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
+> Tarek Loubani, un médico palestino que trabaja en Gaza y en Canadá, discute la lucha palestina por llevar los beneficios de los modernos (y a veces no tan modernos) dispositivos médicos a la población de Gaza, elige en consecuencia un modelo libre y abierto para el desarrollo de hardware y el software que permita la autonomía y la colaboración con otras poblaciones marginadas en países desarrollados y países en vía de desarrollo.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
 
 ###  [Reprap](http://reprap.org/ )
 
-![_The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg)
+![_La primera Reprap y su hija_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg)
 
-Reprap project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
+El proyecto RepRap tiene como objetivo crear una maquina auto replicante. Este proyecto creció de manera constante debido a que la mayoría de los diseñadores usa licencias libres, permitiendo a las personas alrededor del mundo contribuir para mejorarlas. Algunas de las impresoras más comunes se basan en los diseños de Prusa i2 y Prusa i3. Más en http://reprap.org/
 
-### Prosthetic hands
+### Prótesis de manos
 
- ![_Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg)
+ ![_Prótesis de mano impresa_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg)
 
-Cut down the cost of medical equipment production by using libre designs. These prosthesis that can be extensively customized to fit children needs. Using digital fabrication tools, such as 3D printers, new pieces can be constructed to accommodate children growth with very low costs.
+Reducir el costo de producción de equipos médicos mediante el uso de diseño libre. Estas prótesis pueden personalizarse considerablemente para satisfacer las necesidades de los niños. Usando herramientas de fabricación digital, como las impresoras 3D, se pueden construir piezas nuevas para acompañar el crecimiento los niños a muy bajo costo.
 
-Food for thought
+Ideas para pensar
 -----------------------
 
-### Approved adaptations
-The limit of derivation in the classic copyright design.
+### Adaptaciones autorizadas
+El límite de crear más allá de la definición clásica del derecho de autor en diseño.
 
-The original LC2 armchair and sofa by Le Corbusier is still sold and edited by [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) Although adaptations of it by  Doshi Levien and edited by [Moroso](http://www.doshilevien.com/projects/chandigarh/ ) are allowed on the market.
+El sillón y sofá original LC2 de Le Corbusier todavía se vende y se edita por  [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) aunque la adaptación realizada por Doshi Levien está permitida en el mercado y es editada por [Moroso](http://www.doshilevien.com/projects/chandigarh/ ).
 
 Emco fights Ikea over a supposed copy of Norman Foster's 20-06 stacking chair.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
