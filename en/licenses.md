@@ -112,25 +112,29 @@ Objects
 
 ### [Mmodulus](http://mmodulus.com/ )
 
-![_pict_Mmodulus_ − Mmodulus](./images/modulUS.jpg)
+![_Mmodulus_ − Mmodulus](./images/modulUS.jpg#pict)
+
 Mmodulus, a series of modular furniture by Martina Minnucci and Juan Freire has been published using a CERN license.
 
 <div class="page-break"></div>
 ### [Archipel armchair](http://libreobjet.org/objects/archipel-armchair/ )  
 
-![_pict_Archipel armchair_ − Mathieu Gabiot − Free Art License](./images/archipel.png)
+![_Archipel armchair_ − Mathieu Gabiot − Free Art License](./images/archipel.png#pict)
+
 Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free Art License.
 
 <div class="page-break"></div>
 ### [MicroHouse](http://opensourceecology.org/portfolio/microhouse/ )
 
-![_pict_Microhouse_ − Open Source Ecology](./images/microhouse_32.png)
+![Microhouse_ − Open Source Ecology](./images/microhouse_32.png#pict)
+
 MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house designed for two and has been released under a GPL License.
 
 <div class="page-break"></div>
 ### [Mozilla Open Source Furniture](http://os-furnitures.tumblr.com/ )
 
-![_pict_Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA.jpg)
+![_Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA.jpg#pict)
+
 Designed by Nosigner, elements that were used to compose the furniture for Mozilla's Japan office have been published under a CC-by license.
 
 Food for thought
@@ -138,7 +142,8 @@ Food for thought
 
 ### Copyright
 
->![_logo_GPLv3Copyright symbol](./images/Copyright.png)
+![_ GPLv3Copyright logo_](./images/Copyright.png)
+
 >  Copyright  is a legal right created by the law of a country that grants  the  creator of an original work exclusive rights for its use   and   distribution. This is usually only for a limited time. The   exclusive   rights are not absolute but limited by limitations and   exceptions to   copyright law, including fair use.
 
 >  Copyright  is a form of intellectual **property**, applicable to  certain forms of  **creative work**. Under US copyright law, legal    protection attaches  only to fixed  representations in a tangible medium. It is often shared among   multiple  authors, each of whom holds a set of rights to use or license,  the work  and who are commonly referred to as rights-holders. These  rights  frequently include reproduction, control over derivative   works,   distribution, public performance, and "moral rights" such as  attribution.
@@ -149,7 +154,8 @@ Food for thought
 
 ### Copyleft
 
-> ![_logo_Reversed copyright symbol_ − Public Domain](./images/Copyleft.png)
+![_Reversed copyright symbol_ − Public Domain](./images/Copyleft.png)
+
 > Copyleft (a play on the word copyright)  is the practice of offering people the right to freely distribute   copies and modified versions of a work with the stipulation that the     same rights be preserved in derivative works down the line.
 
 >  Copyleft  is a form of licensing, and can be used to maintain  copyright  conditions for works ranging from computer software, to    documents, to  art.  In general, copyright law is used by an author to    prohibit  recipients  from reproducing, adapting, or distributing   copies  of their  work. In  contrast, under copyleft, an author may  give  every  person who  receives a  copy of the work permission to   reproduce,  adapt,  or  distribute it, with the accompanying  requirement  that any  resulting   copies or adaptations are also bound  by the same  licensing  agreement.  

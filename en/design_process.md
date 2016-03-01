@@ -37,7 +37,7 @@ If you want to share those changes, some open source licenses require that you p
 
 ### Forking
 
-![_pict_A fork by Lison_ − Libre Objet − Free Art License](./images/Lison-illustration.jpeg)
+![_A fork by Lison_ − Libre Objet − Free Art License](./images/Lison-illustration.jpeg#pict)
 The “fork” means an object having a common root with a second one. Initially twins, these two objects will separate and follow their own developments. This terms comes from open source software development and was perceived as a negative action implying the death of one of the branch. But nowadays, forking is encouraged as a way to make adaptations to the original work that than could be merged back together afterwards  to improve the original piece.
 
 &#8608; An example from the _Diverted objetcs_ workshop given by Libre Objet
@@ -53,7 +53,7 @@ Another  advantage of open source objects is that they can be combined. Youcould
 
 > Parametric design is a paradigm in design where the relationship between elements are used to manipulate and inform the design of complex geometries and structures.   −[Wikipedia](https://en.wikipedia.org/wiki/Parametric_design )
 
-![_pict_Archi-Union 創盟國際_ by 準建築人手札網站 Forgemind ArchiMedia − CC-BY](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
+![_Archi-Union 創盟國際_ by 準建築人手札網站 Forgemind ArchiMedia − CC-BY](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg#pict)
 A possible approach for easier adaptations of an object is to use parametric design tools.
 Typically, this can be understood as defining a set of variables and relationship rules inside your design so that when those variables are modified, the resulting object is changed accordingly.
 
@@ -144,10 +144,10 @@ Objects
 
 ### Bouctje & REEBOeK
 
-![_pict_Bouctje by Mathieu Gabiot_ − Libre Objet − Free Art Licence](./images/Bouctje_by_Mathieu Gabiot.jpg)
+![_Bouctje by Mathieu Gabiot_ − Libre Objet − Free Art Licence](./images/Bouctje_by_Mathieu Gabiot.jpg#pict)
 [Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on January 2013 and licensed with a Free Art License.
 
-![_pict_REEBOeK by Verly Laurent_ − Libre Objet − Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
+![_REEBOeK by Verly Laurent_ − Libre Objet − Free Art Licence](./images/REEBOeK _Verly Laurent.JPG#pict)
 [REEBOek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on September 2013 also licensed with a Free Art License.
 
 &#8608; This is a good example about the advantages of the open source objects. Thanks to the open license of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new purpose is born.
@@ -159,8 +159,8 @@ Objects
 At the heart of each WikiSeat is a Catalyst. This is the structural support, made out of welded angle iron, that helps hold three legs in place. The seat part goes on top. It is a pretty simple idea, but there are no instructions for _how_ to assemble these parts. We encourage people to find materials rather than buying them from a store. Every WikiSeat is a truly unique creation, a reflection of the creators environment and ideas.  
 −[Wikiseat](http://www.wikiseat.org/about/)
 
-![_pict_Wikiseat_ − CC-BY-SA](./images/wikiseat02.jpg)
-![_pict_Wikiseat_ − CC-BY-SA](./images/wikiseat03.jpg)
+![_Wikiseat_ − CC-BY-SA](./images/wikiseat02.jpg#pict)
+![_Wikiseat_ − CC-BY-SA](./images/wikiseat03.jpg#pict)
 
 ### uHbench
 
@@ -177,7 +177,7 @@ Food for thought
 >![_Theo Jansen's Strandbeest at Fundacion Telefonica, Madrid_ − Julien Deswaef − Free Art License](./images/strandbeest.jpg)
 > Theo Jansen has been creating _Strandbeest_ (Dutch: _strand_=beach; _beest_=beast), wind-walking examples of artificial life, since 1990. What was at first a rudimentary breed has slowly evolved into a generation of machines that are able to react to their environment. Constructed as intricate assemblages of piping, wood, and wing-like sails, Jansen's creations are constantly being improved and have become excellently adapted to their sandy beach environment.  −[Wikipedia](https://en.wikipedia.org/wiki/Theo_Jansen )
 
-![_pict_Theo  Jansen's tools at Fundacion Telefonica, Madrid_ − Julien  Deswaef − Free Art License](./images/strandbeest-tools.jpg)
+![_Theo  Jansen's tools at Fundacion Telefonica, Madrid_ − Julien  Deswaef − Free Art License](./images/strandbeest-tools.jpg#pict)
 This is a particular interesting exemple since, Theo Jansen has also built his own tools for creating and producing these machines and has followed a principle of forking and merging between every instance of his project.
 
 ### Upcyclist

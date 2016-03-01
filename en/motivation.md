@@ -126,12 +126,14 @@ The bypass of Israel embargo on medical equipments in Gaza
 
 ### Reprap
 
-![_pict_The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg)
+![_The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg#pict)
+
 [Reprap](http://reprap.org/ ) project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
 
 ### Prosthetic hands
 
-![_pict_Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg)
+![_Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg#pict)
+
 Cut down the cost of medical equipment production by using libre designs. These prosthesis that can be extensively customized to fit children needs. Using digital fabrication tools, such as 3D printers, new pieces can be constructed to accommodate children growth with very low costs.
 
 Food for thought
@@ -157,6 +159,7 @@ Early 19th-century Shaker interiors are characterized by an austerity and simpli
 ### Victor Papanek
 
 ![_Portrait Victor Papanek_ − Mathieu Gabiot](./images/Victor-Papanek.svg)
+
 > Victor Papanek was a designer and educator who became a strong advocate of the socially and ecologically responsible design of products, tools and community infrastructures. He disapproved of manufactured products that were unsafe, showy, maladapted or essentially useless. His products, writings and lectures were collectively considered an example and spur by many designers. Papanek was a philosopher of design and as such he was an untiring, eloquent promoter of design aims and approaches that would be sensitive to social and ecological considerations. He wrote that "design has become the most powerful tool with which man shapes his tools and environments (and, by extension, society and himself).  
 −[Wikipedia](https://en.wikipedia.org/wiki/Victor_Papanek )
 
@@ -165,6 +168,7 @@ Find and read his book _Design for the Real World: Human Ecology and Social Chan
 ### Jean Prouvé
 
 ![_Portrait Jean Prouvé_ − Mathieu Gabiot](./images/Jean-Prouve.svg)
+
 > Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art collective to which his father belonged. Its goals were to make art readily accessible, to forge links between art and industry, as well as between art and social consciousness.
 
 >The metal furniture of Jean Prouvé was produced copiously in every studio and workshop. His work involved frequent collaboration, most famously with Charlotte Perriand and Pierre Jeanneret. The style is set apart from the Bauhaus steel furniture of the time by his rejection of the steel tube technique. Prouvé had more faith in the durability and form of sheet metal, "bent, pressed, compressed than welded". His designs speak of a work philosophy that includes knowledge of the materials at hand, a commitment to collaboration between artists and craftsmen, an attention to evolving technical developments, and "the principle of never postponing decisions so as neither to lose the impetus nor indulge in unrealistic forecasts". Prouvé was influential in the development of the idea of nomadic architecture, likening a chair to a house, and designing both with portability in mind.  
@@ -182,6 +186,7 @@ His achievements in folded sheet (originally of lower costs and higher strength,
 ### Enzo Mari
 
 ![_Portrait Enzo Mari_ − Mathieu Gabiot](./images/Enzo-Mari.svg)
+
 > The 19 _Do-It-Yourself_ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.  
 http://www.cucula.org/en/enzo-mari/
 
@@ -192,6 +197,7 @@ This project was born in 1974 just after the first oil crisis of 1973. The pover
 ### Gerrit Rietveld
 
 ![_Portrait Gerrit Rietveld_ − Mathieu Gabiot](./images/Gerrit-Rietveld.svg)
+
 > The original _Krat_ (Crate) furniture was produced using untreated red spruce normally reserved for packing cases. It was sold in a kit form, to be assembled at home by the purchaser. The Crate furniture was a response to the economic crisis of the 1930s. It offered useful, inexpensive seating with basic construction and cheap materials. Other items of Crate furniture include a Crate easy chair, Crate table, Crate desk, Crate bookcase and a Crate stool, all from 1934.  
 −[annetgelink.com](http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/)
 
@@ -203,14 +209,16 @@ Rietveld was a Dutch furniture designer and architect. One of the principal memb
 
 ### Bernard Stiegler
 
->![_Portrait Bernard Stiegler_ − Mathieu Gabiot](./images/Bernard-Stiegler.svg)
+![_Portrait Bernard Stiegler_ − Mathieu Gabiot](./images/Bernard-Stiegler.svg)
+
 > Bernard Stiegler is a french philosopher and head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, _pharmakon.fr_ […]  
 His key themes are technology, time, individuation, consumerism, consumer capitalism, technological convergence, digitization, americanization, education and the future of politics and human society.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Bernard_Stiegler )
 
 ### Thomas Chippendale
 
->![_Portrait Thomas Chippendale_ − Mathieu Gabiot](./images/Thomas-Chippendale.svg)
+![_Portrait Thomas Chippendale_ − Mathieu Gabiot](./images/Thomas-Chippendale.svg)
+
 > Thomas Chippendale was a London cabinet-maker and furniture designer in the mid-Georgian, English Rococo, and Neoclassical styles. In 1754, he published a book of his designs titled [_The Gentleman and Cabinet Maker's Director_](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab ). The designs are regarded as reflecting the current London fashion for furniture for that period and were used by other cabinet makers outside London.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Thomas_Chippendale )
 
