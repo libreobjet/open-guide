@@ -1,5 +1,6 @@
 Proposition
-===========
+========
+
 
 If you've read this book form the start, you've guessed that we are trying to define _Open source product design_. You may have already encountered similar terms such as _Open design_, _Open making_, _Open source design_ and so on. These overlap each other and sometimes set themselves apart. One might think these little differences are not important, because the overall idea is about sharing. We do not agree with this. It's in the little differences, in the terms and expression we use, that lie the ideals we stand for.
 
@@ -31,8 +32,8 @@ Open source design is a term coined mostly by the graphic design community. This
 Tools
 -------
 
-### [Wikipedia](http://wikipedia )
-This well-known website is a collaborative user-edited encyclopedia. And as such, it's a fantastic tool for an ever evolving consensus on definitions.
+### Wikipedia
+This well-known website is a collaborative user-edited encyclopedia. And as such, [Wikipedia](http://wikipedia ) is a fantastic tool for an ever evolving consensus on definitions.
 
 ### Manifestos
 > A manifesto is a published verbal declaration of the intentions, motives, or views of the issuer, be it an individual, group, political party or government.  
@@ -43,11 +44,11 @@ There is no better way to define things than to enter in conversation with those
 
 Objects
 -----------
-### [Piccolo, the tiny CNC-bot](http://piccolo.cc/ )
-When Picollo was released, it mentioned on the website that the project was open source hardware, although they were restricting commercial use of the project. After [discussing with them](http://piccolo.cc/#comment-1644436573 ) and pointing the incompatibilities between the restrictive license and the _open source_ terms used in the description, the Piccolo team completely freed their project with a CC-BY-SA.
+### Picollo, the tiny CNC-bot
+When [Piccolo](http://piccolo.cc/ ) was released, it mentioned on the website that the project was open source hardware, although they were restricting commercial use of the project. After [discussing with them](http://piccolo.cc/#comment-1644436573 ) and pointing the incompatibilities between the restrictive license and the _open source_ terms used in the description, the Piccolo team completely freed their project with a CC-BY-SA.
 
-### [Faircap](http://faircap.org/ )
-The Faircap is a 3D-printed water filter and when it was released, they anounced it as open source while licensing it under CC-NC-SA. After [pointing out](https://twitter.com/raphaelbastide/status/657257450593230848) to the creator why this license was misleading, the project was then released as Public Domain.   http://www.instructables.com/id/Open-Source-3D-Printed-Water-Filter/
+### Faircap
+The [Faircap](http://faircap.org/ ) is a 3D-printed water filter and when it was released, they anounced it as open source while licensing it under CC-NC-SA. After [pointing out](https://twitter.com/raphaelbastide/status/657257450593230848) to the creator why this license was misleading, the project was then released as Public Domain.   http://www.instructables.com/id/Open-Source-3D-Printed-Water-Filter/
 
 
 Food for thought
@@ -58,6 +59,7 @@ Food for thought
 
 Open questions
 ----------------------
+![](./images/girl-bulle.svg)
  - Are you satisfied with the term "Open Source Product Design"?
  - Are you "free/libre" or "open source"?
  - Do you think we need to agree on a definition?

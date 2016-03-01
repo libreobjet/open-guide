@@ -50,27 +50,27 @@ Crowdfunding and open source goes well together, and it might even be the only w
 People like to share. If you give them something they have the right to share, they will happily do so. As such, open sourcing some of your work could be a way to get some attention, or even something to be known for. Your objects might travel further than if you just keep it for yourself and the generosity of open sourcing could shine back on you and the rest of your projects.
 
 ### Who's building your open source furniture?
-Something we havent seen explored in open source product design but that could have some impact in the near future is the importance of the builder in the open source product design process. If the design files and documentation are freely available to download, then what differentiates one object from another is who has built it. 
+Something we havent seen explored in open source product design but that could have some impact in the near future is the importance of the builder in the open source product design process. If the design files and documentation are freely available to download, then what differentiates one object from another is who has built it.
 
 Collectors will always be willing to pay extra for a piece that has been built by the original creator than by someone else. Someone else might prefer to pay a company that is owned by its workers or that has a social model different than traditional captialist ones.The stories around the objects are what give value to them. The value of an object does not lie only in its function and the art and vintage design markets exist to prove it.
 
 Tools
 -------
  ### Goteo
- > Goteo is a platform for civic crowdfunding and collaboration on citizen initiatives and social, cultural, technological  and educational projects. Goteo has replicas and alliances in several  countries, thanks to its open source code as well as the awards and  international recognition it has gathered since 2011. It is a tool for generating resources ‘drop by drop’ for a community of communities […]. [Their]  mission is tightly linked to principles of transparency, progress and societal improvement. 
+ > Goteo is a platform for civic crowdfunding and collaboration on citizen initiatives and social, cultural, technological  and educational projects. Goteo has replicas and alliances in several  countries, thanks to its open source code as well as the awards and  international recognition it has gathered since 2011. It is a tool for generating resources ‘drop by drop’ for a community of communities […]. [Their]  mission is tightly linked to principles of transparency, progress and societal improvement.
 −[Goteo.org](https://en.goteo.org/about)
- 
-### [Opendesk](https://www.opendesk.cc/ )
-Opendesk promises to be a hub between designers and local builders. Their pusiness is built on creating, collecting and promoting open designs (not all open source) and encouraging the local production of those designs through a network of fablabs and makerspaces. They then take a small portion of the price charged to the end purchaser.
 
-### Snowdrift 
+### Opendesk
+[Opendesk](https://www.opendesk.cc/ ) promises to be a hub between designers and local builders. Their pusiness is built on creating, collecting and promoting open designs (not all open source) and encouraging the local production of those designs through a network of fablabs and makerspaces. They then take a small portion of the price charged to the end purchaser.
+
+### Snowdrift
 This type of platform encourages participants to provide regular donations to the projects they want to support. Through very small recuring payments and social network effects, creator can potentialy harvest a monthly salary, allowing them to pursue their cerative work.  https://snowdrift.coop/
 
 Objects
 -----------
 
-### [Comingle](https://www.comingle.io/) 
-Comingle is an open source vibrating dildo that you can customize to your heart's content. It has been sucessfully funded through a crowdfunding campaign on [Indiegogo](https://www.indiegogo.com/projects/the-mod-multivibrating-open-source-dildo )
+### Comingle
+[Comingle](https://www.comingle.io/) is an open source vibrating dildo that you can customize to your heart's content. It has been sucessfully funded through a crowdfunding campaign on [Indiegogo](https://www.indiegogo.com/projects/the-mod-multivibrating-open-source-dildo )
 
 ### X-Modules: furniture for Ixelles Library
 With  _X-Modules_, Maria Solé Bravo and Julien Deswaef have developed a multi-purpose design to furnish the courtyard at the entrance of the Ixelles public library in Brussels. As required by the library, the furniture is made from upcycled material -- re-used pallets -- and was built by neighbours and school children during a series of workshops. The open source nature of the project fitted perfectly with the mission of the library and was one of the key factors that got this project selected after the competition.
@@ -85,10 +85,10 @@ Food for thought
 > The CUCULA design manufacture produces and sells premium design objects and as such conveys basic technical qualifications with focus on furniture prodution. In the proprietary workshop, fuelled by active  collaboration between refugees, designers and pedagogues, a lively  production space is forming, where knowledge about carpentry and design  is transferred and where new ideas are being developed.[…] As a starting point, the manufacture is exploring Enzo Mari’s ‘DIY’ furniture program ‘Autoprgettazione’.The proceeds of the coming furniture sales will be invested directly in the refugees’ education and cost of living.  
 http://www.cucula.org
 
-### _You Are Not A Gadget: A Manifesto_
+#### You Are Not A Gadget: _A Manifesto_
 Some authors have criticized the production of open source services and objects, linking them with the communist movement and arguing that they hinder development. For example Jaron Lanier, an American computer philosophy writer, suggests in his book _You Are Not A Gadget: A Manifesto_ that the open source productions generate a kind expropriation of the intellectual productions that he calls "Digital Maoism".
 
-### _Wikinomics: How Mass Collaboration Changes Everything_
+#### Wikinomics: _How Mass Collaboration Changes Everything_
 In the best-selling book _Wikinomics_, the authors, Don Tapscott and Anthony D. Williams, defend the idea that openess is creating a new form of economic development and, even more, they argue that it will be an essential part of economic innovation and development in the near future.
 
 The economic models described in the book are based on four themes: Openness, Peering, Sharing and Acting Global.
@@ -107,7 +107,7 @@ Some examples of designers-to-consumers approaches:
 
 Open questions
 -----------------------
+![](./images/girl-bulle.svg)
 - What is it that you are selling?
 - What do you want to be known for?
 - Where do you stand in this capitalist economy?
-
