@@ -146,10 +146,13 @@ section {
   padding: 50px;
 }
 /* Related to the images */
-figure figcaption {
-  display: none;
+figure {
   margin: 0;
   padding: 0;
+}
+
+figure figcaption {
+  display: none;
 }
 
 h1 {
@@ -257,7 +260,6 @@ blockquote p{
 .book .book-body .page-wrapper .page-inner section.normal blockquote {
   display:block;
   float:left;
-  clear: both;
   background: white;
   padding: 15px;
   margin: 5px 40px 25px 0px;
@@ -315,13 +317,13 @@ a {
   color:#385F8C !important;
 }
 
-img[alt*="pict"] {
+img[src$="#pict"] {
   display:block;
   float:left;
   clear: both;
   width: 70%;
   max-width: 500px;
-  margin: 0px 40px 20px -60px;
+  margin: 0px 40px 20px 0px;
   border: solid 3px #247940 !important;
   box-shadow: 12px 12px 0 0 white,
               15px 15px 0 0 #247940,
