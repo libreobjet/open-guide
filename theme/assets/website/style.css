@@ -3248,24 +3248,108 @@ body {
 }
 /* STUFF FOR LIBRE OBJET */
 @font-face {
-  font-family: 'TGL';
-  src: url('fonts/TGL_0-17/tgl_0-17.eot');
-  src: url('fonts/TGL_0-17/tgl_0-17.eot?#iefix') format('embedded-opentype'), url('fonts/TGL_0-17/tgl_0-17.woff2') format('woff2'), url('fonts/TGL_0-17/tgl_0-17.woff') format('woff'), url('fonts/TGL_0-17/tgl_0-17.ttf') format('truetype'), url('fonts/TGL_0-17/tgl_0-17.svg#tgl_0-17regular') format('svg');
+  font-family: 'Alegreya-Black';
+  src: url('fonts/Alegreya/Alegreya-Black.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'Alegreya-Bold';
+  src: url('fonts/Alegreya/Alegreya-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Alegreya-BoldItalic';
+  src: url('fonts/Alegreya/Alegreya-BoldItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Alegreya';
+  src: url('fonts/Alegreya/Alegreya-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Alegreya-RegularItalic';
+  src: url('fonts/Alegreya/Alegreya-RegularItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'QuattrocentoSans';
+  src: url('fonts/Quattrocento_Sans/QuattrocentoSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'QuattrocentoSans-italic';
+  src: url('fonts/Quattrocento_Sans/QuattrocentoSans-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'QuattrocentoSans-Bold';
+  src: url('fonts/Quattrocento_Sans/QuattrocentoSans-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'QuattrocentoSans-BoldItalic';
+  src: url('fonts/Quattrocento_Sans/QuattrocentoSans-BoldItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
 .page .section {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'QuattrocentoSans';
 }
 /* Related to the images */
 figure figcaption {
   display: none;
 }
-h1,
+h1 {
+  font-family: 'Alegreya-Black';
+  font-size: 30px;
+  text-align: center;
+  color: #247940;
+}
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: 'TGL';
+  font-family: 'Alegreya-Black';
+  color: #247940;
+}
+* {
+  font-family: 'Alegreya';
+  font-size: 20px;
+  color: #247940;
+}
+blockquote p {
+  font-family: 'QuattrocentoSans-Bold';
+  font-size: 10px;
+  color: #247940;
+  margin: 0;
+  margin-bottom: 0.85em;
+  padding: 0 15px;
+}
+.book .book-body .page-wrapper .page-inner section.normal blockquote {
+  border-image-slice: 8% 0 0 8;
+  border-image-width: 0px 20px 0px 20px;
+  border-image-outset: 0px 0px 0px 0px;
+  border-image-repeat: repeat repeat;
+  border-image-source: url(images/zig.svg);
+}
+li {
+  font-family: 'QuattrocentoSans-Bold';
+  font-size: 10px;
+  color: #247940;
+  list-style-image: url('images/Lo-bullet.svg');
+}
+a {
+  font-family: 'QuattrocentoSans';
+  font-size: 10px;
+  color: #1B86AF;
 }
