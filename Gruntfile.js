@@ -74,7 +74,8 @@ module.exports = function(grunt) {
           yuicompress: true
         },
         files: {
-          "theme/assets/website/style.css": "theme/stylesheets/website.less"
+          "theme/assets/website/style.css": "theme/stylesheets/website.less",
+          "theme/assets/ebook/pdf.css": "theme/stylesheets/pdf.less"
         }
       }
     }
@@ -110,7 +111,7 @@ module.exports = function(grunt) {
 
   /* Custom task to convert files */
   grunt.registerTask('colorize', function(){
-    var src = grunt.file.expand({'cwd':'images'}, '*.+(jpg|JPG|png|PNG|gif|GIF)');
+    var src = grunt.file.expand({'cwd':'images'}, '*.+(jpg|JPG|png|PNG|gif|GIF|svg)');
     var dest = "en/images/";
     if ( !grunt.file.exists( dest ) ){
       grunt.file.mkdir( dest );
