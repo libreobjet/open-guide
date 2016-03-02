@@ -155,6 +155,10 @@ figure figcaption {
   display: none;
 }
 
+.book-header h1 {
+  display: none;
+}
+
 h1 {
   display:block;
   clear: both;
@@ -260,6 +264,7 @@ blockquote p{
 .book .book-body .page-wrapper .page-inner section.normal blockquote {
   display:block;
   float:left;
+  clear: left;
   background: white;
   padding: 15px;
   margin: 5px 40px 25px 0px;
@@ -298,6 +303,7 @@ ol > li:before {
     content:counter(li); /* Use the counter as content */
     counter-increment:li; /* Increment the counter by 1 */
     /* Position and style the number */
+    clear: left;
     position:absolute;
     top:10px;
     left:-2em;

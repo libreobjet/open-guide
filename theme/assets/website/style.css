@@ -3349,6 +3349,9 @@ figure {
 figure figcaption {
   display: none;
 }
+.book-header h1 {
+  display: none;
+}
 h1 {
   display: block;
   clear: both;
@@ -3447,6 +3450,7 @@ blockquote p {
 .book .book-body .page-wrapper .page-inner section.normal blockquote {
   display: block;
   float: left;
+  clear: left;
   background: white;
   padding: 15px;
   margin: 5px 40px 25px 0px;
@@ -3466,7 +3470,7 @@ li {
   margin-top: 10px;
 }
 ul {
-  list-style-image: url('/en/images/Lo-bullet.svg');
+  list-style-image: url('images/Lo-bullet.svg');
 }
 ol {
   counter-reset: li;
@@ -3492,6 +3496,7 @@ ol > li:before {
   counter-increment: li;
   /* Increment the counter by 1 */
   /* Position and style the number */
+  clear: left;
   position: absolute;
   top: 10px;
   left: -2em;
