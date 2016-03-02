@@ -13,8 +13,8 @@
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="licenses-gpl-1.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="License_icon-gpl-2.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="107.48806"
-     inkscape:cy="79.405747"
+     inkscape:zoom="1.4"
+     inkscape:cx="19.484444"
+     inkscape:cy="156.08772"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,19 +60,19 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36218)">
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;stroke:#000000;stroke-width:14.11481189999999941;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+    <ellipse
+       style="fill:#ffffff;stroke:#23753f;stroke-width:14.1148119;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.99607843;stroke-dasharray:none;fill-opacity:1"
        id="path3768"
-       sodipodi:cx="138.92857"
-       sodipodi:cy="128.5"
-       sodipodi:rx="109.64286"
+       transform="matrix(1.0958479,0,0,1.030581,-24.235544,792.43252)"
+       d="M 248.57143,128.5 A 109.64286,116.78571 0 0 1 138.92857,245.28571 109.64286,116.78571 0 0 1 29.285713,128.5 109.64286,116.78571 0 0 1 138.92857,11.714287 109.64286,116.78571 0 0 1 248.57143,128.5 Z"
+       sodipodi:type="arc"
        sodipodi:ry="116.78571"
-       d="m 248.57143,128.5 c 0,64.49897 -49.08878,116.78571 -109.64286,116.78571 -60.554076,0 -109.642857,-52.28674 -109.642857,-116.78571 0,-64.498968 49.088781,-116.785713 109.642857,-116.785713 60.55408,0 109.64286,52.286745 109.64286,116.785713 z"
-       transform="matrix(1.0958479,0,0,1.030581,-24.235544,792.43252)" />
+       sodipodi:rx="109.64286"
+       sodipodi:cy="128.5"
+       sodipodi:cx="138.92857" />
     <text
        xml:space="preserve"
-       style="font-size:109.87147522px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:109.87147522px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#23753f;fill-opacity:0.99607843;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
        x="26.392136"
        y="824.62018"
        id="text3675"
@@ -81,6 +81,6 @@
          id="tspan3677"
          x="26.392136"
          y="824.62018"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'">GPL</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold';fill:#23753f;fill-opacity:0.99607843;">GPL</tspan></text>
   </g>
 </svg>
