@@ -1,5 +1,5 @@
 Licenses
-=======
+========
 
 The first step in any open source design approach is to choose a license. This will condition every other step taken afterwards. The license is the social contract a designer is making with everyone else involved in the project. This contract, once set, is explicitly or implicitly signed by the other designers working on improving the project, by the manufacturers of the object and by its final users. This social contract is what differentiates open source product design from a more traditional approach.
 
@@ -61,14 +61,12 @@ Tools
 
 ### [Free Art License](http://artlibre.org/licence/lal/en/ )
 
-![_Free Art License official logo_ − Free Art License](./images/Licence_Art_Libre.svg)
-
+![_logo_Free Art License official logo_ − Free Art License](./images/Licence_Art_Libre.svg)
 This is the prefered license used by Libre Objet members. This license was written by Antoine Moreau and friends and originated in France. The F.A.L. is very easy to read and simple to understand. It has been written especially for works of art regardless of their type or expression and is respectful of the roman version of the author's right (as opposed to the English copyright)
 
 ### [Creative Commons](https://creativecommons.org/licenses/ )
 
-![_Creative Commons Logo_ − Registered trademark of Creative Commons](./images/cc.logo.large.png)
-
+![_logo_Creative Commons Logo_ − Registered trademark of Creative Commons](./images/cc.logo.large.png)
 Surprise, surprise! Creative Commons is not a license. **It's a set of licenses**. We often hear: "_I publish my creations under Creative Commons_" as if this would instantly make you a nice person. It does not. Creative Commons offers licenses that range from total freedom to almost no freedom at all. Fortunately, due to their popularity, you will find countless texts that explain the use of each of the Creative Commons licenses. If you care about restricting some user rights, Creative Commons offers you that option. But remember, because of this, some of the Creative Commons licenses are not actually open source. Here are the licenses that you can be considered open source:  
 - Attribution-Share Alike (CC-BY-SA)
 - Attribution (CC-BY)
@@ -84,15 +82,13 @@ The TAPR Open Hardware License is a license dedicated to open hardware projects,
 
 ### [GPL](https://gnu.org/licenses/gpl.html )
 
-![_GPLv3 Logo_ − Free Software Foundation − Public Domain](./images/GPLv3_Logo.svg)
-
+![_logo_GPLv3 Logo_ − Free Software Foundation − Public Domain](./images/GPLv3_Logo.svg)
 The Gnu General Public License is the mother of all open source licenses. It was created by Richard Stallman and has been used and released as early as 1989. This license is certainly the most popular license for free/libre and open source software, but it can also apply to the designs of objects.
 
 <div class="page-break"></div>
 ### [WTFPL](http://www.wtfpl.net/ )
 
-![_WTFPL logo_ − www.wtfpl.net − WTFPL](./images/WTFPL_License_Logo,_January_2014.png)
-
+![_logo_WTFPL_ − www.wtfpl.net − WTFPL](./images/WTFPL_License_Logo,_January_2014.png)
 The "do What The Fuck you want Public License" is a very short and somewhat funny license that exists as a response to flame wars that often occur between partisans of one license or another.
 
 But if you really don't give a fuss, you could be nicer to everyone by just dedicating your work to public domain through the use of a CC0 license or doing a direct public domain dedication if you're located in a country where it is permitted.
@@ -116,28 +112,28 @@ Objects
 
 ### [Mmodulus](http://mmodulus.com/ )
 
-![_Mmodulus_ − Mmodulus](./images/modulUS.jpg)
+![_Mmodulus_ − Mmodulus](./images/modulUS.jpg#pict)
 
 Mmodulus, a series of modular furniture by Martina Minnucci and Juan Freire has been published using a CERN license.
 
 <div class="page-break"></div>
 ### [Archipel armchair](http://libreobjet.org/objects/archipel-armchair/ )  
 
-![_Archipel armchair_ − Mathieu Gabiot − Free Art License](./images/archipel.png)
+![_Archipel armchair_ − Mathieu Gabiot − Free Art License](./images/archipel.png#pict)
 
 Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free Art License.
 
 <div class="page-break"></div>
 ### [MicroHouse](http://opensourceecology.org/portfolio/microhouse/ )
 
-![_Microhouse_ − Open Source Ecology](./images/microhouse_32.png)
+![Microhouse_ − Open Source Ecology](./images/microhouse_32.png#pict)
 
 MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house designed for two and has been released under a GPL License.
 
 <div class="page-break"></div>
 ### [Mozilla Open Source Furniture](http://os-furnitures.tumblr.com/ )
 
-![_Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA.jpg)
+![_Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA.jpg#pict)
 
 Designed by Nosigner, elements that were used to compose the furniture for Mozilla's Japan office have been published under a CC-by license.
 
@@ -146,7 +142,7 @@ Food for thought
 
 ### Copyright
 
-![Copyright symbol](./images/Copyright.png)
+![_ GPLv3Copyright logo_](./images/Copyright.png)
 
 >  Copyright  is a legal right created by the law of a country that grants  the  creator of an original work exclusive rights for its use   and   distribution. This is usually only for a limited time. The   exclusive   rights are not absolute but limited by limitations and   exceptions to   copyright law, including fair use.
 
@@ -155,7 +151,7 @@ Food for thought
 >  Copyrights  are considered **territorial rights**, which means that   they do not  extend beyond the territory of a specific jurisdiction.  While many  aspects of national copyright laws have been standardized     through  international copyright agreements, copyright laws vary by    country.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Copyright)
 
-<div class="page-break"></div>
+
 ### Copyleft
 
 ![_Reversed copyright symbol_ − Public Domain](./images/Copyleft.png)
@@ -165,6 +161,7 @@ Food for thought
 >  Copyleft  is a form of licensing, and can be used to maintain  copyright  conditions for works ranging from computer software, to    documents, to  art.  In general, copyright law is used by an author to    prohibit  recipients  from reproducing, adapting, or distributing   copies  of their  work. In  contrast, under copyleft, an author may  give  every  person who  receives a  copy of the work permission to   reproduce,  adapt,  or  distribute it, with the accompanying  requirement  that any  resulting   copies or adaptations are also bound  by the same  licensing  agreement.  
 Copyleft  licenses for software **require that information necessary for reproducing and modifying the work must be made available to recipients of the binaries**. The source code files will usually    contain a copy of  the license terms and acknowledge the authors.
 −[Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
+
 
 ### Ronen Kadushin
 Ronan Kadushin, in his [Open Design Manifesto](http://www.ronen-kadushin.com/files/4613/4530/1263/Open_Design_Manifesto-Ronen_Kadushin_.pdf ), considers that there are two requirements for open designs:
@@ -184,6 +181,7 @@ The famous IkeaHackers website gets threatened for intellectual property infring
 
 Open questions
 ----------------------
+![](./images/girl-bulle.svg)
 - What is your preferred license and most importantly why?
 - Should product designers write their own license?
 - What limitations and opportunities exist in product design but not software design?

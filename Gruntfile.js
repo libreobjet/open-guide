@@ -19,6 +19,12 @@ module.exports = function(grunt) {
           },
           now: now
         }
+      },
+      svg: {
+        files: [
+          // Copy SVG files from root image folder to the right directory
+          {expand: true, src: ['images/*.svg'], dest: 'en/', filter: 'isFile'}
+        ]
       }
     },
     run:{
@@ -62,19 +68,14 @@ module.exports = function(grunt) {
         dest: './exports/open-guide/images/'
       }
     },
-    // "imagemagick-convert":{
-    //   dev:{
-    //     args:[
-    //       'images/*.jpg', '-resize', '25x25', 'scripts/*.png']
-    //   }
-    // },
     less: {
       development:{
         options: {
           yuicompress: true
         },
         files: {
-          "theme/assets/website/style.css": "theme/stylesheets/website.less"
+          "theme/assets/website/style.css": "theme/stylesheets/website.less",
+          "theme/assets/ebook/pdf.css": "theme/stylesheets/pdf.less"
         }
       }
     }
@@ -89,7 +90,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-shell');
 
   // Default task(s).
-  grunt.registerTask('update_book_json', ['copy']);
+  grunt.registerTask('update_book_json', ['copy:main']);
   grunt.registerTask('default', [ 'css',
                                   'update_book_json',
                                   'run:server'
@@ -107,6 +108,7 @@ module.exports = function(grunt) {
                               'imagemin'
                             ]);
   grunt.registerTask('css', [ 'less']);
+  grunt.registerTask('copy_svg', [ 'copy:svg']);
 
   /* Custom task to convert files */
   grunt.registerTask('colorize', function(){
@@ -127,5 +129,6 @@ module.exports = function(grunt) {
       });
     }
     grunt.task.run('shell');
+    grunt.task.run('copy_svg');
   });
 };

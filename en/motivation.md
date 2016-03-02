@@ -1,5 +1,6 @@
-Motivation
-=======
+Motivations
+========
+
 
 Why would you want to get into open source product design?
 
@@ -41,11 +42,15 @@ Quality design is a luxury product. Only the rich can access it.
 
 Design for humans
 ---------------------------
+![_Girl_ − Mathieu Gabiot](./images/girl-bulle.svg)
+
 With open source product design, we're moving the whole design process back to the source: taking care of humans, every human.
 
 We are looking for a generous creative attitude where we know that an artwork is inspired by nature and should respect it.
 
 We allow ourselves to copy as a way to learn, encourage our creativity and iterate design processes.
+
+![_Guy_ − Mathieu Gabiot](./images/guy-bulle.svg)
 
 We learn from traditions and existing designs, and do not try to reinvent the wheel every time.
 
@@ -55,6 +60,8 @@ We choose the free/libre way because we can rely on a community for help, co-wor
 
 We are not afraid of being copied.
 
+![](./images/girl-bulle.svg)
+
 We want a close relationship with our users, turn them into active contributors and get objective feedback.
 
 We want to challenge the status quo and break social barriers.
@@ -62,6 +69,8 @@ We want to challenge the status quo and break social barriers.
 We think of product design as a process, as communication, as information, and it wants to be free.
 
 We know open source licensing is a key in upcycling and a legal framework for cradle to cradle thinking.
+
+![](./images/guy-bulle.svg)
 
 We don't have one size fits all so here's our files to make it fit for you.
 
@@ -84,6 +93,7 @@ With open source product design, we reclaim the full ownership a buyer has over 
 −[Wikipedia](https://en.wikipedia.org/wiki/Ecodesign )
 
 In this sense, the environmental aspect is an important part of the project, whether it's the natural or social environment at stake. And open source product design could play an important role in these practices.
+
 
 - Procurement: most of the open source design projects could or should use local materials.
 - Manufacturing: the product could be constructed on demand, locally, while respecting the laws of labor.
@@ -114,15 +124,15 @@ The bypass of Israel embargo on medical equipments in Gaza
 
 > Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a free and open model for hardware and software  development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
 
-###  [Reprap](http://reprap.org/ )
+### Reprap
 
-![_The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg)
+![_The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg#pict)
 
-Reprap project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
+[Reprap](http://reprap.org/ ) project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
 
 ### Prosthetic hands
 
- ![_Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg)
+![_Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg#pict)
 
 Cut down the cost of medical equipment production by using libre designs. These prosthesis that can be extensively customized to fit children needs. Using digital fabrication tools, such as 3D printers, new pieces can be constructed to accommodate children growth with very low costs.
 
@@ -133,8 +143,6 @@ Food for thought
 The limit of derivation in the classic copyright design.
 
 The original LC2 armchair and sofa by Le Corbusier is still sold and edited by [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) Although adaptations of it by  Doshi Levien and edited by [Moroso](http://www.doshilevien.com/projects/chandigarh/ ) are allowed on the market.
-
-![_Norman-Foster-Emeco-ikea_](./images/Norman-Foster-Emeco-ikea.jpg)
 
 Emco fights Ikea over a supposed copy of Norman Foster's 20-06 stacking chair.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
@@ -150,7 +158,7 @@ Early 19th-century Shaker interiors are characterized by an austerity and simpli
 
 ### Victor Papanek
 
-![_Victor Papanek_ − Stephen T Rosek](./images/Victor_Papanek.jpg)
+![_Portrait Victor Papanek_ − Mathieu Gabiot](./images/Victor-Papanek.svg)
 
 > Victor Papanek was a designer and educator who became a strong advocate of the socially and ecologically responsible design of products, tools and community infrastructures. He disapproved of manufactured products that were unsafe, showy, maladapted or essentially useless. His products, writings and lectures were collectively considered an example and spur by many designers. Papanek was a philosopher of design and as such he was an untiring, eloquent promoter of design aims and approaches that would be sensitive to social and ecological considerations. He wrote that "design has become the most powerful tool with which man shapes his tools and environments (and, by extension, society and himself).  
 −[Wikipedia](https://en.wikipedia.org/wiki/Victor_Papanek )
@@ -158,6 +166,9 @@ Early 19th-century Shaker interiors are characterized by an austerity and simpli
 Find and read his book _Design for the Real World: Human Ecology and Social Change_, you won't regret it.
 
 ### Jean Prouvé
+
+![_Portrait Jean Prouvé_ − Mathieu Gabiot](./images/Jean-Prouve.svg)
+
 > Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art collective to which his father belonged. Its goals were to make art readily accessible, to forge links between art and industry, as well as between art and social consciousness.
 
 >The metal furniture of Jean Prouvé was produced copiously in every studio and workshop. His work involved frequent collaboration, most famously with Charlotte Perriand and Pierre Jeanneret. The style is set apart from the Bauhaus steel furniture of the time by his rejection of the steel tube technique. Prouvé had more faith in the durability and form of sheet metal, "bent, pressed, compressed than welded". His designs speak of a work philosophy that includes knowledge of the materials at hand, a commitment to collaboration between artists and craftsmen, an attention to evolving technical developments, and "the principle of never postponing decisions so as neither to lose the impetus nor indulge in unrealistic forecasts". Prouvé was influential in the development of the idea of nomadic architecture, likening a chair to a house, and designing both with portability in mind.  
@@ -173,35 +184,49 @@ His achievements in folded sheet (originally of lower costs and higher strength,
 −Julien Lombrail
 
 ### Enzo Mari
-Enzo Mari is a noted Italian modernist artist and furniture designer. He is famous for his _Autoprogettazione_ manual.
+
+![_Portrait Enzo Mari_ − Mathieu Gabiot](./images/Enzo-Mari.svg)
 
 > The 19 _Do-It-Yourself_ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.  
 http://www.cucula.org/en/enzo-mari/
 
+Enzo Mari is a noted Italian modernist artist and furniture designer. He is famous for his _Autoprogettazione_ manual.
 This project was born in 1974 just after the first oil crisis of 1973. The poverty in Italy and all Europe was huge. Enzo Mari with this project gives a social design answer to his contemporary fellows.
 
 
 ### Gerrit Rietveld
-Rietveld was a Dutch furniture designer and architect. One of the principal members of the dutch artistic movement called _De Stijl_. Piet Mondrian is the most famous figure from that movememt. Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House.
+
+![_Portrait Gerrit Rietveld_ − Mathieu Gabiot](./images/Gerrit-Rietveld.svg)
 
 > The original _Krat_ (Crate) furniture was produced using untreated red spruce normally reserved for packing cases. It was sold in a kit form, to be assembled at home by the purchaser. The Crate furniture was a response to the economic crisis of the 1930s. It offered useful, inexpensive seating with basic construction and cheap materials. Other items of Crate furniture include a Crate easy chair, Crate table, Crate desk, Crate bookcase and a Crate stool, all from 1934.  
 −[annetgelink.com](http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/)
 
 > _How to construct Rietveld furniture_ documents the best known and most typical furniture designs by Gerrit Rietveld down the smallest detail. The book contains working plans, measurements, detail drawings, lists of materials and instructions for the assembly of each piece, as well as historical information about each one.   −[How to construct Rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0 )
 
+Rietveld was a Dutch furniture designer and architect. One of the principal members of the dutch artistic movement called _De Stijl_. Piet Mondrian is the most famous figure from that movememt. Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House.
+
+
+
 ### Bernard Stiegler
+
+![_Portrait Bernard Stiegler_ − Mathieu Gabiot](./images/Bernard-Stiegler.svg)
+
 > Bernard Stiegler is a french philosopher and head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, _pharmakon.fr_ […]  
 His key themes are technology, time, individuation, consumerism, consumer capitalism, technological convergence, digitization, americanization, education and the future of politics and human society.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Bernard_Stiegler )
 
 ### Thomas Chippendale
+
+![_Portrait Thomas Chippendale_ − Mathieu Gabiot](./images/Thomas-Chippendale.svg)
+
 > Thomas Chippendale was a London cabinet-maker and furniture designer in the mid-Georgian, English Rococo, and Neoclassical styles. In 1754, he published a book of his designs titled [_The Gentleman and Cabinet Maker's Director_](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab ). The designs are regarded as reflecting the current London fashion for furniture for that period and were used by other cabinet makers outside London.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Thomas_Chippendale )
 
-![_The Gentleman and Cabinet Maker's Director_ − Thomas Chippendale](./images/chippendale.jpg)
 
 Open questions
 -----------------------
+![](./images/girl-bulle.svg)
 - What are you designing for?
 - As a designer, what is your relation to technology?
 - What are the responsibilities of a designer in a mass consuming capitalist society?
+s

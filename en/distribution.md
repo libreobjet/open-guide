@@ -103,7 +103,7 @@ Objects
 
 ### Dobsonian Telescope
 
- ![_Dobsonian telescope_ − Szőcs TamásTamasflex − CC-BY-SA 3.0](./images/Dobsonian_telescopes_schematic.png)
+ ![_Dobsonian telescope_ − Szőcs TamásTamasflex − CC-BY-SA 3.0](./images/Dobsonian_telescopes_schematic.png#pict)
 
 > John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.  
 −[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
@@ -113,9 +113,9 @@ The dobsonian telescope is a telescope designed for amateur astronomy. It was cr
 
 ### The Liberator
 
- ![_Liberator gun_ − Kamenev − CC-BY-SA 3.0](./images/DDLiberator2.3.jpg)
+ ![_Liberator gun_ − Kamenev − CC-BY-SA 3.0](./images/DDLiberator2.3.jpg#pict)
 
- ![_Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-BY-SA 3.0](./images/Liberator.3d.gun.vv.02.jpg)
+ ![_Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-BY-SA 3.0](./images/Liberator.3d.gun.vv.02.jpg#pict)
 
 During the last few years, one of the most polemical issue relative to open source object and their distribution has been 3D-printed weapons, and especially the highly publicized case of the Liberator single shot gun.
 
@@ -163,6 +163,7 @@ Entropie has published many open source product designs, such as this [_Carriole
 
 Open questions
 ----------------------
+![](./images/girl-bulle.svg)
 - How can you make your object integrate in its design the license and documentation necessary to make it?
 - How can you tell the user that the object s/he is using is open source?
 - What could be an object that distributes itself?

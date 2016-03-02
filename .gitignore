@@ -1,6 +1,6 @@
 # Don't track exports folders
 _book/
-exports/open-guide/ 
+exports/open-guide/
 
 
 node_modules/
@@ -16,6 +16,7 @@ styles/*.less
 /**/images/**
 # Except the root one
 !/images/**
+!/theme/assets/**
 
 # Tarck only bash scripts in the scripts/ folder
 /scripts/**
