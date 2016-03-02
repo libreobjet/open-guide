@@ -12,7 +12,7 @@ convert "$INPUT"  \
         -resize 1920x1920 \
         -blur 1x1 -unsharp 0x2.5 \
         -set colorspace sRGB -separate -seed 1000 -attenuate .8 +noise Multiplicative -combine \
-        -colorspace HSL -channel L -separate \
+        -colorspace HSL -channel B -separate \
         -level 5% \
         \( \
            -clone 0 \
