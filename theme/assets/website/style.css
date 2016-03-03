@@ -3331,6 +3331,18 @@ body {
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'Raleway-Bold';
+  src: url('fonts/Raleway/Raleway-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Raleway-ExtraBold';
+  src: url('fonts/Raleway/Raleway-ExtraBold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 .page .section {
   font-family: 'QuattrocentoSans';
 }
@@ -3386,7 +3398,7 @@ h2 {
 h3 {
   display: block;
   clear: both;
-  font-family: 'Raleway-Heavy';
+  font-family: 'Raleway-Bold';
   color: black;
   margin-left: 60px;
   font-size: 15pt !important;
@@ -3519,14 +3531,10 @@ img[src$="#pict"] {
   display: block;
   float: left;
   clear: both;
-  width: 70%;
-  max-width: 500px;
+  width: 60%;
+  max-width: 550px;
   margin: 0px 40px 20px 0px;
   border: solid 3px #247940 !important;
-  box-shadow: 12px 12px 0 0 white,
-              15px 15px 0 0 #247940,
-              15px 9px 0 0 #247940,
-              9px 15px 0 0 #247940;
 }
 img[alt*="Title"] {
   display: inline;
