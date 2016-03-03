@@ -1,7 +1,107 @@
 @import "./ebook/base.less";
 
-.pdf-footer {
+/* STUFF FOR LIBRE OBJET */
+
+@font-face {
+  font-family: 'Alegreya-Black';
+  src: url('fonts/Alegreya/Alegreya-Black.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Alegreya-Bold';
+  src: url('fonts/Alegreya/Alegreya-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Alegreya-BoldItalic';
+  src: url('fonts/Alegreya/Alegreya-BoldItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Alegreya';
+  src: url('fonts/Alegreya/Alegreya-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Alegreya-RegularItalic';
+  src: url('fonts/Alegreya/Alegreya-RegularItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'QuattrocentoSans';
+  src: url('fonts/Quattrocento_Sans/QuattrocentoSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'QuattrocentoSans-italic';
+  src: url('fonts/Quattrocento_Sans/QuattrocentoSans-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'QuattrocentoSans-Bold';
+  src: url('fonts/Quattrocento_Sans/QuattrocentoSans-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'QuattrocentoSans-BoldItalic';
+  src: url('fonts/Quattrocento_Sans/QuattrocentoSans-BoldItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Raleway-Heavy';
+  src: url('fonts/Raleway/Raleway-Heavy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Raleway-Thin';
+  src: url('fonts/Raleway/Raleway-Thin.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Raleway-ExtraLight';
+  src: url('fonts/Raleway/Raleway-ExtraLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Raleway-Light';
+  src: url('fonts/Raleway/Raleway-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Raleway-Medium';
+  src: url('fonts/Raleway/Raleway-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Where the title is showing */
+.pdf-header {
+    margin: 0;
+    padding: 0;
     margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    color: #aaa;
+}
+
+/* Where the chapter title is showing + page number */
+.pdf-footer {
+    margin: 0;
+    padding: 0;
+    margin-top: 0px;
     padding-top: 10px;
     border-top: 1px solid #eee;
     color:#aaa;
@@ -11,9 +111,73 @@
     }
 }
 
-.pdf-header {
-    margin-top: 20px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
-    color: #aaa;
+.page .section {
+    background: red;
+}
+
+body {
+    text-rendering: optimizeLegibility;
+    font-smoothing: antialiased;
+    font-family: 'QuattrocentoSans';
+    font-size: @font-size-base;
+    letter-spacing: .2px;
+    .text-adjust(100%);
+    text-size-adjust: 100%;
+}
+
+.page .section {
+  display: block;
+  word-wrap: break-word;
+  overflow: hidden;
+  color: #000;
+  line-height: 1.6;
+  text-size-adjust: 100%;
+
+  * {
+    .box-sizing(border-box);
+    -webkit-overflow-scrolling: touch;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: none;
+    -webkit-touch-callout: none;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  /* Related to the images */
+  figure {
+    margin: 0;
+    padding: 0;
+  }
+
+  figure figcaption {
+    display: none;
+  }
+
+
+  h1 {
+    display:block;
+    clear: both;
+
+    background-image: url('images/trame-2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    margin: 0;
+    padding: 0;
+    padding-top: 8em;
+    width:100%;
+    height: 100%;
+
+    font-family: 'Raleway-Heavy';
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color:white;
+    text-align: center;
+    font-weight: normal;
+    font-size: 5em !important;
+  }
 }
