@@ -89,17 +89,27 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-imagemagick');
   grunt.loadNpmTasks('grunt-shell');
 
-  // Default task(s).
+  /*** TASKs ***/
+  // Generates the book.json file with all the settings
   grunt.registerTask('update_book_json', ['copy:main']);
+  // Converts Less files into CSS
+  grunt.registerTask('css', [ 'less']);
+  // Copy SVG images over the right subfolders
+  grunt.registerTask('copy_svg', [ 'copy:svg']);
+  // Calls the web server
+  grunt.registerTask('serve', ['default']);
+  // DEFAULT: Calls the web server
   grunt.registerTask('default', [ 'css',
                                   'update_book_json',
                                   'run:server'
                                 ]);
-  grunt.registerTask('serve', ['default']);
+  // Generate the books
   grunt.registerTask('pdf', [
+                              'css',
                               'update_book_json',
                               'run:pdf'
                             ]);
+  // Builds for publishingo on a webserver
   grunt.registerTask('web', [
                               'css',
                               'update_book_json',
@@ -107,10 +117,7 @@ module.exports = function(grunt) {
                               'image_resize',
                               'imagemin'
                             ]);
-  grunt.registerTask('css', [ 'less']);
-  grunt.registerTask('copy_svg', [ 'copy:svg']);
-
-  /* Custom task to convert files */
+  // Colorizes the images and puts them in the right folder
   grunt.registerTask('colorize', function(){
     var src = grunt.file.expand({'cwd':'images'}, '*.+(jpg|JPG|png|PNG|gif|GIF)');
     var dest = "en/images/";
