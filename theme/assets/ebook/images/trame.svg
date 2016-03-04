@@ -15,11 +15,11 @@
    viewBox="0 0 990.04734 428.66692"
    id="svg7081"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="trame.svg"
-   inkscape:export-filename="/home/mathieu/Documents/copy-libre-objet-book/open-guide (2)/images/trame.png"
-   inkscape:export-xdpi="72.08712"
-   inkscape:export-ydpi="72.08712">
+   inkscape:export-filename="/home/juego/Doc/LibreObjet/Interactivos15/open-guide/theme/assets/ebook/images/trame.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs7083">
     <pattern
@@ -92,7 +92,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-27.11913"
+     inkscape:cx="-549.97627"
      inkscape:cy="382.9049"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -100,7 +100,12 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:window-width="1890"
+     inkscape:window-height="1061"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7086">
     <rdf:RDF>
@@ -109,7 +114,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
