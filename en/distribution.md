@@ -103,7 +103,7 @@ Objects
 
 ### Dobsonian Telescope
 
- ![_Dobsonian telescope_ − Szőcs TamásTamasflex − CC-BY-SA 3.0](./images/Dobsonian_telescopes_schematic.png#pict)
+ ![**Pict** _Dobsonian telescope_ − Szőcs TamásTamasflex − CC-BY-SA 3.0](./images/Dobsonian_telescopes_schematic.png)
 
 > John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.  
 −[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
@@ -113,9 +113,9 @@ The dobsonian telescope is a telescope designed for amateur astronomy. It was cr
 
 ### The Liberator
 
- ![_Liberator gun_ − Kamenev − CC-BY-SA 3.0](./images/DDLiberator2.3.jpg#pict)
+ ![**Pict** _Liberator gun_ − Kamenev − CC-BY-SA 3.0](./images/DDLiberator2.3.jpg)
 
- ![_Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-BY-SA 3.0](./images/Liberator.3d.gun.vv.02.jpg#pict)
+ ![**Pict** _Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-BY-SA 3.0](./images/Liberator.3d.gun.vv.02.jpg)
 
 During the last few years, one of the most polemical issue relative to open source object and their distribution has been 3D-printed weapons, and especially the highly publicized case of the Liberator single shot gun.
 

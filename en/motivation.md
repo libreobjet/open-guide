@@ -126,13 +126,13 @@ The bypass of Israel embargo on medical equipments in Gaza
 
 ### Reprap
 
-![_The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg#pict)
+![**Pict** _The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg)
 
 [Reprap](http://reprap.org/ ) project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
 
 ### Prosthetic hands
 
-![_Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg#pict)
+![**Pict** _Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg)
 
 Cut down the cost of medical equipment production by using libre designs. These prosthesis that can be extensively customized to fit children needs. Using digital fabrication tools, such as 3D printers, new pieces can be constructed to accommodate children growth with very low costs.
 

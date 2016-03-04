@@ -85,7 +85,6 @@ The TAPR Open Hardware License is a license dedicated to open hardware projects,
 ![_logo_GPLv3 Logo_ − Free Software Foundation − Public Domain](./images/GPLv3_Logo.svg)
 The Gnu General Public License is the mother of all open source licenses. It was created by Richard Stallman and has been used and released as early as 1989. This license is certainly the most popular license for free/libre and open source software, but it can also apply to the designs of objects.
 
-<div class="page-break"></div>
 ### [WTFPL](http://www.wtfpl.net/ )
 
 ![_logo_WTFPL_ − www.wtfpl.net − WTFPL](./images/WTFPL_License_Logo,_January_2014.png)
@@ -112,28 +111,26 @@ Objects
 
 ### [Mmodulus](http://mmodulus.com/ )
 
-![_Mmodulus_ − Mmodulus](./images/modulUS.jpg#pict)
+![**Pict** _Mmodulus_ − Mmodulus](./images/modulUS.jpg)
 
 Mmodulus, a series of modular furniture by Martina Minnucci and Juan Freire has been published using a CERN license.
 
-<div class="page-break"></div>
+
 ### [Archipel armchair](http://libreobjet.org/objects/archipel-armchair/ )  
 
-![_Archipel armchair_ − Mathieu Gabiot − Free Art License](./images/archipel.png#pict)
+![**Pict** _Archipel armchair_ − Mathieu Gabiot − Free Art License](./images/archipel.png)
 
 Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free Art License.
 
-<div class="page-break"></div>
 ### [MicroHouse](http://opensourceecology.org/portfolio/microhouse/ )
 
-![Microhouse_ − Open Source Ecology](./images/microhouse_32.png#pict)
+![**Pict** _Microhouse_ − Open Source Ecology](./images/microhouse_32.png)
 
 MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house designed for two and has been released under a GPL License.
 
-<div class="page-break"></div>
 ### [Mozilla Open Source Furniture](http://os-furnitures.tumblr.com/ )
 
-![_Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA.jpg#pict)
+![**Pict** _Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA.jpg)
 
 Designed by Nosigner, elements that were used to compose the furniture for Mozilla's Japan office have been published under a CC-by license.
 
@@ -142,7 +139,7 @@ Food for thought
 
 ### Copyright
 
-![_ GPLv3Copyright logo_](./images/Copyright.png)
+![_GPLv3Copyright logo_](./images/Copyright.png)
 
 >  Copyright  is a legal right created by the law of a country that grants  the  creator of an original work exclusive rights for its use   and   distribution. This is usually only for a limited time. The   exclusive   rights are not absolute but limited by limitations and   exceptions to   copyright law, including fair use.
 
