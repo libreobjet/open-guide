@@ -93,7 +93,7 @@
     padding: 0;
     margin-top: 20px;
     padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
+    //border-bottom: 1px solid #eee;
     color: #aaa;
 }
 
@@ -103,16 +103,12 @@
     padding: 0;
     margin-top: 0px;
     padding-top: 10px;
-    border-top: 1px solid #eee;
+    //border-top: 1px solid #eee;
     color:#aaa;
 
     .footer-pages-count {
         float: right;
     }
-}
-
-.page .section {
-    background: red;
 }
 
 body {
@@ -180,4 +176,266 @@ body {
     font-weight: normal;
     font-size: 5em !important;
   }
+
+  h2 {
+    display:block;
+    clear: both;
+    background-image: url('images/trame.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    margin-top: 20px;
+    padding:20px 20px 20px 20px;
+    position: relative;
+    font-family: 'Raleway-Heavy';
+    color:#247940;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 20pt !important;
+  }
+
+  h3 {
+      display:block;
+      clear: both;
+      font-family: 'Raleway-Heavy';
+      color:black;
+      margin-left: 60px;
+      font-size: 15pt !important;
+  }
+
+  h4::before {
+   content: "⚊ "
+  }
+
+  h4::after {
+   content: " ⚊"
+  }
+
+  h4 {
+      display:block;
+      clear: both;
+      font-family: 'Raleway-ExtraLight';
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      color:#247940;
+      height: 18pt;
+      margin: 10px 60px 0px 60px;
+      //margin-left: 60px;
+      font-size: 12pt !important;
+  }
+  h5 {
+    display:inline;
+    float:right;
+    clear: both;
+    width: 60%;
+    margin: 5px;
+    margin-left: 60px;
+    padding:5px 5px 5px 100px;
+    font-family: 'QuattrocentoSans-Bold';
+    color: black;
+  }
+
+  h6 {
+    display:inline;
+    float:left;
+    clear: both;
+    width: 60%;
+    margin-left: 60px;
+    padding:5px 5px 5px 60px;
+    font-family: 'QuattrocentoSans-Bold';
+    color: black !important;
+  }
+
+  p {
+    font-family: 'QuattrocentoSans-Bold';
+    font-size: 11pt;
+    text-align: left;
+    color:black;
+    margin-top: 1em;
+    margin-bottom: 0;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  blockquote p{
+    font-family: 'Alegreya';
+    font-size: 10pt;
+    text-align: justify;
+    width: 100%;
+    color:#247940;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  blockquote {
+    display:block;
+    float:left;
+    clear: left;
+    background: white;
+    padding: 1.5em;
+    margin: 5px 30px 20px 0px;
+    width: 60%;
+    border: solid 2pt;
+    border-color: #247940;
+    box-shadow: 1.5em 1.5em 0 0 #247940;
+  }
+
+  li,
+  li > p {
+    font-family: 'QuattrocentoSans';
+    font-size: 11pt;
+    color:#247940;
+    page-break-inside: avoid;
+  }
+
+  ul {
+    list-style-image: url('images/Lo-bullet.svg');
+    padding-left:100px;
+  }
+  ul > li {
+    width: 70%;
+    padding: 0px 0 6px 0;
+  }
+
+
+  li > p {
+    padding: 0;
+    margin: 0;
+  }
+
+  ol {
+      counter-reset:li; /* Initiate a counter */
+      margin-left:0;
+      padding-left:60px;
+  }
+  ol > li{
+      position:relative;
+      margin:0;
+      padding: 10px 0 6px 0; /* Add some spacing around the content */
+      list-style:none; /* Disable the normal item numbering */
+  }
+  ol > li::before {
+      content:counter(li); /* Use the counter as content */
+      counter-increment:li; /* Increment the counter by 1 */
+      /* Position and style the number */
+      clear: left;
+      position:absolute;
+      top: 5px;
+      left: -30px;
+      -moz-box-sizing:border-box;
+      -webkit-box-sizing:border-box;
+      box-sizing:border-box;
+      width:20px;
+      padding:4px;
+      color:white;
+      background:#247940;
+      font-family:'Raleway-Medium';
+      text-align:center;
+  }
+  blockquote > ol {
+      padding-left: 17px;
+      li,
+      li > p {
+        font-family: inherit;
+        font-family: 'Alegreya';
+        font-size: 10pt;
+        text-align: justify;
+      }
+  }
+
+  a {
+    font-family: inherit; // 'Raleway-Heavy';
+    font-size: inherit;
+    color:#385F8C !important;
+  }
+
+  p > a {
+    font-family: 'Raleway-Heavy';
+  }
+
+  img[alt^="**Pict**"] {
+    display:block;
+    float:left;
+    clear: both;
+    width: 60%;
+    max-width: 500px;
+    margin: 5px 30px 20px 0px;
+    border: solid 2px #247940 !important;
+    box-shadow: 10px 10px 0 0 white,
+                12px 12px 0 0 #247940,
+                12px 8px 0 0 #247940,
+                8px 12px 0 0 #247940;
+  }
+  p > img[alt^="**Pict**"] {
+    margin-left: -60px;
+    width: 82%;
+  }
+  ol > li > p > strong {
+    display: none; // Will not display the "Pict" keyword trick
+  }
+
+  img[alt*="Title"] {
+    display:inline;
+    clear: both;
+    width: 100%;
+  }
+
+  img[alt*="logo"],
+  img[alt*="symbol"] {
+    clear: both;
+    float:right;
+    margin-right: 0px;
+    margin-left: 25px;
+    padding-top: 0px;
+    margin-top: .3em;
+    width: 100px;
+  }
+
+  img[alt*="arrow"] {
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 30px;
+  }
+
+  img[alt*="Portrait"] {
+    display:inline;
+    float:left;
+    clear: both;
+    width: 100px;
+    margin-right: 10px;
+    margin-left: 60px;
+  }
+
+  img[src$="girl-bulle.png"] {
+    display:inline;
+    float:left;
+    clear: both;
+    width: 100px;
+    padding-top: 30px;
+    margin-right: 15px;
+  }
+  p > img[src$="girl-bulle.png"]{
+    margin-left: -60px;
+  }
+
+  img[src$="guy-bulle.png"] {
+    display:inline;
+    float:right;
+    clear: both;
+    width: 100px;
+    padding-top: 30px;
+    margin-left: 15px;
+  }
+  p > img[src$="guy-bulle.png"] {
+    margin-right: -60px;
+  }
+}
+
+.page-break {
+  page-break-after: always;
+  display: block;
+  height: 0;
+  margin: 0;
+  margin-bottom: -10px
 }
