@@ -137,13 +137,13 @@ El sillón y sofá original LC2 de Le Corbusier todavía se vende y se edita por
 Emco fights Ikea over a supposed copy of Norman Foster's 20-06 stacking chair.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
 
-### _La Société de consommation_
-This book written by sociologist Jean Baudrillard in 1970 describes how, in contemporary societies, social relationships have been restructured by a new phenomenon: mass  consumption.
+### _La Sociedad de consumo_
+Este libro escrito por el sociólogo Jean Baudrillard en 1970 describe cómo, en las sociedades contemporáneas, las relaciones sociales se han reestructurado por un nuevo fenómeno: el consumo de masas.
 
-### Shaker movement
-> The shaker movement is a religious sect that had guiding principles of simplicity, utility and honesty. Their beliefs were reflected in the well-made furniture of minimalist designs.  
-The Shakers' dedication to hard work and perfection has resulted in a unique range of architecture, furniture and handicraft styles. They designed their furniture with care, believing that making something well was in itself, "an act of prayer." Before the late 19th century, they rarely fashioned items with elaborate details or extra decoration, but only made things for their intended uses. [...]  
-Early 19th-century Shaker interiors are characterized by an austerity and simplicity. The simple architecture of their homes, meeting houses, and barns have had a lasting influence on American architecture and design.  
+### Movimiento Shaker
+> El movimiento Shaker era una secta religiosa guiada por los principios de la simplicidad, utilidad y honestidad. Sus creencias se veían reflejadas en los muebles de excelente fabricación y diseño minimalista.  
+La dedicación de los Shakers hacia el trabajo duro y la perfección se tradujo en una gama única de estilos de arquitectura, mobiliario y artesanías. Ellos diseñaban sus muebles con cuidado, creyendo que haciendo algo bien ensimismo era "un acto de oración."Hacia el final del siglo 19, ellos rara vez confeccionaban artículos con detalles elaborados o decoración extra, hicieron cosas para su uso previsto. [...]  
+A principios del siglo 19 los interiores Shakers se caracterizan por una austeridad y simplicidad. La sencilla arquitectura de sus casas, centros de reuniones y graneros, han tenido una influencia duradera en la arquitectura y el diseño americano.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Shakers#Architecture_and_furnishings)
 
 ### Victor Papanek
