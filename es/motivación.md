@@ -134,7 +134,7 @@ El límite de crear más allá de la definición clásica del derecho de autor e
 
 El sillón y sofá original LC2 de Le Corbusier todavía se vende y se edita por  [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) aunque la adaptación realizada por Doshi Levien está permitida en el mercado y es editada por [Moroso](http://www.doshilevien.com/projects/chandigarh/ ).
 
-Emco fights Ikea over a supposed copy of Norman Foster's 20-06 stacking chair.
+Emeco pugna contra Ikea sobre una supuesta copia de la silla apilable 20-06 de Norman Foster.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
 
 ### _La Sociedad de consumo_
@@ -150,10 +150,10 @@ A principios del siglo 19 los interiores Shakers se caracterizan por una austeri
 
 ![_Victor Papanek_ − Stephen T Rosek](./images/Victor_Papanek.jpg)
 
-> Victor Papanek was a designer and educator who became a strong advocate of the socially and ecologically responsible design of products, tools and community infrastructures. He disapproved of manufactured products that were unsafe, showy, maladapted or essentially useless. His products, writings and lectures were collectively considered an example and spur by many designers. Papanek was a philosopher of design and as such he was an untiring, eloquent promoter of design aims and approaches that would be sensitive to social and ecological considerations. He wrote that "design has become the most powerful tool with which man shapes his tools and environments (and, by extension, society and himself).  
+> Victor Papanek era un diseñador y educador que se convirtió en un firme defensor de la concepción social y ecológicamente responsable de productos, herramientas e infraestructuras comunales.Desaprobaba de los productos manufacturados que eran inseguros, ostentosos, inadaptados o esencialmente inútiles. Sus productos, escritos y conferencias fueron colectivamente considerados como ejemplo y estímulo por muchos diseñadores. Papanek fue un filósofo del diseño y como tal era un promotor incansable, elocuente de los objetivos del diseño y los enfoques que podrían ser sensibles a las consideraciones sociales y ecológicas.El escribió que "el diseño se ha convertido en el instrumento más poderoso con la que el hombre da forma a sus herramientas y entornos (y, por extensión, a la sociedad y a el mismo)."  
 −[Wikipedia](https://en.wikipedia.org/wiki/Victor_Papanek )
 
-Find and read his book _Design for the Real World: Human Ecology and Social Change_, you won't regret it.
+Encuentra y lee su libro _Diseño para el mundo real: Ecología humana y cambio social _, no te arrepentirás.
 
 ### Jean Prouvé
 > Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art collective to which his father belonged. Its goals were to make art readily accessible, to forge links between art and industry, as well as between art and social consciousness.
