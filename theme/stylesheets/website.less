@@ -336,7 +336,7 @@ a {
   color:#385F8C !important;
 }
 
-img[src$="#pict"] {
+img[alt^="**Pict**"] {
   display:block;
   float:left;
   clear: both;
@@ -344,6 +344,14 @@ img[src$="#pict"] {
   max-width: 550px;
   margin: 0px 40px 20px 0px;
   border: solid 3px #247940 !important;
+  box-shadow: 12px 12px 0 0 white,
+              15px 15px 0 0 #247940,
+              15px 9px 0 0 #247940,
+              9px 15px 0 0 #247940;
+}
+p > img[alt^="**Pict**"] {
+  margin-left: -60px;
+  width: 70.5%;
 }
 
 img[alt*="Title"] {
@@ -387,6 +395,9 @@ img[src$="girl-bulle.svg"] {
   margin-right: 30px;
   margin-left: 30px;
 }
+p > img[src$="girl-bulle.svg"]{
+  margin-left: -30px;
+}
 img[src$="guy-bulle.svg"] {
   display:inline;
   float:right;
@@ -394,4 +405,7 @@ img[src$="guy-bulle.svg"] {
   width: 150px;
   padding-top: 60px;
   margin-left: 30px;
+}
+p > img[src$="guy-bulle.svg"]{
+  margin-right: -70px;
 }
