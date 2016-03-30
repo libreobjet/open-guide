@@ -3,7 +3,7 @@ Design (as a) process
 
 _It's the journey, not the destination._
 
-Designing requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry, mathematics, mechanics, anatomy and kinetics, proficiency with 2d or 3d software and lets not forget a feel for the beautiful. But don't be afraid, because everybody can design objects. Remember the times in when we used to buid huts, homemade bows or extraordinary worlds made with toys like Lego. Working with open source design does not make assupmptions about your knowledge but taps on your willing to learn and imporve your abilities.
+Designing requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry, mathematics, mechanics, anatomy and kinetics, proficiency with 2d or 3d software and lets not forget a feel for the beautiful. But don't be afraid, because everybody can design objects. Remember the times in when we used to buid huts, homemade bows or extraordinary worlds made with toys like Lego. Working with open source design does not make assumptions about your knowledge but taps on your willing to learn and improve your abilities.
 
 Design Tactics
 ---------------------
@@ -37,7 +37,7 @@ If you want to share those changes, some open source licenses require that you p
 
 ### Forking
 
-![**Pict** _A fork by Lison_ − Libre Objet − Free Art License](./images/Lison-illustration.jpeg)
+![**Pict**_A fork by Lison for Libre Objet_ − Lison de ridder − Free Art License](./images/Lison-illustration.jpeg)
 
 The “fork” means an object having a common root with a second one. Initially twins, these two objects will separate and follow their own developments. This terms comes from open source software development and was perceived as a negative action implying the death of one of the branch. But nowadays, forking is encouraged as a way to make adaptations to the original work that than could be merged back together afterwards  to improve the original piece.
 
@@ -54,12 +54,15 @@ Another  advantage of open source objects is that they can be combined. Youcould
 
 > Parametric design is a paradigm in design where the relationship between elements are used to manipulate and inform the design of complex geometries and structures.   −[Wikipedia](https://en.wikipedia.org/wiki/Parametric_design )
 
-![**Pict** _Archi-Union 創盟國際_ by 準建築人手札網站 Forgemind ArchiMedia − CC-BY](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
+![**Pict**_Parametric Bench_ − Matthias Pliessnig − https://parametricwood2011.wordpress.com/2011/01/12/furniture-design-matthias-pliessnig/](./images/matthias_012.jpg)
+
 A possible approach for easier adaptations of an object is to use parametric design tools.
 Typically, this can be understood as defining a set of variables and relationship rules inside your design so that when those variables are modified, the resulting object is changed accordingly.
 
 
 ### Upcycling
+
+![**Pict**_Palette furniture_ − M&Mdesigners − Jérome Blin](./images/palettemartin.jpg)
 
 Upcycling is the process of transforming by-products, waste materials, useless and/or unwanted products into new materials or products of better quality or for better environmental value.
 
@@ -98,25 +101,40 @@ Free/Libre and open source tools are also generally better at handling open stan
 ### Free/libre softwares for DAO/CAO
 
 #### LibreCAD
+
+![**Pict**_LibreCAD screenshot_](./images/librecad.png)
+
 LibreCAD is a free/libre and open source CAD application for Windows, Apple and Linux that some users have compared to the proprietary Autocad.
 
 #### FreeCAD
+
+![**Pict**_FreeCAD screenshot_](./images/freecad.png)
+
 FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is a multiplateform customizable, scriptable and extensible software that reads and writes many open file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
 
 #### OpenSCAD
+
+![**Pict**_OpenSCAD screenshot_](./images/openscad-screen.jpg)
+
 OpenSCAD is a software for creating solid 3D CAD models using code. It is free software and available on all major plateforms. If you have abilities in coding and want to produce CAD files using a special scipting langauge, this might be the application you are looking for.
 
 #### Blender
+
+![**Pict**_Blender screenshot_](./images/blender.png)
+
 Blender is the free/libre and open source 3D creation suite. It is most well-know for its artistic capabilities in the field of 3D illustration and animation. It supports the entirety of the 3D pipeline from modeling to rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. But more and more people use it to produce or manipulate files for 3D printing and CAD related tasks. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools.
 
 #### Inskape
+
+![**Pict**_Inskape screenshot_](./images/inkscape.png)
+
 Inkscape is a free/libre and open-source vector graphics editor that runs on all major plateforms. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
 
 ### Digital Tools for fabrication
 
 #### CNC router
 
-![**Pict** _Homemade CNC router_ − Drigotti − CC-BY-SA 3.0](./images/CNC_Router_ by Drigotti CC BY-SA 3.0.png)
+![**Pict**_Homemade CNC router_ − Benne − http://www.instructables.com/id/Building-a-CNC-router/](./images/cnc.jpg)
 
 > A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for _computer numerical control_. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine.  
 A CNC router typically produces consistent and high-quality work and improves factory productivity. Automation and precision are the key benefits of cnc router tables.  
@@ -131,7 +149,7 @@ A CNC router typically produces consistent and high-quality work and improves fa
 
 #### 3D printer
 
-![**Pict** _Homemade RepRap 3D printer_ − Drigotti − CC-BY-SA 3.0](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
+![**Pict**_Homemade RepRap 3D printer_ − Drigotti − CC-BY-SA 3.0](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
 
 > 3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source.  
 3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense.  
@@ -147,11 +165,11 @@ Objects
 
 ### Bouctje & REEBOeK
 
-![**Pict** _Bouctje by Mathieu Gabiot_ − Libre Objet − Free Art Licence](./images/Bouctje_by_Mathieu Gabiot.jpg)
+![**Pict**_Bouctje by Mathieu Gabiot_ − Libre Objet − Free Art Licence](./images/Bouctje_by_Mathieu Gabiot.jpg)
 
 [Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on January 2013 and licensed with a Free Art License.
 
-![**Pict** _REEBOeK by Verly Laurent_ − Libre Objet − Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
+![**Pict**_REEBOeK by Verly Laurent_ − Libre Objet − Free Art Licence](./images/REEBOeK _Verly Laurent.jpg)
 
 [REEBOek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on September 2013 also licensed with a Free Art License.
 
@@ -159,18 +177,18 @@ Objects
 
 ### Wikiseat
 
-![**Pict** _Wikiseat_ − CC-BY-SA](./images/wikiseat01.jpg)
+![**Pict**_Wikiseat_ − CC-BY-SA](./images/wikiseat01.jpg)
 
 > WikiSeat is an open source furniture project. That means that all of the documentation for how to build a WikiSeat is freely and  openly published online.  
 At the heart of each WikiSeat is a Catalyst. This is the structural support, made out of welded angle iron, that helps hold three legs in place. The seat part goes on top. It is a pretty simple idea, but there are no instructions for _how_ to assemble these parts. We encourage people to find materials rather than buying them from a store. Every WikiSeat is a truly unique creation, a reflection of the creators environment and ideas.  
 −[Wikiseat](http://www.wikiseat.org/about/)
 
-![**Pict** _Wikiseat_ − CC-BY-SA](./images/wikiseat02.jpg)
-![**Pict** _Wikiseat_ − CC-BY-SA](./images/wikiseat03.jpg)
+![**Pict**_Wikiseat_ − CC-BY-SA](./images/wikiseat02.jpg)
+![**Pict**_Wikiseat_ − CC-BY-SA](./images/wikiseat03.jpg)
 
 ### uHbench
 
-![**Pict** _uHbench_ − Julien Deswaef − Free Art License](./images/uhbench.png)
+![**Pict**_uHbench_ − Julien Deswaef − Free Art License](./images/uhbench.png)
 
 > The uHbench (v 1.5) is a libre object designed by Julien Deswaef. Made with love and f/los software (Blender, Freestyle, Inkscape, Bash, XMLStarlet, Git & Gnu/Linux)
 Get from a standard (Epal-Eur) pallet to a public bench in just a couple easy steps. The idea came while thinking about urban hacking or how to  reclaim public space with easy to find material and tools in urban areas.  
@@ -181,12 +199,11 @@ Food for thought
 
 ### Strandbeest
 
-![**Pict** _Theo Jansen's Strandbeest at Fundacion Telefonica, Madrid_ − Julien Deswaef − Free Art License](./images/strandbeest.jpg)
+![**Pict**_Theo Jansen's Strandbeest at Fundacion Telefonica, Madrid_ − Julien Deswaef − Free Art License](./images/strandbeest.jpg)
 
 > Theo Jansen has been creating _Strandbeest_ (Dutch: _strand_=beach; _beest_=beast), wind-walking examples of artificial life, since 1990. What was at first a rudimentary breed has slowly evolved into a generation of machines that are able to react to their environment. Constructed as intricate assemblages of piping, wood, and wing-like sails, Jansen's creations are constantly being improved and have become excellently adapted to their sandy beach environment.  −[Wikipedia](https://en.wikipedia.org/wiki/Theo_Jansen )
 
-![**Pict** _Theo  Jansen's tools at Fundacion Telefonica, Madrid_ − Julien  Deswaef − Free Art License](./images/strandbeest-tools.jpg)
-
+![**Pict**_Theo  Jansen's tools at Fundacion Telefonica, Madrid_ − Julien  Deswaef − Free Art License](./images/strandbeest-tools.jpg)
 This is a particular interesting exemple since, Theo Jansen has also built his own tools for creating and producing these machines and has followed a principle of forking and merging between every instance of his project.
 
 ### Upcyclist
@@ -195,7 +212,7 @@ This is a particular interesting exemple since, Theo Jansen has also built his o
 
 ### 1962 - Versioned physical sculpture
 
-![**Pict** _Presentation of 1962_ − Raphaël Bastide − MIT License](./images/1962.png)
+![**Pict**_Presentation of 1962_ − Raphaël Bastide − MIT License](./images/1962.png)
 
 > Sculptures conceptualized using a revision control system and represented physically.
 http://raphaelbastide.com/1962/
@@ -203,6 +220,8 @@ http://raphaelbastide.com/1962/
 An exploration by Raphaël Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts.
 
 ### Sea Chair
+![**Pict**_Sea Chair_ − Studio Swine − http://surfaceandsurface.com/2013/05/08/studio-swine-open-source-sea-chair/](./images/SEA-CHAIR.jpg)
+
 > Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plastic is collected and processed into a stool at sea.  −[Studio Swine](http://www.studioswine.com/sea-chair )
 
 Open questions

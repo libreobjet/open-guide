@@ -85,6 +85,7 @@ The TAPR Open Hardware License is a license dedicated to open hardware projects,
 ![_logo_GPLv3 Logo_ − Free Software Foundation − Public Domain](./images/GPLv3_Logo.svg)
 The Gnu General Public License is the mother of all open source licenses. It was created by Richard Stallman and has been used and released as early as 1989. This license is certainly the most popular license for free/libre and open source software, but it can also apply to the designs of objects.
 
+<div class="page-break"></div>
 ### [WTFPL](http://www.wtfpl.net/ )
 
 ![_logo_WTFPL_ − www.wtfpl.net − WTFPL](./images/WTFPL_License_Logo,_January_2014.png)
@@ -111,26 +112,28 @@ Objects
 
 ### [Mmodulus](http://mmodulus.com/ )
 
-![**Pict** _Mmodulus_ − Mmodulus](./images/modulUS.jpg)
+![**Pict**_Mmodulus_ − Mmodulus](./images/modulUS.jpg)
 
 Mmodulus, a series of modular furniture by Martina Minnucci and Juan Freire has been published using a CERN license.
 
-
+<div class="page-break"></div>
 ### [Archipel armchair](http://libreobjet.org/objects/archipel-armchair/ )  
 
-![**Pict** _Archipel armchair_ − Mathieu Gabiot − Free Art License](./images/archipel.png)
+![**Pict**_Archipel armchair_ − Mathieu Gabiot − Free Art License](./images/archipel.png)
 
 Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free Art License.
 
+<div class="page-break"></div>
 ### [MicroHouse](http://opensourceecology.org/portfolio/microhouse/ )
 
-![**Pict** _Microhouse_ − Open Source Ecology](./images/microhouse_32.png)
+![**Pict**Microhouse_ − Open Source Ecology](./images/microhouse_32.png)
 
 MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house designed for two and has been released under a GPL License.
 
+<div class="page-break"></div>
 ### [Mozilla Open Source Furniture](http://os-furnitures.tumblr.com/ )
 
-![**Pict** _Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA.jpg)
+![**Pict**_Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA1.jpg)
 
 Designed by Nosigner, elements that were used to compose the furniture for Mozilla's Japan office have been published under a CC-by license.
 
@@ -139,7 +142,7 @@ Food for thought
 
 ### Copyright
 
-![_GPLv3Copyright logo_](./images/Copyright.png)
+![_ GPLv3Copyright logo_](./images/Copyright.png)
 
 >  Copyright  is a legal right created by the law of a country that grants  the  creator of an original work exclusive rights for its use   and   distribution. This is usually only for a limited time. The   exclusive   rights are not absolute but limited by limitations and   exceptions to   copyright law, including fair use.
 
@@ -166,11 +169,17 @@ Ronan Kadushin, in his [Open Design Manifesto](http://www.ronen-kadushin.com/fil
 2. They have to be build using only CNC machines.
 
 ### [Open Structures](http://openstructures.net/ )
+
+![**Pict**_OpenStructures_ − http://openstructures.net/](./images/OpenStructures.jpg)
+
 > The OS (OpenStructures) project explores the possibility of a modular construction model where **everyone designs for everyone** on the basis of one shared geometrical grid.
 
 This approach of grid based designed applied to objects is very interesting and has produced intriguing objects, but it also shoots itself in the foot by not forcing anyone to use certain licenses that would give a legal framework to the "everyone for everyone" model.
 
 ### [IkeaHackers](http://www.ikeahackers.net/about )
+
+![**Pict**_IkeahackerSketch_-http://www.ludicweb.fr](./images/IkeaHacker.jpg)
+
 The famous IkeaHackers website gets threatened for intellectual property infringement.
 > Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
 > Long   story short, after much negotiation between their agent and my lawyer,  I  am allowed to keep the domain name IKEAhackers.net only on the   condition that it is non-commercial, meaning no advertising whatsoever.

@@ -85,24 +85,23 @@ Materials:
 -A needle
 
 #### Step 1
-![**Pict** _Book binding step 1_ − Julien Deswaef − Free Art License](./images/bookbinding-1.JPG)
+![**Pict**_Book binding step 1_ − Julien Deswaef − Free Art License](./images/bookbinding-1.JPG)
 
 Print the book in booklet mode. You can use a software like Bookletimposer for sorting the pages in a correct way. Then, fold the folios and make the holes with the drill for spiral binding.
 
 #### Step 2
-![**Pict**  _Diagram for folding and drilling_ − Gaizka Altuna − Free Art License](./images/Tutorial_diagram_1.jpg)
+![**Pict**_Diagram for folding and drilling_ − Gaizka Altuna − Free Art License](./images/Tutorial_diagram_1.jpg)
 
 Print the cover in a DIN A3 printer. The cover will be more or less 337x210 mm. You must divide the cover in seven strips. The size of this strips must be 148.5+8+8+8+8+8+148.5=337.
 
 
 #### Step 3
-![**Pict**  _Diagram for folding and drilling_ − Gaizka Altuna − Free Art license](./images/tutorial_diagram_2.jpg)
+![**Pict**_Diagram for folding and drilling_ − Gaizka Altuna − Free Art license](./images/tutorial_diagram_2.jpg)
 
 Make holes with the drill for 2nd, 3rd, 5th and 6th strips and them fold them in the same way of the photograph.
 
-
 #### Step 4
-![**Pict**  _Book binding step 4_ − Julien Deswaef − Free Art License](./images/bookbinding-4.JPG)
+![**Pict**_Book binding step 4_ − Julien Deswaef − Free Art License](./images/bookbinding-4.JPG)
 
 Sew all the pages with the cover.
 
@@ -112,11 +111,10 @@ Enjoy the reading
 
 Open Questions
 -----------------------
-![](./images/girl-bulle.svg)
 - Have you found a mistake in this book?
 - Would you like to translate it?
 
-<span class="page-break"></span>
+<div class="page-break"></div>
 Illustrations
 =============
 
@@ -125,5 +123,5 @@ This is the list of illustrations, photos and graphics available in book and the
   1. {{ picture.list_caption }}
 {% endfor %}
 
-<span class="page-break"></span>
+<div class="page-break"></div>
 {% include "./LICENSE.md" %}

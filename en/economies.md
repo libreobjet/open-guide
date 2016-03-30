@@ -3,7 +3,7 @@ Economies
 
 Often when we speak about _Open Source Product Design_, people are concerned about how to earn money with their creations. And although these concerns are very understandable -- everybody has to fill their physiological needs and feel safe -- these questions come from a very narrow point of view on how designers can be paid.
 
-Since the beginning of widespread industrialisation and mass manufacturing of objects, designers have mainly earned their living by licensing their designs and earning royalties. In these cases, exclusivity and popularity of the objects are key elements that influence how a designer makes money.
+Since the beginning of widespread industrialization and mass manufacturing of objects, designers have mainly earned their living by licensing their designs and earning royalties. In these cases, exclusivity and popularity of the objects are key elements that influence how a designer makes money.
 
 Patenting a design is a costly venture and most of the time will only be profitable if you also have the money to enforce it. Having a patent does not make you instantly rich. And if you think someone is infringing your rights, you will have to go to court to solve that problem and make a case for compensation. As you know, going to court also requires money.
 
@@ -70,12 +70,21 @@ Objects
 -----------
 
 ### Comingle
+
+![**Pict**_Bieber dildo_ − http://makerlove.com/Free-3D-Sex-Toys/Justin-Bieber-Sex-Toy/index.html](./images/bieber-dildo.jpg)
+
 [Comingle](https://www.comingle.io/) is an open source vibrating dildo that you can customize to your heart's content. It has been sucessfully funded through a crowdfunding campaign on [Indiegogo](https://www.indiegogo.com/projects/the-mod-multivibrating-open-source-dildo )
 
 ### X-Modules: furniture for Ixelles Library
+
+![**Pict**_X-Modules: furniture for Ixelles Library_ − Maria Solé Bravo and Julien Deswaef − cc by sa](./images/modules_W.png)
+
 With  _X-Modules_, Maria Solé Bravo and Julien Deswaef have developed a multi-purpose design to furnish the courtyard at the entrance of the Ixelles public library in Brussels. As required by the library, the furniture is made from upcycled material -- re-used pallets -- and was built by neighbours and school children during a series of workshops. The open source nature of the project fitted perfectly with the mission of the library and was one of the key factors that got this project selected after the competition.
 
 ### « Sur et Autour du trait »
+
+![**Pict**_Sur et Autour du trait gamme_ − Nonpareil − Free Art Licence](./images/Sur-le-trait-table-r-06.jpg)
+
 With their series _« Sur et Autour du trait »_, Nonpareil sells their open source product designs at different steps of construction. For different prices you can purchase a piece from just the pdf download, a rough build to a classic finish or even order a customization of the object itself.
 
 Food for thought
