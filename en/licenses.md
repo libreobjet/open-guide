@@ -12,6 +12,8 @@ As with a classic contemporary design approach, licenses are made to protect the
 Four freedoms
 --------------------
 
+![_Richard Stallman_ − Mathieu Gabiot − Free art license](./images/stallman.svg)
+
 Open source product design is a practice that comes from free/libre and open source software and as such follows the same principles, but applied to objects. There is an easy way to determine if a license is "open source" or not: does it respect the [4 freedoms](http://www.gnu.org/philosophy/free-sw.html )?
 
 Here are those 4 freedoms applied to objects:
@@ -66,7 +68,7 @@ This is the prefered license used by Libre Objet members. This license was writt
 
 ### [Creative Commons](https://creativecommons.org/licenses/ )
 
-![_logo_Creative Commons Logo_ − Registered trademark of Creative Commons](./images/cc.logo.large.png)
+![_logo_Creative Commons Logo_ − Registered trademark of Creative Commons](./images/cc-logo-large.png)
 Surprise, surprise! Creative Commons is not a license. **It's a set of licenses**. We often hear: "_I publish my creations under Creative Commons_" as if this would instantly make you a nice person. It does not. Creative Commons offers licenses that range from total freedom to almost no freedom at all. Fortunately, due to their popularity, you will find countless texts that explain the use of each of the Creative Commons licenses. If you care about restricting some user rights, Creative Commons offers you that option. But remember, because of this, some of the Creative Commons licenses are not actually open source. Here are the licenses that you can be considered open source:  
 - Attribution-Share Alike (CC-BY-SA)
 - Attribution (CC-BY)
@@ -130,7 +132,7 @@ MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house d
 
 ### [Mozilla Open Source Furniture](http://os-furnitures.tumblr.com/ )
 
-![**Pict** _Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/MOZILLA.jpg)
+![**Pict** _Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/OS-furniture-mozilla-table.jpg)
 
 Designed by Nosigner, elements that were used to compose the furniture for Mozilla's Japan office have been published under a CC-by license.
 
@@ -161,16 +163,25 @@ Copyleft  licenses for software **require that information necessary for reprodu
 
 
 ### Ronen Kadushin
+
+![_Ronen Kadushin_ − Mathieu Gabiot − Free art license](./images/kadushin.svg)
+
 Ronan Kadushin, in his [Open Design Manifesto](http://www.ronen-kadushin.com/files/4613/4530/1263/Open_Design_Manifesto-Ronen_Kadushin_.pdf ), considers that there are two requirements for open designs:
 1. They have to be published under a CC license.
 2. They have to be build using only CNC machines.
 
 ### [Open Structures](http://openstructures.net/ )
+
+![**Pict** _The OS grid_ − Thomas Lommée − CC-BY](./images/OpenStructures.jpg)
+
 > The OS (OpenStructures) project explores the possibility of a modular construction model where **everyone designs for everyone** on the basis of one shared geometrical grid.
 
 This approach of grid based designed applied to objects is very interesting and has produced intriguing objects, but it also shoots itself in the foot by not forcing anyone to use certain licenses that would give a legal framework to the "everyone for everyone" model.
 
 ### [IkeaHackers](http://www.ikeahackers.net/about )
+
+![_IkeaHackers_ − Mathieu Gabiot − Free art license](./images/ikea-hackers.svg)
+
 The famous IkeaHackers website gets threatened for intellectual property infringement.
 > Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
 > Long   story short, after much negotiation between their agent and my lawyer,  I  am allowed to keep the domain name IKEAhackers.net only on the   condition that it is non-commercial, meaning no advertising whatsoever.

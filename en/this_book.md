@@ -6,13 +6,19 @@ This book was initiated by Libre Objet and brought to life by a collective of cr
 
 The co-authors present at Medialab Prado were:
 
-- Gaizka Altuna, architect researcher − http://m-etxea.com
-- ginger coons, researcher − http://gingercoons.ca
-- Julien Deswaef, media artist − http://xuv.be
-- Mathieu Gabiot, product designer − http://mathieu-g.be
-- César García, digital tech researcher - http://make.cesargarciasaez.com
-- Øyvind Kolås, digital media toolsmith − http://pippin.gimp.org/
-- Martin Lévêque, product designer − https://www.behance.net/martinleveque
+![_Gaizka Altuna_ − Mathieu Gabiot − Free art license](./images/Gaizka-Altuna.svg) - Gaizka Altuna, architect researcher − http://m-etxea.com
+
++ ginger coons, researcher − http://gingercoons.ca
+
+![_Julien Deswaef_ − Mathieu Gabiot − Free art license](./images/Julien-Deswaef.svg) - Julien Deswaef, media artist − http://xuv.be
+
+![_Mathieu Gabiot_ − Mathieu Gabiot − Free art license](./images/Mathieu-Gabiot.svg) - Mathieu Gabiot, product designer − http://mathieu-g.be
+
++ César García, digital tech researcher - http://make.cesargarciasaez.com
+
++ Øyvind Kolås, digital media toolsmith − http://pippin.gimp.org/
+
+![_Martin Lévêque_ − Mathieu Gabiot − Free art license](./images/Martin-Leveque.svg) - Martin Lévêque, product designer − https://www.behance.net/martinleveque
 
 This project could not have been possible without the support of Josian Llorente, Jara Rocha, Wendy Van Wynsberghe and the whole team at Medialab Prado.
 
@@ -65,8 +71,8 @@ http://podofo.sourceforge.net/
 
 ### Fonts
 We use these excellent libre fonts in the book:
- - TGL by Peter Wiegel released under the SIL Open Font License 1.1
- - Open Sans by Steve Matteson released under Apache License  2.0
+ - Raleway designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini. Released under the SIL Open Font License 1.1
+ - Alegreya by Juan Pablo del Peral released under  SIL Open Font License 1.1
 
 Object
 ---------
