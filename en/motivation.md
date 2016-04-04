@@ -122,8 +122,6 @@ Objects
 ### Open source stethoscope by Tarek Loubani
 The bypass of Israel embargo on medical equipments in Gaza
 
-![_Tarek Loubani_ − Mathieu Gabiot − Free art license](./images/Loubani.svg)
-
 > Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a free and open model for hardware and software  development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
 
 ### Reprap
@@ -144,11 +142,7 @@ Food for thought
 ### Approved adaptations
 The limit of derivation in the classic copyright design.
 
-![_LC2 and Chandigarh_ − Mathieu Gabiot − Free art license](./images/LC2-Chandigarh-2.svg)
-
 The original LC2 armchair and sofa by Le Corbusier is still sold and edited by [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) Although adaptations of it by  Doshi Levien and edited by [Moroso](http://www.doshilevien.com/projects/chandigarh/ ) are allowed on the market.
-
-![_Emeco and Ikea chairs_ − Mathieu Gabiot − Free art license](./images/emeco-ikea.svg)
 
 Emco fights Ikea over a supposed copy of Norman Foster's 20-06 stacking chair.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
@@ -164,7 +158,7 @@ Early 19th-century Shaker interiors are characterized by an austerity and simpli
 
 ### Victor Papanek
 
-![_Portrait Victor Papanek_ − Mathieu Gabiot − Free art license](./images/Victor-Papanek.svg)
+![_Portrait Victor Papanek_ − Mathieu Gabiot](./images/Victor-Papanek.svg)
 
 > Victor Papanek was a designer and educator who became a strong advocate of the socially and ecologically responsible design of products, tools and community infrastructures. He disapproved of manufactured products that were unsafe, showy, maladapted or essentially useless. His products, writings and lectures were collectively considered an example and spur by many designers. Papanek was a philosopher of design and as such he was an untiring, eloquent promoter of design aims and approaches that would be sensitive to social and ecological considerations. He wrote that "design has become the most powerful tool with which man shapes his tools and environments (and, by extension, society and himself).  
 −[Wikipedia](https://en.wikipedia.org/wiki/Victor_Papanek )
@@ -173,7 +167,7 @@ Find and read his book _Design for the Real World: Human Ecology and Social Chan
 
 ### Jean Prouvé
 
-![_Portrait Jean Prouvé_ − Mathieu Gabiot − Free art license](./images/Jean-Prouve.svg)
+![_Portrait Jean Prouvé_ − Mathieu Gabiot](./images/Jean-Prouve.svg)
 
 > Jean grew up surrounded by the ideals and energy of "l'École de Nancy," the art collective to which his father belonged. Its goals were to make art readily accessible, to forge links between art and industry, as well as between art and social consciousness.
 
@@ -191,7 +185,7 @@ His achievements in folded sheet (originally of lower costs and higher strength,
 
 ### Enzo Mari
 
-![_Portrait Enzo Mari_ − Mathieu Gabiot − Free art license](./images/Enzo-Mari.svg)
+![_Portrait Enzo Mari_ − Mathieu Gabiot](./images/Enzo-Mari.svg)
 
 > The 19 _Do-It-Yourself_ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.  
 http://www.cucula.org/en/enzo-mari/
@@ -202,13 +196,12 @@ This project was born in 1974 just after the first oil crisis of 1973. The pover
 
 ### Gerrit Rietveld
 
-![_Portrait Gerrit Rietveld_ − Mathieu Gabiot − Free art license](./images/Gerrit-Rietveld.svg)
+![_Portrait Gerrit Rietveld_ − Mathieu Gabiot](./images/Gerrit-Rietveld.svg)
 
 > The original _Krat_ (Crate) furniture was produced using untreated red spruce normally reserved for packing cases. It was sold in a kit form, to be assembled at home by the purchaser. The Crate furniture was a response to the economic crisis of the 1930s. It offered useful, inexpensive seating with basic construction and cheap materials. Other items of Crate furniture include a Crate easy chair, Crate table, Crate desk, Crate bookcase and a Crate stool, all from 1934.  
 −[annetgelink.com](http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/)
 
-> ![_Red and Blue chair, Gerrit Rietveld_ − Mathieu Gabiot − Free art license](./images/RnB-chair.svg)
-_How to construct Rietveld furniture_ documents the best known and most typical furniture designs by Gerrit Rietveld down the smallest detail. The book contains working plans, measurements, detail drawings, lists of materials and instructions for the assembly of each piece, as well as historical information about each one.   −[How to construct Rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0 )
+> _How to construct Rietveld furniture_ documents the best known and most typical furniture designs by Gerrit Rietveld down the smallest detail. The book contains working plans, measurements, detail drawings, lists of materials and instructions for the assembly of each piece, as well as historical information about each one.   −[How to construct Rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0 )
 
 Rietveld was a Dutch furniture designer and architect. One of the principal members of the dutch artistic movement called _De Stijl_. Piet Mondrian is the most famous figure from that movememt. Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House.
 
@@ -216,7 +209,7 @@ Rietveld was a Dutch furniture designer and architect. One of the principal memb
 
 ### Bernard Stiegler
 
-![_Portrait Bernard Stiegler_ − Mathieu Gabiot − Free art license](./images/Bernard-Stiegler.svg)
+![_Portrait Bernard Stiegler_ − Mathieu Gabiot](./images/Bernard-Stiegler.svg)
 
 > Bernard Stiegler is a french philosopher and head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, _pharmakon.fr_ […]  
 His key themes are technology, time, individuation, consumerism, consumer capitalism, technological convergence, digitization, americanization, education and the future of politics and human society.  
@@ -224,7 +217,7 @@ His key themes are technology, time, individuation, consumerism, consumer capita
 
 ### Thomas Chippendale
 
-![_Portrait Thomas Chippendale_ − Mathieu Gabiot − Free art license](./images/Thomas-Chippendale.svg)
+![_Portrait Thomas Chippendale_ − Mathieu Gabiot](./images/Thomas-Chippendale.svg)
 
 > Thomas Chippendale was a London cabinet-maker and furniture designer in the mid-Georgian, English Rococo, and Neoclassical styles. In 1754, he published a book of his designs titled [_The Gentleman and Cabinet Maker's Director_](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab ). The designs are regarded as reflecting the current London fashion for furniture for that period and were used by other cabinet makers outside London.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Thomas_Chippendale )
