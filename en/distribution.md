@@ -24,7 +24,7 @@ Something that is quite easy to figure out with software is if the software itse
 
 ![_Girl_ − Mathieu Gabiot](./images/girl-bulle.svg)
 
-There might be ways to expose this with a proper marking or tagging on the object. Engraving or sticking a mention of the license and a url where to find further information about the object could be an elegant solution in some cases. Or maybe one day, design lovers will be able to recognize an open source object just by looking at it. But until then, this should be something to think about when designing open source products.
+There might be ways to expose this with a proper marking or tagging on the object. Engraving or sticking a mention of the license and a URL where to find further information about the object could be an elegant solution in some cases. Or maybe one day, design lovers will be able to recognize an open source object just by looking at it. But until then, this should be something to think about when designing open source products.
 
 
 Communicating the product's license directly on the product somehow is important. If the license is only mentioned on separate documents or packaging, it can be lost if the user decides to give the object away. The new users will then have no idea about the origin and lose the opportunity to know the benefits of the object and its license -- adapt, remix, etc.
@@ -59,7 +59,7 @@ Here are a list of things you should consider when documenting objects. This lis
 - URL(s) of original sources
 - Description of each part, like technical drawing with size, scale, front
 - Description of the assembly, the order and way to mount it (drawings and pictures are better than only text)
-- Description of potential issues or possible ways to improve the project (see Entropie's doc http://www.asso-entropie.fr/media/filer_public/cd/37/cd37e323-1f8c-450e-8cbc-0fe9a12f95bb/table_et_banc_entropie_juillet2013.pdf)
+- Description of potential issues or possible ways to improve the project (see [Entropie's doc](http://www.asso-entropie.fr/media/filer_public/cd/37/cd37e323-1f8c-450e-8cbc-0fe9a12f95bb/table_et_banc_entropie_juillet2013.pdf))
 - Ways of using the object
 
 ### How deep is your source?
@@ -67,7 +67,7 @@ Be generous with the documentation. Share everything. Digital files are cheap an
 
 ### Where to publish your designs?
 
-There are many ways you can distribute your designs. But we strongly encourage that you manage distribution yourself, from your own little corner of the internet or that at least you don't rely on one channel for distribution, especially if that channel is owned by a big corporation which only cares about collecting data from its visitors.
+There are many ways you can distribute your designs. But we strongly encourage that you manage distribution yourself, from your own little corner of the Internet or that at least you don't rely on one channel for distribution, especially if that channel is owned by a big corporation which only cares about collecting data from its visitors.
 
 We do recommend that you build your distribution channels the same way you build the objects themselves: collectively. You will find online collectives that will be happy to spread your design and engage in a conversation with you about it.
 
@@ -78,7 +78,7 @@ Documentation being a key element, it would do no good for the object and its re
 
 Open formats are usually standards to store information that can be readable by a human or a machine and of which the specification is publicly available, fully described and exempt of patents and copyright.
 
-Open formats are the only way to garantee a future to your design documents. Any other format would be bound to the willingness of their maintainers to continue to support it. You would not want your life's work to become inaccessible because some company, somewhere, went bankrupt or changed their business model and decided not to support this or that particular feature.
+Open formats are the only way to guarantee a future to your design documents. Any other format would be bound to the willingness of their maintainers to continue to support it. You would not want your life's work to become inaccessible because some company, somewhere, went bankrupt or changed their business model and decided not to support this or that particular feature.
 
 And don't think that the size, popularity or apparent financial wellness of a company is a guarantee of anything.
 
@@ -86,9 +86,9 @@ Tools
 -------
 
 ### Distribution platforms
-- http://libreobjet.org  is the online collection of open source product design from the eponymous  collective. We're open to submissions if you follow some rules regarding the documention of your project. The source code for the website is also available as open source. So you could just copy our source and use it to build your own collection of projects.
-- http://gitlab.org is a code hosting platform dedicated to open source collaboration, but they could also work as a repository for open source designs. The source code of Gitlab is also availalbe, so you can install it on your owr server.
-- http://el-recetario.net/ is a collection of upcycling projects and their recepies. They allow anyone to publish projects under CC licenses. The website is built with Wordpress, a popular open source content management system and could serve as a good example of a distribution plateform built with these tools.
+- http://libreobjet.org  is the online collection of open source product design from the eponymous  collective. We're open to submissions if you follow some rules regarding the documentation of your project. The source code for the website is also available as open source. So you could just copy our source and use it to build your own collection of projects.
+- http://gitlab.org is a code hosting platform dedicated to open source collaboration, but they could also work as a repository for open source designs. The source code of Gitlab is also available, so you can install it on your own server.
+- http://el-recetario.net/ is a collection of upcycling projects and their recipes. They allow anyone to publish projects under CC licenses. The website is built with Wordpress, a popular open source content management system and could serve as a good example of a distribution platform built with these tools.
 
 ### Open formats
 It would be foolish to list here all the open formats available, some being more popular than others, and new formats being created all the time, but here is a short selection:
@@ -114,7 +114,7 @@ Objects
 > John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.  
 −[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
 
-The dobsonian telescope is a telescope designed for amateur astronomy. It was created in 1950 by the amateur astronomer John Dobson and we could say that it is an open source object, although the terms open source and the open source licenses did not exist at all at that time. It is easily buildable at home using cheap and common materials, and its construction does not require any special ability. Even if there is commercial models available, they are usually modified and customized by their users. These facts encourage the constant refining of the design of the telescope every time it is built.
+The Dobsonian telescope is a telescope designed for amateur astronomy. It was created in 1950 by the amateur astronomer John Dobson and we could say that it is an open source object, although the terms open source and the open source licenses did not exist at all at that time. It is easily buildable at home using cheap and common materials, and its construction does not require any special ability. Even if there is commercial models available, they are usually modified and customized by their users. These facts encourage the constant refining of the design of the telescope every time it is built.
 
 
 ### The Liberator
@@ -150,7 +150,7 @@ Food for thought
 
 ### Dobsonian Telescope Amateurs
 
-This model of telescope has been distributed widely around the world and is now the most used by the amateur astronomists. Thanks to the network of Dobsonian telescope owners, there have been many discoveries made by amateur observers, like the Comet  Hale-Bopp, discovered by Alan Hale and Thomas Bopp in 1995.
+This model of telescope has been distributed widely around the world and is now the most used by the amateur astronomers. Thanks to the network of Dobsonian telescope owners, there have been many discoveries made by amateur observers, like the Comet  Hale-Bopp, discovered by Alan Hale and Thomas Bopp in 1995.
 
 In the text *The Pro-Am Revolution: How enthusiasts are changing our economy and society*  Charles Leadbeater and Paul Miller explain how, thanks to the Dobsonian telescope, there is now a symbiosis between professional astronomers and amateur astronomers. Thanks to its openness, the Dobsonian telescope has been improved to a point that makes it almost as powerful as a professional telescope.
 
@@ -170,7 +170,7 @@ http://www.demos.co.uk/files/proamrevolutionfinal.pdf
 
 ![**Pict** _Carriole à vélo_ − Asso Entropie − Free art license](./images/carriole-entropie.jpg)
 
-Entropie has published many open source product designs, such as this [_Carriole à Vélo_](http://www.asso-entropie.fr/fr/design-libre/notices/carriole-velo/ ) (bike trailer) for example. But they only share the documentation in a single pdf, no other sources attached, complicating and putting a brake on the adaptation prossiblities.
+Entropie has published many open source product designs, such as this [_Carriole à Vélo_](http://www.asso-entropie.fr/fr/design-libre/notices/carriole-velo/ ) (bike trailer) for example. But they only share the documentation in a single pdf, no other sources attached, complicating and putting a brake on the adaptation possibilities.
 
 Open questions
 ----------------------

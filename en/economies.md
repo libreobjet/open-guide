@@ -11,7 +11,7 @@ Patenting a design is a costly venture and most of the time will only be profita
 
 Yes. And the other way around is also true, you can make money with other people's open source projects. The shift here is important. If you open source your work, someone else might be interested in it, apply transformation to it, improve it, and this then comes back to you.
 
-Another thing to consider is, since it's so easy to share digital files and since people, with reason, consider that immaterial objects should be free to copy and distribute, there is still a true cost in making material objects. Not only a material cost, but also a knowledge cost in aquiring the skills to manipulate the tools that will help produce the physical objects and an energy cost in moving around the physical objects to their end location. Overall, people are still willing to pay for those costs.
+Another thing to consider is, since it's so easy to share digital files and since people, with reason, consider that immaterial objects should be free to copy and distribute, there is still a true cost in making material objects. Not only a material cost, but also a knowledge cost in acquiring the skills to manipulate the tools that will help produce the physical objects and an energy cost in moving around the physical objects to their end location. Overall, people are still willing to pay for those costs.
 
 ### Benefits
 
@@ -26,14 +26,14 @@ Why do you keep so many projects hidden or dead in your portfolio? Who do they b
 Opportunities to explore
 ----------------------------------
 ### Education
-Through the organisation of workshops, participation in lectures and any other form of knowledge transmission, a designer can get financial support for developing and growing his/her work.
+Through the organization of workshops, participation in lectures and any other form of knowledge transmission, a designer can get financial support for developing and growing his/her work.
 
 Education of the buyers and partners is something that should also not be forgotten. Although the benefits of open sourcing your work might be clear to you, this is maybe not the case for your clients or editor. If they understand the concepts and social aspects of open source product design, they might be even more happy to invest in your projects or at least understand what they are participating in.
 
 ### Services
 This is a model that comes from the experiences of open source software economies. Developers of open source software don't earn money by selling the software, but by selling additional services related to the software. For example, [Automattic](https://automattic.com/ ), the company behind the Wordpress blogging platform offers paid hosting for people who don't want to set up and host Wordpress themselves. They also provide services like statistics, anti-spam, backups, etc.
 
-Designers as well could explore these practices by offering, for example, customisations of an open source model.
+Designers as well could explore these practices by offering, for example, customizations of an open source model.
 
 ### A user-designer relationship
 Just like in other movements, as for example with the delivery of farm products directly from the local farmers to the consumer, open source product designers can leverage their direct relationship with their buyers.
@@ -50,9 +50,9 @@ Crowdfunding and open source goes well together, and it might even be the only w
 People like to share. If you give them something they have the right to share, they will happily do so. As such, open sourcing some of your work could be a way to get some attention, or even something to be known for. Your objects might travel further than if you just keep it for yourself and the generosity of open sourcing could shine back on you and the rest of your projects.
 
 ### Who's building your open source furniture?
-Something we havent seen explored in open source product design but that could have some impact in the near future is the importance of the builder in the open source product design process. If the design files and documentation are freely available to download, then what differentiates one object from another is who has built it.
+Something we haven't seen explored in open source product design but that could have some impact in the near future is the importance of the builder in the open source product design process. If the design files and documentation are freely available to download, then what differentiates one object from another is who has built it.
 
-Collectors will always be willing to pay extra for a piece that has been built by the original creator than by someone else. Someone else might prefer to pay a company that is owned by its workers or that has a social model different than traditional captialist ones.The stories around the objects are what give value to them. The value of an object does not lie only in its function and the art and vintage design markets exist to prove it.
+Collectors will always be willing to pay extra for a piece that has been built by the original creator than by someone else. Someone else might prefer to pay a company that is owned by its workers or that has a social model different than traditional capitalist ones.The stories around the objects are what give value to them. The value of an object does not lie only in its function and the art and vintage design markets exist to prove it.
 
 Tools
 -------
@@ -61,10 +61,10 @@ Tools
 −[Goteo.org](https://en.goteo.org/about)
 
 ### Opendesk
-[Opendesk](https://www.opendesk.cc/ ) promises to be a hub between designers and local builders. Their pusiness is built on creating, collecting and promoting open designs (not all open source) and encouraging the local production of those designs through a network of fablabs and makerspaces. They then take a small portion of the price charged to the end purchaser.
+[Opendesk](https://www.opendesk.cc/ ) promises to be a hub between designers and local builders. Their business is built on creating, collecting and promoting open designs (not all open source) and encouraging the local production of those designs through a network of fablabs and makerspaces. They then take a small portion of the price charged to the end purchaser.
 
 ### Snowdrift
-This type of platform encourages participants to provide regular donations to the projects they want to support. Through very small recuring payments and social network effects, creator can potentialy harvest a monthly salary, allowing them to pursue their cerative work.  https://snowdrift.coop/
+This type of platform encourages participants to provide regular donations to the projects they want to support. Through very small recurring payments and social network effects, creator can potentially harvest a monthly salary, allowing them to pursue their creative work.  https://snowdrift.coop/
 
 Objects
 -----------
@@ -73,7 +73,7 @@ Objects
 
 ![_Comingle Dildo_ − Mathieu Gabiot − Free art license](./images/comingle.svg)
 
-[Comingle](https://www.comingle.io/) is an open source vibrating dildo that you can customize to your heart's content. It has been sucessfully funded through a crowdfunding campaign on [Indiegogo](https://www.indiegogo.com/projects/the-mod-multivibrating-open-source-dildo )
+[Comingle](https://www.comingle.io/) is an open source vibrating dildo that you can customize to your heart's content. It has been successfully funded through a crowdfunding campaign on [Indiegogo](https://www.indiegogo.com/projects/the-mod-multivibrating-open-source-dildo )
 
 ### X-Modules: furniture for Ixelles Library
 ![**Pict**_X-Modules: furniture for Ixelles Library_ − Maria Solé Bravo and Julien Deswaef − cc by sa](./images/modules_W.png)
@@ -97,7 +97,7 @@ http://www.cucula.org
 Some authors have criticized the production of open source services and objects, linking them with the communist movement and arguing that they hinder development. For example Jaron Lanier, an American computer philosophy writer, suggests in his book _You Are Not A Gadget: A Manifesto_ that the open source productions generate a kind expropriation of the intellectual productions that he calls "Digital Maoism".
 
 #### Wikinomics: _How Mass Collaboration Changes Everything_
-In the best-selling book _Wikinomics_, the authors, Don Tapscott and Anthony D. Williams, defend the idea that openess is creating a new form of economic development and, even more, they argue that it will be an essential part of economic innovation and development in the near future.
+In the best-selling book _Wikinomics_, the authors, Don Tapscott and Anthony D. Williams, defend the idea that openness is creating a new form of economic development and, even more, they argue that it will be an essential part of economic innovation and development in the near future.
 
 The economic models described in the book are based on four themes: Openness, Peering, Sharing and Acting Global.
 

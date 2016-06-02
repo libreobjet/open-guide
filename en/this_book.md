@@ -66,7 +66,7 @@ http://podofo.sourceforge.net/
 ### Fonts
 We use these excellent libre fonts in the book:
  - Raleway designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini. Released under the SIL Open Font License 1.1
- - Alegreya by Juan Pablo del Peral released under  SIL Open Font License 1.1
+ - Alegreya by Juan Pablo del Peral released under SIL Open Font License 1.1
 
 Object
 ---------

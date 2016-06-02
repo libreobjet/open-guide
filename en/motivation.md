@@ -197,7 +197,7 @@ His achievements in folded sheet (originally of lower costs and higher strength,
 
 ![_Portrait Enzo Mari_ − Mathieu Gabiot − Free art license](./images/Enzo-Mari.svg)
 
-> The 19 _Do-It-Yourself_ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the comtemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratisation of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.  
+> The 19 _Do-It-Yourself_ furniture designs, which the Italian Designer Enzo Mari published in his book ‘Autoprogettazione’ in 1974, marks a milestone in the contemporary design history. Positioned in contrast to the formalism at the time, Enzo Mari suggests the democratization of design and creating a provoking alternative to the capitalist paradigm of mass consumption. Building your own furniture, when required, that’s the idea.  
 http://www.cucula.org/en/enzo-mari/
 
 Enzo Mari is a noted Italian modernist artist and furniture designer. He is famous for his _Autoprogettazione_ manual.
@@ -214,7 +214,7 @@ This project was born in 1974 just after the first oil crisis of 1973. The pover
 > ![_Red and Blue chair, Gerrit Rietveld_ − Mathieu Gabiot − Free art license](./images/RnB-chair.svg)
 _How to construct Rietveld furniture_ documents the best known and most typical furniture designs by Gerrit Rietveld down the smallest detail. The book contains working plans, measurements, detail drawings, lists of materials and instructions for the assembly of each piece, as well as historical information about each one.   −[How to construct Rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0 )
 
-Rietveld was a Dutch furniture designer and architect. One of the principal members of the dutch artistic movement called _De Stijl_. Piet Mondrian is the most famous figure from that movememt. Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House.
+Rietveld was a Dutch furniture designer and architect. One of the principal members of the dutch artistic movement called _De Stijl_. Piet Mondrian is the most famous figure from that movement. Rietveld is famous for his Red and Blue Chair and for the Rietveld Schröder House.
 
 
 
@@ -223,7 +223,7 @@ Rietveld was a Dutch furniture designer and architect. One of the principal memb
 ![_Portrait Bernard Stiegler_ − Mathieu Gabiot − Free art license](./images/Bernard-Stiegler.svg)
 
 > Bernard Stiegler is a french philosopher and head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, _pharmakon.fr_ […]  
-His key themes are technology, time, individuation, consumerism, consumer capitalism, technological convergence, digitization, americanization, education and the future of politics and human society.  
+His key themes are technology, time, individuation, consumerism, consumer capitalism, technological convergence, digitization, Americanization, education and the future of politics and human society.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Bernard_Stiegler )
 
 ### Thomas Chippendale
@@ -240,4 +240,3 @@ Open questions
 - What are you designing for?
 - As a designer, what is your relation to technology?
 - What are the responsibilities of a designer in a mass consuming capitalist society?
-s

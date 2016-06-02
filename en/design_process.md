@@ -3,7 +3,7 @@ Design (as a) process
 
 _It's the journey, not the destination._
 
-Designing requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry, mathematics, mechanics, anatomy and kinetics, proficiency with 2d or 3d software and lets not forget a feel for the beautiful. But don't be afraid, because everybody can design objects. Remember the times in when we used to buid huts, homemade bows or extraordinary worlds made with toys like Lego. Working with open source design does not make assumptions about your knowledge but taps on your willing to learn and improve your abilities.
+Designing requires extensive knowledge in many fields and a lot of skills, both intellectual and manual. Skills like fine tridimensional sense, knowledge in geometry, mathematics, mechanics, anatomy and kinetics, proficiency with 2d or 3d software and lets not forget a feel for the beautiful. But don't be afraid, because everybody can design objects. Remember the times in when we used to build huts, homemade bows or extraordinary worlds made with toys like Lego. Working with open source design does not make assumptions about your knowledge but taps on your willing to learn and improve your abilities.
 
 Design Tactics
 ---------------------
@@ -26,14 +26,14 @@ Sometimes when you are begin with the design of an object your are going to find
 > To produce an object identical to a given object.  
 −[Wiktionary](https://en.wiktionary.org/wiki/copy)
 
-Copying is the best way to learn, to appreciate, flatter and get in the mind of the original author. Copying a design, make it as indentical as possible, by redrawing the files in a different application or building replicas of the original object could teach you a lot of skills and give you a great sense of satisfaction. This is all permitted and even encouraged by open source licensing.
+Copying is the best way to learn, to appreciate, flatter and get in the mind of the original author. Copying a design, make it as identical as possible, by redrawing the files in a different application or building replicas of the original object could teach you a lot of skills and give you a great sense of satisfaction. This is all permitted and even encouraged by open source licensing.
 
 ### Adapting / modifying
 
 > To make suitable; to make to correspond; to fit or suit; to proportion.  
 −[Wiktionary](https://en.wiktionary.org/wiki/open_source )
 
-One of the advantages of open source objects is that you are allowed to adapt them to your own needs (or anyone else's needs). There could be diferent reasons for adapting or modifying an object. Sometimes the reasons for adapting a design could be personal (size, proportion, taste...), other times related to the physical context (climate, scale, materials available), technological context (technical knowledge and context available), social context (language, religion, tradition, icons..), etc.
+One of the advantages of open source objects is that you are allowed to adapt them to your own needs (or anyone else's needs). There could be different reasons for adapting or modifying an object. Sometimes the reasons for adapting a design could be personal (size, proportion, taste...), other times related to the physical context (climate, scale, materials available), technological context (technical knowledge and context available), social context (language, religion, tradition, icons..), etc.
 
 If you want to share those changes, some open source licenses require that you publish them under the same license.
 
@@ -50,7 +50,7 @@ The “fork” means an object having a common root with a second one. Initially
 > To combine items from two or more sources normally kept separate.  
 −[Wiktionary](https://en.wiktionary.org/wiki/mix)
 
-Another  advantage of open source objects is that they can be combined. Youcould take two (or more) open source elements and mix them in order to  create a new object. This could be an intereseting approach for hybrid desgins and other creative explorations
+Another  advantage of open source objects is that they can be combined. You could take two (or more) open source elements and mix them in order to  create a new object. This could be an interesting approach for hybrid designs and other creative explorations
 
 ### Parametric design
 
@@ -68,7 +68,7 @@ Typically, this can be understood as defining a set of variables and relationshi
 
 Upcycling is the process of transforming by-products, waste materials, useless and/or unwanted products into new materials or products of better quality or for better environmental value.
 
-This approach, sometimes more associated with DIY and home crafting, could be more formalized and achieve a greater sustainability if it was also approched with the legal framework of open source licensing.
+This approach, sometimes more associated with DIY and home crafting, could be more formalized and achieve a greater sustainability if it was also approached with the legal framework of open source licensing.
 
 Design Tools
 -------------------
@@ -83,13 +83,13 @@ Neither do you have to rush into complex or automated manufacturing mechanism to
 
 ### Materials
 
-There are many types of materials that could be used for creating objects and at the same time there are many criterias to choose them. However, there are some properties you should consider for the open source object you are designing.
+There are many types of materials that could be used for creating objects and at the same time there are many criteria to choose them. However, there are some properties you should consider for the open source object you are designing.
 
 To achieve the largest distribution, an open source design should be fabricated anywhere by anyone or at least in the greatest amount of places possible and by the broadest range of people. For those reasons, at the time of choosing materials, you might have to consider materials that can be found easily anywhere.
 
 The economic factor is also important. If you choose an extended material but that is expensive, only a few people will be able to build your design. Bu not only economic questions are important, you also should consider the ecologic. There are a lot of material that you can recycle, or even better, upcycle.
 
-Finally you also have to consider the tools that you need to shape these materials. For example, glass and methacrylate are easy to find but while methacrylate could be easily cut by a common cutter, for cutting glass the tools are not as common and the technics are not as simple.
+Finally you also have to consider the tools that you need to shape these materials. For example, glass and methacrylate are easy to find but while methacrylate could be easily cut by a common cutter, for cutting glass the tools are not as common and the techniques are not as simple.
 
 Tools
 -------
@@ -112,13 +112,13 @@ LibreCAD is a free/libre and open source CAD application for Windows, Apple and 
 
 ![**Pict**_FreeCAD screenshot_](./images/freecad.png)
 
-FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is a multiplateform customizable, scriptable and extensible software that reads and writes many open file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
+FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is a multi-platform customizable, scriptable and extensible software that reads and writes many open file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
 
 #### OpenSCAD
 
 ![**Pict**_OpenSCAD screenshot_](./images/openscad-screen.jpg)
 
-OpenSCAD is a software for creating solid 3D CAD models using code. It is free software and available on all major plateforms. If you have abilities in coding and want to produce CAD files using a special scipting langauge, this might be the application you are looking for.
+OpenSCAD is a software for creating solid 3D CAD models using code. It is free software and available on all major platforms. If you have abilities in coding and want to produce CAD files using a special scipting language, this might be the application you are looking for.
 
 #### Blender
 
@@ -130,7 +130,7 @@ Blender is the free/libre and open source 3D creation suite. It is most well-kno
 
 ![**Pict**_Inskape screenshot_](./images/inkscape.png)
 
-Inkscape is a free/libre and open-source vector graphics editor that runs on all major plateforms. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
+Inkscape is a free/libre and open-source vector graphics editor that runs on all major platforms. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
 
 ### Digital Tools for fabrication
 
@@ -138,7 +138,7 @@ Inkscape is a free/libre and open-source vector graphics editor that runs on all
 
 ![**Pict** _CNC router_ − Timo Ulmanen − CC-BY](./images/cnc-router-CCBY-Timo-Ulmanen.jpg)
 
-> A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for _computer numerical control_. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine.  
+> A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminum, steel, plastics, and foams. CNC stands for _computer numerical control_. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine.  
 A CNC router typically produces consistent and high-quality work and improves factory productivity. Automation and precision are the key benefits of cnc router tables.  
 −[Wikipedia](https://en.wikipedia.org/wiki/CNC_router)   
 
@@ -175,7 +175,7 @@ Objects
 
 ![**Pict**_REEBOeK by Verly Laurent_ − Libre Objet − Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
 
-[REEBOek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on September 2013 also licensed with a Free Art License.
+[REEBOek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Laurent Verly on September 2013 also licensed with a Free Art License.
 
 &#8608; This is a good example about the advantages of the open source objects. Thanks to the open license of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new purpose is born.
 

@@ -2,7 +2,7 @@ Glossary
 ========
 
 #### Amateur
-> An amateur (French amateur "lover of", from Old French and ultimately from Latin amatorem nom. amator, "lover") is generally considered a person attached to a  particular pursuit, study, or science in a non-professional or unpaid  manner. Amateurs often have little or no formal training in their pursuits, and many are autodidacts (self-taught).  
+> An amateur (French amateur "lover of", from Old French and ultimately from Latin _amatorem_ nom. _amator_, "lover") is generally considered a person attached to a  particular pursuit, study, or science in a non-professional or unpaid  manner. Amateurs often have little or no formal training in their pursuits, and many are autodidacts (self-taught).  
 − [Wikipedia](https://en.wikipedia.org/wiki/Amateur )
 
 #### Author
@@ -13,13 +13,13 @@ Glossary
 See Creative Commons.
 
 #### CC0
-Creative Commons Zero is a licence  that waives all copyrights attached to a work. Similar to releasing work into the public domain.
+Creative Commons Zero is a license that waives all copyrights attached to a work. Similar to releasing work into the public domain.
 
 #### CC-by
-One of the basic Creative Commons licences that only requires that proper attribution is given to the author(s) of the work being used.
+One of the basic Creative Commons licenses that only requires that proper attribution is given to the author(s) of the work being used.
 
 #### CC-by-sa
-One of the Creative Commons licences that requires that proper attribution is given to the original author(s) and that any derivative should be  published using the same licence.
+One of the Creative Commons licenses that requires that proper attribution is given to the original author(s) and that any derivative should be  published using the same license.
 
 #### Copy
 > To make an identical duplicate of an original.  
@@ -51,7 +51,7 @@ See Free/libre and open source software
 >  Stands for Free/Libre Open Source Software. Software which has a  viewable, modifiable source. It can be modified and redistributed.  
 −[Libre Graphics Magazine](http://libregraphicsmag.com/ )
 
-Since  free software is often associated with gratis, the "libre" french word  is prefered. Open source and free/libre being similar but the later  cares about ethics and philosophy behind it.
+Since free software is often associated with gratis, the _libre_ French word is preferred. Open source and free/libre being similar but the later cares about ethics and philosophy behind it.
 
 #### Free/libre software
 > A term describing software which is made available under licenses permitting users to not only run it, but to examine its code, redistribute it and modify it.  
@@ -94,7 +94,7 @@ See F/LOSS.
 −[Libre Graphics Magazine](http://libregraphicsmag.com/ )
 
 #### Professional
->  A professional is a member of a profession or any person who earns  their living from a specified activity. The term also describes the  **standards** of education and training that prepare members of the  profession with the particular **knowledge** and **skills**  necessary   to perform the role of that profession. In addition, most professionals  are subject to strict codes of conduct enshrining rigorous ethical and  moral obligations.  
+>  A professional is a member of a profession or any person who earns  their living from a specified activity. The term also describes the **standards** of education and training that prepare members of the  profession with the particular **knowledge** and **skills** necessary   to perform the role of that profession. In addition, most professionals  are subject to strict codes of conduct enshrining rigorous ethical and  moral obligations.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Professional )
 
 #### Property
