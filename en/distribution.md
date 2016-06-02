@@ -11,7 +11,7 @@ The physical
 ------------------
 **How is your object physically distributed?**
 
-As we mentioned in the Motivations section, one of the benefits of open source product design is that documentation can travel faster using contemporary communication tools than can an object shipped in a container. This then potentially seperates even more the places where objects are imagined from the places where objects are built. It is already the case when design is done in western countries for a western market and the resulting objects are produced in non-western countries with cheaper labor. But with open source product design, this relationship can be totally broken as objects could potentially be designed anywhere and fabricated where they are demanded. At least, this is where we do see the benefits of it. Of course, this particular relation could be "closed" again if only specific skills and tools are required to design and produce the objects.
+As we mentioned in the Motivations section, one of the benefits of open source product design is that documentation can travel faster using contemporary communication tools than can an object shipped in a container. This then potentially separates even more the places where objects are imagined from the places where objects are built. It is already the case when design is done in western countries for a western market and the resulting objects are produced in non-western countries with cheaper labor. But with open source product design, this relationship can be totally broken as objects could potentially be designed anywhere and fabricated where they are demanded. At least, this is where we do see the benefits of it. Of course, this particular relation could be "closed" again if only specific skills and tools are required to design and produce the objects.
 
 Another benefit of digital distribution of documentation is when certain objects can't be found in certain parts of the world due to legal restrictions. Digital fabrication tools such as a 3D printer have changed the way we look at certain objects and opened the doors to the manufacture of "illegal objects".
 
@@ -21,9 +21,11 @@ Another benefit of digital distribution of documentation is when certain objects
 
 Something that is quite easy to figure out with software is if the software itself is open source. This is normally clearly indicated in the software itself. But with objets, this can be tricky. How can I know that the object I'm using is open source?
 
+
 ![_Girl_ − Mathieu Gabiot](./images/girl-bulle.svg)
 
-There might be ways to expose this with a proper marking or tagging on the object. Engraving or sticking a mention of the license and a url where to find further information about the object could be an elegant solution in some cases. Or maybe one day, design lovers will be able to recognise an open source object just by looking at it. But until then, this should be something to think about when desgining open source products.
+There might be ways to expose this with a proper marking or tagging on the object. Engraving or sticking a mention of the license and a url where to find further information about the object could be an elegant solution in some cases. Or maybe one day, design lovers will be able to recognize an open source object just by looking at it. But until then, this should be something to think about when designing open source products.
+
 
 Communicating the product's license directly on the product somehow is important. If the license is only mentioned on separate documents or packaging, it can be lost if the user decides to give the object away. The new users will then have no idea about the origin and lose the opportunity to know the benefits of the object and its license -- adapt, remix, etc.
 
@@ -35,16 +37,16 @@ The dialogue between a designer and any other person involved in the project wil
 
 By documentation, we mean all the documents one will need to copy and modify the product easily.
 
-Documentation can take many forms. It could be sound, video, schemas, 3D files, 2D files, scanned drawings, etc. We don't see any reason why one type or other should be excluded as long as it is the most suitable format for documenting the project. But documentation has to always be published under an open source license and be available in an open standard.
+Documentation can take many forms. It could be sound, video, schema, 3D files, 2D files, scanned drawings, etc. We don't see any reason why one type or other should be excluded as long as it is the most suitable format for documenting the project. But documentation has to always be published under an open source license and be available in an open standard.
 
-Documentation is often overlooked by designers. And many projects fall short of being called open source product design because of their poor or missing docunentation. A rule of thumb when making a project is to consider that documentation will take at least 50% of the time.
+Documentation is often overlooked by designers. And many projects fall short of being called open source product design because of their poor or missing documentation. A rule of thumb when making a project is to consider that documentation will take at least 50% of the time.
 
 And this should be done as soon as the project starts.
 
 Documentation
 ----------------------
 
-Here are a list of things you should consider when documentating objects. This list is based on requirements we've made for adding objects to the [Libre Objet](http://libreobjet.org ).
+Here are a list of things you should consider when documenting objects. This list is based on requirements we've made for adding objects to the [Libre Objet](http://libreobjet.org ).
 - General view (picture or drawing) of your object
 - General size (L x H x D) in m, cm mm or inches
 - General standard views (front, left/right side, up/down)
@@ -107,7 +109,7 @@ Objects
 
 ### Dobsonian Telescope
 
- ![**Pict** _Dobsonian telescope_ − Szőcs TamásTamasflex − CC-BY-SA 3.0](./images/Dobsonian_telescopes_schematic.png)
+ ![**Pict**_Dobsonian telescope_ − Szőcs TamásTamasflex − CC-BY-SA 3.0](./images/Dobsonian_telescopes_schematic.png)
 
 > John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.  
 −[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
@@ -117,9 +119,9 @@ The dobsonian telescope is a telescope designed for amateur astronomy. It was cr
 
 ### The Liberator
 
- ![**Pict** _Liberator gun_ − Kamenev − CC-BY-SA 3.0](./images/DDLiberator2.3.jpg)
+ ![**Pict**_Liberator gun_ − Kamenev − CC-BY-SA 3.0](./images/DDLiberator2.3.jpg)
 
- ![**Pict** _Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-BY-SA 3.0](./images/Liberator.3d.gun.vv.02.jpg)
+ ![**Pict**_Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-BY-SA 3.0](./images/Liberator.3d.gun.vv.02.jpg)
 
 During the last few years, one of the most polemical issue relative to open source object and their distribution has been 3D-printed weapons, and especially the highly publicized case of the Liberator single shot gun.
 

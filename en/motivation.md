@@ -120,6 +120,9 @@ This is a community. We're online and offline talking to each other, supporting 
 Objects
 -----------
 ### Open source stethoscope by Tarek Loubani
+
+![**Pict**_Stethoscope_− Steve Perrin − CC BY 2.0](./images/Standardized-Patient-Program-examining-t_he-abdomen.jpg)
+
 The bypass of Israel embargo on medical equipments in Gaza
 
 ![_Tarek Loubani_ − Mathieu Gabiot − Free art license](./images/Loubani.svg)
@@ -128,13 +131,13 @@ The bypass of Israel embargo on medical equipments in Gaza
 
 ### Reprap
 
-![**Pict** _The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg)
+![**Pict**_The first Reprap and its child_ − Kocio − CC-BY-SA 3.0](./images/First_replication.jpg)
 
 [Reprap](http://reprap.org/ ) project aims to create a self replicating machine. This project has grown steadily because most designs used libre licenses, allowing people from all over the world to contribute and improve them. Some of the most common printers are based on Prusa i2 and Prusa i3 designs. More on http://reprap.org/
 
 ### Prosthetic hands
 
-![**Pict** _Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg)
+![**Pict**_Printed prosthetic hand_ − Intel free press − CC-BY-SA 2.0](./images/Printed hand.jpg)
 
 Cut down the cost of medical equipment production by using libre designs. These prosthesis that can be extensively customized to fit children needs. Using digital fabrication tools, such as 3D printers, new pieces can be constructed to accommodate children growth with very low costs.
 
@@ -149,6 +152,7 @@ The limit of derivation in the classic copyright design.
 The original LC2 armchair and sofa by Le Corbusier is still sold and edited by [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2 ) Although adaptations of it by  Doshi Levien and edited by [Moroso](http://www.doshilevien.com/projects/chandigarh/ ) are allowed on the market.
 
 ![_Emeco and Ikea chairs_ − Mathieu Gabiot − Free art license](./images/emeco-ikea.svg)
+
 
 Emco fights Ikea over a supposed copy of Norman Foster's 20-06 stacking chair.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
