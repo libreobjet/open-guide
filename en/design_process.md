@@ -173,7 +173,7 @@ Objects
 
 [Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on January 2013 and licensed with a Free Art License.
 
-![**Pict**_REEBOeK by Verly Laurent_ − Libre Objet − Free Art Licence](./images/REEBOeK _Verly Laurent.jpg)
+![**Pict**_REEBOeK by Verly Laurent_ − Libre Objet − Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
 
 [REEBOek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Verly Laurent on September 2013 also licensed with a Free Art License.
 
