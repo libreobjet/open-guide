@@ -14,9 +14,13 @@ Designers are usually expected to provide a polished product. With open source p
 
 ### Not starting from scratch
 
+<<<<<<< HEAD
 ![_Isaac Newton_ − Mathieu Gabiot − Free art license](./images/newton.svg)
 
 > If I have seen further than others, it is by standing upon the shoulders of giants.  
+=======
+> ![_Isaac Newton_ − Mathieu Gabiot − Free art license](./images/newton.svg) If I have seen further than others, it is by standing upon the shoulders of giants.  
+>>>>>>> parent of 5100beb... Revert "adding new pictures and placed in all md files + update about fonts info"
 −Isaac Newton
 
 Sometimes when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be able to implement some designing tactics that allows you to begin working from the work of others designers, instead of starting from scratch.

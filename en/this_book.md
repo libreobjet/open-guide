@@ -6,6 +6,7 @@ This book was initiated by Libre Objet and brought to life by a collective of cr
 
 The co-authors present at Medialab Prado were:
 
+<<<<<<< HEAD
 + ![_Gaizka Altuna_ − Mathieu Gabiot − Free art license](./images/Gaizka-Altuna.svg) Gaizka Altuna, architect researcher − http://m-etxea.com
 + ginger coons, researcher − http://gingercoons.ca
 + ![_Julien Deswaef_ − Mathieu Gabiot − Free art license](./images/Julien-Deswaef.svg) Julien Deswaef, media artist − http://xuv.be
@@ -13,6 +14,21 @@ The co-authors present at Medialab Prado were:
 + César García, digital tech researcher - http://make.cesargarciasaez.com
 + Øyvind Kolås, digital media toolsmith − http://pippin.gimp.org/
 + ![_Martin Lévêque_ − Mathieu Gabiot − Free art license](./images/Martin-Leveque.svg) Martin Lévêque, product designer − https://www.behance.net/martinleveque
+=======
+![_Gaizka Altuna_ − Mathieu Gabiot − Free art license](./images/Gaizka-Altuna.svg) - Gaizka Altuna, architect researcher − http://m-etxea.com
+
++ ginger coons, researcher − http://gingercoons.ca
+
+![_Julien Deswaef_ − Mathieu Gabiot − Free art license](./images/Julien-Deswaef.svg) - Julien Deswaef, media artist − http://xuv.be
+
+![_Mathieu Gabiot_ − Mathieu Gabiot − Free art license](./images/Mathieu-Gabiot.svg) - Mathieu Gabiot, product designer − http://mathieu-g.be
+
++ César García, digital tech researcher - http://make.cesargarciasaez.com
+
++ Øyvind Kolås, digital media toolsmith − http://pippin.gimp.org/
+
+![_Martin Lévêque_ − Mathieu Gabiot − Free art license](./images/Martin-Leveque.svg) - Martin Lévêque, product designer − https://www.behance.net/martinleveque
+>>>>>>> parent of 5100beb... Revert "adding new pictures and placed in all md files + update about fonts info"
 
 This project could not have been possible without the support of Josian Llorente, Jara Rocha, Wendy Van Wynsberghe and the whole team at Medialab Prado.
 
