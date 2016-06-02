@@ -17,7 +17,11 @@ Another benefit of digital distribution of documentation is when certain objects
 
 ### Distributing physical open source objects
 
+![_Guy_ − Mathieu Gabiot](./images/guy-bulle.svg)
+
 Something that is quite easy to figure out with software is if the software itself is open source. This is normally clearly indicated in the software itself. But with objets, this can be tricky. How can I know that the object I'm using is open source?
+
+![_Girl_ − Mathieu Gabiot](./images/girl-bulle.svg)
 
 There might be ways to expose this with a proper marking or tagging on the object. Engraving or sticking a mention of the license and a url where to find further information about the object could be an elegant solution in some cases. Or maybe one day, design lovers will be able to recognise an open source object just by looking at it. But until then, this should be something to think about when desgining open source products.
 
@@ -80,7 +84,7 @@ Tools
 -------
 
 ### Distribution platforms
-- http://ibreobjet.org  is the online collection of open source product design from the eponymous  collective. We're open to submissions if you follow some rules regarding the documention of your project. The source code for the website is also available as open source. So you could just copy our source and use it to build your own collection of projects.
+- http://libreobjet.org  is the online collection of open source product design from the eponymous  collective. We're open to submissions if you follow some rules regarding the documention of your project. The source code for the website is also available as open source. So you could just copy our source and use it to build your own collection of projects.
 - http://gitlab.org is a code hosting platform dedicated to open source collaboration, but they could also work as a repository for open source designs. The source code of Gitlab is also availalbe, so you can install it on your owr server.
 - http://el-recetario.net/ is a collection of upcycling projects and their recepies. They allow anyone to publish projects under CC licenses. The website is built with Wordpress, a popular open source content management system and could serve as a good example of a distribution plateform built with these tools.
 
@@ -132,6 +136,8 @@ http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-ar
 
 ### Readymake: Duchamp Chess Set
 
+![_Readymake_ − Mathieu Gabiot − Free art license](./images/readymake-Chess.svg)
+
 Readymake: Duchamp Chess Set is a printable chess set based on the version Dadaist artist Marcel Duchamp designed for himself. This printable set of pieces was made by Scott Kildall and Bryan Cera and they shared it on Thingiverse on April 21st, 2014. On September 17th, 2014 they received a letter warning them they were infringing the intellectual property held by the estate of Marcel Duchamp. After asking different lawyers and researching possibile responses, they decided to remove the Duchamp Chess Set from the repository and have asked everyone else to do so.
 
 This is an example of how the open source product design can be censored.
@@ -159,6 +165,9 @@ http://www.demos.co.uk/files/proamrevolutionfinal.pdf
 - http://thepiratebay.se is a popular online index of torrent files, usually associated with the mass distribution of copyrighted entertainment material
 
 ### Entropie
+
+![**Pict** _Carriole à vélo_ − Asso Entropie − Free art license](./images/carriole-entropie.jpg)
+
 Entropie has published many open source product designs, such as this [_Carriole à Vélo_](http://www.asso-entropie.fr/fr/design-libre/notices/carriole-velo/ ) (bike trailer) for example. But they only share the documentation in a single pdf, no other sources attached, complicating and putting a brake on the adaptation prossiblities.
 
 Open questions

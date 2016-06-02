@@ -14,6 +14,8 @@ Designers are usually expected to provide a polished product. With open source p
 
 ### Not starting from scratch
 
+![_Isaac Newton_ − Mathieu Gabiot − Free art license](./images/newton.svg)
+
 > If I have seen further than others, it is by standing upon the shoulders of giants.  
 −Isaac Newton
 
@@ -37,7 +39,7 @@ If you want to share those changes, some open source licenses require that you p
 
 ### Forking
 
-![**Pict** _A fork by Lison_ − Libre Objet − Free Art License](./images/Lison-illustration.jpeg)
+![**Pict** _A fork by Lison_ − Libre Objet − Free Art License](./images/Lison-illustration.jpg)
 
 The “fork” means an object having a common root with a second one. Initially twins, these two objects will separate and follow their own developments. This terms comes from open source software development and was perceived as a negative action implying the death of one of the branch. But nowadays, forking is encouraged as a way to make adaptations to the original work that than could be merged back together afterwards  to improve the original piece.
 
@@ -54,7 +56,7 @@ Another  advantage of open source objects is that they can be combined. Youcould
 
 > Parametric design is a paradigm in design where the relationship between elements are used to manipulate and inform the design of complex geometries and structures.   −[Wikipedia](https://en.wikipedia.org/wiki/Parametric_design )
 
-![**Pict** _Archi-Union 創盟國際_ by 準建築人手札網站 Forgemind ArchiMedia − CC-BY](./images/Archi-Union 創盟國際 - J-Office - Photo 06.jpg)
+![**Pict** _Sketch a chair_ Andrew Plumb − CC-BY-SA](./images/Sketch-chair-CC-BY-SA-Andrew-Plumb.jpg)
 A possible approach for easier adaptations of an object is to use parametric design tools.
 Typically, this can be understood as defining a set of variables and relationship rules inside your design so that when those variables are modified, the resulting object is changed accordingly.
 
@@ -116,7 +118,7 @@ Inkscape is a free/libre and open-source vector graphics editor that runs on all
 
 #### CNC router
 
-![**Pict** _Homemade CNC router_ − Drigotti − CC-BY-SA 3.0](./images/CNC_Router_ by Drigotti CC BY-SA 3.0.png)
+![**Pict** _CNC router_ − Timo Ulmanen − CC-BY](./images/cnc-router-CCBY-Timo-Ulmanen.jpg)
 
 > A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for _computer numerical control_. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine.  
 A CNC router typically produces consistent and high-quality work and improves factory productivity. Automation and precision are the key benefits of cnc router tables.  
@@ -124,6 +126,8 @@ A CNC router typically produces consistent and high-quality work and improves fa
 
 
 #### Laser cutter
+
+![**Pict** _Laser cutter_ − Does Liverpool − CC-BY-SA](./images/Laser-cutter-CC-BY-SA-does-liverpool.jpg)
 
 > Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Laser_cutting)   
@@ -203,6 +207,9 @@ http://raphaelbastide.com/1962/
 An exploration by Raphaël Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts.
 
 ### Sea Chair
+
+![_Sea chair_ − Mathieu Gabiot − Free art license](./images/sea-chair.svg)
+
 > Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plastic is collected and processed into a stool at sea.  −[Studio Swine](http://www.studioswine.com/sea-chair )
 
 Open questions
