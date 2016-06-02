@@ -224,7 +224,6 @@ http://raphaelbastide.com/1962/
 An exploration by Raphaël Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts.
 
 ### Sea Chair
-<<<<<<< HEAD
 
 ![_Sea chair_ − Mathieu Gabiot − Free art license](./images/sea-chair.svg)
 
