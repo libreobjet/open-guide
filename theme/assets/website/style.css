@@ -3540,6 +3540,11 @@ a {
   font-size: 10px;
   color: #385F8C !important;
 }
+img[src$=".svg"] {
+  float: left;
+  clear: both;
+  max-width: 60% !important;
+}
 img[alt^="**Pict**"] {
   display: block;
   float: left;
@@ -3583,11 +3588,6 @@ img[alt*="Portrait"] {
   width: 150px;
   margin-right: 10px;
   margin-left: 60px;
-}
-img[src$=".svg"] {
-  float: left;
-  clear: both;
-  max-width: 60%;
 }
 img[src$="girl-bulle.svg"] {
   display: inline;
