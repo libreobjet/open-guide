@@ -3476,6 +3476,9 @@ blockquote p {
   border-color: #247940;
   box-shadow: 15px 15px 0 0 #247940;
 }
+blockquote li {
+  width: inherit;
+}
 li {
   width: 70%;
   max-width: 700px;
@@ -3526,6 +3529,9 @@ ol > li:before {
   background: #247940;
   font-family: 'Raleway-Medium';
   text-align: center;
+}
+ol > li > p > strong {
+  display: none;
 }
 a {
   font-family: 'Raleway-Heavy';
