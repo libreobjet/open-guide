@@ -3354,8 +3354,8 @@ section {
 }
 /* Related to the images */
 figure {
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 figure figcaption {
   display: none;
@@ -3406,7 +3406,7 @@ h3 {
   clear: both;
   font-family: 'Raleway-Bold';
   color: black;
-  margin-left: 60px;
+  margin-left: 7%;
   font-size: 15pt !important;
 }
 h4::before {
@@ -3424,7 +3424,7 @@ h4 {
   color: #247940;
   height: 18pt;
   margin-bottom: 5px !important;
-  margin-left: 60px;
+  margin-left: 7%;
   font-size: 12pt !important;
 }
 h5 {
@@ -3442,7 +3442,7 @@ h6 {
   float: left;
   clear: both;
   width: 60%;
-  margin: 60px;
+  margin: 7%;
   padding: 5px 5px 5px 60px;
   font-family: 'QuattrocentoSans-Bold';
   color: black !important;
@@ -3469,7 +3469,7 @@ blockquote p {
   clear: left;
   background: white;
   padding: 15px;
-  margin: 5px 40px 25px 0px;
+  margin: .5em 3em 1.5em 0;
   width: 60%;
   max-width: 550px;
   border: solid 3px;
@@ -3535,14 +3535,16 @@ img[alt^="**Pict**"] {
   display: block;
   float: left;
   clear: both;
-  width: 60%;
-  max-width: 550px;
-  margin: 0px 40px 20px 0px;
+  width: 62%;
+  max-width: 550px !important;
+  margin: .5em 2em .5em 0;
   border: solid 3px #247940 !important;
+  /*
   box-shadow: 12px 12px 0 0 white,
               15px 15px 0 0 #247940,
               15px 9px 0 0 #247940,
               9px 15px 0 0 #247940;
+  */
 }
 p > img[alt^="**Pict**"] {
   margin-left: -60px;
