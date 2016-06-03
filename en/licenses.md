@@ -12,7 +12,7 @@ As with a classic contemporary design approach, licenses are made to protect the
 Four freedoms
 --------------------
 
-![_Richard Stallman_ − Mathieu Gabiot − Free art license](./images/stallman.svg)
+![_Portrait Richard Stallman_ − Mathieu Gabiot − Free art license](./images/stallman.svg)
 
 Open source product design is a practice that comes from free/libre and open source software and as such follows the same principles, but applied to objects. There is an easy way to determine if a license is "open source" or not: does it respect the [4 freedoms](http://www.gnu.org/philosophy/free-sw.html )?
 
@@ -63,12 +63,14 @@ Tools
 
 ### [Free Art License](http://artlibre.org/licence/lal/en/ )
 
-![_logo_Free Art License official logo_ − Free Art License](./images/Licence_Art_Libre.svg)
+![_logo Free Art License official logo_ − Free Art License](./images/Licence_Art_Libre.svg)
+
 This is the prefered license used by Libre Objet members. This license was written by Antoine Moreau and friends and originated in France. The F.A.L. is very easy to read and simple to understand. It has been written especially for works of art regardless of their type or expression and is respectful of the roman version of the author's right (as opposed to the English copyright)
 
 ### [Creative Commons](https://creativecommons.org/licenses/ )
 
-![_logo_Creative Commons Logo_ − Registered trademark of Creative Commons](./images/cc-logo-large.png)
+![_logo Creative Commons Logo_ − Registered trademark of Creative Commons](./images/cc-logo-large.png)
+
 Surprise, surprise! Creative Commons is not a license. **It's a set of licenses**. We often hear: "_I publish my creations under Creative Commons_" as if this would instantly make you a nice person. It does not. Creative Commons offers licenses that range from total freedom to almost no freedom at all. Fortunately, due to their popularity, you will find countless texts that explain the use of each of the Creative Commons licenses. If you care about restricting some user rights, Creative Commons offers you that option. But remember, because of this, some of the Creative Commons licenses are not actually open source. Here are the licenses that you can be considered open source:  
 - Attribution-Share Alike (CC-BY-SA)
 - Attribution (CC-BY)
@@ -84,13 +86,13 @@ The TAPR Open Hardware License is a license dedicated to open hardware projects,
 
 ### [GPL](https://gnu.org/licenses/gpl.html )
 
-![_logo_GPLv3 Logo_ − Free Software Foundation − Public Domain](./images/GPLv3_Logo.svg)
+![_logo GPLv3 Logo_ − Free Software Foundation − Public Domain](./images/GPLv3_Logo.svg)
 
 The Gnu General Public License is the mother of all open source licenses. It was created by Richard Stallman and has been used and released as early as 1989. This license is certainly the most popular license for free/libre and open source software, but it can also apply to the designs of objects.
 
 ### [WTFPL](http://www.wtfpl.net/ )
 
-![_logo_WTFPL_ − www.wtfpl.net − WTFPL](./images/WTFPL_License_Logo,_January_2014.png)
+![_logo WTFPL_ − www.wtfpl.net − WTFPL](./images/WTFPL_License_Logo,_January_2014.png)
 
 The "do What The Fuck you want Public License" is a very short and somewhat funny license that exists as a response to flame wars that often occur between partisans of one license or another.
 
@@ -168,9 +170,10 @@ Copyleft  licenses for software **require that information necessary for reprodu
 
 ### Ronen Kadushin
 
-![_Ronen Kadushin_ − Mathieu Gabiot − Free art license](./images/kadushin.svg)
+![_Portrait Ronen Kadushin_ − Mathieu Gabiot − Free art license](./images/kadushin.svg)
 
 Ronan Kadushin, in his [Open Design Manifesto](http://www.ronen-kadushin.com/files/4613/4530/1263/Open_Design_Manifesto-Ronen_Kadushin_.pdf ), considers that there are two requirements for open designs:
+
 1. They have to be published under a CC license.
 2. They have to be build using only CNC machines.
 

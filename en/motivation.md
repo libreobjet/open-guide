@@ -125,9 +125,7 @@ Objects
 
 The bypass of Israel embargo on medical equipments in Gaza
 
-![_Tarek Loubani_ − Mathieu Gabiot − Free art license](./images/Loubani.svg)
-
-> Tarek  Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a free and open model for hardware and software  development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
+> ![_Portrait Tarek Loubani_ − Mathieu Gabiot − Free art license](./images/Loubani.svg) Tarek Loubani, a Palestinian physician who works in Gaza and Canada,  discusses the Palestinian struggle to bring the benefits of modern (and sometimes not so modern) medical devices to the population of Gaza, consequently picking a free and open model for hardware and software  development that facilitates autonomy and collaboration with other   disenfranchised populations in the developing and developed worlds.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
 
 ### Reprap
 
@@ -220,17 +218,13 @@ Rietveld was a Dutch furniture designer and architect. One of the principal memb
 
 ### Bernard Stiegler
 
-![_Portrait Bernard Stiegler_ − Mathieu Gabiot − Free art license](./images/Bernard-Stiegler.svg)
-
-> Bernard Stiegler is a french philosopher and head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, _pharmakon.fr_ […]  
+> ![_Portrait Bernard Stiegler_ − Mathieu Gabiot − Free art license](./images/Bernard-Stiegler.svg) Bernard Stiegler is a french philosopher and head of the Institut de recherche et d'innovation (IRI), which he founded in 2006 at the Centre Georges-Pompidou. He is also the founder in 2005 of the political and cultural group, Ars Industrialis, and the founder in 2010 of the philosophy school, _pharmakon.fr_ […]  
 His key themes are technology, time, individuation, consumerism, consumer capitalism, technological convergence, digitization, Americanization, education and the future of politics and human society.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Bernard_Stiegler )
 
 ### Thomas Chippendale
 
-![_Portrait Thomas Chippendale_ − Mathieu Gabiot − Free art license](./images/Thomas-Chippendale.svg)
-
-> Thomas Chippendale was a London cabinet-maker and furniture designer in the mid-Georgian, English Rococo, and Neoclassical styles. In 1754, he published a book of his designs titled [_The Gentleman and Cabinet Maker's Director_](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab ). The designs are regarded as reflecting the current London fashion for furniture for that period and were used by other cabinet makers outside London.  
+> ![_Portrait Thomas Chippendale_ − Mathieu Gabiot − Free art license](./images/Thomas-Chippendale.svg) Thomas Chippendale was a London cabinet-maker and furniture designer in the mid-Georgian, English Rococo, and Neoclassical styles. In 1754, he published a book of his designs titled [_The Gentleman and Cabinet Maker's Director_](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab ). The designs are regarded as reflecting the current London fashion for furniture for that period and were used by other cabinet makers outside London.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Thomas_Chippendale )
 
 

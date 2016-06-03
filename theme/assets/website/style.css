@@ -3489,6 +3489,7 @@ ul {
   margin: 1.5em 0 !important;
 }
 ol {
+  clear: left;
   counter-reset: li;
   /* Initiate a counter */
   margin-left: 0;
@@ -3559,11 +3560,8 @@ img[alt*="logo"],
 img[alt*="symbol"] {
   clear: both;
   float: right;
-  margin-right: 30px;
-  margin-left: 50px;
-  padding-top: 20px;
-  margin-top: .3em;
-  width: 200px;
+  margin: .3em 8% .5em 1em;
+  width: 20%;
 }
 img[alt*="arrow"] {
   margin-right: 30px;
@@ -3577,6 +3575,11 @@ img[alt*="Portrait"] {
   width: 150px;
   margin-right: 10px;
   margin-left: 60px;
+}
+img[src$=".svg"] {
+  float: left;
+  clear: both;
+  max-width: 60%;
 }
 img[src$="girl-bulle.svg"] {
   display: inline;

@@ -14,9 +14,7 @@ Designers are usually expected to provide a polished product. With open source p
 
 ### Not starting from scratch
 
-![_Isaac Newton_ − Mathieu Gabiot − Free art license](./images/newton.svg)
-
-> If I have seen further than others, it is by standing upon the shoulders of giants.  
+> ![_Portrait Isaac Newton_ − Mathieu Gabiot − Free art license](./images/newton.svg) If I have seen further than others, it is by standing upon the shoulders of giants.  
 −Isaac Newton
 
 Sometimes when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be able to implement some designing tactics that allows you to begin working from the work of others designers, instead of starting from scratch.
@@ -188,6 +186,7 @@ At the heart of each WikiSeat is a Catalyst. This is the structural support, mad
 −[Wikiseat](http://www.wikiseat.org/about/)
 
 ![**Pict**_Wikiseat_ − CC-BY-SA](./images/wikiseat02.jpg)
+
 ![**Pict**_Wikiseat_ − CC-BY-SA](./images/wikiseat03.jpg)
 
 ### uHbench
@@ -208,6 +207,7 @@ Food for thought
 > Theo Jansen has been creating _Strandbeest_ (Dutch: _strand_=beach; _beest_=beast), wind-walking examples of artificial life, since 1990. What was at first a rudimentary breed has slowly evolved into a generation of machines that are able to react to their environment. Constructed as intricate assemblages of piping, wood, and wing-like sails, Jansen's creations are constantly being improved and have become excellently adapted to their sandy beach environment.  −[Wikipedia](https://en.wikipedia.org/wiki/Theo_Jansen )
 
 ![**Pict**_Theo  Jansen's tools at Fundacion Telefonica, Madrid_ − Julien  Deswaef − Free Art License](./images/strandbeest-tools.jpg)
+
 This is a particular interesting exemple since, Theo Jansen has also built his own tools for creating and producing these machines and has followed a principle of forking and merging between every instance of his project.
 
 ### Upcyclist
