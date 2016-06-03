@@ -30,6 +30,11 @@ Looking for more translators in these languages:
 - Català
 - Français
 
+Editing tips
+------------
+We did a lot of tweaking and crude hacks to get Gitbook working a layout that was pleasing us. Especially with images.
+So for things to display correctly, images must be on their own line, with a blank line before and after it. Images have also special keywords in their `alt` description that force one layout or another (see the ones with `**Pict**` or `logo` in it). 
+
 Build
 -----
 
