@@ -148,14 +148,15 @@ body {
 .page .section {
   font-family: 'QuattrocentoSans';
 }
-.normal {
-  width: 900px;
+
+.page-inner {
+  padding: 0px 0px 40px 0px !important;
 }
 
 section {
-  margin: 100px;
-  padding: 50px;
+  padding : 0 !important;
 }
+
 /* Related to the images */
 figure {
   margin: 0;
@@ -176,6 +177,7 @@ figure figcaption {
     width: inherit;
     a {
       font-family: 'Raleway-Medium';
+      font-size: 1.2em;
     }
   }
 }
@@ -186,7 +188,7 @@ h1 {
   background-image: url('/en/images/trame-2.svg');
   background-repeat: no-repeat;
   background-position: center;
-  padding: 15% 0;
+  padding: 15% 5%;
   align: center;
   width:100%;
   margin: 0px;
@@ -263,13 +265,11 @@ h6 {
 
 p {
   font-family: 'QuattrocentoSans-Bold';
-  font-size: 11pt;
   text-align: left;
   color:black;
   width:85%;
   margin-top: 30px;
-  margin-left: 60px;
-  margin-right: 50px;
+  margin: 0 7%;
 }
 
 
@@ -302,11 +302,11 @@ li {
   font-family: 'QuattrocentoSans';
   font-size: 10px;
   color:#247940;
-  margin-left: 100px;
-  margin-top: 10px;
+  margin: 0 12%;
 }
 ul {
   list-style-image: url('images/Lo-bullet.svg');
+  margin: 1.5em 0 !important;
 }
 ol {
     counter-reset:li; /* Initiate a counter */
