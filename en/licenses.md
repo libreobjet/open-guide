@@ -121,14 +121,12 @@ Objects
 
 Mmodulus, a series of modular furniture by Martina Minnucci and Juan Freire has been published using a CERN license.
 
-<div class="page-break"></div>
 ### [Archipel armchair](http://libreobjet.org/objects/archipel-armchair/ )  
 
 ![**Pict**_Archipel armchair_ − Mathieu Gabiot − Free Art License](./images/archipel.png)
 
 Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free Art License.
 
-<div class="page-break"></div>
 ### [MicroHouse](http://opensourceecology.org/portfolio/microhouse/ )
 
 ![**Pict**Microhouse_ − Open Source Ecology](./images/microhouse_32.png)

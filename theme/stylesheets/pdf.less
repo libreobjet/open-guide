@@ -152,6 +152,10 @@ body {
     display: none;
   }
 
+  li .inner .page {
+    display: none; /* hides page number in TOC that is wrong */
+  }
+
 
   h1 {
     display:block;
@@ -174,7 +178,7 @@ body {
     color:white;
     text-align: center;
     font-weight: normal;
-    font-size: 5em !important;
+    font-size: 15em !important;
   }
 
   h2 {
@@ -278,7 +282,7 @@ body {
     width: 60%;
     border: solid 2pt;
     border-color: #247940;
-    box-shadow: 1.5em 1.5em 0 0 #247940;
+    box-shadow: 10pt 10pt 0 0 #247940;
   }
 
   li,
@@ -312,8 +316,10 @@ body {
   ol > li{
       position:relative;
       margin:0;
+      clear: left;
       padding: 10px 0 6px 0; /* Add some spacing around the content */
       list-style:none; /* Disable the normal item numbering */
+      line-height: 1.1em;
   }
   ol > li::before {
       content:counter(li); /* Use the counter as content */
@@ -326,8 +332,8 @@ body {
       -moz-box-sizing:border-box;
       -webkit-box-sizing:border-box;
       box-sizing:border-box;
-      width:20px;
-      padding:4px;
+      width:25px;
+      padding:6px 4px;
       color:white;
       background:#247940;
       font-family:'Raleway-Medium';
@@ -354,18 +360,26 @@ body {
     font-family: 'Raleway-Heavy';
   }
 
+  img[src$=".svg"]{
+    float:left;
+    clear: both;
+    max-width: 60%;
+  }
+
   img[alt^="**Pict**"] {
     display:block;
     float:left;
     clear: both;
-    width: 60%;
+    width: 63%;
     max-width: 500px;
-    margin: 5px 30px 20px 0px;
+    margin: 5px 2em 20px 0px;
     border: solid 2px #247940 !important;
+    /*
     box-shadow: 10px 10px 0 0 white,
                 12px 12px 0 0 #247940,
                 12px 8px 0 0 #247940,
                 8px 12px 0 0 #247940;
+    */
   }
   p > img[alt^="**Pict**"] {
     margin-left: -60px;
