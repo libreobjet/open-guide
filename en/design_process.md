@@ -227,7 +227,8 @@ An exploration by Raphaël Bastide of the relation between open source tools, do
 
 ![_Sea chair_ − Mathieu Gabiot − Free art license](./images/sea-chair.svg)
 
-> Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plastic is collected and processed into a stool at sea.  −[Studio Swine](http://www.studioswine.com/sea-chair )
+> Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plastic is collected and processed into a stool at sea.  
+−[Studio Swine](http://www.studioswine.com/sea-chair )
 
 Open questions
 ----------------------
