@@ -3363,10 +3363,12 @@ figure figcaption {
 .book-header h1 {
   display: none;
 }
+.languages li,
 .summary li {
   margin-left: 10%;
   width: inherit;
 }
+.languages li a,
 .summary li a {
   font-family: 'Raleway-Medium';
   font-size: 1.2em;
