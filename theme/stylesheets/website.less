@@ -173,12 +173,15 @@ figure figcaption {
 
 .languages,
 .summary {
+  .articles {
+    margin: 0 !important;
+  }
   li {
     margin-left: 10%;
     width: inherit;
+    font-size: 1em;
     a {
       font-family: 'Raleway-Medium';
-      font-size: 1.2em;
     }
   }
 }
@@ -300,14 +303,21 @@ blockquote li {
 
 }
 
-
-li {
+li,
+li > p {
   width: 70%;
   max-width: 700px;
   font-family: 'QuattrocentoSans';
   font-size: 10px;
   color:#247940;
   margin: 0 12%;
+}
+/* List of illustration */
+li > p {
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.1em;
 }
 ul {
   list-style-image: url('images/Lo-bullet.svg');
