@@ -8,3 +8,6 @@
 * [Proposition](proposition.md)
 * [This book](this_book.md)
 * [Glossary](GLOSSARY.md)
+* Appendix
+  * [Illustrations](appendix/illustrations.md)
+  * [Free Art License](appendix/LICENSE.md)
