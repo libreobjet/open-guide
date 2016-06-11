@@ -56,7 +56,6 @@ Close to the end of the 2 weeks, while we were printing the first versions of it
 
 Those two words fitting nicely within the practice of free/libre open source design, it seemed a perfect fit for a catchy title with an alliterative twist, and so it's now named _Diverted Derived Design_.
 
-<div class="page-break"></div>
 Tools
 -------
 We used this toolchain of free/libre and open source softwares to bring the book to life.
