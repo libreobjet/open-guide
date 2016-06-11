@@ -10,31 +10,31 @@ The co-authors present at Medialab Prado were:
 
 + ![_Portrait Gaizka Altuna_ − Mathieu Gabiot − Free art license](./images/Gaizka-Altuna.svg)
   + Gaizka Altuna
-  + architect researcher
+  + Architect researcher
   + http://m-etxea.com
 + ![_Portrait ginger coons_ − Mathieu Gabiot − Free art license](./images/ginger-coons.svg)
   + ginger coons
-  + researcher
+  + Researcher
   + http://gingercoons.ca
 + ![_Portrait Julien Deswaef_ − Mathieu Gabiot − Free art license](./images/Julien-Deswaef.svg)
   + Julien Deswaef
-  + media artist
+  + Media artist
   + http://xuv.be
 + ![_Portrait Mathieu Gabiot_ − Mathieu Gabiot − Free art license](./images/Mathieu-Gabiot.svg)
   + Mathieu Gabiot
-  + product designer
+  + Product designer
   + http://mathieu-g.be
 + ![_Portrait César Garcia_ − Mathieu Gabiot − Free art license](./images/cesar-garcia.svg)  
   + César García
-  + digital tech researcher
+  + Digital tech researcher
   + http://make.cesargarciasaez.com
 + ![_Portrait Pippin_ − Mathieu Gabiot − Free art license](./images/pippin.svg)  
   + Øyvind Kolås
-  + digital media toolsmith
+  + Digital media toolsmith
   + http://pippin.gimp.org/
 + ![_Portrait Martin Lévêque_ − Mathieu Gabiot − Free art license](./images/Martin-Leveque.svg)
   + Martin Lévêque,
-  + product designer
+  + Product designer
   + https://www.behance.net/martinleveque
 
 This project could not have been possible without the support of Josian Llorente, Jara Rocha, Wendy Van Wynsberghe and the whole team at Medialab Prado.

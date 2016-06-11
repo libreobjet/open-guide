@@ -3631,22 +3631,24 @@ div#authors + ul {
   list-style: none;
   display: block;
   overflow: auto;
-  margin: 0 7%;
+  margin: 0 7% !important;
+  padding: 0;
 }
 div#authors + ul li {
   display: block;
   width: 85%;
   margin: 0;
+  padding: 0 !important;
 }
 div#authors + ul li img,
 div#authors + ul li img[alt*="Portrait"] {
   margin-left: 0px;
-  height: 100px;
+  height: 120px;
 }
 div#authors + ul li > ul {
   clear: none;
   float: left;
-  margin: 0 !important;
+  margin: 1em 0 !important;
   padding: 0 !important;
 }
 div#authors + ul li > ul li {
