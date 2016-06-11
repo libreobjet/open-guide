@@ -3493,6 +3493,7 @@ li > p {
   font-size: 10px;
   color: #247940;
   margin: 0 12%;
+  clear: left;
 }
 /* List of illustration */
 li > p {
@@ -3623,4 +3624,31 @@ img[src$="guy-bulle.svg"] {
 }
 p > img[src$="guy-bulle.svg"] {
   margin-right: -70px;
+}
+/* AUthors */
+div#authors + ul {
+  list-style-image: none;
+  list-style: none;
+  display: block;
+  overflow: auto;
+  margin: 0 7%;
+}
+div#authors + ul li {
+  display: block;
+  width: 85%;
+  margin: 0;
+}
+div#authors + ul li img,
+div#authors + ul li img[alt*="Portrait"] {
+  margin-left: 0px;
+  height: 100px;
+}
+div#authors + ul li > ul {
+  clear: none;
+  float: left;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+div#authors + ul li > ul li {
+  width: 100%;
 }
