@@ -35,17 +35,18 @@ The co-authors present at Medialab Prado were:
 + ![_Portrait Martin Lévêque_ − Mathieu Gabiot − Free art license](./images/Martin-Leveque.svg)
   + Martin Lévêque,
   + Product designer
-  + https://www.behance.net/martinleveque
+  + http://behance.net/martinleveque
 
 This project could not have been possible without the support of Josian Llorente, Jara Rocha, Wendy Van Wynsberghe and the whole team at Medialab Prado.
 
 This book is also liberated and published under the Free Art License 1.3. Which means that if you want to copy it, distribute it or modify it, you're more than welcome to do so, as long as you credit all the co-authors and
 share it with the same license.
+
 Although this is not required, we would be pleased if you sent us news, reviews, comments or any adaptation you make to it. Our email address is **hello@libreobjet.org**
 
 The source files are available at {{ book.meta.source_url }}
 
-This book has been compiled on {{ book.meta.compilation_date }} with Gitbook version {{ gitbook.version }}.
+This version of the book has been compiled on {{ book.meta.compilation_date }} with Gitbook version {{ gitbook.version }}.
 
 About the title
 ---------------

@@ -486,6 +486,34 @@ body {
 .page .section p > img[src$="guy-bulle.png"] {
   margin-right: -60px;
 }
+/* Authors */
+div#authors + ul {
+  list-style-image: none;
+  list-style: none;
+  display: block;
+  overflow: auto;
+  margin: 0 7%;
+  padding: 0;
+}
+div#authors + ul li {
+  display: block;
+  width: 85%;
+  margin: 0;
+  padding: 0 !important;
+}
+div#authors + ul li img,
+div#authors + ul li img[alt*="Portrait"] {
+  margin-left: 0px;
+}
+div#authors + ul li > ul {
+  clear: none;
+  float: left;
+  margin: 1em 0 !important;
+  padding: 0 !important;
+}
+div#authors + ul li > ul li {
+  width: 100%;
+}
 .page-break {
   page-break-after: always;
   display: block;
