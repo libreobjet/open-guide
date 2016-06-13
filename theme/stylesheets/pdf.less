@@ -3,21 +3,21 @@
 /* STUFF FOR LIBRE OBJET */
 
 @font-face {
-  font-family: 'Alegreya-Black';
+  font-family: 'Alegreya';
   src: url('fonts/Alegreya/Alegreya-Black.ttf') format('truetype');
-  font-weight: normal;
+  font-weight: bolder;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Alegreya-Bold';
+  font-family: 'Alegreya';
   src: url('fonts/Alegreya/Alegreya-Bold.ttf') format('truetype');
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Alegreya-BoldItalic';
+  font-family: 'Alegreya';
   src: url('fonts/Alegreya/Alegreya-BoldItalic.ttf') format('truetype');
-  font-weight: normal;
+  font-weight: bold;
   font-style: italic;
 }
 @font-face {
@@ -27,7 +27,7 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'Alegreya-RegularItalic';
+  font-family: 'Alegreya';
   src: url('fonts/Alegreya/Alegreya-RegularItalic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
@@ -39,21 +39,21 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'QuattrocentoSans-italic';
+  font-family: 'QuattrocentoSans';
   src: url('fonts/Quattrocento_Sans/QuattrocentoSans-Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
-  font-family: 'QuattrocentoSans-Bold';
+  font-family: 'QuattrocentoSans';
   src: url('fonts/Quattrocento_Sans/QuattrocentoSans-Bold.ttf') format('truetype');
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
 }
 @font-face {
-  font-family: 'QuattrocentoSans-BoldItalic';
+  font-family: 'QuattrocentoSans';
   src: url('fonts/Quattrocento_Sans/QuattrocentoSans-BoldItalic.ttf') format('truetype');
-  font-weight: normal;
+  font-weight: bold;
   font-style: italic;
 }
 @font-face {
@@ -235,7 +235,7 @@ body {
     margin: 5px;
     margin-left: 60px;
     padding:5px 5px 5px 100px;
-    font-family: 'QuattrocentoSans-Bold';
+    font-family: 'QuattrocentoSans';
     color: black;
   }
 
@@ -246,12 +246,13 @@ body {
     width: 60%;
     margin-left: 60px;
     padding:5px 5px 5px 60px;
-    font-family: 'QuattrocentoSans-Bold';
+    font-family: 'QuattrocentoSans';
     color: black !important;
   }
 
   p {
-    font-family: 'QuattrocentoSans-Bold';
+    font-family: 'QuattrocentoSans';
+    font-weight: bold;
     font-size: 1em;
     text-align: left;
     color:black;
@@ -263,6 +264,7 @@ body {
 
   blockquote p{
     font-family: 'Alegreya';
+  font-weight: normal;
     font-size: 1em;
     text-align: justify;
     width: 100%;
@@ -442,6 +444,47 @@ body {
   }
   p > img[src$="guy-bulle.png"] {
     margin-right: -60px;
+  }
+}
+
+/* Authors */
+div#authors + ul {
+  list-style-image: none;
+  list-style: none;
+  display: block;
+  overflow: auto;
+  margin: 0 7%;
+  padding: 0;
+  li   {
+    display: block;
+    width: 85%;
+    margin: 0;
+    padding: 0 !important;
+    img,
+    img[alt*="Portrait"] {
+      margin-left: 0px;
+    }
+    > ul {
+      clear: none;
+      float: left;
+      margin: 1em 0 !important;
+      padding: 0 !important;
+      li {
+        width: 100%;
+      }
+    }
+  }
+}
+
+h3,
+h4 {
+  page-break-after: avoid;
+  + img,
+  + figure {
+    page-break-before: avoid;
+    + img {
+      page-break-before: inherit;
+    }
   }
 }
 
