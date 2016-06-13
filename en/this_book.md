@@ -88,8 +88,9 @@ http://podofo.sourceforge.net/
 
 ### Fonts
 We use these excellent libre fonts in the book:
- - Raleway designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini. Released under the SIL Open Font License 1.1
  - Alegreya by Juan Pablo del Peral released under SIL Open Font License 1.1
+ - Quattrocento Sans by Impallari  released under SIL Open Font License 1.1 
+ - Raleway designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini. Released under the SIL Open Font License 1.1
 
 Object
 ---------
@@ -112,13 +113,13 @@ Materials:
 Print the book in booklet mode. You can use a software like Bookletimposer for sorting the pages in a correct way. Then, fold the folios and make the holes with the drill for spiral binding.
 
 #### Step 2
-![**Pict**_Diagram for folding and drilling_ − Gaizka Altuna − Free Art License](./images/Tutorial_diagram_1.jpg)
+![**Pict**_Diagram 1 for folding and drilling_ − Gaizka Altuna − Free Art License](./images/Tutorial_diagram_1.jpg)
 
 Print the cover in a DIN A3 printer. The cover will be more or less 337x210 mm. You must divide the cover in seven strips. The size of this strips must be 148.5+8+8+8+8+8+148.5=337.
 
 
 #### Step 3
-![**Pict**_Diagram for folding and drilling_ − Gaizka Altuna − Free Art license](./images/tutorial_diagram_2.jpg)
+![**Pict**_Diagram 2 for folding and drilling_ − Gaizka Altuna − Free Art license](./images/tutorial_diagram_2.jpg)
 
 Make holes with the drill for 2nd, 3rd, 5th and 6th strips and them fold them in the same way of the photograph.
 

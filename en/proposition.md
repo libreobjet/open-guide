@@ -8,7 +8,7 @@ And how could we talk about something if we don't agree on the definitions behin
 
 As product designers coming from the free/libre and open source software movement, we are very picky with some words that have been defined in the software field, especially the term _open source_, which we invariably link to _free/libre_, although that's maybe not the case for everyone. We stand close to the philosophical and ethical ideals of the libre software community.
 
-So, from now on, we hope you agree with us that we should only call **Open source product design** the objects that are properly created, documented and licensed under an open source license (re-read to the chapter about licenses if you're not sure what that means). Fer everything else, pick a name from the following:
+So, from now on, we hope you agree with us that we should only call **Open source product design** the objects that are properly created, documented and licensed under an open source license (re-read to the chapter about licenses if you're not sure what that means). For everything else, pick a name from the following:
 
 #### Product design
 >  As a verb is the process of creating a new product to be sold by a business to its customers. A very broad concept, it is  essentially the efficient and effective generation and development of ideas through a process that leads to new products.  
@@ -48,20 +48,23 @@ Objects
 
 ![_Piccolo_ − Mathieu Gabiot − Free Art License](./images/piccolo.svg)
 
-When [Piccolo](http://piccolo.cc/ ) was released, it mentioned on the website that the project was open source hardware, although they were restricting commercial use of the project. After [discussing with them](http://piccolo.cc/#comment-1644436573 ) and pointing the incompatibilities between the restrictive license and the _open source_ terms used in the description, the Piccolo team completely freed their project with a CC-BY-SA.
+When [Piccolo](http://piccolo.cc/ ) was released, it mentioned on the website that the project was open source hardware, although they were restricting commercial use of the project. After [discussing with them](http://piccolo.cc/#comment-1644436573 ) and pointing the incompatibilities between the restrictive license and the _open source_ terms used in the description, the Piccolo team completely freed their project with a CC-by-sa.
 
 ### Faircap
 
 ![**Pict** _Faircap_ − Poc21 − CC-by-sa](./images/Faircap-CCBYSA-POC21.jpg)
 
-The [Faircap](http://faircap.org/ ) is a 3D-printed water filter and when it was released, they announced it as open source while licensing it under CC-NC-SA. After [pointing out](https://twitter.com/raphaelbastide/status/657257450593230848) to the creator why this license was misleading, the project was then released as Public Domain.   http://www.instructables.com/id/Open-Source-3D-Printed-Water-Filter/
+The [Faircap](http://faircap.org/ ) is a 3D-printed water filter and when it was released, they announced it as open source while licensing it under CC-nc-sa. After [pointing out](https://twitter.com/raphaelbastide/status/657257450593230848) to the creator why this license was misleading, the project was then released as Public Domain.   http://www.instructables.com/id/Open-Source-3D-Printed-Water-Filter/
 
 
 Food for thought
 -----------------------
-- [Open Making Manifesto](https://openmaking.is/ )
-- [Critical Engineering Manifesto](https://www.criticalengineering.org/ )
+### [Open Making Manifesto](https://openmaking.is/)
+Open Making is a website by Opendesk that plans to serve as a manifesto and information resource for the open design or open making community. No license is attached to the texts and resources provided.
 
+### [Critical Engineering Manifesto](https://www.criticalengineering.org/ )
+The Critical Engineering manifesto was written by Julian Oliver, Gordan Savičić and Danja Vasiliev and released under à GNU Free Documentation License v1.3. As the first rule states it:
+>  The Critical Engineer considers Engineering to be the most transformative language of our time, shaping the way we move, communicate and think. It is the work of the Critical Engineer to study and exploit this language, exposing its influence.
 
 Open questions
 ----------------------
