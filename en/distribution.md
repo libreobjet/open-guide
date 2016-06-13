@@ -17,12 +17,12 @@ Another benefit of digital distribution of documentation is when certain objects
 
 ### Distributing physical open source objects
 
-![_Guy_ − Mathieu Gabiot](./images/guy-bulle.svg)
+![](./images/guy-bulle.svg)
 
 Something that is quite easy to figure out with software is if the software itself is open source. This is normally clearly indicated in the software itself. But with objets, this can be tricky. How can I know that the object I'm using is open source?
 
 
-![_Girl_ − Mathieu Gabiot](./images/girl-bulle.svg)
+![](./images/girl-bulle.svg)
 
 There might be ways to expose this with a proper marking or tagging on the object. Engraving or sticking a mention of the license and a URL where to find further information about the object could be an elegant solution in some cases. Or maybe one day, design lovers will be able to recognize an open source object just by looking at it. But until then, this should be something to think about when designing open source products.
 
@@ -73,7 +73,6 @@ We do recommend that you build your distribution channels the same way you build
 
 Open formats
 -------------------
-
 Documentation being a key element, it would do no good for the object and its reach if it required a proprietary application to be accessed.
 
 Open formats are usually standards to store information that can be readable by a human or a machine and of which the specification is publicly available, fully described and exempt of patents and copyright.
@@ -109,7 +108,7 @@ Objects
 
 ### Dobsonian Telescope
 
-![**Pict**_Dobsonian telescope_ − Szőcs TamásTamasflex − CC-BY-SA 3.0](./images/Dobsonian_telescopes_schematic.png)
+![**Pict**_Dobsonian telescope_ − Szőcs TamásTamasflex − CC-by-sa 3.0](./images/Dobsonian_telescopes_schematic.png)
 
 > John Lowry Dobson (September 14, 1915 – January 15, 2014) was an amateur astronomer and is best known for the Dobsonian telescope, a portable, low-cost Newtonian reflector telescope.  
 −[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
@@ -119,9 +118,9 @@ The Dobsonian telescope is a telescope designed for amateur astronomy. It was cr
 
 ### The Liberator
 
-![**Pict**_Liberator gun_ − Kamenev − CC-BY-SA 3.0](./images/DDLiberator2.3.jpg)
+![**Pict**_Liberator gun_ − Kamenev − CC-by-sa 3.0](./images/DDLiberator2.3.jpg)
 
-![**Pict**_Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-BY-SA 3.0](./images/Liberator.3d.gun.vv.02.jpg)
+![**Pict**_Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-by-sa 3.0](./images/Liberator.3d.gun.vv.02.jpg)
 
 During the last few years, one of the most polemical issue relative to open source object and their distribution has been 3D-printed weapons, and especially the highly publicized case of the Liberator single shot gun.
 
@@ -138,7 +137,7 @@ http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-ar
 
 ### Readymake: Duchamp Chess Set
 
-![_Readymake_ − Mathieu Gabiot − Free art license](./images/readymake-Chess.svg)
+![_Readymake_ − Mathieu Gabiot − Free Art License](./images/readymake-Chess.svg)
 
 Readymake: Duchamp Chess Set is a printable chess set based on the version Dadaist artist Marcel Duchamp designed for himself. This printable set of pieces was made by Scott Kildall and Bryan Cera and they shared it on Thingiverse on April 21st, 2014. On September 17th, 2014 they received a letter warning them they were infringing the intellectual property held by the estate of Marcel Duchamp. After asking different lawyers and researching possibile responses, they decided to remove the Duchamp Chess Set from the repository and have asked everyone else to do so.
 
@@ -168,7 +167,7 @@ http://www.demos.co.uk/files/proamrevolutionfinal.pdf
 
 ### Entropie
 
-![**Pict** _Carriole à vélo_ − Asso Entropie − Free art license](./images/carriole-entropie.jpg)
+![**Pict** _Carriole à vélo_ − Asso Entropie − Free Art License](./images/carriole-entropie.jpg)
 
 Entropie has published many open source product designs, such as this [_Carriole à Vélo_](http://www.asso-entropie.fr/fr/design-libre/notices/carriole-velo/ ) (bike trailer) for example. But they only share the documentation in a single pdf, no other sources attached, complicating and putting a brake on the adaptation possibilities.
 

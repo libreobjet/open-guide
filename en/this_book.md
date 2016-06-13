@@ -8,31 +8,31 @@ The co-authors present at Medialab Prado were:
 
 <div id="authors" class="KEEP-FOR-LAYOUT"></div>
 
-+ ![_Portrait Gaizka Altuna_ − Mathieu Gabiot − Free art license](./images/Gaizka-Altuna.svg)
++ ![_Portrait Gaizka Altuna_ − Mathieu Gabiot − Free Art License](./images/Gaizka-Altuna.svg)
   + Gaizka Altuna
   + Architect researcher
   + http://m-etxea.com
-+ ![_Portrait ginger coons_ − Mathieu Gabiot − Free art license](./images/ginger-coons.svg)
++ ![_Portrait ginger coons_ − Mathieu Gabiot − Free Art License](./images/ginger-coons.svg)
   + ginger coons
   + Researcher
   + http://gingercoons.ca
-+ ![_Portrait Julien Deswaef_ − Mathieu Gabiot − Free art license](./images/Julien-Deswaef.svg)
++ ![_Portrait Julien Deswaef_ − Mathieu Gabiot − Free Art License](./images/Julien-Deswaef.svg)
   + Julien Deswaef
   + Media artist
   + http://xuv.be
-+ ![_Portrait Mathieu Gabiot_ − Mathieu Gabiot − Free art license](./images/Mathieu-Gabiot.svg)
++ ![_Portrait Mathieu Gabiot_ − Mathieu Gabiot − Free Art License](./images/Mathieu-Gabiot.svg)
   + Mathieu Gabiot
   + Product designer
   + http://mathieu-g.be
-+ ![_Portrait César Garcia_ − Mathieu Gabiot − Free art license](./images/cesar-garcia.svg)  
++ ![_Portrait César Garcia_ − Mathieu Gabiot − Free Art License](./images/cesar-garcia.svg)  
   + César García
   + Digital tech researcher
   + http://make.cesargarciasaez.com
-+ ![_Portrait Pippin_ − Mathieu Gabiot − Free art license](./images/pippin.svg)  
++ ![_Portrait Pippin_ − Mathieu Gabiot − Free Art License](./images/pippin.svg)  
   + Øyvind Kolås
   + Digital media toolsmith
   + http://pippin.gimp.org/
-+ ![_Portrait Martin Lévêque_ − Mathieu Gabiot − Free art license](./images/Martin-Leveque.svg)
++ ![_Portrait Martin Lévêque_ − Mathieu Gabiot − Free Art License](./images/Martin-Leveque.svg)
   + Martin Lévêque,
   + Product designer
   + https://www.behance.net/martinleveque
@@ -93,7 +93,6 @@ We use these excellent libre fonts in the book:
 
 Object
 ---------
-
 There are a lot of ways of printing and binding this book. Below, we explain how we have made it. If you have a different way of doing it, you are, of course, free to do it your way.
 
 We used this way of binding for making our prototypes during the workshop of Interactivos?'15. This version should be affordable for anyone and and requires only common tools.

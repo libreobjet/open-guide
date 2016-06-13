@@ -12,7 +12,7 @@ As with a classic contemporary design approach, licenses are made to protect the
 Four freedoms
 --------------------
 
-![_Portrait Richard Stallman_ − Mathieu Gabiot − Free art license](./images/stallman.svg)
+![_Portrait Richard Stallman_ − Mathieu Gabiot − Free Art License](./images/stallman.svg)
 
 Open source product design is a practice that comes from free/libre and open source software and as such follows the same principles, but applied to objects. There is an easy way to determine if a license is "open source" or not: does it respect the [4 freedoms](http://www.gnu.org/philosophy/free-sw.html )?
 
@@ -63,13 +63,13 @@ Tools
 
 ### [Free Art License](http://artlibre.org/licence/lal/en/ )
 
-![_logo Free Art License official logo_ − Free Art License](./images/Licence_Art_Libre.svg)
+![_logo Free Art License official_ − Free Art License](./images/Licence_Art_Libre.svg)
 
 This is the prefered license used by Libre Objet members. This license was written by Antoine Moreau and friends and originated in France. The F.A.L. is very easy to read and simple to understand. It has been written especially for works of art regardless of their type or expression and is respectful of the roman version of the author's right (as opposed to the English copyright)
 
 ### [Creative Commons](https://creativecommons.org/licenses/ )
 
-![_logo Creative Commons Logo_ − Registered trademark of Creative Commons](./images/cc-logo-large.png)
+![_logo Creative Commons_ − Registered trademark of Creative Commons](./images/cc-logo-large.png)
 
 Surprise, surprise! Creative Commons is not a license. **It's a set of licenses**. We often hear: "_I publish my creations under Creative Commons_" as if this would instantly make you a nice person. It does not. Creative Commons offers licenses that range from total freedom to almost no freedom at all. Fortunately, due to their popularity, you will find countless texts that explain the use of each of the Creative Commons licenses. If you care about restricting some user rights, Creative Commons offers you that option. But remember, because of this, some of the Creative Commons licenses are not actually open source. Here are the licenses that you can be considered open source:  
 - Attribution-Share Alike (CC-BY-SA)
@@ -86,7 +86,7 @@ The TAPR Open Hardware License is a license dedicated to open hardware projects,
 
 ### [GPL](https://gnu.org/licenses/gpl.html )
 
-![_logo GPLv3 Logo_ − Free Software Foundation − Public Domain](./images/GPLv3_Logo.svg)
+![_logo GPLv3_ − Free Software Foundation − Public Domain](./images/GPLv3_Logo.svg)
 
 The Gnu General Public License is the mother of all open source licenses. It was created by Richard Stallman and has been used and released as early as 1989. This license is certainly the most popular license for free/libre and open source software, but it can also apply to the designs of objects.
 
@@ -115,9 +115,9 @@ In the end, the strength of a license will only be tested in case of conflicts a
 Objects
 -----------
 
-### [Mmodulus](http://mmodulus.com/ )
+### [mmodulUS](http://mmodulus.com/)
 
-![**Pict**_Mmodulus_ − Mmodulus](./images/modulUS.jpg)
+![**Pict**_mmodulUS_ − mmodulUS − CERN Open Hardware License 1.2 ](./images/modulUS.jpg)
 
 Mmodulus, a series of modular furniture by Martina Minnucci and Juan Freire has been published using a CERN license.
 
@@ -129,14 +129,14 @@ Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free A
 
 ### [MicroHouse](http://opensourceecology.org/portfolio/microhouse/ )
 
-![**Pict**Microhouse_ − Open Source Ecology](./images/microhouse_32.png)
+![**Pict**_Microhouse_ − Open Source Ecology − GPL / CC-by-sa](./images/microhouse_32.png)
 
 MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house designed for two and has been released under a GPL License.
 
 <div class="page-break"></div>
 ### [Mozilla Open Source Furniture](http://os-furnitures.tumblr.com/ )
 
-![**Pict** _Mozilla Furniture_ − Mozilla Japan − CC-BY](./images/OS-furniture-mozilla-table.jpg)
+![**Pict** _Mozilla Furniture_ − Mozilla Japan − CC-by](./images/OS-furniture-mozilla-table.jpg)
 
 Designed by Nosigner, elements that were used to compose the furniture for Mozilla's Japan office have been published under a CC-by license.
 
@@ -145,7 +145,7 @@ Food for thought
 
 ### Copyright
 
-![_ GPLv3Copyright logo_](./images/Copyright.png)
+![_GPLv3 logo_ − Free Software Foundation − Public Domain](./images/Copyright.png)
 
 >  Copyright  is a legal right created by the law of a country that grants  the  creator of an original work exclusive rights for its use   and   distribution. This is usually only for a limited time. The   exclusive   rights are not absolute but limited by limitations and   exceptions to   copyright law, including fair use.
 
@@ -168,7 +168,7 @@ Copyleft  licenses for software **require that information necessary for reprodu
 
 ### Ronen Kadushin
 
-![_Portrait Ronen Kadushin_ − Mathieu Gabiot − Free art license](./images/kadushin.svg)
+![_Portrait Ronen Kadushin_ − Mathieu Gabiot − Free Art License](./images/kadushin.svg)
 
 Ronan Kadushin, in his [Open Design Manifesto](http://www.ronen-kadushin.com/files/4613/4530/1263/Open_Design_Manifesto-Ronen_Kadushin_.pdf ), considers that there are two requirements for open designs:
 
@@ -177,7 +177,7 @@ Ronan Kadushin, in his [Open Design Manifesto](http://www.ronen-kadushin.com/fil
 
 ### [Open Structures](http://openstructures.net/ )
 
-![**Pict** _The OS grid_ − Thomas Lommée − CC-BY](./images/OpenStructures.jpg)
+![**Pict** _The OS grid_ − Thomas Lommée − CC-by](./images/OpenStructures.jpg)
 
 > The OS (OpenStructures) project explores the possibility of a modular construction model where **everyone designs for everyone** on the basis of one shared geometrical grid.
 
@@ -185,7 +185,7 @@ This approach of grid based designed applied to objects is very interesting and 
 
 ### [IkeaHackers](http://www.ikeahackers.net/about )
 
-![_IkeaHackers_ − Mathieu Gabiot − Free art license](./images/ikea-hackers.svg)
+![_IkeaHackers_ − Mathieu Gabiot − Free Art License](./images/ikea-hackers.svg)
 
 The famous IkeaHackers website gets threatened for intellectual property infringement.
 > Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]

@@ -71,18 +71,18 @@ Objects
 
 ### Comingle
 
-![_Comingle Dildo_ − Mathieu Gabiot − Free art license](./images/comingle.svg)
+![_Comingle Dildo_ − Mathieu Gabiot − Free Art License](./images/comingle.svg)
 
 [Comingle](https://www.comingle.io/) is an open source vibrating dildo that you can customize to your heart's content. It has been successfully funded through a crowdfunding campaign on [Indiegogo](https://www.indiegogo.com/projects/the-mod-multivibrating-open-source-dildo )
 
 ### X-Modules: furniture for Ixelles Library
-![**Pict**_X-Modules: furniture for Ixelles Library_ − Maria Solé Bravo and Julien Deswaef − cc by sa](./images/modules_W.png)
+![**Pict**_X-Modules: furniture for Ixelles Library_ − Maria Solé Bravo and Julien Deswaef − CC-by-sa](./images/modules_W.png)
 
 With  _X-Modules_, Maria Solé Bravo and Julien Deswaef have developed a multi-purpose design to furnish the courtyard at the entrance of the Ixelles public library in Brussels. As required by the library, the furniture is made from upcycled material -- re-used pallets -- and was built by neighbours and school children during a series of workshops. The open source nature of the project fitted perfectly with the mission of the library and was one of the key factors that got this project selected after the competition.
 
 ### « Autour du trait »
 
-![**Pict** _Autour du trait_ − Mathieu Gabiot − Free art license](./images/Autour-du-trait-table-r-06.jpg)
+![**Pict** _Autour du trait_ − Mathieu Gabiot − Free Art License](./images/Autour-du-trait-table-r-06.jpg)
 
 With their series _« Autour du trait »_, Nonpareil sells their open source product designs at different steps of construction. For different prices you can purchase a piece from just the pdf download, a rough build to a classic finish or even order a customization of the object itself.
 

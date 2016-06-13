@@ -14,7 +14,7 @@ Designers are usually expected to provide a polished product. With open source p
 
 ### Not starting from scratch
 
-> ![_Portrait Isaac Newton_ − Mathieu Gabiot − Free art license](./images/newton.svg) If I have seen further than others, it is by standing upon the shoulders of giants.  
+> ![_Portrait Isaac Newton_ − Mathieu Gabiot − Free Art License](./images/newton.svg) If I have seen further than others, it is by standing upon the shoulders of giants.  
 −Isaac Newton
 
 Sometimes when you are begin with the design of an object your are going to find yourself face to face to with a empty white sheet of paper. But if you work with object with open source licences you will be able to implement some designing tactics that allows you to begin working from the work of others designers, instead of starting from scratch.
@@ -54,7 +54,7 @@ Another  advantage of open source objects is that they can be combined. You coul
 
 > Parametric design is a paradigm in design where the relationship between elements are used to manipulate and inform the design of complex geometries and structures.   −[Wikipedia](https://en.wikipedia.org/wiki/Parametric_design )
 
-![**Pict** _Sketch a chair_ Andrew Plumb − CC-BY-SA](./images/Sketch-chair-CC-BY-SA-Andrew-Plumb.jpg)
+![**Pict** _Sketch a chair_ Andrew Plumb − CC-by-sa](./images/Sketch-chair-CC-BY-SA-Andrew-Plumb.jpg)
 
 A possible approach for easier adaptations of an object is to use parametric design tools.
 Typically, this can be understood as defining a set of variables and relationship rules inside your design so that when those variables are modified, the resulting object is changed accordingly.
@@ -134,7 +134,7 @@ Inkscape is a free/libre and open-source vector graphics editor that runs on all
 
 #### CNC router
 
-![**Pict** _CNC router_ − Timo Ulmanen − CC-BY](./images/cnc-router-CCBY-Timo-Ulmanen.jpg)
+![**Pict** _CNC router_ − Timo Ulmanen − CC-by](./images/cnc-router-CCBY-Timo-Ulmanen.jpg)
 
 > A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminum, steel, plastics, and foams. CNC stands for _computer numerical control_. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine.  
 A CNC router typically produces consistent and high-quality work and improves factory productivity. Automation and precision are the key benefits of cnc router tables.  
@@ -143,7 +143,7 @@ A CNC router typically produces consistent and high-quality work and improves fa
 
 #### Laser cutter
 
-![**Pict** _Laser cutter_ − Does Liverpool − CC-BY-SA](./images/Laser-cutter-CC-BY-SA-does-liverpool.jpg)
+![**Pict** _Laser cutter_ − Does Liverpool − CC-by-sa](./images/Laser-cutter-CC-BY-SA-does-liverpool.jpg)
 
 > Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Laser_cutting)   
@@ -151,7 +151,7 @@ A CNC router typically produces consistent and high-quality work and improves fa
 
 #### 3D printer
 
-![**Pict**_Homemade RepRap 3D printer_ − Drigotti − CC-BY-SA 3.0](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
+![**Pict**_Homemade RepRap 3D printer_ − Drigotti − CC-by-sa 3.0](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
 
 > 3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source.  
 3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense.  
@@ -167,11 +167,11 @@ Objects
 
 ### Bouctje & REEBOeK
 
-![**Pict**_Bouctje by Mathieu Gabiot_ − Libre Objet − Free Art Licence](./images/Bouctje_by_Mathieu Gabiot.jpg)
+![**Pict**_Bouctje by Mathieu Gabiot_ − Libre Objet − Free Art License](./images/Bouctje_by_Mathieu Gabiot.jpg)
 
 [Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on January 2013 and licensed with a Free Art License.
 
-![**Pict**_REEBOeK by Verly Laurent_ − Libre Objet − Free Art Licence](./images/REEBOeK _Verly Laurent.JPG)
+![**Pict**_REEBOeK by Verly Laurent_ − Libre Objet − Free Art License](./images/REEBOeK _Verly Laurent.JPG)
 
 [REEBOek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Laurent Verly on September 2013 also licensed with a Free Art License.
 
@@ -179,15 +179,15 @@ Objects
 
 ### Wikiseat
 
-![**Pict**_Wikiseat_ − CC-BY-SA](./images/wikiseat01.jpg)
+![**Pict**_Wikiseat_ − CC-by-sa](./images/wikiseat01.jpg)
 
 > WikiSeat is an open source furniture project. That means that all of the documentation for how to build a WikiSeat is freely and  openly published online.  
 At the heart of each WikiSeat is a Catalyst. This is the structural support, made out of welded angle iron, that helps hold three legs in place. The seat part goes on top. It is a pretty simple idea, but there are no instructions for _how_ to assemble these parts. We encourage people to find materials rather than buying them from a store. Every WikiSeat is a truly unique creation, a reflection of the creators environment and ideas.  
 −[Wikiseat](http://www.wikiseat.org/about/)
 
-![**Pict**_Wikiseat_ − CC-BY-SA](./images/wikiseat02.jpg)
+![**Pict**_Wikiseat_ − CC-by-sa](./images/wikiseat02.jpg)
 
-![**Pict**_Wikiseat_ − CC-BY-SA](./images/wikiseat03.jpg)
+![**Pict**_Wikiseat_ − CC-by-sa](./images/wikiseat03.jpg)
 
 ### uHbench
 
@@ -225,7 +225,7 @@ An exploration by Raphaël Bastide of the relation between open source tools, do
 
 ### Sea Chair
 
-![_Sea chair_ − Mathieu Gabiot − Free art license](./images/sea-chair.svg)
+![_Sea chair_ − Mathieu Gabiot − Free Art License](./images/sea-chair.svg)
 
 > Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plastic is collected and processed into a stool at sea.  
 −[Studio Swine](http://www.studioswine.com/sea-chair )
