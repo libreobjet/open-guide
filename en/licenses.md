@@ -133,7 +133,6 @@ Archipel armchair , by Mathieu Gabiot, is an armchair published under the Free A
 
 MicroHouse, by Open Source Ecology, is a small energy efficient low-cost house designed for two and has been released under a GPL License.
 
-<div class="page-break"></div>
 ### [Mozilla Open Source Furniture](http://os-furnitures.tumblr.com/ )
 
 ![**Pict** _Mozilla Furniture_ − Mozilla Japan − CC-by](./images/OS-furniture-mozilla-table.jpg)
