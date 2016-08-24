@@ -1,9 +1,6 @@
 Motivations
 ========
 
-
-Why would you want to get into open source product design?
-
 The state of design today
 ------------------------------------
 
