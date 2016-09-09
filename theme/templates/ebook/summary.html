@@ -30,6 +30,11 @@
 
 {% block page %}
 <div class="section toc">
+    {% if options.generator == "pdf" %}
+    <div class="print-only blank-page"></div>
+    <div class="print-only blank-page"></div>
+    {% endif %}
+
     <h1>{{ __("SUMMARY") }}</h1>
     <ol>
         {{ articles(summary.chapters) }}
@@ -44,4 +49,3 @@
     </ol>
 </div>
 {% endblock %}
-
