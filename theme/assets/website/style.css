@@ -3380,7 +3380,7 @@ figure figcaption {
 h1 {
   display: block;
   clear: both;
-  background-image: url('/en/images/trame-2.svg');
+  background-image: url('../images/trame-2.svg');
   background-repeat: no-repeat;
   background-position: center;
   padding: 15% 5%;
@@ -3397,7 +3397,7 @@ h1 {
 h2 {
   display: block;
   clear: both;
-  background-image: url('/en/images/trame.svg');
+  background-image: url('../images/trame.svg');
   margin-top: 20px;
   padding: 20px 20px 20px 20px;
   position: relative;
