@@ -51,9 +51,9 @@ module.exports = function(grunt) {
         },
         files: [{
           expand: true,                           // Enable dynamic expansion
-          cwd: './exports/open-guide/images/',    // Src matches are relative to this path
+          cwd: './exports/open-guide/en/images/',    // Src matches are relative to this path
           src: ['**/*.{png,jpg,gif}'],            // Actual patterns to match
-          dest: './exports/open-guide/images/'    // Destination path prefix
+          dest: './exports/open-guide/en/images/'    // Destination path prefix
         }]
       }
     },
@@ -64,8 +64,8 @@ module.exports = function(grunt) {
             height: 1000, // Because without that, it just generates a 1x1px file
             //overwrite: true
         },
-        src: './exports/open-guide/images/*',
-        dest: './exports/open-guide/images/'
+        src: './exports/open-guide/en/images/*',
+        dest: './exports/open-guide/en/images/'
       }
     },
     less: {
