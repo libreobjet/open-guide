@@ -467,6 +467,9 @@ body {
   margin-right: 10px;
   margin-left: 60px;
 }
+.page .section blockquote img[alt*="Portrait"] {
+  margin-left: 0px;
+}
 .page .section img[src$="girl-bulle.png"] {
   display: inline;
   float: left;
@@ -517,7 +520,7 @@ div#authors + ul li > ul {
 div#authors + ul li > ul li {
   width: 100%;
 }
-/*** Stuff to make a better book ***/
+/*** Stuff to make a better book hopefully ***/
 .page .section h3,
 .page .section h4 {
   page-break-after: avoid;
@@ -543,7 +546,6 @@ div#authors + ul li > ul li {
 .page .section h3 + blockquote,
 .page .section h4 + blockquote {
   page-break-before: avoid;
-  background: red;
 }
 .page-break {
   page-break-after: always;
