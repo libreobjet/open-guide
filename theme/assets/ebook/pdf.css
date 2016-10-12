@@ -521,6 +521,9 @@ div#authors + ul li > ul li {
   width: 100%;
 }
 /*** Stuff to make a better book hopefully ***/
+.page .section h1 {
+  page-break-after: always;
+}
 .page .section h3,
 .page .section h4 {
   page-break-after: avoid;
