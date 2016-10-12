@@ -31,7 +31,11 @@
 {% block page %}
 <div class="section toc">
     {% if options.generator == "pdf" %}
-    <div class="print-only blank-page"></div>
+    <div class="print-only blank-page">
+      <div class="first-page">
+        <img src="images/Lo-bullet.svg" alt="logo libre objet">
+      </div>
+    </div>
     <div class="print-only blank-page"></div>
     {% endif %}
 
