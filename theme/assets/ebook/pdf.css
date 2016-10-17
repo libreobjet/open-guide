@@ -168,7 +168,8 @@ body {
 .pdf-header {
   margin: 0;
   padding: 0;
-  margin-top: 20px;
+  position: absolute;
+  bottom: 0px;
   padding-bottom: 10px;
   color: #aaa;
 }
@@ -466,6 +467,9 @@ body {
   margin-right: 10px;
   margin-left: 60px;
 }
+.page .section blockquote img[alt*="Portrait"] {
+  margin-left: 0px;
+}
 .page .section img[src$="girl-bulle.png"] {
   display: inline;
   float: left;
@@ -516,21 +520,32 @@ div#authors + ul li > ul {
 div#authors + ul li > ul li {
   width: 100%;
 }
-h3,
-h4 {
+/*** Stuff to make a better book hopefully ***/
+.page .section h3,
+.page .section h4 {
   page-break-after: avoid;
 }
-h3 + img,
-h4 + img,
-h3 + figure,
-h4 + figure {
+.page .section h3 + img,
+.page .section h4 + img,
+.page .section h3 + figure,
+.page .section h4 + figure {
   page-break-before: avoid;
 }
-h3 + img + img,
-h4 + img + img,
-h3 + figure + img,
-h4 + figure + img {
+.page .section h3 + img img,
+.page .section h4 + img img,
+.page .section h3 + figure img,
+.page .section h4 + figure img {
   page-break-before: inherit;
+}
+.page .section h3 + img + blockquote,
+.page .section h4 + img + blockquote,
+.page .section h3 + figure + blockquote,
+.page .section h4 + figure + blockquote {
+  page-break-before: avoid;
+}
+.page .section h3 + blockquote,
+.page .section h4 + blockquote {
+  page-break-before: avoid;
 }
 .page-break {
   page-break-after: always;
@@ -538,4 +553,18 @@ h4 + figure + img {
   height: 0;
   margin:  0;
   margin-bottom: -10px;
+}
+.blank-page {
+  display: block;
+  clear: both;
+  page-break-after: always;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+.page .section .first-page {
+  width: 100%;
+  display: inline-block;
+  padding: 350px 180px 0 0;
 }
