@@ -112,3 +112,11 @@ It is the result of observing, using and creating digital technologies, free sof
 
 Copyleft Attitude, 2007.  
 You can make reproductions and distribute this license verbatim (without any changes).
+
+<div class="page-break">&nbsp;</div>
+
+<div class="page-break">&nbsp;</div>
+
+<div class="page-break">&nbsp;</div>
+
+<div class="page-break">&nbsp;</div>
