@@ -148,7 +148,7 @@ A CNC router typically produces consistent and high-quality work and improves fa
 > Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Laser_cutting)   
 
-
+<div class="page-break"></div>
 #### 3D printer
 
 ![**Pict**_Homemade RepRap 3D printer_ − Drigotti − CC-by-sa 3.0](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
@@ -158,8 +158,7 @@ A CNC router typically produces consistent and high-quality work and improves fa
 > 3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense.  
 −[Wikipedia](https://en.wikipedia.org/wiki/3D_printing)   
 
-
-
+<div class="page-break"></div>
 #### Build your own tools
 Improving your tools by yourself or making your  open source tools for doing open source design is another option. In the traditional woodworking this was a very common practice. Nowadays there are a lot of people that make their own tools or improving their own tools. For example the conversions of milling hand routers into a CNC routers or the fabrication of 3D printers.
 
@@ -178,6 +177,7 @@ Objects
 
 &#8608; This is a good example about the advantages of the open source objects. Thanks to the open license of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new purpose is born.
 
+<div class="page-break"></div>
 ### Wikiseat
 
 ![**Pict**_Wikiseat_ − CC-by-sa](./images/wikiseat01.jpg)
@@ -220,9 +220,12 @@ This is a particular interesting exemple since, Theo Jansen has also built his o
 ![**Pict**_Presentation of 1962_ − Raphaël Bastide − MIT License](./images/1962.png)
 
 > Sculptures conceptualized using a revision control system and represented physically.
+
+> Any physical interpretation of the PIECE documentation hosted on this GitHub repository, or a version of it will be part of the 1962 project.  
 http://raphaelbastide.com/1962/
 
-An exploration by Raphaël Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts.
+An exploration by Raphaël Bastide of the relation between open source tools, documentation and formulation of physical artefacts.
+
 
 ### Sea Chair
 

@@ -155,7 +155,7 @@ Food for thought
 >  Copyrights  are considered **territorial rights**, which means that   they do not  extend beyond the territory of a specific jurisdiction.  While many  aspects of national copyright laws have been standardized     through  international copyright agreements, copyright laws vary by    country.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Copyright)
 
-
+<div class="page-break"></div>
 ### Copyleft
 
 ![_Reversed copyright symbol_ − Public Domain](./images/Copyleft.png)

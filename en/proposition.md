@@ -14,6 +14,7 @@ So, from now on, we hope you agree with us that we should only call **Open sourc
 >  As a verb is the process of creating a new product to be sold by a business to its customers. A very broad concept, it is  essentially the efficient and effective generation and development of ideas through a process that leads to new products.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Product_design )
 
+<div class="page-break"></div>
 #### Open making
 Open making is a practice mainly defined by the community around the website and project called OpenDesk.
 > [They seek] to define an emerging movement at the intersection of  technology, design and  manufacturing. [Open design] is an evolving set of principles and best practices on design and production for a  collaborative economy.  

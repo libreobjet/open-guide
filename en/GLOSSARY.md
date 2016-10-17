@@ -62,7 +62,7 @@ Since free software is often associated with gratis, the _libre_ French word is 
 −[Libre Graphics Magazine](http://libregraphicsmag.com/ )
 
 #### Hacker
-> 1. A person who enjoys exploring the details of programmable systems  and how to stretch their capabilities, as opposed to most http://www.collinsdictionary.com/dictionary/english/stealusers, who prefer to learn only the minimum necessary.  RFC1392, the Internet Users' Glossary,  usefully amplifies this as: A person who delights in having an     intimate understanding of the internal workings of a system, computers  and computer networks in particular.  
+> 1. A person who enjoys exploring the details of programmable systems  and how to stretch their capabilities, as opposed to most, who prefer to learn only the minimum necessary. A person who delights in having an intimate understanding of the internal workings of a system, computers  and computer networks in particular.  
 −[The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
 
 > 6. An expert or enthusiast of any kind. One might be an astronomy hacker, for example.  
