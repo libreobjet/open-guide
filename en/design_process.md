@@ -153,8 +153,9 @@ A CNC router typically produces consistent and high-quality work and improves fa
 
 ![**Pict**_Homemade RepRap 3D printer_ − Drigotti − CC-by-sa 3.0](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
 
-> 3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source.  
-3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense.  
+> 3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source.
+
+> 3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense.  
 −[Wikipedia](https://en.wikipedia.org/wiki/3D_printing)   
 
 

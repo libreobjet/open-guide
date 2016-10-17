@@ -317,16 +317,6 @@ body {
   padding-left: 60px;
   padding-right: 60px;
 }
-.page .section blockquote p {
-  font-family: 'Alegreya';
-  font-weight: normal;
-  font-size: 1em;
-  text-align: justify;
-  width: 100%;
-  color: #247940;
-  margin: 0px;
-  padding: 0px;
-}
 .page .section blockquote {
   display: block;
   float: left;
@@ -338,6 +328,19 @@ body {
   border: solid 2pt;
   border-color: #247940;
   box-shadow: 10pt 10pt 0 0 #247940;
+}
+.page .section blockquote p {
+  font-family: 'Alegreya';
+  font-weight: normal;
+  font-size: 1em;
+  text-align: justify;
+  width: 100%;
+  color: #247940;
+  margin: 0 0 1em 0;
+  padding: 0px;
+}
+.page .section blockquote p:last-child {
+  margin: 0px;
 }
 .page .section li,
 .page .section li > p {
@@ -531,16 +534,8 @@ div#authors + ul li > ul li {
 .page .section h4 + figure {
   page-break-before: avoid;
 }
-.page .section h3 + img img,
-.page .section h4 + img img,
 .page .section h3 + figure img,
 .page .section h4 + figure img {
-  page-break-before: inherit;
-}
-.page .section h3 + img + blockquote,
-.page .section h4 + img + blockquote,
-.page .section h3 + figure + blockquote,
-.page .section h4 + figure + blockquote {
   page-break-before: avoid;
 }
 .page .section h3 + blockquote,

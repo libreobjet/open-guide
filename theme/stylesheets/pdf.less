@@ -264,17 +264,6 @@ body {
     padding-right: 60px;
   }
 
-  blockquote p{
-    font-family: 'Alegreya';
-    font-weight: normal;
-    font-size: 1em;
-    text-align: justify;
-    width: 100%;
-    color:#247940;
-    margin: 0px;
-    padding: 0px;
-  }
-
   blockquote {
     display:block;
     float:left;
@@ -286,6 +275,21 @@ body {
     border: solid 2pt;
     border-color: #247940;
     box-shadow: 10pt 10pt 0 0 #247940;
+
+    p {
+      font-family: 'Alegreya';
+      font-weight: normal;
+      font-size: 1em;
+      text-align: justify;
+      width: 100%;
+      color:#247940;
+      margin: 0 0 1em 0;
+      padding: 0px;
+    }
+
+    p:last-child {
+      margin: 0px;
+    }
   }
 
   li,
@@ -491,15 +495,12 @@ div#authors + ul {
     + img,
     + figure {
       page-break-before: avoid;
-      img {
-        page-break-before: inherit;
-      }
-      + blockquote {
-        page-break-before: avoid;
-      }
+    }
+    + figure img {
+      page-break-before: avoid;
     }
     + blockquote {
-      page-break-before: avoid; // Not really working but left here as an example
+      page-break-before: avoid;
     }
   }
 }

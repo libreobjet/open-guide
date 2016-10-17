@@ -78,11 +78,13 @@ Surprise, surprise! Creative Commons is not a license. **It's a set of licenses*
 
 ### [TAPR License](http://www.tapr.org/ohl.html )
 
-The TAPR Open Hardware License is a license dedicated to open hardware projects, usually electronics components involved in amateur radio. This license could be applied to any objects and addresses the specificity of open sourcing physical objects.
+The TAPR Open Hardware License is a license dedicated to open hardware projects. Due to its origin, it's a license found usually related to electronics components involved in amateur radio. This license could be applied to any objects and addresses the specificity of open sourcing physical objects.
 
 ### [CERN](http://www.ohwr.org/projects/cernohl/wiki )
 
 > In the spirit of knowledge sharing and dissemination, the CERN Open Hardware License (CERN OHL) governs the use, copying, modification and  distribution of hardware design, documentation, and the manufacture and distribution of products.
+
+The CERN OHL could be the best choice, as more and more open source hardware projects tend to use it. If a lot of projects trust a license, there is a good chance that it has some quality to it and we can expect that quality to improve with time, as more and more people will challenge it. Just as it happened with GNU GPL.
 
 ### [GPL](https://gnu.org/licenses/gpl.html )
 
@@ -160,8 +162,9 @@ Food for thought
 
 > Copyleft (a play on the word copyright)  is the practice of offering people the right to freely distribute   copies and modified versions of a work with the stipulation that the     same rights be preserved in derivative works down the line.
 
->  Copyleft  is a form of licensing, and can be used to maintain  copyright  conditions for works ranging from computer software, to    documents, to  art.  In general, copyright law is used by an author to    prohibit  recipients  from reproducing, adapting, or distributing   copies  of their  work. In  contrast, under copyleft, an author may  give  every  person who  receives a  copy of the work permission to   reproduce,  adapt,  or  distribute it, with the accompanying  requirement  that any  resulting   copies or adaptations are also bound  by the same  licensing  agreement.  
-Copyleft  licenses for software **require that information necessary for reproducing and modifying the work must be made available to recipients of the binaries**. The source code files will usually    contain a copy of  the license terms and acknowledge the authors.
+>  Copyleft  is a form of licensing, and can be used to maintain  copyright  conditions for works ranging from computer software, to    documents, to  art.  In general, copyright law is used by an author to    prohibit  recipients  from reproducing, adapting, or distributing   copies  of their  work. In  contrast, under copyleft, an author may  give  every  person who  receives a  copy of the work permission to   reproduce,  adapt,  or  distribute it, with the accompanying  requirement  that any  resulting   copies or adaptations are also bound  by the same  licensing  agreement.
+
+> Copyleft  licenses for software **require that information necessary for reproducing and modifying the work must be made available to recipients of the binaries**. The source code files will usually    contain a copy of  the license terms and acknowledge the authors.
 −[Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
 
 
@@ -186,9 +189,12 @@ This approach of grid based designed applied to objects is very interesting and 
 
 ![_IkeaHackers_ − Mathieu Gabiot − Free Art License](./images/ikea-hackers.svg)
 
-The famous IkeaHackers website gets threatened for intellectual property infringement.
+The website IkeaHackers.net was created in 2006 by Jules Yap to gather ideas and recipes related to modifications and repurposing of Ikea products. In 2014, so 8 years later after its creation, the website was threatened for intellectual property infringement.
+
 > Some months ago I received a Cease and Desist (C&D) letter from the agent of Inter IKEA Systems B.V., citing that my site IKEAhackers.net has infringed upon its intellectual property rights. [...]
+
 > Long   story short, after much negotiation between their agent and my lawyer,  I  am allowed to keep the domain name IKEAhackers.net only on the   condition that it is non-commercial, meaning no advertising whatsoever.
+
 > I agreed to that demand. Because the name IKEAhackers is very dear to me and I am soooo reluctant to give it up. I love this site’s community and what we have  accomplished in the last 8 years. Secondly, I don’t have deep enough pockets to fight a mammoth company in court."
 
 Open questions
