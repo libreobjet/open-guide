@@ -108,15 +108,7 @@ The Free Art License can be applied to digital as well as physical works.
 You can choose to apply the Free Art License on any text, picture, sound, gesture, or whatever sort of stuff on which you have sufficient author’s rights.
 
 *– Historical background of this license:*  
-It is the result of observing, using and creating digital technologies, free software, the Internet and art. It arose from the « Copyleft Attitudeâ€ meetings which took place in Paris in 2000. For the first time, these meetings brought together members of the Free Software community, artists, and members of the art world. The goal was to adapt the principles of Copyleft and free software to all sorts of creations. http://www.artlibre.org
+It is the result of observing, using and creating digital technologies, free software, the Internet and art. It arose from the « Copyleft Attitude » meetings which took place in Paris in 2000. For the first time, these meetings brought together members of the Free Software community, artists, and members of the art world. The goal was to adapt the principles of Copyleft and free software to all sorts of creations. http://www.artlibre.org
 
 Copyleft Attitude, 2007.  
 You can make reproductions and distribute this license verbatim (without any changes).
-
-<div class="page-break">&nbsp;</div>
-
-<div class="page-break">&nbsp;</div>
-
-<div class="page-break">&nbsp;</div>
-
-<div class="page-break">&nbsp;</div>
