@@ -497,6 +497,10 @@ body {
 .page .section p > img[src$="guy-bulle.png"] {
   margin-right: -60px;
 }
+.page .section img[alt^="Medialab"] {
+  width: 150px;
+  margin-left: 50px;
+}
 /* Authors */
 div#authors + ul {
   list-style-image: none;
