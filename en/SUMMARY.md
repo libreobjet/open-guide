@@ -11,3 +11,4 @@
 * Appendix
   * [Illustrations](appendix/illustrations.md)
   * [Free Art License](appendix/LICENSE.md)
+  * [Colophon](appendix/colophon.md)
