@@ -21,6 +21,7 @@
     "grunt-contrib-imagemin": "^1.0.0",
     "grunt-contrib-less": "^1.2.0",
     "grunt-image-resize": "^1.0.0",
+    "grunt-imagemagick": "^0.1.5",
     "grunt-responsive-images": "^0.1.7",
     "grunt-run": "^0.5.2",
     "grunt-shell": "^1.1.2",
