@@ -1,5 +1,8 @@
 # Ignore any file or folder that is not necessary for the book
 .sparkleshare
+.npmrc
+.gitignore
+*.ejs
 
 scripts/
 exports/

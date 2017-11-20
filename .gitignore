@@ -8,7 +8,7 @@ node_modules/
 *.epub
 *.mobi
 
-book.json
+# book.json
 
 styles/*.less
 
