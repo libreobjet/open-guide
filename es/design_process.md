@@ -132,7 +132,7 @@ Inkscape es un editor gráfico vectorial free/libre y de código abierto que se 
 
 ### Herramientas Digitales para Fabricación
 
-Router CNC
+#### Router CNC
 
 ![**Pict** _CNC router_ − Timo Ulmanen − CC-by](./images/cnc-router-CCBY-Timo-Ulmanen.jpg)
 
