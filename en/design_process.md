@@ -124,7 +124,7 @@ OpenSCAD is a software for creating solid 3D CAD models using code. It is free s
 
 Blender is the free/libre and open source 3D creation suite. It is most well-know for its artistic capabilities in the field of 3D illustration and animation. It supports the entirety of the 3D pipeline from modeling to rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. But more and more people use it to produce or manipulate files for 3D printing and CAD related tasks. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools.
 
-#### Inskape
+#### Inkscape
 
 ![**Pict**_Inskape screenshot_](./images/inkscape.png)
 
