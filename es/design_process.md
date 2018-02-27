@@ -104,86 +104,86 @@ Las herramientas Free/Libre y de código abierto son generalmente mejores para m
 
 ![**Pict**_LibreCAD screenshot_](./images/librecad.png)
 
-LibreCAD is a free/libre and open source CAD application for Windows, Apple and Linux that some users have compared to the proprietary Autocad.
+LibreCAD es una aplicación CAD free/libre y de código abierto para Windows, Apple y Linux que algunos usuarios han comparado con Autocad.
 
 #### FreeCAD
 
 ![**Pict**_FreeCAD screenshot_](./images/freecad.png)
 
-FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is a multi-platform customizable, scriptable and extensible software that reads and writes many open file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
+FreeCAD es un modelador 3D paramétrico creado principalmente para diseñar objetos reales de cualquier tamaño. El modelado paramétrico te permite modificar fácilmente tu diseño volviendo al mismo modelo y cambiando sus parámetros. FreeCAD es un software multiplataforma personalizable, programable y flexible que lee y escribe muchos formatos de archivo abiertos como STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE y muchos otros.
 
 #### OpenSCAD
 
 ![**Pict**_OpenSCAD screenshot_](./images/openscad-screen.jpg)
 
-OpenSCAD is a software for creating solid 3D CAD models using code. It is free software and available on all major platforms. If you have abilities in coding and want to produce CAD files using a special scipting language, this might be the application you are looking for.
+OpenSCAD es un software para la creación de modelos CAD 3D sólidos utilizando código. Es software libre y está disponible en todas las principales plataformas. Si tienes habilidades de programación y quieres producir archivos CAD usando un lenguaje especial de cifrado, esta puede ser la aplicación que estás buscando.
 
 #### Blender
 
 ![**Pict**_Blender screenshot_](./images/blender.png)
 
-Blender is the free/libre and open source 3D creation suite. It is most well-know for its artistic capabilities in the field of 3D illustration and animation. It supports the entirety of the 3D pipeline from modeling to rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. But more and more people use it to produce or manipulate files for 3D printing and CAD related tasks. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools.
+Blender es la suite de creación 3D free/libre y de código abierto. Es muy conocido por sus capacidades artísticas en el campo de la ilustración y animación 3D. Es compatible con la totalidad de la tubería 3D, desde el modelado, rigging, animación, simulación, renderizado, composición y seguimiento de movimiento, hasta edición de vídeo y creación de juegos. Pero cada vez más personas lo utilizan para producir o manipular archivos para impresión 3D y tareas relacionadas con CAD. Los usuarios avanzados emplean la API de Blender para scripting Python para personalizar la aplicación y escribir herramientas especializadas.
 
 #### Inskape
 
 ![**Pict**_Inskape screenshot_](./images/inkscape.png)
 
-Inkscape is a free/libre and open-source vector graphics editor that runs on all major platforms. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
+Inkscape es un editor gráfico vectorial free/libre y de código abierto que se ejecuta en las principales plataformas. Lo que distingue a Inkscape es su uso de Scalable Vector Graphics (SVG), un estándar W3C basado en XML abierto, como formato nativo.
 
-### Digital Tools for fabrication
+### Herramientas Digitales para Fabricación
 
-#### CNC router
+Router CNC
 
 ![**Pict** _CNC router_ − Timo Ulmanen − CC-by](./images/cnc-router-CCBY-Timo-Ulmanen.jpg)
 
-> A CNC router is a computer controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminum, steel, plastics, and foams. CNC stands for _computer numerical control_. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine.  
-A CNC router typically produces consistent and high-quality work and improves factory productivity. Automation and precision are the key benefits of cnc router tables.  
+Un router CNC es una máquina de corte controlada por computadora conectada a la ruteadora manual usada para cortar varios materiales duros, como madera, compuestos, aluminio, acero, plásticos y espumas. CNC significa _computer numerical control_. Los routers CNC pueden realizar las tareas de muchas máquinas de carpintería como por ejemplo la cortadora de tableros, la moldeadora de cabezal y la taladradora.  
+Un router CNC normalmente produce un trabajo consistente y de alta calidad y mejora la productividad de fábrica. Automatización y precisión son los beneficios clave de las tablas de router cnc.  
 −[Wikipedia](https://en.wikipedia.org/wiki/CNC_router)   
 
 
-#### Laser cutter
+#### Cortador Láser
 
 ![**Pict** _Laser cutter_ − Does Liverpool − CC-by-sa](./images/Laser-cutter-CC-BY-SA-does-liverpool.jpg)
 
-> Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish.  
+> El corte láser es una tecnología que utiliza un láser para cortar materiales, y se utiliza generalmente para aplicaciones de fabricación industrial, pero también está empezando a ser utilizado por escuelas, pequeñas empresas y aficionados. El corte por láser funciona dirigiendo la salida de un láser de alta potencia comúnmente a través de la óptica. La óptica láser y el CNC (Computer numerical control) se utilizan para dirigir el material o el rayo láser generado. El rayo láser enfocado se dirige hacia el material, que luego se derrite, quema,  evapora o es soplado por un chorro de gas,[1] dejando un borde con un acabado superficial de alta calidad.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Laser_cutting)   
 
 
-#### 3D printer
+#### Impresora 3D
 
 ![**Pict**_Homemade RepRap 3D printer_ − Drigotti − CC-by-sa 3.0](./images/RepRap Home made 3D printer_by Tiia Monto CC BY-SA 3.0.jpg)
 
-> 3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. In 3D printing, successive layers of material are formed under computer control to create an object. These objects can be of almost any shape or geometry, and are produced from a 3D model or other electronic data source.
+> La impresión 3D, también conocida como manufactura aditiva (AM), se refiere a varios procesos utilizados para sintetizar un objeto tridimensional. En la impresión 3D, se forman sucesivas capas de material bajo control computarizado para crear un objeto. Estos objetos pueden ser de casi cualquier forma o geometría, y se producen a partir de un modelo 3D u otra fuente de datos electrónicos.
 
-> 3D printing in the term's original sense  refers to processes that sequentially deposit material onto a powder  bed with inkjet printer heads. More recently, the meaning of the term  has expanded to encompass a wider variety of techniques such as extrusion and sintering-based processes. Technical standards generally use the term additive manufacturing for this broader sense.  
+> La impresión en 3D en el sentido original del término se refiere a procesos que depositan el material en forma secuencial en una base de polvo con cabezales de impresión de inyección de tinta. Recientemente, el significado del término se ha expandido para abarcar una variedad más amplia de técnicas como la extrusión y los procesos basados en la sinterización. Los estándares técnicos utilizan generalmente el término fabricación aditiva para este sentido más amplio.  
 −[Wikipedia](https://en.wikipedia.org/wiki/3D_printing)   
 
 
 
-#### Build your own tools
-Improving your tools by yourself or making your  open source tools for doing open source design is another option. In the traditional woodworking this was a very common practice. Nowadays there are a lot of people that make their own tools or improving their own tools. For example the conversions of milling hand routers into a CNC routers or the fabrication of 3D printers.
+#### Construye Tus Propias Herramientas
+Otra opción es mejorar tus herramientas por ti mismo o crear tus herramientas de código abierto para hacer diseño de código abierto. En la carpintería tradicional esto era una práctica muy común. Hoy en día hay mucha gente que fabrica sus propias herramientas o las mejora. Por ejemplo, la conversión de fresadoras manuales en routers CNC o la fabricación de impresoras 3D.
 
-Objects
+Objetos
 ------------
 
 ### Bouctje & REEBOeK
 
 ![**Pict**_Bouctje by Mathieu Gabiot_ − Libre Objet − Free Art License](./images/Bouctje_by_Mathieu Gabiot.jpg)
 
-[Bouctje](http://libreobjet.org/objects/bouctje/ ) is a bookshelf designed by Mathieu Gabiot on January 2013 and licensed with a Free Art License.
+[Bouctje](http://libreobjet.org/objects/bouctje/ ) es una estantería de libros diseñada por Mathieu Gabiot en enero de 2013 y licenciada con una Licencia de Arte Libre.
 
 ![**Pict**_REEBOeK by Verly Laurent_ − Libre Objet − Free Art License](./images/REEBOeK _Verly Laurent.JPG)
 
-[REEBOek](http://libreobjet.org/objects/reeboek/ ) is derived design of Bouctje made by Laurent Verly on September 2013 also licensed with a Free Art License.
+[REEBOek](http://libreobjet.org/objects/reeboek/ ) es un diseño derivado de Bouctje realizado por Laurent Verly en septiembre de 2013 también bajo licencia con Licencia de Arte Libre.
 
-&#8608; This is a good example about the advantages of the open source objects. Thanks to the open license of Bouctje, its design could be modified,  its scale and functionality were changed, and a new object with a new purpose is born.
+&#8608; Este es un buen ejemplo de las ventajas de los objetos de código abierto. Gracias a la licencia abierta de Bouctje, su diseño pudo ser modificado, su escala y funcionalidad fueron modificadas y nació un nuevo objeto con un nuevo propósito.
 
 ### Wikiseat
 
 ![**Pict**_Wikiseat_ − CC-by-sa](./images/wikiseat01.jpg)
 
-> WikiSeat is an open source furniture project. That means that all of the documentation for how to build a WikiSeat is freely and  openly published online.  
-At the heart of each WikiSeat is a Catalyst. This is the structural support, made out of welded angle iron, that helps hold three legs in place. The seat part goes on top. It is a pretty simple idea, but there are no instructions for _how_ to assemble these parts. We encourage people to find materials rather than buying them from a store. Every WikiSeat is a truly unique creation, a reflection of the creators environment and ideas.  
+> WikiSeat es un proyecto de muebles de código abierto. Esto significa que toda la documentación sobre cómo construir un WikiSeat se publica libre y abiertamente en línea.  
+En el corazón de cada WikiSeat hay un Catalyst. Este es el soporte estructural, fabricado en hierro de ángulo soldado, que ayuda a sostener tres patas en su lugar. La parte del asiento va arriba. Es una idea bastante simple, pero no hay instrucciones para  _ How_to  ensamblar estas partes. Animamos a las personas a encontrar materiales en lugar de comprarlos en una tienda. Cada WikiSeat es una creación verdaderamente única, un reflejo del entorno y las ideas de los creadores.  
 −[Wikiseat](http://www.wikiseat.org/about/)
 
 ![**Pict**_Wikiseat_ − CC-by-sa](./images/wikiseat02.jpg)
@@ -194,46 +194,46 @@ At the heart of each WikiSeat is a Catalyst. This is the structural support, mad
 
 ![**Pict**_uHbench_ − Julien Deswaef − Free Art License](./images/uhbench.png)
 
-> The uHbench (v 1.5) is a libre object designed by Julien Deswaef. Made with love and f/los software (Blender, Freestyle, Inkscape, Bash, XMLStarlet, Git & Gnu/Linux)
-Get from a standard (Epal-Eur) pallet to a public bench in just a couple easy steps. The idea came while thinking about urban hacking or how to  reclaim public space with easy to find material and tools in urban areas.  
+> El uHbench (v 1.5) es un objeto libre diseñado por Julien Deswaef. Hecho con amor y software f/los (Blender, Freestyle, Inkscape, Bash, XMLStarlet, Git & Gnu/Linux)
+Pasa de un palet estándar (Epal-Eur) a un banco público en sólo un par de sencillos pasos. La idea surgió al pensar en el hacking urbano o en cómo recuperar el espacio público con materiales y herramientas fáciles de encontrar en las zonas urbanas.  
 http://xuv.be/uH-bench-open-source-public-bench.html
 
-Food for thought
+Comida para Pensar
 ----------------
 
 ### Strandbeest
 
 ![**Pict**_Theo Jansen's Strandbeest at Fundacion Telefonica, Madrid_ − Julien Deswaef − Free Art License](./images/strandbeest.jpg)
 
-> Theo Jansen has been creating _Strandbeest_ (Dutch: _strand_=beach; _beest_=beast), wind-walking examples of artificial life, since 1990. What was at first a rudimentary breed has slowly evolved into a generation of machines that are able to react to their environment. Constructed as intricate assemblages of piping, wood, and wing-like sails, Jansen's creations are constantly being improved and have become excellently adapted to their sandy beach environment.  −[Wikipedia](https://en.wikipedia.org/wiki/Theo_Jansen )
+> Theo Jansen ha estado creando  el _Strandbeest_ (en Holandés: _strand_= playa; _beest_= bestia), ejemplos de vida artificial que caminan sobre el viento, desde 1990. Lo que al principio era una especie rudimentaria ha evolucionado lentamente hasta convertirse en una generación de máquinas capaces de reaccionar a su entorno. Construidas como intrincados ensamblajes de tuberías, madera y alas, similares a velas. Las creaciones de Jansen están siendo constantemente mejoradas y se han adaptado excelentemente a su entorno de playa.  −[Wikipedia](https://en.wikipedia.org/wiki/Theo_Jansen )
 
 ![**Pict**_Theo  Jansen's tools at Fundacion Telefonica, Madrid_ − Julien  Deswaef − Free Art License](./images/strandbeest-tools.jpg)
 
-This is a particular interesting exemple since, Theo Jansen has also built his own tools for creating and producing these machines and has followed a principle of forking and merging between every instance of his project.
+Este es un ejemplo particularmente interesante, ya que Theo Jansen ha construido sus propias herramientas para crear y producir estas máquinas y ha seguido un principio de forking y merging entre cada instancia de su proyecto.
 
 ### Upcyclist
-> Filled with an enormous range of materials and objects, this unique book will inspire any designer or design-conscious consumer to incorporate upcycling into their creative practice or interior design projects.  
-−[Upcyclist](https://www.bookdepository.com/Upcyclist-Antonia-Edwards/9783791349503 ) by Antonia Edward.
+> Lleno de una enorme variedad de materiales y objetos, este libro único inspirará a cualquier diseñador o consumidor consciente del diseño a incorporar el upcycling en su práctica creativa o proyectos de diseño de interiores.  
+−[Upcyclist](https://www.bookdepository.com/Upcyclist-Antonia-Edwards/9783791349503 ) por Antonia Edward.
 
-### 1962 - Versioned physical sculpture
+### 1962 - Versión de escultura física
 
 ![**Pict**_Presentation of 1962_ − Raphaël Bastide − MIT License](./images/1962.png)
 
-> Sculptures conceptualized using a revision control system and represented physically.
+> Esculturas conceptualizadas mediante un sistema de control de revisiones y representadas físicamente.
 http://raphaelbastide.com/1962/
 
-An exploration by Raphaël Bastide of the relation between open source tools, documentation and conceptualization of physical artefacts.
+Una exploración por Raphaël Bastide de la relación entre herramientas de código abierto, documentación y conceptualización de artefactos físicos.
 
-### Sea Chair
+### Silla de Mar (Sea Chair)
 
 ![_Sea chair_ − Mathieu Gabiot − Free Art License](./images/sea-chair.svg)
 
-> Sea chair is made entirely from plastic recovered from our oceans. Together with local fishermen, marine plastic is collected and processed into a stool at sea.  
+La silla de mar está hecha completamente de plástico recuperado de nuestros océanos. Junto con los pescadores locales, el plástico marino es recolectado y procesado en un deposito en el mar.  
 −[Studio Swine](http://www.studioswine.com/sea-chair )
 
-Open questions
+Preguntas Abiertas
 ----------------------
 ![](./images/girl-bulle.svg)
-- Do you think that the open source licenses make designing easier for non-professional people?
-- Do you think that the open source licenses make designing more democratic?
-- Do you prefer starting from scratch or from existing design?
+- ¿Crees que las licencias de código abierto facilitan el diseño a personas no profesionales?
+- ¿Crees que las licencias de código abierto hacen que el diseño sea más democrático?
+- ¿Prefieres empezar desde cero o desde un diseño ya existente?
