@@ -76,3 +76,104 @@ Formatos Abiertos
 Siendo la documentación un elemento clave, no le haría ningún bien al objeto y a su alcance si requiriera acceder a una aplicación propietaria.
 
 Los formatos abiertos son generalmente estándares para almacenar información que puede ser leída por un ser humano o una máquina y de la cual la especificación está disponible públicamente, completamente descrita y exenta de patentes y derechos de autor.
+
+Los formatos abiertos son la única manera de garantizar un futuro a tus documentos de diseño. Cualquier otro formato estaría vinculado a la voluntad de sus encargados de mantenerlo. No querrías que el trabajo de tu vida se volviera inaccesible porque alguna empresa, en algún lugar, se declaró en bancarrota o cambió su modelo de negocio y decidió no apoyar esta o aquella característica en particular.
+
+Y no pienses que el tamaño, popularidad o aparente bienestar financiero de una empresa es una garantía de algo.
+
+Herramientas
+-------
+
+### Plataformas de Distribución
+- http://libreobjet.org es la colección en línea de diseño de productos de código abierto del colectivo homónimo. Estamos abiertos a propuestas si sigues algunas reglas relacionadas con la documentación de tu proyecto. El código fuente del sitio web también está disponible como código abierto. Así que simplemente podrías copiar nuestra fuente y usarla para construir tu propia colección de proyectos.
+- http://gitlab.org es una plataforma de alojamiento de código dedicada a la colaboración de código abierto, pero también podría funcionar como un repositorio para diseños de código abierto. El código fuente de Gitlab también está disponible, por lo que puedes instalarlo en tu propio servidor.
+- http://el-recetario.net/ es una colección de proyectos de upcycling y sus recetas. Ellos permiten a cualquiera publicar proyectos bajo licencias CC. El sitio web está construido con Wordpress, un popular sistema de gestión de contenido de código abierto y podría servir como un buen ejemplo de una plataforma de distribución construida con estas herramientas.
+
+### Formatos Abiertos
+Sería absurdo enumerar en esta sección todos los formatos abiertos disponibles, algunos más populares que otros, y los nuevos formatos que se están creando todo el tiempo, pero aquí hay una breve selección:
+  - SVG (Scalable Vector Graphics) para archivos gráficos vectoriales
+  - PNG (Portable Network Graphics), es un formato de compresión estándar sin pérdidas para imágenes rasterizadas.
+  - STL (STereoLithography), un formato estándar para compartir archivos 3D, generalmente asociado con la impresión 3D.
+  - OBJ es un formato de archivo 3D abierto y el estándar _de facto_ para el intercambio de archivos entre aplicaciones 3D.
+  - PDF (Portable Document Format) es un estándar ampliamente utilizado para presentar documentos.
+
+### Distribuyendo Versionados
+Git y Mercurial son dos programas de control de fuente distribuidas que funcionan de manera similar. Proporcionan herramientas como el versionado de archivos que han ayudado a los programadores a trabajar juntos en grandes proyectos. Este tipo de herramientas, aunque más adaptadas a la gestión del texto, deben ser consideradas e integradas en mayor medida dentro del flujo de trabajo del diseñador.
+
+### Distribución Física
+Visita los fablabs, makerspaces, hackerspaces, micro-fábricas, fabricantes de la comunidad local y comparte tus creaciones. Por lo general, suelen reunir grandes grupos de personas que podrían ayudarte a distribuir tus proyectos.
+
+Objetos
+-----------
+
+### Telescopio Dobsoniano
+
+![**Pict**_Dobsonian telescope_ − Szőcs TamásTamasflex − CC-by-sa 3.0](./images/Dobsonian_telescopes_schematic.png)
+
+> John Lowry Dobson (Septiembre 14, 1915 – Enero 15, 2014) era un astrónomo amateur. Es más conocido por el telescopio Dobsonian, un telescopio reflector newtoniano portátil y de bajo costo.  
+−[Wikipedia](https://en.wikipedia.org/wiki/John_Dobson_%28amateur_astronomer%29 )
+
+El telescopio Dobsonian es un telescopio diseñado para la astronomía amateur. Fue creado en 1950 por el astrónomo amateur John Dobson y podríamos decir que es un objeto de código abierto, aunque los términos código abierto y licencias de código abierto no existían en ese momento. Es muy fácil de construir en casa utilizando materiales baratos y comunes, y su construcción no requiere ninguna habilidad especial. Incluso si hay modelos comerciales disponibles, generalmente son modificados y personalizados por sus usuarios. Estos hechos fomentan el constante refinamiento del diseño del telescopio cada vez que se construye.
+
+
+### El Liberator
+
+![**Pict**_Liberator gun_ − Kamenev − CC-by-sa 3.0](./images/DDLiberator2.3.jpg)
+
+![**Pict**_Parts of Liberator 3D-printable gun, designed by Defense Distributed_ − Vvzlad − CC-by-sa 3.0](./images/Liberator.3d.gun.vv.02.jpg)
+
+Durante los últimos años, una de las cuestiones más polémicas en relación con objetos de código abierto y su distribución han sido las armas impresas en 3D, y especialmente el caso altamente publicitado del arma de un solo disparo Liberator.
+
+> El Liberator es una pistola de un solo tiro imprimible en 3D, el primer arma de fuego imprimible de este tipo disponible en línea. La firma de código abierto Defense Distributed diseñó el arma y lanzó los planos en Internet el 6 de mayo de 2013. Los planes fueron descargados más de 100.000 veces en los dos días previos a que el Departamento de Estado de los Estados Unidos exigiera que Defense Distributed retirara los planos.  
+Los planes para el arma permanecen conservados por toda la Internet y están disponibles en sitios web para compartir archivos como The Pirate Bay.  
+−[Wikipedia] (https://en.wikipedia.org/wiki/Liberator_%28gun%29)
+
+El Arma Liberador fue un caso realmente polémico. No sólo generó discusiones sobre la ética de lo que se podría construir con las nuevas impresoras 3D domésticas, sino también sobre la distribución de los planos e instrucciones de los objetos y artefactos que se podrían imprimir.
+
+La controversia creada por Liberator demuestra el potencial del diseño de producto de código abierto distribuido por todo el mundo, independientemente de las fronteras, las costumbres o cualquier tipo de ley territorial.
+
+http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/regulating-the-liberator-prospects-for-the-regulation-of-3d-printing/
+
+
+### Readymake: Juego de Ajedrez Duchamp
+
+![_Readymake_ − Mathieu Gabiot − Free Art License](./images/readymake-Chess.svg)
+
+Readymake: Duchamp Chess Set es un juego de ajedrez imprimible basado en la versión que Marcel Duchamp diseñó para sí mismo. Este conjunto de piezas imprimibles fue hecho por Scott Kildall y Bryan Cera y lo compartieron en Thingiverse el 21 de abril de 2014. El 17 de septiembre de 2014 recibieron una carta advirtiéndoles que estaban infringiendo la propiedad intelectual de Marcel Duchamp. Después de preguntar a diferentes abogados e investigar posibles respuestas, decidieron quitar el Juego de Ajedrez Duchamp del repositorio y pidieron a todos los demás que lo hicieran.
+
+Este es un ejemplo de cómo se puede censurar el diseño de productos de código abierto.
+http://kildall.com/what-happened-to-the-readymake-duchamp-chess-pieces/
+
+Comida para Pensar
+------------------------
+
+### Amateurs del telescopio Dobsonian
+
+Este modelo de telescopio ha sido ampliamente distribuido en todo el mundo y es ahora el más utilizado por los astrónomos amateurs. Gracias a la red de propietarios de telescopios Dobsonianos, han sido muchos los descubrimientos realizados por observadores aficionados, como el cometa Hale-Bopp, descubierto por Alan Hale y Thomas Bopp en 1995.
+
+En el texto *La Revolución Pro-Am: Cómo los entusiastas están cambiando nuestra economía y sociedad*  Charles Leadbeater y Paul Miller explican cómo, gracias al telescopio Dobsonian, ahora existe una simbiosis entre astrónomos profesionales y astrónomos amateurs. Gracias a su apertura, el telescopio Dobsonian ha sido mejorado a un punto que lo hace casi tan potente como un telescopio profesional.
+
+Gracias a la distribución abierta del telescopio Dobsonian, la ciencia puede avanzar un poco más rápido. Cuando el astrónomo Bob Alborzian animó a Dobson a patentar el telescopio, Dobson respondió: "Son regalos para la humanidad".
+
+http://spontaneousgenerations.library.utoronto.ca/index.php/SpontaneousGenerations/article/viewFile/11947/11185
+
+http://www.demos.co.uk/files/proamrevolutionfinal.pdf
+
+### Otras plataformas:
+
+- http://www.opendesk.cc/ aceptará presentaciones de diseños abiertos que pueden ser producidos a través de mecanismos de fabricación digital típicamente encontrados en fablabs.
+
+- http://thepiratebay.se es un popular directorio en línea de archivos torrent, generalmente asociado con la distribución masiva de material de entretenimiento protegido por derechos de autor.
+
+### Entropie
+
+![**Pict** _Carriole à vélo_ − Asso Entropie − Free Art License](./images/carriole-entropie.jpg)
+
+Entropie ha publicado muchos diseños de producto de código abierto, como éste por ejemplo[_Carriole à Vélo_](http://www.asso-entropie.fr/fr/design-libre/notices/carriole-velo/) (moto remolque). Pero sólo comparten la documentación en un único pdf, sin otras fuentes adjuntas, lo que complica y frena las posibilidades de adaptación.
+
+Preguntas Abiertas
+----------------------
+![](./images/girl-bulle.svg)
+- ¿Cómo puedes hacer que tu objeto integre en su diseño la licencia y documentación necesaria para hacerlo?
+- ¿Cómo puedes decirle al usuario que el objeto que está usando es de código abierto?
+- ¿Qué podría ser un objeto que se distribuya a sí mismo?
