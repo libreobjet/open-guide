@@ -111,7 +111,7 @@ Algunos ejemplos de enfoques de diseñador a consumidor:
 - http://www.widehandside.com/ Una tienda D2C de Bélgica
 
 ### Mercado del arte
-[An original Jean Prouvé's school desk at 3000€](https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/ )
+[Un pupitre original de Jean Prouvé a 3000€.](https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/ )
 
 Preguntas Abiertas
 -----------------------
