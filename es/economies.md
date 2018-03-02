@@ -1,7 +1,7 @@
 Economías
 ========
 
-A veces, cuando hablamos de _Diseño de productos de código abierto, la gente se preocupa por cómo ganar dinero con sus creaciones. Y aunque estas preocupaciones son muy comprensibles -- todo el mundo tiene que llenar sus necesidades fisiológicas y sentirse seguro -- estas preguntas vienen desde un punto de vista muy estrecho sobre cómo se puede pagar a los diseñadores.
+A veces, cuando hablamos de _Diseño de productos de código abierto_, la gente se preocupa por cómo ganar dinero con sus creaciones. Y aunque estas preocupaciones son muy comprensibles -- todo el mundo tiene que llenar sus necesidades fisiológicas y sentirse seguro -- estas preguntas vienen desde un punto de vista muy estrecho sobre cómo se puede pagar a los diseñadores.
 
 Desde el comienzo de la industrialización a gran escala y la fabricación masiva de objetos, los diseñadores se han ganado la vida principalmente licenciando sus diseños y obteniendo regalías. En estos casos, la exclusividad y la popularidad de los objetos son elementos clave que influyen en la forma en que un diseñador gana dinero.
 
