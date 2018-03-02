@@ -53,3 +53,69 @@ A la gente le gusta compartir. Si les das algo que tienen derecho a compartir, l
 Algo que no hemos observado en el diseño de productos de código abierto, pero que podría tener algún impacto en un futuro cercano, es la importancia del constructor en el proceso de diseño de productos de código abierto. Si los archivos de diseño y la documentación están disponibles para descargar libremente, lo que diferencia a un objeto de otro es quién lo ha construido.
 
 Los coleccionistas siempre estarán dispuestos a pagar un extra por una pieza que haya sido construida por el creador original que por alguien más. Alguien más podría preferir pagarle a una empresa que es propiedad de sus trabajadores o que tiene un modelo social diferente al capitalista tradicional, las historias que rodean los objetos son lo que les dan valor. El valor de un objeto no reside sólo en su función y los mercados del arte, y el diseño vintage existe para probarlo.
+
+Herramientas
+-------
+ ### Goteo
+ > Goteo es una plataforma de financiación cívica y colaborativa para iniciativas ciudadanas y proyectos sociales, culturales, tecnológicos y educativos. Goteo cuenta con réplicas y alianzas en varios países, gracias a su código fuente abierto, así como a los premios y reconocimientos internacionales que acumula desde 2011. Es una herramienta para generar recursos "gota a gota" para una comunidad de comunidades[...]. [Su] misión está estrechamente vinculada a los principios de transparencia, progreso y mejora social.
+−[Goteo.org](https://en.goteo.org/about)
+
+### Opendesk
+[Opendesk](https://www.opendesk.cc/ ) promete ser un centro entre diseñadores y constructores locales. Su negocio se basa en crear, recopilar y promover diseños abiertos (no todos de código abierto) y fomentar la producción local de esos diseños a través de una red de fablabs y makerspaces. Luego se llevan una pequeña parte del precio cobrado al comprador final.
+
+### Snowdrift
+Este tipo de plataforma anima a los participantes a hacer donaciones regulares a los proyectos que desean apoyar. A través de pagos recurrentes muy pequeños y efectos en las redes sociales, el creador puede potencialmente obtener un salario mensual, permitiéndoles continuar con su trabajo creativo.  https://snowdrift.coop/
+
+Objetos
+-----------
+
+### Comingle
+
+![_Comingle Dildo_ − Mathieu Gabiot − Free Art License](./images/comingle.svg)
+
+[Comingle](https://www.comingle.io/) es un dildo vibrador de código abierto que puedes personalizar según el contenido de tu corazón. Se ha financiado con éxito a través de una campaña de financiación colectiva en [Indiegogo](https://www.indiegogo.com/projects/the-mod-multivibrating-open-source-dildo)
+
+### X-Modules: mobiliario para la Biblioteca Ixelles
+![**Pict**_X-Modules: furniture for Ixelles Library_ − Maria Solé Bravo and Julien Deswaef − CC-by-sa](./images/modules_W.png)
+
+Con _X-Modules_, Maria Solé Bravo y Julien Deswaef han desarrollado un diseño multifuncional para amueblar el patio de la entrada de la biblioteca pública de Ixelles en Bruselas. Como requiere la biblioteca, los muebles están hechos de material reciclado -- palets reutilizados -- y fueron construidos por vecinos y escolares durante una serie de talleres. La naturaleza de código abierto del proyecto encajaba perfectamente con la misión de la biblioteca y fue uno de los factores clave que hizo que este proyecto fuera seleccionado tras el concurso.
+
+### « Autour du trait » (Alrededor de la línea)
+
+![**Pict** _Autour du trait_ − Mathieu Gabiot − Free Art License](./images/Autour-du-trait-table-r-06.jpg)
+
+Con su serie _ "Autour du trait" _, Nonpareil vende sus diseños de producto open source en diferentes etapas de construcción. Por diferentes precios usted puede comprar una pieza de descarga en formato pdf, una construcción en bruto a un acabado clásico o incluso pedir una personalización del objeto en sí mismo.
+
+Comida para Pensar
+-----------------------
+
+### CUCULA
+> La empresa CUCULA produce y comercializa objetos de diseño de primera calidad y, como tal, transmite las calificaciones técnicas básicas en la producción de muebles. En un taller propio, impulsado por la colaboración activa entre refugiados, diseñadores y pedagogos, se está creando un espacio de producción animado, en el que se transfieren conocimientos sobre carpintería y diseño y se desarrollan nuevas ideas.[...] Como punto de partida, la manufactura está explorando el programa de mobiliario' Hazlo tu mismo' de Enzo Mari,' Autoprgettazione' Los ingresos de las futuras ventas de muebles se invertirán directamente en la educación y el coste de vida de los refugiados.
+http://www.cucula.org
+
+#### No eres un gadget: _Un Manifesto_
+Algunos autores han criticado la producción de servicios y objetos de código abierto, vinculándolos con el movimiento comunista y argumentando que obstaculizan el desarrollo. Por ejemplo, Jaron Lanier, escritor estadounidense de filosofía computacional, sugiere en su libro _You Are Not A Gadget: Un Manifiesto_ que las producciones de código abierto generan una especie de expropiación de las producciones intelectuales que él llama "Maoísmo Digital".
+
+#### Wikinomics: _Cómo la Colaboración en Masa lo Cambia Todo_
+En el libro bestseller _Wikinomics_, los autores, Don Tapscott y Anthony D. Williams, defienden la idea de que la apertura está creando una nueva forma de desarrollo económico y, más aún, sostienen que será una parte esencial de la innovación y el desarrollo económico en un futuro próximo.
+
+Los modelos económicos descritos en el libro se basan en cuatro temas: Aperturando. Peering, Compartiendo y actuando a nivel mundial.
+
+> Aperturando, que incluye no sólo estándares y contenidos abiertos, sino también transparencia financiera y una actitud abierta hacia las ideas y recursos externos.  Peering, que sustituye los modelos jerárquicos por un foro más colaborativo. Tapscott y Williams citan el desarrollo de Linux como el "ejemplo por excelencia del peering".  Compartiendo, que es un enfoque menos patentado de los productos (entre otras cosas), la propiedad intelectual, el ancho de banda y el conocimiento científico.  Actuando a nivel mundial, lo que implica abrazar la globalización e ignorar las "fronteras físicas y geográficas" tanto a nivel corporativo como individual".  −[Wikipedia](https://en.wikipedia.org/wiki/Wikinomics)
+
+### Diseñador a Consumidor (Designer-to-Consumer (D2C))
+Algunos ejemplos de enfoques de diseñador a consumidor:
+- http://monoqi.com/en/bestseller-shop.html
+- http://www.domusweb.it/en/design/2012/12/17/d2c-generation.html
+- http://shop.sylvainwillenz.com/ Sylvain Willenz es un diseñador con su propia tienda. Aunque editado por muchas marcas, también vende sus productos en su propio sitio web.
+- http://www.widehandside.com/ Una tienda D2C de Bélgica
+
+### Mercado del arte
+[An original Jean Prouvé's school desk at 3000€](https://www.1stdibs.com/furniture/tables/desks-writing-tables/jean-prouve-school-desk-pupitre-no-800-france-1952/id-f_2744972/ )
+
+Preguntas Abiertas
+-----------------------
+![](./images/girl-bulle.svg)
+- ¿Qué es lo que estás vendiendo?
+- ¿Por qué quieres ser conocido?
+- ¿Cuál es tu posición en esta economía capitalista?
