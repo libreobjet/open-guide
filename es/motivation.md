@@ -141,3 +141,93 @@ Comida para Pensar
 
 ### Adaptaciones aprobadas
 El límite de la derivación en el diseño clásico del copyright.
+
+![_LC2 and Chandigarh_ − Mathieu Gabiot − Free Art License](./images/LC2-Chandigarh-2.svg)
+
+El sillón y sofá original LC2 de Le Corbusier sigue siendo vendido y editado por [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2) Aunque se admiten adaptaciones del mismo por Doshi Levien y editado por [Moroso](http://www.doshilevien.com/projects/chandigarh/) en el mercado.
+
+![_Emeco and Ikea chairs_ − Mathieu Gabiot − Free Art License](./images/emeco-ikea.svg)
+
+
+Emco combate a Ikea por una supuesta copia de la silla apilable 20-06 de Norman Foster.
+http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
+
+### _La Société de consommation_
+Este libro escrito por el sociólogo Jean Baudrillard en 1970 describe cómo, en las sociedades contemporáneas, las relaciones sociales han sido reestructuradas por un nuevo fenómeno: el consumo masivo.
+
+### Movimiento agitador
+> El movimiento agitador es una secta religiosa que tenía principios rectores de sencillez, utilidad y honestidad. Sus creencias se reflejaron en el mobiliario bien hecho de los diseños minimalistas.  
+La dedicación de los Shakers al trabajo duro y la perfección ha dado como resultado una gama única de estilos de arquitectura, muebles y artesanía. Diseñaron sus muebles con cuidado, creyendo que hacer algo bien era en sí mismo "un acto de plegaria". Antes de finales del siglo XIX, rara vez hacían artículos con detalles elaborados o decoración extra, sino que sólo hacían cosas para sus usos previstos. [...]  
+Los interiores de las cocteleras de principios del siglo XIX se caracterizan por su austeridad y sencillez. La arquitectura simple de sus casas, casas de reunión y graneros han tenido una influencia duradera en la arquitectura y el diseño estadounidense.  
+−[Wikipedia](https://en.wikipedia.org/wiki/Shakers#Architecture_and_furnishings)
+
+### Victor Papanek
+
+![_Portrait Victor Papanek_ − Mathieu Gabiot − Free Art License](./images/Victor-Papanek.svg)
+
+> Victor Papanek fue un diseñador y educador que se convirtió en un firme defensor del diseño social y ecológicamente responsable de productos, herramientas e infraestructuras comunitarias. Desaprobaba productos manufacturados que eran inseguros, vistosos, inadaptados o esencialmente inútiles. Sus productos, escritos y conferencias fueron considerados colectivamente como un ejemplo y estímulo por muchos diseñadores. Papanek fue un filósofo del diseño y, como tal, fue un incansable y elocuente promotor de los objetivos y enfoques del diseño que tendrían en cuenta consideraciones sociales y ecológicas. Escribió que "el diseño se ha convertido en la herramienta más poderosa con la que el hombre da forma a sus herramientas y entornos (y, por extensión, a la sociedad y a sí mismo).  
+−[Wikipedia](https://en.wikipedia.org/wiki/Victor_Papanek )
+
+Busca y lee su libro _Diseño para el mundo real: Ecología Humana y Cambio Social_, no te arrepentirás.
+
+### Jean Prouvé
+
+![_Portrait Jean Prouvé_ − Mathieu Gabiot − Free Art License](./images/Jean-Prouve.svg)
+
+> Jean creció rodeado por los ideales y la energía de "l'École de Nancy", el colectivo artístico al que pertenecía su padre. Sus objetivos eran hacer el arte fácilmente accesible, forjar vínculos entre el arte y la industria, así como entre el arte y la conciencia social.
+
+> Los muebles de metal de Jean Prouvé se fabricaban copiosamente en todos los estudios y talleres. Su trabajo implicó una colaboración frecuente, la más famosa con Charlotte Perriand y Pierre Jeanneret. El estilo se distingue de los muebles de acero Bauhaus de la época por su rechazo a la técnica del tubo de acero. Prouvé tenía más fe en la durabilidad y la forma de la chapa, "doblada, prensada, comprimida más que soldada". Sus diseños hablan de una filosofía de trabajo que incluye el conocimiento de los materiales disponibles, el compromiso con la colaboración entre artistas y artesanos, la atención a los desarrollos técnicos en evolución y "el principio de no posponer nunca las decisiones para no perder el ímpetu ni complacerse en previsiones poco realistas". Prouvé influyó en el desarrollo de la idea de la arquitectura nómada, comparando una silla con una casa y diseñando ambas con la portabilidad en mente.  
+−[Wikipedia](https://en.wikipedia.org/wiki/Jean_Prouv%C3%A9 )
+
+Sus logros en chapa plegada (originalmente de menor coste y mayor resistencia, como la carrocería de los coches) incluyen bibliotecas, butacas, camas Anthony, escritorios y mesas Compass. Estas piezas son ejemplares y se citan como las más altas del siglo XX. Una edición original de la silla Anthony vale 40.000 EUR; en marzo de 2011 se vendió una silla canguro por 152.449 EUR; una biblioteca podría valorarse en más de 160.000 EUR)
+
+### Diseño para el mercado del arte.
+
+[Carpenters Workshop Gallery](http://carpentersworkshopgallery.com) es una galería conceptual híbrida donde los "diseñadores" se llaman ahora "artistas".
+
+> Cuando empezamos, hace menos de una década, había poca conexión entre el arte y el diseño. Desde entonces, las cosas han cambiado mucho. Nos complace ver que ahora hay diseñadores que ya no hacen diseño industrial, están creando una nueva disciplina más cercana al arte.  
+−Julien Lombrail
+
+### Enzo Mari
+
+![_Portrait Enzo Mari_ − Mathieu Gabiot − Free Art License](./images/Enzo-Mari.svg)
+
+Los 19 diseños de muebles _Do-It-Yourself_, que el diseñador italiano Enzo Mari publicó en su libro ' Autoprogettazione' en 1974, marcan un hito en la historia del diseño contemporáneo. Posicionada en contraste con el formalismo de la época, Enzo Mari sugiere la democratización del diseño y la creación de una alternativa provocadora al paradigma capitalista del consumo masivo. Construir tus propios muebles, cuando sea necesario, esa es la idea.  
+http://www.cucula.org/en/enzo-mari/
+
+Enzo Mari es un notable artista modernista italiano y diseñador de muebles. Es famoso por su manual _Autoprogettazione_.
+Este proyecto nació en 1974, justo después de la primera crisis petrolera de 1973. La pobreza en Italia y en toda Europa era enorme. Enzo Mari con este proyecto da una respuesta de diseño social a sus compañeros contemporáneos.
+
+
+### Gerrit Rietveld
+
+![_Portrait Gerrit Rietveld_ − Mathieu Gabiot − Free Art License](./images/Gerrit-Rietveld.svg)
+
+Los muebles _Krat_ (crate) originales se fabricaban con abeto rojo sin tratar, normalmente reservado para cajas de empaque. Se vendió en forma de kit, para ser ensamblado en casa por el comprador. El mueble Crate fue una respuesta a la crisis económica de los años treinta. Ofreció asientos útiles y económicos con construcción básica y materiales baratos. Otros artículos de muebles Crate incluyen una butaca Crate, mesa Crate, escritorio Crate, librero Crate y un taburete Crate, todos de 1934.  
+−[annetgelink.com](http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/)
+
+> ![_Red and Blue chair, Gerrit Rietveld_ − Mathieu Gabiot − Free Art License](./images/RnB-chair.svg)
+_How to construct Rietveld furniture_ documenta los diseños de muebles más conocidos y típicos de Gerrit Rietveld hasta el más mínimo detalle. El libro contiene planos de trabajo, medidas, dibujos detallados, listas de materiales e instrucciones para el montaje de cada pieza, así como información histórica sobre cada una de ellas.   −[How to construct Rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0 )
+
+Rietveld era diseñador y arquitecto de muebles holandés. Uno de los miembros principales del movimiento artístico holandés llamado _De Stijl_. Piet Mondrian es la figura más famosa de ese movimiento. Rietveld es famoso por su silla roja y azul y por la casa Rietveld Schröder.
+
+
+
+### Bernard Stiegler
+
+> ![_Portrait Bernard Stiegler_ − Mathieu Gabiot − Free Art License](./images/Bernard-Stiegler.svg) Bernard Stiegler es un filósofo y director del Institut de recherche et d' innovation (IRI) francés, que fundó en 2006 en el Centre Georges-Pompidou. También fundó en 2005 el grupo político y cultural Ars Industrialis, y en 2010 fundó la escuela de filosofía _pharmakon. fr_ [...].  
+Sus temas clave son la tecnología, el tiempo, la individualización, el consumismo, el capitalismo de consumo, la convergencia tecnológica, la digitalización, la americanización, la educación y el futuro de la política y la sociedad humana.  
+−[Wikipedia](https://en.wikipedia.org/wiki/Bernard_Stiegler )
+
+### Thomas Chippendale
+
+> ![_Portrait Thomas Chippendale_ − Mathieu Gabiot − Free Art License](./images/Thomas-Chippendale.svg) Thomas Chippendale era un ebanista y diseñador de muebles londinense de estilo medio georgiano, inglés rococó y neoclásico. En 1754, publicó un libro de sus diseños titulado [_The Gentleman and Cabinet Maker's Director_](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab). Se considera que los diseños reflejan la moda actual de Londres para muebles de ese período y fueron utilizados por otros ebanistas fuera de Londres.  
+−[Wikipedia](https://en.wikipedia.org/wiki/Thomas_Chippendale )
+
+
+Preguntas Abiertas
+-----------------------
+![](./images/girl-bulle.svg)
+- ¿Para qué estás diseñando?
+- Como diseñador, ¿cuál es tu relación con la tecnología?
+- ¿Cuáles son las responsabilidades de un diseñador en una sociedad capitalista consumidora de masas?
