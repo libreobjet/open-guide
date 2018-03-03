@@ -35,7 +35,7 @@ Los diseñadores famosos trabajan como grandes marcas, donde sus productos se fa
 Diseño para manufacturar, donde los tamaños estándar son la norma y tus productos tienen que encajar en cajas predefinidas. ¿Qué tan rápido puedes sacar tu producto y en qué números?
 
 #### Diseño para los ricos
-El diseño de calidad es un producto de lujo. Sólo los ricos pueden acceder a ella.
+El diseño de calidad es un producto de lujo. Sólo los ricos pueden acceder a este.
 
 Diseño para humanos
 ---------------------------
@@ -108,7 +108,7 @@ Lee, busca y documentate. Esta es la razón por la que hemos puesto una parte de
 ### Desafíate
 Este es un campo algo nuevo y abierto, y hay mucha creatividad que lo rodea. Nuevos modelos de negocio, nuevos procesos de colaboración, nuevos modelos de publicación, etc. Hay muchas cosas que inventar y muchos retos que crear.
 
-### Liberación temprana, liberación frecuente
+### Lánzalo temprana, Lánzalo frecuente
 Este lema proviene de las prácticas de software libre y anima a los creadores a publicar su proyecto desde el principio (o casi) y a actualizarlo regularmente. Si estás dispuesto a ir por el camino abierto, no escondas las cosas hasta que terminen. Podrías perder energía en el camino. También puedes perderte la oportunidad de encontrar colaboradores.
 
 ### Conéctate
@@ -120,50 +120,50 @@ Objetos
 
 ![**Pict**_Stethoscope_− Steve Perrin − CC-by 2.0](./images/Standardized-Patient-Program-examining-t_he-abdomen.jpg)
 
-Eludir el embargo de Israel sobre equipos médicos en Gaza
+El bypass de embargo de Israel sobre equipos médicos en Gaza
 
 > ![_Portrait Tarek Loubani_ − Mathieu Gabiot − Free Art License](./images/Loubani.svg) Tarek Loubani, médico palestino que trabaja en Gaza y Canadá, discute la lucha palestina para llevar los beneficios de los dispositivos médicos modernos (y a veces no tan modernos) a la población de Gaza, escogiendo consecuentemente un modelo libre y abierto para el desarrollo de hardware y software que facilite la autonomía y la colaboración con otras poblaciones marginadas en los mundos desarrollados y en desarrollo.   −[Wired](http://www.wired.co.uk/news/archive/2015-08/14/3d-printed-stethoscope-gaza)
 
 ### Reprap
 
-![**Pict**_The first Reprap and its child_ − Kocio − CC-by-sa 3.0](./images/First_replication.jpg)
+![**Pict**_La primera Reprar y su hija − Kocio − CC-by-sa 3.0](./images/First_replication.jpg)
 
 El proyecto [Reprap](http://reprap.org/) tiene como objetivo crear una máquina auto replicante. Este proyecto ha crecido constantemente porque la mayoría de los diseños utilizan licencias libres, lo que permite a personas de todo el mundo contribuir y mejorarlas. Algunas de las impresoras más comunes se basan en los diseños Prusa i2 y Prusa i3. Más información en http://reprap.org/
 
 ### Manos protésicas
 
-![**Pict**_Printed prosthetic hand_ − Intel free press − CC-by-sa 2.0](./images/Printed hand.jpg)
+![**Pict**_Prótesis de mano impresa − Intel free press − CC-by-sa 2.0](./images/Printed hand.jpg)
 
 Reduce el costo de producción de equipos médicos usando diseños libres. Estas prótesis pueden ser ampliamente personalizadas para adaptarse a las necesidades de los niños. Usando herramientas de fabricación digital, como las impresoras 3D, se pueden construir nuevas piezas para acomodar el crecimiento de los niños con costos muy bajos.
 
-Comida para Pensar
+Ideas para Pensar
 -----------------------
 
 ### Adaptaciones aprobadas
 El límite de la derivación en el diseño clásico del copyright.
 
-![_LC2 and Chandigarh_ − Mathieu Gabiot − Free Art License](./images/LC2-Chandigarh-2.svg)
+![_LC2 y Chandigarh_ − Mathieu Gabiot − Licencia de Arte libre](./images/LC2-Chandigarh-2.svg)
 
 El sillón y sofá original LC2 de Le Corbusier sigue siendo vendido y editado por [Cassina](http://www.cassina.com/fr/collection/fauteuils-et-canapes/lc2) Aunque se admiten adaptaciones del mismo por Doshi Levien y editado por [Moroso](http://www.doshilevien.com/projects/chandigarh/) en el mercado.
 
-![_Emeco and Ikea chairs_ − Mathieu Gabiot − Free Art License](./images/emeco-ikea.svg)
+![_Emeco y Sillas de Ikea − Mathieu Gabiot − Licencia de Arte Libre](./images/emeco-ikea.svg)
 
 
 Emco combate a Ikea por una supuesta copia de la silla apilable 20-06 de Norman Foster.
 http://www.dezeen.com/2015/03/25/ikea-faces-legal-action-over-alleged-copyright-infringement-melltorp-dining-emeco-norman-foster-20-06-stacking-chair/
 
-### _La Société de consommation_
+### _La Sociedad de Consumo (La Société de consommation)_
 Este libro escrito por el sociólogo Jean Baudrillard en 1970 describe cómo, en las sociedades contemporáneas, las relaciones sociales han sido reestructuradas por un nuevo fenómeno: el consumo masivo.
 
-### Movimiento agitador
-> El movimiento agitador es una secta religiosa que tenía principios rectores de sencillez, utilidad y honestidad. Sus creencias se reflejaron en el mobiliario bien hecho de los diseños minimalistas.  
+### Movimiento Shaker
+> El movimiento Shaker es una secta religiosa que tenía principios rectores de sencillez, utilidad y honestidad. Sus creencias se reflejaron en el mobiliario bien hecho de los diseños minimalistas.  
 La dedicación de los Shakers al trabajo duro y la perfección ha dado como resultado una gama única de estilos de arquitectura, muebles y artesanía. Diseñaron sus muebles con cuidado, creyendo que hacer algo bien era en sí mismo "un acto de plegaria". Antes de finales del siglo XIX, rara vez hacían artículos con detalles elaborados o decoración extra, sino que sólo hacían cosas para sus usos previstos. [...]  
 Los interiores de las cocteleras de principios del siglo XIX se caracterizan por su austeridad y sencillez. La arquitectura simple de sus casas, casas de reunión y graneros han tenido una influencia duradera en la arquitectura y el diseño estadounidense.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Shakers#Architecture_and_furnishings)
 
 ### Victor Papanek
 
-![_Portrait Victor Papanek_ − Mathieu Gabiot − Free Art License](./images/Victor-Papanek.svg)
+![_Retrato Victor Papanek − Mathieu Gabiot − Licencia Arte Libre](./images/Victor-Papanek.svg)
 
 > Victor Papanek fue un diseñador y educador que se convirtió en un firme defensor del diseño social y ecológicamente responsable de productos, herramientas e infraestructuras comunitarias. Desaprobaba productos manufacturados que eran inseguros, vistosos, inadaptados o esencialmente inútiles. Sus productos, escritos y conferencias fueron considerados colectivamente como un ejemplo y estímulo por muchos diseñadores. Papanek fue un filósofo del diseño y, como tal, fue un incansable y elocuente promotor de los objetivos y enfoques del diseño que tendrían en cuenta consideraciones sociales y ecológicas. Escribió que "el diseño se ha convertido en la herramienta más poderosa con la que el hombre da forma a sus herramientas y entornos (y, por extensión, a la sociedad y a sí mismo).  
 −[Wikipedia](https://en.wikipedia.org/wiki/Victor_Papanek )
@@ -172,7 +172,7 @@ Busca y lee su libro _Diseño para el mundo real: Ecología Humana y Cambio Soci
 
 ### Jean Prouvé
 
-![_Portrait Jean Prouvé_ − Mathieu Gabiot − Free Art License](./images/Jean-Prouve.svg)
+![_Retrato Jean Prouvé_ − Mathieu Gabiot − Licencia Arte Libre](./images/Jean-Prouve.svg)
 
 > Jean creció rodeado por los ideales y la energía de "l'École de Nancy", el colectivo artístico al que pertenecía su padre. Sus objetivos eran hacer el arte fácilmente accesible, forjar vínculos entre el arte y la industria, así como entre el arte y la conciencia social.
 
@@ -183,14 +183,14 @@ Sus logros en chapa plegada (originalmente de menor coste y mayor resistencia, c
 
 ### Diseño para el mercado del arte.
 
-[Carpenters Workshop Gallery](http://carpentersworkshopgallery.com) es una galería conceptual híbrida donde los "diseñadores" se llaman ahora "artistas".
+[Galería Taller de Carpinteros](http://carpentersworkshopgallery.com) es una galería conceptual híbrida donde los "diseñadores" se llaman ahora "artistas".
 
 > Cuando empezamos, hace menos de una década, había poca conexión entre el arte y el diseño. Desde entonces, las cosas han cambiado mucho. Nos complace ver que ahora hay diseñadores que ya no hacen diseño industrial, están creando una nueva disciplina más cercana al arte.  
 −Julien Lombrail
 
 ### Enzo Mari
 
-![_Portrait Enzo Mari_ − Mathieu Gabiot − Free Art License](./images/Enzo-Mari.svg)
+![_Retrato Enzo Mari_ − Mathieu Gabiot − Licencia Arte Libre](./images/Enzo-Mari.svg)
 
 Los 19 diseños de muebles _Do-It-Yourself_, que el diseñador italiano Enzo Mari publicó en su libro ' Autoprogettazione' en 1974, marcan un hito en la historia del diseño contemporáneo. Posicionada en contraste con el formalismo de la época, Enzo Mari sugiere la democratización del diseño y la creación de una alternativa provocadora al paradigma capitalista del consumo masivo. Construir tus propios muebles, cuando sea necesario, esa es la idea.  
 http://www.cucula.org/en/enzo-mari/
@@ -201,12 +201,12 @@ Este proyecto nació en 1974, justo después de la primera crisis petrolera de 1
 
 ### Gerrit Rietveld
 
-![_Portrait Gerrit Rietveld_ − Mathieu Gabiot − Free Art License](./images/Gerrit-Rietveld.svg)
+![_Retrato Gerrit Rietveld_ − Mathieu Gabiot − Licencia Arte Libre](./images/Gerrit-Rietveld.svg)
 
 Los muebles _Krat_ (crate) originales se fabricaban con abeto rojo sin tratar, normalmente reservado para cajas de empaque. Se vendió en forma de kit, para ser ensamblado en casa por el comprador. El mueble Crate fue una respuesta a la crisis económica de los años treinta. Ofreció asientos útiles y económicos con construcción básica y materiales baratos. Otros artículos de muebles Crate incluyen una butaca Crate, mesa Crate, escritorio Crate, librero Crate y un taburete Crate, todos de 1934.  
 −[annetgelink.com](http://www.annetgelink.com/l/artists/4-ryan-gander/works/other-works/11647/)
 
-> ![_Red and Blue chair, Gerrit Rietveld_ − Mathieu Gabiot − Free Art License](./images/RnB-chair.svg)
+> ![_Silla Rojo y Azul, Gerrit Rietveld_ − Mathieu Gabiot − Licencia Arte Libre](./images/RnB-chair.svg)
 _How to construct Rietveld furniture_ documenta los diseños de muebles más conocidos y típicos de Gerrit Rietveld hasta el más mínimo detalle. El libro contiene planos de trabajo, medidas, dibujos detallados, listas de materiales e instrucciones para el montaje de cada pieza, así como información histórica sobre cada una de ellas.   −[How to construct Rietveld furniture](http://www.copyrightbookshop.be/en/books/details/1038/0 )
 
 Rietveld era diseñador y arquitecto de muebles holandés. Uno de los miembros principales del movimiento artístico holandés llamado _De Stijl_. Piet Mondrian es la figura más famosa de ese movimiento. Rietveld es famoso por su silla roja y azul y por la casa Rietveld Schröder.
@@ -215,13 +215,13 @@ Rietveld era diseñador y arquitecto de muebles holandés. Uno de los miembros p
 
 ### Bernard Stiegler
 
-> ![_Portrait Bernard Stiegler_ − Mathieu Gabiot − Free Art License](./images/Bernard-Stiegler.svg) Bernard Stiegler es un filósofo y director del Institut de recherche et d' innovation (IRI) francés, que fundó en 2006 en el Centre Georges-Pompidou. También fundó en 2005 el grupo político y cultural Ars Industrialis, y en 2010 fundó la escuela de filosofía _pharmakon. fr_ [...].  
+> ![_Retrato Bernard Stiegler_ − Mathieu Gabiot − Licencia Arte Libre](./images/Bernard-Stiegler.svg) Bernard Stiegler es un filósofo y director del Institut de recherche et d' innovation (IRI) francés, que fundó en 2006 en el Centre Georges-Pompidou. También fundó en 2005 el grupo político y cultural Ars Industrialis, y en 2010 fundó la escuela de filosofía _pharmakon. fr_ [...].  
 Sus temas clave son la tecnología, el tiempo, la individualización, el consumismo, el capitalismo de consumo, la convergencia tecnológica, la digitalización, la americanización, la educación y el futuro de la política y la sociedad humana.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Bernard_Stiegler )
 
 ### Thomas Chippendale
 
-> ![_Portrait Thomas Chippendale_ − Mathieu Gabiot − Free Art License](./images/Thomas-Chippendale.svg) Thomas Chippendale era un ebanista y diseñador de muebles londinense de estilo medio georgiano, inglés rococó y neoclásico. En 1754, publicó un libro de sus diseños titulado [_The Gentleman and Cabinet Maker's Director_](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab). Se considera que los diseños reflejan la moda actual de Londres para muebles de ese período y fueron utilizados por otros ebanistas fuera de Londres.  
+> ![_Retrato Thomas Chippendale_ − Mathieu Gabiot − Licencia Arte Libre](./images/Thomas-Chippendale.svg) Thomas Chippendale era un ebanista y diseñador de muebles londinense de estilo medio georgiano, inglés rococó y neoclásico. En 1754, publicó un libro de sus diseños titulado [_The Gentleman and Cabinet Maker's Director_](http://digital.library.wisc.edu/1711.dl/DLDecArts.ChippGentCab). Se considera que los diseños reflejan la moda actual de Londres para muebles de ese período y fueron utilizados por otros ebanistas fuera de Londres.  
 −[Wikipedia](https://en.wikipedia.org/wiki/Thomas_Chippendale )
 
 
