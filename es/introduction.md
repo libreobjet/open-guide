@@ -17,5 +17,5 @@ Para cada sección, hemos tratado de mantener una estructura similar que se divi
 - Un poco de **teoría**, donde definimos, explicamos y desarrollamos conceptos desde nuestro punto de vista.
 - Luego una lista de **herramientas** que están relacionadas con esa sección en particular. Como diseñadores, no sólo producimos objetos, sino que también construimos una relación íntima con las herramientas que utilizamos.
 - Después de esto viene una serie de **objetos** de código abierto que creemos que representan mejor de qué se trata el capítulo.
-- Una sección llamada **comida para pensar** te indicará una variedad de proyectos, ejemplos, autores, teorías... que no son necesariamente de código abierto pero que podrían nutrir tu proceso intelectual en torno a ella.
+- Una sección llamada **ideas para pensar** te indicará una variedad de proyectos, ejemplos, autores, teorías... que no son necesariamente de código abierto pero que podrían nutrir tu proceso intelectual en torno a ella.
 - Y terminamos con **preguntas abiertas**, para nosotros y para ti, para pensar más sobre estas prácticas y ayudarnos a definir su futuro.
