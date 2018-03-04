@@ -8,7 +8,7 @@ node_modules/
 *.epub
 *.mobi
 
-# book.json
+# book.json 
 
 styles/*.less
 
@@ -18,6 +18,9 @@ styles/*.less
 !/images/**
 !/theme/assets/**
 
-# Tarck only bash scripts in the scripts/ folder
+# Track only bash scripts in the scripts/ folder
 /scripts/**
 !/scripts/*.sh
+
+# Don't track hidden OS psecific files
+.DS_Store
