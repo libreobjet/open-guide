@@ -10,5 +10,4 @@
 * [Glosario](GLOSSARY.md)
 * Apéndice
   * [Illustraciones](appendix/illustrations.md)
-  * [Licencia de Arte Gratuita](appendix/LICENSE.md)
-  
+  * [Licencia de Arte Libre](appendix/LICENSE.md)
