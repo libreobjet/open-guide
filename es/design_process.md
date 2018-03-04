@@ -198,7 +198,7 @@ En el corazón de cada WikiSeat hay un Catalyst. Este es el soporte estructural,
 Pasa de un palet estándar (Epal-Eur) a un banco público en sólo un par de sencillos pasos. La idea surgió al pensar en el hacking urbano o en cómo recuperar el espacio público con materiales y herramientas fáciles de encontrar en las zonas urbanas.  
 http://xuv.be/uH-bench-open-source-public-bench.html
 
-Comida para Pensar
+Ideas para pensar
 ----------------
 
 ### Strandbeest

@@ -144,7 +144,7 @@ Readymake: Duchamp Chess Set es un juego de ajedrez imprimible basado en la vers
 Este es un ejemplo de cómo se puede censurar el diseño de productos de código abierto.
 http://kildall.com/what-happened-to-the-readymake-duchamp-chess-pieces/
 
-Comida para Pensar
+Ideas para pensar
 ------------------------
 
 ### Amateurs del telescopio Dobsonian

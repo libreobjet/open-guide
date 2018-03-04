@@ -86,7 +86,7 @@ Con _X-Modules_, Maria Solé Bravo y Julien Deswaef han desarrollado un diseño 
 
 Con su serie _ "Autour du trait" _, Nonpareil vende sus diseños de producto open source en diferentes etapas de construcción. Por diferentes precios usted puede comprar una pieza de descarga en formato pdf, una construcción en bruto a un acabado clásico o incluso pedir una personalización del objeto en sí mismo.
 
-Comida para Pensar
+Ideas para pensar
 -----------------------
 
 ### CUCULA
