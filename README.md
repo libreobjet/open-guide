@@ -24,11 +24,13 @@ Any graphic designer or illustrator willing to give a hand making this book beau
 If you find this book worth reading and sharing, there might be people in your community that could benefit from a native language translation.
 If you'd like to join a team of translators, please contact us at hello@libreobjet.org
 
-Looking for more translators in these languages:
+Looking for more translators and proof readers in these languages:
+- Cebuano (See issue [#21](https://github.com/libreobjet/open-guide/issues/21))
+- Català
 - Euskadi
 - Español (See issue [#11](https://github.com/libreobjet/open-guide/issues/11))
-- Català
-- Français
+- Français (See issue [#14](https://github.com/libreobjet/open-guide/issues/14))
+- Português (See issue [#17](https://github.com/libreobjet/open-guide/issues/17))
 
 Editing tips
 ------------
